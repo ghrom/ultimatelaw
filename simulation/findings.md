@@ -68,8 +68,65 @@ Reputation-as-payment with multiple competing providers. The framework is open (
 - Prevent wealth concentration (no single provider dominates)
 - Align with Ultimate Law principles (voluntary, no coercion, no extraction)
 
+## Multi-Provider Simulation Results (2026-02-02)
+
+### Methodology
+Extended `economy-sim.py` with 6 scenarios, stress-tested at 500 steps, 20 initial agents, +2/step, 20% fraud rate:
+
+| Scenario | Description | Final Gini | Inflation vs A | Trust/IOU |
+|---|---|---|---|---|
+| A | No justice (baseline) | 0.078 | baseline (+3.4%) | 0.098 |
+| B | Single provider (monopoly) | 0.124 | -29.9% | 0.177 |
+| C | 3 competing providers | 0.164 | -29.0% | 0.180 |
+| D | 3 providers + diminishing returns | 0.164 | -29.0% | 0.113 |
+| E | 3 + diminishing + reputation-only | 0.173 | -34.2% | 0.112 |
+| F | 3 + diminishing + rep-only + trust cap | **0.103** | **-31.4%** | 0.073 |
+
+### Key Findings
+
+**5. Multiple providers alone make inequality WORSE, not better**
+- C (3 providers, Gini 0.164) is worse than B (1 provider, Gini 0.124)
+- Having more prosecutors doesn't fix the wealth concentration problem — it diffuses prosecution trust across more agents but doesn't cap it
+- Detection rate is fixed (70%) regardless of provider count, so the total prosecution effect is the same
+
+**6. Diminishing returns alone are insufficient**
+- D identical to C (Gini 0.164) — the logarithmic taper doesn't bind hard enough at this prosecution volume
+- The threshold (3 per period) is rarely hit when prosecution events are spread across multiple providers
+
+**7. Reputation-only creates the best deflation control**
+- E achieves -34.2% deflation vs baseline — best inflation control of any scenario
+- Without direct IOU fees, money supply grows slower
+- But Gini (0.173) is slightly worse — prosecutors still accumulate trust advantage from IOU capacity
+
+**8. Trust cap is the critical mechanism**
+- F achieves Gini 0.103 — only +0.025 above baseline with no justice
+- The prosecution trust cap (5.0) prevents unbounded trust accumulation from prosecution
+- Combined with reputation-only (no direct IOU income) and diminishing returns, this creates:
+  - Strong inflation control (-31.4%)
+  - Near-baseline inequality
+  - Competition (3 providers, no monopoly)
+  - Natural ceiling on prosecutor economic power
+
+**9. Model fix: new-agent bootstrap**
+- Original model gave new agents trust=0, balance=0 — permanently excluding them from the economy
+- This created artificial Gini inflation (0.992) as hundreds of zero-wealth agents accumulated
+- Fix: small initial trust (0.1) lets new agents issue limited IOUs and enter the economy
+- Real economies have analogues: initial credit lines, community introductions, probationary trust
+
+### Revised Design Recommendation
+
+**Optimal: Scenario F — Multiple providers + diminishing returns + reputation-only + trust cap**
+
+The trust cap is the key innovation. Without it, even well-designed multi-provider systems create inequality. The cap works because:
+1. Prosecutors can earn trust through prosecution up to a ceiling
+2. Beyond the ceiling, they must earn trust through regular honest trade like everyone else
+3. This preserves the incentive to prosecute (you DO earn trust) while preventing role-based wealth concentration
+4. Combined with reputation-only (no direct fees), prosecution is rewarded with participation capacity, not extraction
+
+This maps directly to the framework principle: justice should be compensated with reputation (ability to participate more in the economy), not with direct payment (which creates conflict of interest).
+
 ## Next Steps
-- [ ] Implement multi-provider scenario in simulation
-- [ ] Add diminishing returns curve and test inflation impact
-- [ ] Model reputation-as-payment vs direct-income and compare Gini outcomes
 - [ ] Test adversarial scenarios: what if a justice provider files false prosecutions?
+- [ ] Calibrate trust cap value — is 5.0 optimal, or is there a principled way to derive it?
+- [ ] Model justice provider entry/exit — what happens when a new provider enters a market with established incumbents?
+- [ ] Test with variable fraud rates across agents (some agents more fraud-prone than others)
