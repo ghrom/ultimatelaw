@@ -41,6 +41,10 @@ Something an agent values and willingly accepts. If a �benefit� is forced on
 Boundary
 The limit beyond which others may not act without consent. Boundaries apply to bodies, property, and agreements.
 
+Brand
+A recognizable pattern of signals — name, design, reputation — that carries accumulated trust from consistent voluntary exchange. A brand's real value is not the pattern itself but the trust it represents: the expectation that future trades will deliver value matching past experience. Brands are built through honest trade and lost through fraud or failure.
+Copying a brand's signals is not harmful by itself. The harm arises only when copied signals are used to deceive trade partners into believing they are dealing with the original. This is fraud: the injury is deception, not the reuse of a pattern. A brand requires no legal monopoly to thrive; it is protected by trust earned, value delivered, and prosecution of any deception that exploits its name.
+
 Capitalism
 A system where people freely trade property, ideas, and labor without force or interference. It emerges naturally from infinite change and incentives, rewarding innovation and handling scarcity through voluntary exchanges. Unlike socialism, it doesn�t need coercion to function and creates wealth by respecting decentralized knowledge.
 
