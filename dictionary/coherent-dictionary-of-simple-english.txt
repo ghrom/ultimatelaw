@@ -378,6 +378,9 @@ The fair back-and-forth: don�t do what you wouldn�t want done to you. Social
 Regulation
 Rules imposed by authority using force or threats, often claiming to �protect� but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent�logic deems them coercion unless they only repair real victims.
 
+Reputation
+The pattern of expectations others form about an agent based on past voluntary actions. It is not owned or controlled by the agent; it is a belief held by others. A good reputation grows through consistent honesty, reliability, and value delivered. A bad reputation results from deception, harm, or failure to meet commitments. Reputation cannot be transferred, bought, or enforced by coercion; it emerges naturally from experience and observation.
+
 Responsibility
 The connection between an action and the agent that caused its effects, carrying the obligation to fix or repay any harm done. Responsibility follows causation, not status or power.
 
