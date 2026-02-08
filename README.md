@@ -11,8 +11,22 @@ The [Coherent Dictionary of Simple English](https://ultimatelaw.org/coherent-dic
 
 The dictionary is the constitutional foundation. Everything else builds on it.
 
+**Two-tier structure:**
+
+| File | Terms | Size | Purpose |
+|------|-------|------|---------|
+| [`coherent-dictionary-of-simple-english.txt`](dictionary/coherent-dictionary-of-simple-english.txt) | 170 | 40KB | Core constitutional definitions — ideal for tiny embedded models, quick reference, implementations |
+| [`coherent-dictionary-extended.txt`](dictionary/coherent-dictionary-extended.txt) | 17,470 | 868KB | Full aligned corpus — every term verified/aligned with UL principles, suitable for comprehensive model training |
+
+The extended dictionary was built by realigning WordNet 1.5 with Ultimate Law principles:
+- Every governance term requires consent of the governed
+- Every property term respects voluntary exchange
+- Every crime term centers on victims, not statutes
+- Neutral terms (science, medicine, objects) pass through unchanged
+
 - **Web**: [ultimatelaw.org/coherent-dictionary-of-simple-english/](https://ultimatelaw.org/coherent-dictionary-of-simple-english/)
-- **Source**: [`dictionary/coherent-dictionary-of-simple-english.txt`](dictionary/coherent-dictionary-of-simple-english.txt)
+- **Core**: [`dictionary/coherent-dictionary-of-simple-english.txt`](dictionary/coherent-dictionary-of-simple-english.txt)
+- **Extended**: [`dictionary/coherent-dictionary-extended.txt`](dictionary/coherent-dictionary-extended.txt)
 
 ### Prosecution Framework
 A method for prosecuting fraud, spam, deception, and other harms on digital platforms using published definitions, falsifiable charges, and proportional sanctions. No moderator authority required. Every charge cites a definition anyone can audit. If any charge misapplies a definition, the case should be overturned.
