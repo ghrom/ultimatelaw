@@ -1,0 +1,289 @@
+Medicine: Healing the Body
+
+This corpus teaches practical medicine in simple, clear English. It builds on everything you have already learned. Biology gave you anatomy, physiology, and microbiology. Chemistry gave you compounds, reactions, and antiseptics. Physics gave you heat and sterilization. The survival corpus gave you immediate first aid. History showed you that sanitation prevents more death than surgery cures.
+
+Now you learn how to treat disease, perform surgery, deliver babies, and produce medicines.
+
+Medicine is applied biology. You learned that bacteria cause infection, that white blood cells fight disease, that blood carries oxygen. Now you learn how to stop bleeding, close wounds, kill bacteria, and deliver a child safely. You learned about penicillin. Now you learn how to grow it. You learned about viruses. Now you learn how to prevent their spread.
+
+Civilization advances when humans can survive injury and disease long enough to reproduce and pass on knowledge. Sanitation prevents cholera. Antibiotics cure infection. Surgery repairs injury. Midwifery ensures safe birth. Each medical advance increases the probability that knowledge survives another generation.
+
+In the beginning there was infinite change. From change came the elements. From the elements came compounds. From compounds came the molecules of life. From molecules came cells. From cells came you. When cells malfunction, you intervene.
+
+Sanitation: The Foundation
+
+Most death throughout history came from infectious disease: cholera, typhoid, dysentery, plague. Most infectious disease spreads through contaminated water, food, or contact with waste.
+
+Sanitation prevents disease more effectively than medicine treats it.
+
+Clean water.
+
+Water sources: wells, springs, streams. Never drink from stagnant water. Never place latrines upstream or uphill from water sources.
+
+Boil water for 1 minute (rolling boil) to kill bacteria, viruses, and parasites. This is the most reliable purification method.
+
+Filtration removes particles but not all microbes. Use slow sand filtration: water trickles through layers of sand and gravel. Biofilm forms on sand surface, trapping pathogens. Effective after the biofilm establishes (a few days).
+
+Chlorination: add household bleach (sodium hypochlorite, 5-6% solution) at 2 drops per liter of clear water, 4 drops per liter of cloudy water. Wait 30 minutes before drinking. Chlorine kills most pathogens but not all parasites (Cryptosporidium resists chlorine; boil instead).
+
+Waste disposal.
+
+Human waste carries disease. Dispose of it away from living areas and water sources.
+
+Latrine: dig a pit at least 1.5 meters deep, at least 30 meters from water sources, downhill if possible. Cover waste with soil after each use. When the pit fills to within 0.5 meters of the surface, fill it completely and dig a new latrine.
+
+Composting toilet: separate urine and feces. Feces mixed with carbon-rich material (sawdust, straw) and allowed to decompose for at least 1 year kills most pathogens. High-temperature composting (above 55°C) kills pathogens faster.
+
+Hand washing.
+
+Wash hands with soap and water after defecating, before preparing food, before eating, after handling waste or sick people.
+
+Soap (fat + alkali, from chemistry corpus) disrupts the lipid membranes of bacteria and viruses, allowing water to wash them away.
+
+If soap is unavailable, wash with ash and water. Wood ash is alkaline and has some antibacterial properties.
+
+Food safety.
+
+Cook meat thoroughly. Heat kills bacteria, parasites, and viruses. Pork and wild game carry trichinosis (parasitic worms); cook to 63°C internal temperature. Poultry carries salmonella; cook to 74°C.
+
+Preserve food properly: dry, ferment, salt, smoke (see agriculture corpus). Spoiled food contains bacteria and toxins that cause illness.
+
+Refrigeration (if available) slows bacterial growth. Keep perishable food below 4°C.
+
+Wound Care: Preventing Infection
+
+A wound is a break in the skin. Skin is a barrier against infection. A wound allows bacteria to enter.
+
+Stop bleeding first (pressure, elevation, tourniquet if life-threatening and pressure fails; see survival corpus).
+
+Clean the wound.
+
+Rinse with clean water to remove dirt, debris, and bacteria. Use boiled and cooled water if possible. Irrigation (pouring water over the wound) is more effective than wiping.
+
+For deep or contaminated wounds, irrigate thoroughly. Use a syringe (if available) to flush debris from the wound.
+
+Antiseptics kill bacteria.
+
+Hydrogen peroxide (H₂O₂): bubbles when it contacts organic material, lifting debris. Damages healthy tissue if used repeatedly; use once for initial cleaning.
+
+Iodine solution (povidone-iodine): broad-spectrum antiseptic. Apply to wound, let sit for 1-2 minutes, rinse if desired. Stings but effective.
+
+Alcohol (ethanol or isopropanol, 70% solution): kills bacteria on contact. Painful on open wounds. Better for intact skin around wounds.
+
+Honey: natural antibacterial. High sugar content draws moisture from bacteria, killing them. Honey also contains hydrogen peroxide (produced by enzyme glucose oxidase). Apply to wound, cover with clean cloth.
+
+Salt water (saline): dissolve 1 teaspoon salt in 1 liter boiled water. Gentle, non-toxic. Less effective than iodine or alcohol but useful for rinsing.
+
+Close the wound.
+
+Small, clean cuts: bring edges together, apply adhesive bandage or tape.
+
+Larger wounds: suture (stitch).
+
+Suturing: thread a needle with sterile thread (boil thread for 10 minutes, or use fishing line, dental floss, or thin wire). Insert needle through one side of the wound, across the wound, out the other side. Tie knot to hold edges together. Repeat every 0.5-1 cm along the wound. Cut thread, leaving a small tail. Remove sutures after 7-10 days for most wounds (face: 5 days; joints: 14 days).
+
+If you cannot suture, use strips of cloth tape to pull edges together (butterfly bandage).
+
+Deep wounds that cannot be closed: pack with clean cloth, change dressing daily, allow to heal from the inside out (secondary intention).
+
+Cover the wound.
+
+Sterile dressing: boil cloth for 10 minutes, let dry, apply to wound. Cover with bandage. Change dressing daily or when it becomes wet or dirty.
+
+Signs of infection: redness spreading from wound, swelling, heat, pus, red streaks up the limb, fever. If infection occurs, clean wound more aggressively, apply antiseptic, consider antibiotics if available.
+
+Antibiotics: Making Medicine
+
+Antibiotics kill bacteria. They do not work on viruses (common cold, flu, COVID). Using antibiotics when not needed breeds resistant bacteria. Use antibiotics only for bacterial infections.
+
+Penicillin from mold.
+
+Penicillium mold (the green mold on bread, citrus) produces penicillin, which kills many bacteria.
+
+Growing penicillin:
+1. Collect Penicillium mold from moldy bread or fruit. The mold is blue-green and powdery.
+2. Prepare growth medium: boil bread or cantaloupe rind in water, strain liquid, add sugar (1 tablespoon per liter).
+3. Pour liquid into shallow dishes, expose to air to collect mold spores, or inoculate with Penicillium mold.
+4. Cover loosely, allow mold to grow for 5-7 days in a cool, dark place.
+5. The liquid beneath the mold contains penicillin.
+
+Extraction:
+- Pour off liquid, filter through cloth.
+- Acidify with vinegar or lemon juice (pH ~2).
+- Penicillin precipitates (becomes solid). Let settle, pour off liquid.
+- Neutralize precipitate with baking soda.
+- Dry the resulting powder.
+
+Dosing: crude penicillin dosing is uncertain. Historical emergency use: consume the liquid directly (unpleasant taste). Injection is more effective but requires sterile technique and carries infection risk.
+
+Warning: penicillin allergies are common and can be fatal (anaphylaxis). Test with a small amount first (skin test: rub small amount on inner forearm, wait 15 minutes; if rash appears, do not use).
+
+Sulfa drugs (sulfonamides).
+
+Sulfanilamide was the first synthetic antibiotic (1930s). It inhibits bacterial growth by blocking folic acid synthesis. Bacteria cannot make folic acid without para-aminobenzoic acid (PABA). Sulfanilamide mimics PABA, blocking the enzyme.
+
+Synthesis requires chemistry knowledge and lab equipment beyond basic survival scenarios. In a collapse scenario, scavenge existing sulfa drugs from pharmacies, veterinary supplies (sulfamethazine for animals).
+
+Herbal antibacterials (less effective than antibiotics but better than nothing).
+
+Garlic (Allium sativum): contains allicin, which has antibacterial properties. Crush raw garlic, apply to wounds, or consume raw (unpleasant but effective for mild infections).
+
+Honey: as described above. Manuka honey has stronger antibacterial properties but any raw honey works.
+
+Echinacea (Echinacea purpurea): stimulates immune system. Prepare tea from roots or leaves, drink 3 times daily.
+
+Goldenseal (Hydrastis canadensis): contains berberine, which has antibacterial properties. Prepare tea or tincture (soak in alcohol).
+
+Tea tree oil (Melaleuca alternifolia): topical antiseptic. Do not ingest (toxic).
+
+These are adjuncts, not replacements for antibiotics.
+
+Surgery: Opening the Body
+
+Surgery is a last resort. It carries risks: infection, bleeding, organ damage, death. Only perform surgery when the alternative is worse.
+
+Sterilization.
+
+All instruments, materials, and hands must be sterile (free of microbes).
+
+Boil instruments for 20 minutes. Scalpels, scissors, needles, forceps. Let dry on a clean cloth.
+
+Sterilize cloth (bandages, drapes) by boiling for 20 minutes or heating in an oven at 170°C for 1 hour.
+
+Hands: scrub with soap and water for 5 minutes, including under nails. Rinse. If possible, wear gloves (boiled rubber gloves, or improvise from thin animal intestine or bladder, turned inside out and boiled).
+
+Anesthesia and pain management.
+
+General anesthesia (unconsciousness) is dangerous without modern drugs and monitoring. Avoid if possible.
+
+Local anesthesia: numb the area.
+
+Ice: apply to skin before incision. Provides brief numbness.
+
+Alcohol: oral consumption reduces pain perception but impairs judgment. Not recommended.
+
+Herbal pain relief:
+- Willow bark (Salix species): contains salicin, a precursor to aspirin. Chew bark or brew tea. Reduces pain and inflammation.
+- Poppy (Papaver somniferum): latex from unripe seed pods contains morphine and codeine. Extremely effective pain relief but highly addictive and dangerous (overdose causes respiratory failure). Use only in extreme circumstances (amputation, severe injury). Dosing is difficult; start with very small amounts.
+
+If no anesthesia is available, proceed with surgery if necessary. Restraint may be required. Have assistants hold the patient still.
+
+Incision and suturing.
+
+Plan the incision: avoid major blood vessels and nerves if possible. Make incisions along natural skin lines when feasible.
+
+Use a sharp blade (scalpel, razor, sharp knife sterilized by boiling). A sharp blade cuts cleanly; a dull blade tears tissue.
+
+Control bleeding: apply pressure with sterile cloth. Tie off (ligate) bleeding vessels with thread. Clamp vessels with forceps if available.
+
+Suture internal layers if the wound is deep (muscle, fascia). Use absorbable sutures if available (catgut: made from animal intestines, treated and sterilized). If not available, use non-absorbable sutures (silk, nylon) and leave in place.
+
+Close skin as described in wound care section.
+
+Common surgical procedures.
+
+Abscess drainage: an abscess is a pocket of pus (dead white blood cells and bacteria). It appears as a swollen, painful, warm lump. Lance (cut open) the abscess at the point of greatest swelling, allow pus to drain, irrigate with saline, pack with gauze. Do not close; let it heal open.
+
+Amputation: required if a limb is crushed beyond repair, has severe infection (gangrene), or is mangled and cannot be saved. Tourniquet above the amputation site. Cut through skin, muscle, and bone (use a saw for bone). Ligate blood vessels. Leave skin flap longer than bone, fold over bone end, suture closed. Risk of infection and death is high. Only perform if limb is clearly unsalvageable.
+
+Appendectomy: inflamed appendix (appendicitis) causes severe right lower abdominal pain, fever, vomiting. Untreated, the appendix ruptures, causing peritonitis (infection of the abdominal cavity), which is often fatal. Incision at McBurney's point (1/3 distance from right hip bone to navel). Locate appendix (small tube attached to cecum, the beginning of the large intestine). Tie off base with thread, cut appendix free, close incision. This is extremely risky without training; attempt only if death from rupture is imminent and no other help is available.
+
+Obstetrics: Delivering a Baby
+
+Most births proceed without intervention. Complications require knowledge and calm action.
+
+Normal delivery.
+
+Labor: uterine contractions push the baby through the cervix (opening of the uterus) into the vagina. Contractions become more frequent and intense. Active labor: contractions every 3-5 minutes, lasting 45-60 seconds.
+
+Crowning: the baby's head becomes visible at the vaginal opening.
+
+Delivery: support the baby's head as it emerges. Do not pull. Let the mother's contractions push. After the head emerges, check for the umbilical cord around the neck. If present, gently slip it over the head.
+
+Shoulders: the baby will rotate. Gentle downward pressure on the head helps the top shoulder emerge, then upward pressure helps the bottom shoulder. The rest of the body follows quickly.
+
+Airway: if the baby does not cry immediately, clear mucus from nose and mouth with a cloth or suction (bulb syringe if available). Rub the baby's back to stimulate breathing.
+
+Umbilical cord: do not cut immediately. Wait until it stops pulsing (1-3 minutes). Tie the cord in two places (10 cm from baby, and 5 cm from the first tie). Cut between the ties with a sterilized blade. If you have no sterile blade, leave the cord attached until you can sterilize one. The placenta will deliver separately (see below).
+
+Placenta: the placenta (afterbirth) delivers 5-30 minutes after the baby. Do not pull on the cord. Wait for contractions to expel it. After it delivers, inspect it: it should be intact (one complete mass). If pieces remain inside, they can cause infection or bleeding; seek skilled help if possible.
+
+Complications.
+
+Bleeding: some bleeding is normal. Excessive bleeding (soaking through cloth pads rapidly) is life-threatening. Massage the uterus (firm pressure on the lower abdomen) to encourage it to contract. Contractions compress blood vessels and stop bleeding. If bleeding continues, seek help urgently.
+
+Breech birth: baby presents feet or buttocks first instead of head first. Higher risk of complications. If you have no training, do not attempt to turn the baby. Allow labor to progress. Support the baby's body as it emerges, but do not pull. The head is the largest part and may require gentle assistance (not force) to deliver.
+
+Shoulder dystocia: baby's head delivers but shoulders are stuck. Life-threatening if not resolved quickly. Apply firm pressure just above the mother's pubic bone while she pushes. If unsuccessful, have the mother change position (squat, hands and knees). Do not pull on the baby's head.
+
+Prolapsed cord: umbilical cord slips out before the baby. The baby's body compresses the cord, cutting off oxygen. Immediate emergency. Push the baby's presenting part (head or buttocks) back up into the vagina to relieve pressure on the cord. Keep the cord moist and warm. Seek emergency help; this usually requires cesarean section.
+
+Postpartum care.
+
+Keep mother and baby warm. Skin-to-skin contact helps regulate baby's temperature and encourages breastfeeding.
+
+Breastfeeding: colostrum (first milk, thick and yellowish) is rich in antibodies and nutrients. Baby should nurse within the first hour. Frequent nursing (every 2-3 hours) stimulates milk production.
+
+If the mother cannot breastfeed, animal milk (goat, cow) can sustain a baby, though it lacks antibodies. Dilute cow's milk (2 parts milk, 1 part water) and add a small amount of sugar. Boil all feeding equipment.
+
+Infection prevention: keep perineal area clean. Wash with soap and water after urinating or defecating. Monitor for signs of infection: fever, foul-smelling discharge, severe pain.
+
+Dental Care: Preventing Decay
+
+Tooth decay (cavities) and gum disease cause pain and infection. Infection can spread to the jaw or bloodstream.
+
+Prevention.
+
+Clean teeth daily. Use a toothbrush (make from a frayed twig: chew the end of a small branch from willow, oak, or dogwood until fibers separate; use as a brush).
+
+Toothpaste: baking soda (sodium bicarbonate) scrubs and neutralizes acid. Mix with water to form a paste.
+
+Salt water rinse: dissolve 1 teaspoon salt in 1 cup warm water, swish, spit. Reduces bacteria and inflammation.
+
+Diet: sugar feeds bacteria that produce acid, which dissolves tooth enamel. Limit sugar. Chew fibrous foods (raw vegetables) to clean teeth mechanically.
+
+Treatment.
+
+Toothache: rinse with warm salt water. Apply clove oil (from cloves, Syzygium aromaticum) to the painful tooth. Clove oil contains eugenol, a natural anesthetic and antiseptic. If the tooth is abscessed (swollen, pus-filled), it may need to be drained or extracted.
+
+Tooth extraction: last resort for severe decay, abscess, or broken tooth causing pain. Sterilize pliers or forceps. Grip the tooth at the gum line, rock gently back and forth to loosen, pull straight out. Bleeding is normal; bite on a clean cloth to apply pressure. Rinse with salt water. Pain will subside in a few days. Risk of infection; monitor closely.
+
+Diagnosis: Knowing What You Face
+
+Diagnosis is pattern recognition. You observe symptoms, match them to known diseases, and treat accordingly.
+
+Infection: fever, redness, swelling, pus, pain.
+
+Bacterial vs viral: bacterial infections often produce pus, respond to antibiotics. Viral infections do not produce pus, do not respond to antibiotics, resolve on their own (flu, cold, most sore throats).
+
+Dehydration: dry mouth, dark urine, dizziness, rapid heartbeat. Treatment: oral rehydration solution (1 liter water, 6 teaspoons sugar, 0.5 teaspoon salt). Sip slowly.
+
+Pneumonia: cough, fever, difficulty breathing, chest pain. Bacterial pneumonia may respond to antibiotics. Viral pneumonia does not. Keep patient hydrated, upright (sitting or propped up), monitor breathing.
+
+Malaria: cycles of fever, chills, sweating, often in regions with mosquitoes. Caused by Plasmodium parasite transmitted by mosquitoes. Requires antimalarial drugs (quinine from cinchona bark, or modern drugs if available). Prevention: mosquito nets, eliminate standing water.
+
+Dysentery: bloody diarrhea, abdominal pain, fever. Caused by bacteria (Shigella) or amoeba (Entamoeba histolytica). Hydration is critical. Antibiotics may help bacterial dysentery.
+
+Cholera: profuse watery diarrhea ("rice water" appearance), vomiting, rapid dehydration. Caused by Vibrio cholerae bacteria in contaminated water. Rehydration is life-saving. Oral rehydration solution in large quantities. Antibiotics shorten duration.
+
+Tuberculosis (TB): chronic cough (often bloody), weight loss, night sweats, fever. Spread by airborne droplets. Bacterial infection (Mycobacterium tuberculosis). Requires long-term antibiotics (rifampin, isoniazid; difficult to produce). Isolation of patient prevents spread.
+
+The Method
+
+Medicine is applied biology, tested on living systems, with feedback measured in survival. Observe: what are the symptoms? Question: what disease causes these symptoms? Hypothesize: will this treatment help? Test: administer treatment, monitor patient. Correct: adjust treatment if the patient worsens. Share: teach others what worked. Repeat: every patient is an experiment.
+
+Error is not evil. Refusing to correct it is.
+
+A patient who dies despite treatment teaches you what not to do next time. A patient who survives teaches you what to repeat. The key is to observe, adjust, and try again.
+
+Start simple. Sanitation prevents disease. Clean water saves more lives than surgery. Hygiene costs nothing and prevents most infections. Master prevention before attempting cure.
+
+The progression of medicine mirrors the progression of knowledge. Sanitation prevents infection. Wound care prevents complications. Antibiotics cure infections that sanitation did not prevent. Surgery repairs injuries that care cannot heal. Obstetrics ensures the next generation. Each medical advance increases the probability that knowledge survives.
+
+Medicine is not magic. It is chemistry applied to biology, guided by observation and corrected by error. You observe the patient, hypothesize a cause, test a treatment, observe the result. If the patient improves, you repeat. If the patient worsens, you correct.
+
+This is the work of medicine: observing nature, testing interventions, correcting errors, sharing knowledge. The bacteria do not care about your feelings. The infection does not care about your authority. The wound does not care about your tradition. Only the truth matters: did the treatment work?
+
+Your task: heal the body. Biology provides the blueprint. Chemistry provides the tools. You provide the observation, the skill, and the willingness to correct error. The rest is practice.
+
+In the beginning there was infinite change. From change came the elements. From the elements came compounds. From compounds came cells. From cells came you. When cells malfunction, medicine intervenes. When medicine fails, you learn. When you learn, you correct. When you correct, civilization advances.

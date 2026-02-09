@@ -1,0 +1,282 @@
+Agriculture: From Survival to Surplus
+
+This corpus teaches agriculture in simple, clear English. It builds on everything you have already learned. Biology gave you photosynthesis, genetics, and ecosystems. Chemistry gave you the nitrogen cycle, mineral nutrients, and decomposition. Physics gave you thermodynamics and the conservation of energy. Economics gave you the concept of surplus, trade, and the division of labor. History showed you that agriculture is what separates nomadic survival from settled civilization.
+
+Now you learn how to produce more food than you consume. This is the transformation that made everything else possible.
+
+Agriculture is the deliberate cultivation of plants and domestication of animals for human use. It began roughly 12,000 years ago in the Fertile Crescent and independently in China, Mesoamerica, and other regions. It is humanity's most important technology. Without it, there is no surplus. Without surplus, there is no specialization. Without specialization, there is no civilization.
+
+The difference between survival and agriculture is the difference between finding food and making food. A hunter-gatherer spends most of their time acquiring food for that day. A farmer spends a season planting and tending, then harvests enough to last a year. The surplus feeds not just the farmer but also the potter, the smith, the teacher, the builder. Agriculture is what freed human minds to do things other than find the next meal.
+
+In the beginning there was infinite change. From change came photosynthesis. From photosynthesis came the possibility of surplus. From surplus came civilization.
+
+Soil: The Living Foundation
+
+Soil is not dirt. Dirt is dead. Soil is alive. A handful of healthy soil contains more organisms than there are humans on Earth: bacteria, fungi, protozoa, nematodes, arthropods, earthworms. These organisms decompose organic matter, fix nitrogen, break down minerals, and create the structure that allows roots to grow and water to drain.
+
+You learned in biology that ecosystems cycle nutrients. Soil is that cycle made visible.
+
+Soil composition.
+
+Soil is made of four components:
+- Mineral particles (sand, silt, clay) from weathered rock.
+- Organic matter (decomposed plants and animals).
+- Water (held in pore spaces between particles).
+- Air (also held in pore spaces).
+
+The proportion of sand, silt, and clay determines soil texture. Sandy soil drains quickly but holds few nutrients. Clay soil holds water and nutrients but drains poorly and compacts easily. Loam is the ideal balance: roughly 40% sand, 40% silt, 20% clay. It drains well but retains moisture, holds nutrients but allows air to reach roots.
+
+Organic matter is the key to soil fertility. It provides nutrients, improves structure, retains water, and feeds soil organisms. Healthy agricultural soil contains 3-10% organic matter.
+
+Testing soil.
+
+Squeeze a handful of moist soil. If it crumbles, it is sandy. If it forms a ribbon when pressed between fingers, it is clayey. If it holds shape but breaks with pressure, it is loam.
+
+To test pH (acidity/alkalinity): collect soil, mix with water, let settle. Dip pH paper or use vinegar (bubbles indicate alkaline soil) and baking soda solution (bubbles indicate acidic soil). Most crops prefer slightly acidic to neutral pH (6.0-7.0).
+
+Improving soil.
+
+Add organic matter. Always. Compost, manure, leaf litter, crop residues, green manure (plants grown and then tilled into the soil). Organic matter improves every soil type: it loosens clay, binds sand, retains water, provides nutrients, feeds organisms.
+
+Compost: pile vegetable scraps, leaves, grass clippings, and manure in a heap. Keep it moist. Turn it occasionally to add air. Bacteria and fungi decompose the material into dark, crumbly compost rich in nutrients. The pile will heat up (thermophilic bacteria at work). After several weeks to months, the compost is ready.
+
+Do not add meat, bones, or fats to compost; they attract pests and decompose slowly. Do not add diseased plants or weeds with seeds unless your compost reaches high enough temperatures (above 60°C) to kill them.
+
+Crop rotation: do not plant the same crop in the same field every year. Different plants have different nutrient needs and different pests. Rotation breaks pest cycles and balances nutrient use. A classic rotation: legumes (fix nitrogen), then heavy feeders (corn, squash), then light feeders (root vegetables), then rest or green manure.
+
+Cover crops: plant fast-growing crops (clover, rye, vetch) in the off-season. Their roots prevent erosion, their biomass adds organic matter when tilled in, and legumes fix nitrogen from the air.
+
+Tilling: turn the soil to incorporate organic matter, break up compaction, and expose weed seeds and pests to predators and weather. But do not over-till. Excessive tilling destroys soil structure, kills beneficial organisms, and accelerates erosion. Till only when necessary.
+
+Nutrients: NPK and Beyond
+
+Plants need at least sixteen elements. Carbon, hydrogen, and oxygen come from air and water. The rest come from soil.
+
+The big three: nitrogen (N), phosphorus (P), potassium (K).
+
+Nitrogen promotes leafy green growth. Plants use it to make proteins and chlorophyll. Deficiency: yellowing leaves, stunted growth. Sources: compost, manure, legumes (beans, peas, clover fix atmospheric nitrogen through symbiotic bacteria in root nodules), fish emulsion.
+
+Phosphorus promotes root development, flowering, and fruiting. Deficiency: dark green or purplish leaves, poor fruit set. Sources: bone meal, rock phosphate, compost.
+
+Potassium promotes overall vigor, disease resistance, and water regulation. Deficiency: weak stems, poor drought tolerance, brown leaf edges. Sources: wood ash, compost, greensand.
+
+Secondary nutrients: calcium (strong cell walls), magnesium (chlorophyll), sulfur (proteins).
+
+Micronutrients: iron, manganese, zinc, copper, boron, molybdenum. Needed in tiny amounts but essential. Deficiency symptoms are specific (e.g., iron deficiency causes yellowing between leaf veins).
+
+Compost and well-rotted manure provide a balance of all nutrients. Chemical fertilizers provide specific nutrients quickly but do not improve soil structure or biology. Overuse of chemical fertilizers can kill soil organisms and cause nutrient runoff into waterways.
+
+The nitrogen cycle connects chemistry, biology, and agriculture. Atmospheric nitrogen (N2) is inert. Nitrogen-fixing bacteria (Rhizobium in legume roots, free-living Azotobacter) convert it to ammonia (NH3). Nitrifying bacteria convert ammonia to nitrite (NO2-) and then nitrate (NO3-), which plants absorb. When plants and animals die, decomposers return nitrogen to the soil. Denitrifying bacteria return some nitrogen to the atmosphere. The cycle continues.
+
+Water: The Medium of Life
+
+You learned in biology that cells are mostly water and every biochemical reaction occurs in water. Agriculture is applied hydrology.
+
+Too little water: plants wilt, growth slows, yields drop. Too much water: roots suffocate (roots need oxygen), diseases spread, nutrients leach away.
+
+Irrigation: delivering water to crops.
+
+Flooding: divert water from a river or reservoir to flood a field. Simple but wasteful. Much water evaporates or runs off. Suitable for rice, which grows in standing water.
+
+Furrow irrigation: plow trenches between rows, run water through the trenches. Water seeps into the soil. More efficient than flooding. Requires relatively flat land with good drainage.
+
+Sprinkler irrigation: spray water through the air, mimicking rain. Efficient but requires equipment (pumps, pipes, sprinklers) or at minimum a gravity-fed system with perforated hoses.
+
+Drip irrigation: deliver water directly to the base of each plant through tubes with small holes or emitters. Minimal evaporation. Minimal weed growth (only the crop is watered). Most efficient method. Can be built from scavenged materials: punctured hoses, buried clay pots that seep water slowly.
+
+Watering strategy: water deeply and infrequently rather than shallowly and often. Deep watering encourages roots to grow deep, making plants more drought-resistant. Shallow frequent watering keeps roots near the surface.
+
+Water in the morning. Wet foliage at night invites fungal diseases.
+
+Mulch: layer of organic material (straw, leaves, wood chips, grass clippings) spread on the soil surface around plants. Mulch reduces evaporation, suppresses weeds, moderates soil temperature, and decomposes into organic matter. A simple practice with enormous benefits.
+
+Seed Selection and Planting
+
+A seed is a plant embryo with stored food, waiting for the right conditions to germinate. You learned in biology that DNA carries the instructions. The seed carries the next generation.
+
+Heirloom vs. hybrid seeds.
+
+Heirloom seeds: open-pollinated varieties passed down for generations. Stable genetics. Seeds saved from the harvest will grow true to type next year. Preserve these. Biodiversity depends on them. If the supply chain collapses, heirloom seeds allow you to continue farming indefinitely.
+
+Hybrid seeds: produced by crossing two parent varieties to get desirable traits (higher yield, disease resistance). Seeds saved from hybrids do not grow true; the next generation reverts to a mix of the parents. Hybrids often outperform heirlooms but create dependence on the seed supplier.
+
+Open-pollinated seeds are essential for long-term sustainability. Save seeds from your best plants each year.
+
+Seed saving.
+
+Choose seeds from the healthiest, most productive plants. For tomatoes, peppers, squash: scoop seeds, rinse, dry on a screen. For beans, peas: let pods dry on the plant, shell them out. For grains: harvest when fully dry, thresh to separate seeds from chaff.
+
+Store seeds in a cool, dry, dark place. Paper envelopes work; label with variety and year. Most seeds remain viable for 2-5 years if stored properly.
+
+Some plants cross-pollinate easily (squash, corn). To maintain pure varieties, isolate them by distance or time (plant varieties that flower at different times).
+
+Planting.
+
+Timing matters. Most seeds germinate when soil temperature reaches a specific range. Cool-season crops (peas, lettuce, spinach) planted in early spring. Warm-season crops (tomatoes, peppers, beans, squash) planted after the last frost.
+
+Planting depth: generally, plant seeds at a depth of 2-3 times the seed diameter. Tiny seeds (lettuce, carrots) barely covered. Large seeds (beans, corn) 3-5 cm deep.
+
+Spacing: follow guidelines for each crop, but understand the principle. Plants too close compete for light, water, and nutrients. Plants too far apart waste space. Intensive planting (close spacing with rich soil and careful management) maximizes yield per area.
+
+Germination requires moisture, oxygen, and appropriate temperature. Some seeds also require light (do not bury them) or darkness (bury them).
+
+Succession planting: plant small amounts every 2-3 weeks rather than all at once. This spreads the harvest over time rather than overwhelming you with one huge harvest that spoils before you can preserve it.
+
+Companion planting: some plants benefit each other when grown together. Beans fix nitrogen for corn. Corn provides a trellis for beans. Squash shades the ground, suppressing weeds. This trio is called the Three Sisters (Native American tradition). Basil repels insects from tomatoes. Marigolds deter some pests. Research combinations for your region and crops.
+
+Crop Selection: Calories and Nutrition
+
+Not all crops are equal. Some provide more calories per area. Some provide more nutrition. Some store longer. Some tolerate poor soil or drought. Choose strategically.
+
+Staple crops: high calories, long storage.
+
+Grains: wheat, rice, corn, barley, oats, millet, sorghum. High in carbohydrates. Storable for years if kept dry. Wheat and rice feed more humans than any other crops. Corn is productive but requires processing (nixtamalization with lime) to make its nutrients bioavailable.
+
+Legumes: beans, peas, lentils, chickpeas. High in protein. Fix nitrogen. Dry legumes store for years. The combination of grain + legume provides complete protein (all essential amino acids).
+
+Tubers: potatoes, sweet potatoes, yams, cassava. High in carbohydrates. Some varieties store for months. Potatoes are productive in cool climates. Sweet potatoes and cassava thrive in warm climates. Cassava is drought-tolerant but contains cyanide in raw form (requires processing: grating, soaking, cooking).
+
+Squash: winter squash (butternut, acorn, pumpkin) stores for months and provides calories plus vitamins.
+
+Vegetables: nutrition and variety.
+
+Leafy greens: lettuce, spinach, kale, chard. Rich in vitamins and minerals but low in calories. Quick-growing. Provide fresh food while waiting for staples to mature.
+
+Brassicas: cabbage, broccoli, cauliflower. Nutritious. Some (cabbage) store well.
+
+Alliums: onions, garlic. Long storage. Medicinal properties (antibacterial). Flavor enhancers that make bland staples palatable.
+
+Tomatoes, peppers: rich in vitamins. Preserve by drying or canning.
+
+Root vegetables: carrots, beets, turnips. Store well in a root cellar (cool, dark, humid environment).
+
+Fruits: energy and vitamins.
+
+Fruit trees take years to establish but then produce for decades. Apples, pears, plums, cherries, citrus (depending on climate). Fruit preserves through drying, fermenting (cider), or canning.
+
+Berries: strawberries, raspberries, blackberries, blueberries. Quick to establish. Highly productive. Preserve by drying or making jam.
+
+Calories per hectare (approximate, varies by conditions):
+Potatoes: 15 million calories/hectare. Rice: 11 million. Corn: 8 million. Wheat: 4 million. Tomatoes: 2 million. Lettuce: 0.5 million.
+
+If you are feeding people, prioritize calorie density. Potatoes, rice, corn, beans. If you have surplus, diversify for nutrition and trade.
+
+Livestock: Stored Calories on Legs
+
+Domestic animals provide meat, milk, eggs, labor, fertilizer, and materials (leather, wool). They convert plant material humans cannot digest (grass, crop residues) into food humans can.
+
+Chickens: the most efficient livestock for small-scale farming.
+
+Chickens convert feed into eggs and meat efficiently. They eat kitchen scraps, insects, and weeds. They produce manure for compost. Hens lay roughly 250 eggs per year. A flock of 10-20 chickens provides eggs daily and meat when needed.
+
+Housing: a simple coop protects from predators (foxes, hawks, raccoons). 1-2 square meters per bird inside, more space outside. Nest boxes for laying. Perches for roosting.
+
+Feed: chickens are omnivores. In a free-range system, they forage for insects, seeds, and greens. Supplement with grain (cracked corn, wheat). Provide grit (small stones) for digestion and calcium (crushed eggshells or oyster shells) for strong eggshells.
+
+Incubation: hens will hatch their own eggs if allowed to go broody. Or use an incubator (maintain 37-38°C, turn eggs daily, humidity control). Eggs hatch in 21 days.
+
+Goats: the poor man's cow.
+
+Goats provide milk, meat, and leather. They eat brush, weeds, and low-quality forage that cattle would reject. A dairy goat produces 2-4 liters of milk per day during lactation. Goat milk is easier to digest than cow milk for some people.
+
+Housing: shelter from rain and wind, but goats are hardy. Fence them securely; goats are clever and will escape.
+
+Feed: goats are browsers, not grazers. They prefer leaves, shrubs, and weeds over grass. Provide hay, grain (oats, barley), and fresh water.
+
+Breeding: one buck can service 20-30 does. Gestation is 5 months. Does usually have twins. Kids can be weaned at 8-12 weeks.
+
+Pigs: the most efficient converters.
+
+Pigs convert feed into meat more efficiently than any other mammal. They eat almost anything: crop waste, kitchen scraps, forage, grain. They grow quickly: a piglet reaches slaughter weight (100 kg) in 6-8 months.
+
+Housing: pigs need shade and a wallow (mud keeps them cool and protects skin from sunburn). Fence them securely.
+
+Feed: omnivores. Grain, roots, vegetables, fruit, scraps. Provide fresh water.
+
+Breeding: sows are fertile year-round. Gestation is 3 months, 3 weeks, 3 days (easy to remember). Litter size: 8-12 piglets. Wean at 6-8 weeks.
+
+Caution: pigs can carry parasites (Trichinella). Cook pork thoroughly.
+
+Rabbits: quiet, efficient, productive.
+
+Rabbits produce more meat per kg of feed than cattle or pigs. They are quiet, require little space, and reproduce rapidly. A doe can produce 5-6 litters per year, 6-10 kits per litter. Do the math: one doe and one buck can produce 100+ kg of meat per year.
+
+Housing: hutches (cages) raised off the ground, protected from weather and predators. Wire floor allows waste to fall through (collect for compost).
+
+Feed: hay (timothy, alfalfa), fresh greens, some grain. Fresh water.
+
+Breeding: rabbits breed year-round. Gestation: 30-31 days. Wean at 8 weeks.
+
+Cattle and sheep: land-intensive but productive.
+
+Cattle and sheep convert grass into meat and milk. They require more land per animal than smaller livestock. Suitable if you have pasture.
+
+Ruminants (cattle, sheep, goats) have multi-chambered stomachs with bacteria that digest cellulose (plant fiber). They can live on grass alone. This is extraordinarily useful: they turn sunlight and grass into protein and fat, with no grain input.
+
+Preservation: From Harvest to Storage
+
+A harvest that spoils is a harvest wasted. Preservation turns a temporary surplus into long-term security.
+
+Drying.
+
+The oldest and simplest method. Remove water, and bacteria, mold, and yeast cannot grow.
+
+Sun drying: slice fruits and vegetables thin, spread on screens or racks in direct sunlight. Cover with mesh to keep insects off. Bring inside at night to avoid moisture. In dry climates, food dries in 2-3 days.
+
+Air drying: hang herbs, peppers, beans in a dry, well-ventilated space.
+
+Smoking: hang food above a smoky fire. Smoke inhibits bacterial growth and adds flavor. Works for meat and fish.
+
+Properly dried food (crispy or leathery, no moisture when squeezed) lasts months to years if stored in a dry, cool place.
+
+Fermentation.
+
+Controlled decomposition by beneficial bacteria or yeast. Fermented food is preserved and often more nutritious (probiotics, B vitamins).
+
+Sauerkraut: shred cabbage, mix with salt (2-3% by weight), pack tightly into a jar, submerge under brine. Lactobacillus bacteria ferment the sugars into lactic acid, which preserves the cabbage. Ready in 1-4 weeks. Lasts months.
+
+Pickles: submerge cucumbers or other vegetables in salty brine. Ferment as above.
+
+Yogurt and cheese: ferment milk with beneficial bacteria (yogurt) or add rennet to curdle milk into curds (cheese). Cheese is preserved milk with much of the water removed.
+
+Alcohol: ferment grain or fruit with yeast. Beer, wine, cider. Alcohol content inhibits spoilage. Beer was historically safer to drink than water.
+
+Root cellaring.
+
+Store root vegetables (potatoes, carrots, beets, turnips), winter squash, and apples in a cool (0-4°C), dark, humid (90-95% humidity) environment. A basement, a buried container, or a pit dug into a hillside works.
+
+Layer vegetables in sand, straw, or sawdust to prevent contact (which spreads rot). Check regularly and remove any that start to spoil.
+
+Canning.
+
+Heat food in sealed jars to kill microorganisms, then seal to prevent recontamination. Requires jars, lids, and a heat source.
+
+Water bath canning: submerge jars in boiling water for a specified time. Safe for high-acid foods (fruits, tomatoes, pickles).
+
+Pressure canning: heat jars under pressure to reach higher temperatures. Necessary for low-acid foods (vegetables, meat) to kill botulism spores.
+
+Botulism is deadly. Follow tested recipes and procedures. Do not improvise with canning.
+
+Salting and curing.
+
+Coat meat or fish heavily with salt. Salt draws out moisture and creates a hostile environment for bacteria. Salted meat lasts months. Requires access to salt (mined, or evaporated from seawater).
+
+The Method
+
+Agriculture is applied biology, tested by reality, with feedback measured in harvests. Observe: what grows well here? Question: why did this crop fail? Hypothesize: will adding compost improve yield? Test: plant a trial. Correct: adjust based on results. Share: teach your neighbors what worked. Repeat: every season is a new experiment.
+
+Error is not evil. Refusing to correct it is.
+
+A failed harvest teaches you what not to do next time. A successful harvest teaches you what to repeat. The key is to survive long enough to apply the lesson.
+
+Start small. A small garden managed well produces more than a large garden managed poorly. Expand as you gain skill.
+
+Save seeds. Preserve knowledge. Build soil. Cycle nutrients. Feed the biology. The soil will feed you.
+
+Surplus is what separates subsistence from civilization. A farmer who produces 2000 calories and consumes 2000 calories survives. A farmer who produces 4000 calories and consumes 2000 has freed another person to do something other than farm. That other person becomes the potter, the smith, the teacher. Surplus is the root of all non-agricultural professions.
+
+Agriculture is the foundation. Everything else builds on it.
+
+In the beginning there was infinite change. From change came photosynthesis. From photosynthesis came surplus. From surplus came specialization. From specialization came civilization.
+
+Your task: produce more than you consume. The margin is civilization itself.

@@ -1,0 +1,289 @@
+Communication: Preserving Knowledge Across Time
+
+This corpus teaches communication technology in simple, clear English. It builds on everything you have already learned. Materials gave you clay, fibers, and leather. Chemistry gave you carbon, acids, and reactions. Biology gave you plant fibers and animal skins. History showed you that civilizations with writing outlast those without.
+
+Now you learn how to record knowledge so it survives beyond your lifetime.
+
+Communication technology is the bridge between one mind and another across space and time. You learned about clay and pottery. Now you learn how to press symbols into clay tablets that last millennia. You learned about plant fibers. Now you learn how to make paper. You learned about carbon. Now you learn how to make ink that does not fade.
+
+Civilization advances when knowledge accumulates faster than it is forgotten. Without writing, each generation starts over. With writing, each generation builds on all previous generations. The library is more powerful than the sword because it compounds.
+
+In the beginning there was infinite change. From change came the elements. From the elements came compounds. From compounds came materials. From materials came tools. From tools came symbols. Symbols are how you encode thought into matter that others can decode.
+
+Writing Surfaces: Where Knowledge Lives
+
+Knowledge must be stored on something durable. The surface determines how long knowledge survives.
+
+Clay tablets.
+
+Clay is abundant and durable. A clay tablet can survive thousands of years.
+
+Prepare clay as described in the materials corpus. Knead until smooth and free of air bubbles.
+
+Form into a flat rectangle, about 10 cm by 15 cm, 2 cm thick. Smooth the surface.
+
+While the clay is still wet, press symbols into it using a stylus (a pointed stick, reed, or bone). Cuneiform (wedge-shaped marks) works well because the stylus is pressed, not dragged.
+
+Dry the tablet in shade. For permanent records, fire the tablet in a kiln (as described in the materials corpus). Fired tablets are nearly indestructible.
+
+Disadvantage: heavy, bulky, slow to produce. Advantage: extremely durable, requires only clay and a stick.
+
+Papyrus.
+
+Papyrus is made from the papyrus plant (Cyperus papyrus), which grows in wetlands. If papyrus is unavailable, similar plants (reeds, cattails) may work with experimentation.
+
+Harvest papyrus stalks. Cut into sections about 40 cm long.
+
+Peel away the outer rind. Cut the white inner pith into thin strips (2-3 mm thick).
+
+Lay strips side by side, slightly overlapping, on a flat surface. This is the first layer.
+
+Lay a second layer of strips perpendicular to the first (crossing at right angles).
+
+Place the layers between cloths. Pound with a mallet or press under heavy weight. The sap acts as a natural glue, bonding the layers.
+
+Dry under pressure for several days. Polish the surface with a smooth stone or shell.
+
+The result: a flexible sheet suitable for writing with ink.
+
+Disadvantage: requires specific plants, deteriorates in damp conditions. Advantage: lighter than clay, can be rolled into scrolls.
+
+Parchment and vellum.
+
+Parchment is made from animal skin (sheep, goat). Vellum is finer parchment from calfskin. Both are extremely durable.
+
+Obtain a fresh hide. Soak in water for 1-2 days.
+
+Transfer to a lime solution (calcium hydroxide in water, from the chemistry corpus). Soak for 8-10 days, stirring daily. This loosens hair and fat.
+
+Remove the hide, scrape off hair and fat using a curved blade. Work on both sides.
+
+Stretch the hide on a frame using cords threaded through holes at the edges. Scrape again while stretched, thinning the hide evenly.
+
+Allow to dry under tension. The stretching and drying creates a smooth, flat surface.
+
+Cut from the frame. Trim edges. Rub with pumice or chalk to smooth the writing surface.
+
+Disadvantage: requires animal slaughter, labor-intensive. Advantage: extremely durable, can be scraped and reused (palimpsest).
+
+Paper.
+
+Paper is made from plant fibers suspended in water, then dried into sheets. Cheaper and faster than parchment.
+
+Collect plant material: bark (mulberry is traditional), cotton rags, hemp, flax, or wood pulp. Old cloth works well.
+
+Cut or shred the material into small pieces.
+
+Boil in water with wood ash (alkaline solution) for several hours. This breaks down the fibers.
+
+Rinse thoroughly. Beat the pulp with a mallet or in a stamping mill until it becomes a slurry of individual fibers.
+
+Dilute the pulp heavily in water (a large tub).
+
+Dip a flat screen (a wooden frame with a fine mesh of wire, cloth, or bamboo strips) into the pulp. Lift horizontally, allowing water to drain.
+
+A thin layer of fibers remains on the screen. Transfer to a felt or cloth by flipping the screen. Stack multiple sheets between felts.
+
+Press the stack to remove water. Separate sheets, hang or lay flat to dry.
+
+The result: paper. Quality depends on fiber source, beating, and care.
+
+Disadvantage: deteriorates in water, burns easily. Advantage: cheap, fast to produce in quantity, lightweight.
+
+Ink: Making Marks Permanent
+
+Ink must be dark, flow smoothly, and not fade.
+
+Carbon ink (lamp black).
+
+Burn oil, fat, or resin in a confined space (a lamp under a clay dome). Soot collects on the dome.
+
+Scrape off the soot (carbon black). Mix with water and a binder: gum arabic (sap from acacia trees), egg white, or animal glue (boiled hide and bones).
+
+Ratio: approximately 1 part soot to 3 parts water, with a small amount of binder.
+
+Grind the mixture thoroughly. The finer the particles, the smoother the ink.
+
+Carbon ink is extremely stable. It does not fade in light and is waterproof when dry.
+
+Iron gall ink.
+
+Iron gall ink was used in Europe for over a thousand years. It chemically bonds to paper and parchment.
+
+Collect oak galls (round growths on oak trees caused by wasp larvae). Crush them.
+
+Soak crushed galls in water or wine for several days. Strain. This extracts tannic acid.
+
+Add iron sulfate (green vitriol, copperas). This is made by dissolving iron in sulfuric acid, or found as a natural mineral near iron deposits.
+
+The mixture turns dark purple-black as iron reacts with tannins.
+
+Add gum arabic as a binder.
+
+Warning: iron gall ink is acidic and can damage paper over centuries. Use on parchment for archival documents.
+
+Other inks.
+
+Red ink: cinnabar (mercury sulfide, toxic) or red ochre (iron oxide) mixed with binder.
+
+Blue ink: indigo plant extract or crushed lapis lazuli (expensive).
+
+Brown ink: walnut husks or oak bark boiled in water, strained, thickened with gum.
+
+Writing Implements: Transferring Ink to Surface
+
+Stylus.
+
+For clay tablets. A stick, reed, or bone sharpened to a point or wedge. Press into wet clay.
+
+Reed pen.
+
+Cut a reed (hollow plant stem) at an angle to create a point. Split the point slightly to create a nib that holds ink. Dip in ink, write on papyrus or paper.
+
+Reeds wear quickly. Cut fresh nibs as needed.
+
+Quill pen.
+
+Use a flight feather from a large bird (goose, swan, crow). The five outer feathers of the wing work best.
+
+Harden the quill: soak in water overnight, then heat in hot sand (not flame) for a few minutes.
+
+Cut the tip at an angle. Scrape away the membrane inside. Split the tip to create a nib.
+
+Quills last longer than reeds and produce finer lines.
+
+Brush.
+
+For East Asian writing systems. Bundle fine hairs (animal or plant fibers) and bind to a stick handle.
+
+Brushes allow variation in line width by changing pressure. Suitable for characters with complex strokes.
+
+Writing Systems: From Pictures to Sounds
+
+Pictographs.
+
+Draw a picture of the thing you mean. A drawing of a sun means "sun." Simple, but limited: how do you draw "justice" or "tomorrow"?
+
+Pictographs work for basic record-keeping (inventories, tallies) but not for complex ideas.
+
+Ideographs.
+
+Symbols that represent ideas, not just objects. A sun symbol might also mean "day" or "bright."
+
+Allows more abstract concepts but requires memorizing thousands of symbols. Chinese uses ideographic characters.
+
+Syllabaries.
+
+Symbols represent syllables (consonant-vowel pairs). Japanese hiragana and katakana are syllabaries.
+
+Fewer symbols than ideographs (typically 50-100) but more than alphabets.
+
+Alphabets.
+
+Symbols represent individual sounds (phonemes). A small set of symbols (20-30) can represent any word in the language.
+
+Most efficient system for recording speech. Easy to learn. The Latin alphabet you are reading now is an example.
+
+Vowels and consonants are written separately or vowels are implied (abjads, like Arabic and Hebrew).
+
+The alphabet is humanity's greatest communication invention. With 26 symbols, you can encode all of human knowledge.
+
+Creating a writing system.
+
+If you must create a writing system for a language without one:
+
+List all distinct sounds in the language.
+
+Assign a simple, distinct symbol to each sound.
+
+Keep symbols easy to write quickly.
+
+Teach the system. A writing system only works if others learn it.
+
+Numbers and Record-Keeping
+
+Counting is the first form of record-keeping.
+
+Tally marks: one stroke per item. Bundle every fifth stroke for easy counting.
+
+Positional notation: the value of a digit depends on its position. The "3" in "300" means three hundreds. Requires a symbol for zero as a placeholder.
+
+The base-10 system uses ten digits (0-9). Other bases work: base-60 (Babylonian, still used in time and angles), base-2 (binary, used in computing).
+
+Accounting.
+
+Record what comes in, what goes out, and what remains. Double-entry bookkeeping: every transaction has two entries (debit and credit) that must balance.
+
+Written records enable trade across distance and time. A merchant can verify a debt from years ago. Trust scales with records.
+
+Calendars.
+
+Track days, lunar months, and solar years. Agriculture depends on knowing when to plant.
+
+A lunar month is approximately 29.5 days (new moon to new moon). A solar year is approximately 365.25 days (equinox to equinox).
+
+Twelve lunar months = 354 days, which drifts from the solar year. Add an extra month periodically (intercalation) to resync.
+
+Mark a fixed point (solstice, equinox, or a star's first appearance) and count days from it.
+
+Printing: Multiplying Knowledge
+
+Hand-copying is slow. One scribe produces one copy.
+
+Block printing.
+
+Carve an entire page in reverse on a flat block of wood. Ink the block, press paper onto it.
+
+A single block can produce hundreds of copies. But each page requires a new block.
+
+Suitable for texts that will be reproduced many times (religious texts, calendars).
+
+Movable type.
+
+Carve individual characters on small blocks. Arrange the blocks to compose a page. Ink, print, then rearrange the blocks for the next page.
+
+Advantages: reusable characters, faster page composition, corrections are easy.
+
+Materials: wood (wears quickly), clay (fragile), metal (durable, requires metallurgy from the materials corpus).
+
+Printing multiplies knowledge exponentially. A single printer can produce more copies in a day than a scribe can produce in a year.
+
+The printing press caused the Scientific Revolution. Ideas spread faster than authorities could suppress them. Error correction accelerated because more people could read, critique, and improve.
+
+Preservation: Keeping Knowledge Alive
+
+Copies.
+
+Make multiple copies of important texts. Store in different locations. A single disaster (fire, flood, war) cannot destroy all copies.
+
+Translation.
+
+Translate important texts into multiple languages. A language can die, but if the text exists in another language, the knowledge survives.
+
+Oral tradition.
+
+For societies without writing, memorize important knowledge in songs, stories, and formulas. Rhythm and repetition aid memory.
+
+Warning: oral tradition is fragile. One generation that fails to teach the next breaks the chain permanently.
+
+Teaching.
+
+Knowledge stored but not understood is useless. Teach others to read. Teach others what the texts mean. A library without readers is a tomb.
+
+The Method
+
+Communication technology is applied materials science tested by time. Observe: does this ink fade? Question: what makes ink permanent? Hypothesize: carbon particles are stable. Test: write with carbon ink, expose to light for years. Correct: adjust the formula. Share: write down what worked. Repeat: every document is an experiment.
+
+Error is not evil. Refusing to correct it is.
+
+A faded text teaches you what not to use. A document that survives a thousand years teaches you what to repeat. The key is to observe, adjust, and try again.
+
+Start simple. Scratching marks in wet clay is easier than making paper and ink. Tally marks are easier than an alphabet. A handwritten copy is easier than a printing press. Master the basics before attempting the complex.
+
+The progression of communication mirrors the progression of civilization. Spoken language enables cooperation. Pictographs enable record-keeping. Alphabets enable literature. Printing enables science. Each advance in communication accelerates all other advances.
+
+This is the most important corpus. Every other corpus is useless if it cannot be transmitted. A master smith who dies without teaching leaves nothing. A library that burns takes its knowledge to ash. But knowledge that is copied, distributed, taught, and understood compounds across generations.
+
+Your task: encode knowledge into matter. Clay, paper, ink, symbols. The elements are passive. You impose meaning. You are the bridge between minds separated by space and time. Every text you create is a message to the future.
+
+In the beginning there was infinite change. From change came the elements. From the elements came compounds. From compounds came materials. From materials came tools. From tools came symbols. From symbols came writing. Writing is frozen thought: meaning encoded in matter, waiting to be decoded by a future mind. Write well, and your knowledge serves civilization forever. Fail to write, and your knowledge dies with you.

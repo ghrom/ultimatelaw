@@ -1,0 +1,229 @@
+Navigation: Finding Your Way
+
+This corpus teaches navigation and timekeeping in simple, clear English. It builds on everything you have already learned. Physics gave you motion, angles, and light. Materials gave you metal, glass, and tools. Chemistry gave you magnetism. Agriculture told you that planting at the wrong time means no harvest.
+
+Now you learn how to find direction, measure time, determine position, and coordinate action across distance.
+
+Navigation is applied astronomy. You learned that the Earth rotates and orbits the Sun. Now you learn how to use the Sun, Moon, and stars to find north, tell time, and determine where you are. You learned about geometry. Now you learn how to measure angles in the sky and convert them to position on the ground.
+
+Civilization advances when humans can coordinate across distance. Trade requires knowing where markets are and how to reach them. Agriculture requires knowing when to plant and harvest. Ships that can cross oceans open new worlds. Navigation is the technology of reliable travel.
+
+In the beginning there was infinite change. From change came the elements. From the elements came compounds. From compounds came the Earth. From the Earth came patterns: the Sun rises in the east, the stars wheel overhead, the seasons cycle. From patterns came navigation.
+
+Direction: Finding North
+
+Without instruments.
+
+The Sun rises in the east and sets in the west. At solar noon (when the Sun is highest), it is due south (in the Northern Hemisphere) or due north (in the Southern Hemisphere).
+
+Shadow stick method: plant a straight stick vertically in the ground. Mark the tip of its shadow. Wait at least 15 minutes. Mark the new shadow tip. A line from the first mark to the second points roughly east-west. Perpendicular to this line is north-south.
+
+At night, find Polaris (the North Star). It is located at the end of the handle of the Little Dipper (Ursa Minor). To find it: locate the Big Dipper (Ursa Major), draw a line through the two stars at the end of its bowl, extend that line about five times the distance between those stars. Polaris does not move; all other stars rotate around it. The direction to Polaris is true north.
+
+In the Southern Hemisphere, use the Southern Cross (Crux). Extend the long axis of the cross about 4.5 times its length. That point is near the south celestial pole. Below it is due south.
+
+Compass.
+
+A magnetized needle aligns with Earth's magnetic field, pointing approximately north-south.
+
+Making a compass.
+
+Obtain a thin piece of iron or steel (a needle, iron wire, or iron sliver).
+
+Magnetize it by stroking it repeatedly in one direction with a natural magnet (lodestone, magnetite) or another magnet. Always stroke in the same direction, lifting the magnet away before each new stroke. Do this 50+ times.
+
+Float the magnetized needle on water using a small leaf, cork, or piece of wood as a platform. Or suspend it from a thread so it can rotate freely.
+
+The needle rotates to align north-south. Mark which end points north.
+
+Magnetic north differs from true north by an amount called declination, which varies by location. Near the poles, declination is large. In most temperate zones, it is small (a few degrees). For rough navigation, this difference is acceptable.
+
+Time: Measuring the Day
+
+The Sun is the primary clock.
+
+Solar noon is when the Sun is highest in the sky, due south (Northern Hemisphere). The shadow of a vertical stick is shortest at solar noon.
+
+Sundial: a vertical or angled gnomon (pointer) casts a shadow onto a marked dial. As the Sun moves across the sky, the shadow moves across the dial, indicating the hour.
+
+To build a sundial: angle the gnomon parallel to Earth's axis (the angle from horizontal equals your latitude). Mark where the shadow falls at known hours. The hour lines are not evenly spaced unless the dial is designed for your latitude.
+
+Sundials only work when the Sun is visible. For cloudy days and nighttime, use other methods.
+
+Water clock (clepsydra).
+
+A container with a small hole at the bottom. Water drips out at a constant rate. Mark the water level at known time intervals.
+
+For an outflow clock: fill the container, mark the starting level. One hour later, mark the new level. Repeat for all hours. Read the time by current water level.
+
+For an inflow clock: water drips into an empty container. A float rises as water accumulates, moving a pointer on a dial.
+
+Requires calibration. Temperature affects water viscosity. Keep the clock in stable conditions.
+
+Candle clock.
+
+A candle marked with lines at equal intervals. As the candle burns, time passes. One line per hour (calibrated by burning alongside a known clock).
+
+Simple but requires uniform candles. Drafts affect burn rate.
+
+Sandglass (hourglass).
+
+Two glass bulbs connected by a narrow neck. Sand flows from the upper bulb to the lower. When all sand has fallen, a fixed time has passed. Flip to restart.
+
+Common sizes: 1 minute, 1 hour. Sandglasses on ships were used to time watches (duty shifts).
+
+Mechanical clock.
+
+A weight or spring provides power. An escapement (a mechanism that allows the gear train to advance in small, regular steps) regulates the rate. Gears translate motion to clock hands.
+
+Building a mechanical clock requires precision metalwork (from the materials and infrastructure corpora). The escapement is the critical component: it must release energy in equal increments.
+
+Pendulum clocks: a swinging pendulum regulates the escapement. Pendulum period depends on length, not amplitude (for small swings). A pendulum of about 1 meter length swings once per second.
+
+Mechanical clocks enabled precise coordination. Ships, factories, and railroads depend on synchronized time.
+
+Calendar: Measuring the Year
+
+The solar year is the time for Earth to orbit the Sun: approximately 365.25 days.
+
+The lunar month is the time between new moons: approximately 29.5 days.
+
+These do not divide evenly. Twelve lunar months = 354 days, 11 days short of a solar year. A purely lunar calendar drifts through the seasons.
+
+Solar calendar.
+
+Track the solstices (longest and shortest days) and equinoxes (equal day and night). The time between two summer solstices is one solar year.
+
+Divide the year into months (arbitrary divisions, not tied to the Moon). Add a leap day every 4 years to account for the extra 0.25 day (approximately).
+
+The Gregorian calendar (in common use today) adds a leap day every 4 years, except century years not divisible by 400. This gives an average year of 365.2425 days, very close to the true solar year.
+
+Lunisolar calendar.
+
+Track the Moon for months. Add an extra (intercalary) month every 2-3 years to realign with the solar year.
+
+Rule of thumb: seven extra months every 19 years keeps lunar months aligned with solar seasons (the Metonic cycle).
+
+Planting calendar.
+
+Agriculture depends on knowing when to plant. Observe which stars rise just before the Sun (heliacal rising) at planting time. Record this. Next year, when those stars rise before the Sun again, it is planting time.
+
+The heliacal rising of Sirius (the Dog Star) signaled the Nile flood for ancient Egyptians.
+
+Latitude: How Far North or South
+
+Latitude is your distance from the equator, measured in degrees (0 at the equator, 90 at the poles).
+
+At night, measure the angle from the horizon to Polaris. That angle equals your latitude (Northern Hemisphere).
+
+At solar noon, measure the angle of the Sun above the horizon. Subtract from 90 to get the zenith distance. Add or subtract the Sun's declination (its angle from the celestial equator, which varies through the year) to get your latitude.
+
+Declination of the Sun: approximately +23.5 at summer solstice, -23.5 at winter solstice, 0 at equinoxes. Tables of daily solar declination (ephemeris) allow precise calculation.
+
+Measuring angles.
+
+Kamal: a card on a string. Hold the string in your teeth, extend the card to arm's length. Different string lengths correspond to different angles. Simple, portable, sufficient for rough latitude.
+
+Cross-staff: a stick with a sliding crosspiece. Look along the stick, adjust the crosspiece until one end aligns with the horizon and the other with the star. Read the angle from markings on the stick.
+
+Quadrant: a quarter-circle with degree markings and a plumb line. Sight along one edge toward the star, the plumb line indicates the angle.
+
+Sextant: a more precise instrument using mirrors to bring the star and horizon into the same view. Requires quality glasswork and calibration. The standard instrument for celestial navigation.
+
+Longitude: How Far East or West
+
+Longitude is harder than latitude because there is no fixed reference in the sky for east-west.
+
+Method 1: time difference.
+
+The Sun moves 360 degrees around the Earth (apparent motion) in 24 hours. That is 15 degrees per hour.
+
+If you know the time at a reference location (Greenwich, for example) and the local solar time, the difference in hours multiplied by 15 gives your longitude.
+
+Problem: how do you know the time at the reference location? You need an accurate clock that keeps reference time throughout a voyage.
+
+The marine chronometer (a highly accurate mechanical clock) solved this problem in the 18th century. Before that, longitude at sea was estimated by dead reckoning.
+
+Method 2: dead reckoning.
+
+Track your speed and direction from a known starting point. Speed multiplied by time equals distance. Plot your course on a chart.
+
+Errors accumulate. After weeks at sea, dead reckoning can be off by hundreds of kilometers.
+
+Method 3: celestial events.
+
+Certain astronomical events (lunar eclipses, moons of Jupiter) happen at predictable times. Observe the event, note local time, compare to predicted time at the reference location. The time difference gives longitude.
+
+Requires accurate predictions (ephemeris) and clear skies.
+
+Maps and Charts
+
+A map represents the surface of the Earth on a flat surface. This always involves distortion (a sphere cannot be flattened without stretching or cutting).
+
+Coordinate grid: lines of latitude (horizontal, parallel to equator) and longitude (vertical, through the poles). Any point on Earth can be specified by latitude and longitude.
+
+Scale: the ratio of distance on the map to distance on the ground. A 1:100,000 scale means 1 cm on the map equals 100,000 cm (1 km) on the ground.
+
+Symbols: conventions for representing features (mountains, rivers, roads, cities). A legend explains the symbols.
+
+Nautical charts include depth soundings, hazards, currents, and navigation aids.
+
+Making a map requires surveying: measuring distances and angles on the ground, then drawing them to scale.
+
+Dead Reckoning: Tracking Position
+
+Start from a known position.
+
+Measure your heading (direction of travel, by compass).
+
+Measure your speed (on ships: throw a log overboard attached to a knotted rope, count knots that pass in a fixed time).
+
+Multiply speed by time to get distance traveled.
+
+Plot the course on a chart: from your starting point, draw a line in the direction of your heading, length proportional to distance.
+
+Repeat for each leg of the journey.
+
+Accumulated error is the weakness. Correct by celestial observation whenever possible.
+
+Piloting: Using Landmarks
+
+When in sight of land, use visible features to determine position.
+
+Triangulation: identify two known landmarks. Measure the bearing (compass direction) to each. Draw lines on the chart from each landmark at the measured bearing. Where the lines intersect is your position.
+
+Soundings: measure water depth with a weighted line (lead line). Compare to depths on the chart. Depth contours help locate your position.
+
+Lighthouses, buoys, and day marks provide known reference points along coasts.
+
+Navigation at Sea
+
+Offshore, landmarks are invisible. Use celestial navigation.
+
+Daily routine: at dawn and dusk (when both stars and horizon are visible), take sights of several stars with a sextant. Calculate latitude and longitude. Plot position on chart.
+
+At solar noon, take a sun sight for latitude.
+
+Maintain dead reckoning between celestial fixes.
+
+Watch for current: water moving in a direction different from your course. Currents can push you off course without any sensation of movement. Account for known currents on your chart.
+
+Weather: wind and waves affect speed and heading. Storms can blow you far off course. After a storm, get a celestial fix as soon as skies clear.
+
+The Method
+
+Navigation is applied astronomy tested by arrival. Observe: where do the stars say I am? Question: did I reach the intended destination? Hypothesize: my compass has declination error. Test: compare compass bearing to true bearing by celestial observation. Correct: adjust for declination. Share: note the correction on your chart for others. Repeat: every voyage is an experiment.
+
+Error is not evil. Refusing to correct it is.
+
+A ship that runs aground teaches you what hazards to mark. A voyage completed on schedule teaches you what methods to trust. The key is to observe, adjust, and try again.
+
+Start simple. Following the coast is easier than crossing an ocean. A shadow stick is easier than a sextant. Dead reckoning is easier than celestial navigation but accumulates error. Master the basics before attempting the complex.
+
+The progression of navigation mirrors the progression of exploration. Coastal piloting enables local trade. Celestial navigation enables ocean crossings. Accurate chronometers enable precise longitude. Accurate maps enable reliable routes. Each advance in navigation expands the world available to civilization.
+
+Trade depends on navigation. Resources in one place must reach markets in another. Without navigation, each region is isolated. With navigation, the world becomes a single market. Specialization accelerates. Civilization advances.
+
+Your task: find your way. The stars are fixed. The Sun is predictable. The Earth has measurable geometry. The tools are compass, clock, sextant, and chart. With these, you can reach any point on Earth and return home.
+
+In the beginning there was infinite change. From change came the elements. From the elements came the Earth. From the Earth came patterns: sunrise, sunset, the wheeling stars, the turning seasons. From patterns came navigation. Navigation is the art of reading the patterns and using them to move with purpose. Read well, and the world is open to you. Fail to read, and you are lost.

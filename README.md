@@ -35,6 +35,16 @@ A method for prosecuting fraud, spam, deception, and other harms on digital plat
 - [`prosecution-framework/cases/`](prosecution-framework/cases/) — Case archive (filed prosecutions)
 - [`prosecution-framework/bluesky-labeler-research.md`](prosecution-framework/bluesky-labeler-research.md) — Cross-platform expansion via AT Protocol
 
+### Encyclopedia Galactica
+A complete curriculum for restarting civilization from first principles. 18 texts covering logic, physics, chemistry, biology, economics, history, survival, agriculture, materials, infrastructure, medicine, communication, navigation, and social organization.
+
+~148,000 words of simple English procedures. A survivor with these texts can rebuild civilization from nothing.
+
+- [`encyclopedia/`](encyclopedia/) — The full curriculum
+- [`encyclopedia/README.md`](encyclopedia/README.md) — Reading order and volume structure
+
+Designed for print publication as a four-volume set. Use it, adapt it, translate it, sell it. It's a gift to humanity.
+
 ### Economic Simulation
 A model of trust-backed IOU currency under growth, testing whether a voluntary economy with prosecution services resists inflation and wealth concentration.
 

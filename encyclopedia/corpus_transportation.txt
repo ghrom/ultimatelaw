@@ -1,0 +1,215 @@
+Transportation: Moving Goods and People
+
+This corpus teaches transportation technology in simple, clear English. It builds on everything you have already learned. Physics gave you forces, levers, and buoyancy. Materials gave you wood, metal, and rope. Infrastructure gave you roads and bridges. Economics taught you that trade requires moving goods from where they are to where they are wanted.
+
+Now you learn how to build vehicles that move on land and water, multiplying the distance and weight a human can transport.
+
+Transportation is applied physics. You learned that force equals mass times acceleration. Now you build a cart that lets one person move what would take ten to carry. You learned about buoyancy. Now you build a boat that carries tons of cargo on water. You learned about wind. Now you build a sail that captures wind energy for propulsion.
+
+Civilization advances when transportation costs fall. Low-cost transport enables specialization: regions can produce what they do best and trade for the rest. High-cost transport traps regions in subsistence. Every improvement in transportation expands the market and deepens the division of labor.
+
+In the beginning there was infinite change. From change came the elements. From the elements came materials. From materials came tools. From tools came vehicles. Vehicles are tools that move across distance.
+
+Land Transport: The Wheel
+
+The wheel is perhaps the most important mechanical invention. A wheel converts linear force into rotational motion with minimal friction.
+
+Making a wheel.
+
+Solid wheel (simplest): cut a round cross-section from a log. Drill or carve a hole through the center for the axle. Heavy, prone to cracking, but functional.
+
+Three-plank wheel: cut three planks slightly wider than the desired wheel diameter. Arrange with the middle plank horizontal and the outer two at slight angles. Carve the assembly into a circle. Cut a hole for the axle. Lighter than a solid wheel.
+
+Spoked wheel: a hub (center piece), spokes (radial pieces), and rim (outer ring). Requires skilled woodworking or metalworking. Much lighter than solid wheels, stronger for its weight.
+
+Hub: turn on a lathe (if available) or carve by hand. The axle hole must be smooth and sized precisely.
+
+Spokes: straight, strong wood (oak, ash, hickory). Mortise into the hub and rim.
+
+Rim: bend a strip of wood using heat and steam, or assemble from curved segments joined together.
+
+Tire: a metal band (iron) shrunk onto the rim. Heat the band until it expands, place on the wheel, quench with water. The band contracts as it cools, gripping the rim tightly. Protects wood from wear.
+
+Axle.
+
+The axle is a shaft connecting two wheels. It can rotate with the wheels (fixed to wheels, rotating in brackets on the vehicle frame) or remain fixed while the wheels rotate on it (wheels have greased bearings).
+
+Rotating axle: simpler to build, common on heavy carts.
+
+Fixed axle: less friction, allows differential wheel speeds (important for turning), used on lighter vehicles.
+
+Lubrication: grease (animal fat, tallow) reduces friction between axle and bearing. Reapply regularly.
+
+Cart.
+
+A simple two-wheeled vehicle pulled by a human, animal, or attached to a larger vehicle.
+
+Frame: two parallel shafts connected by cross-beams. The load rests on the cross-beams.
+
+Wheels attach to an axle beneath the frame.
+
+Shafts extend forward for the draft animal (ox, horse, donkey) or human puller.
+
+Wagon.
+
+A four-wheeled vehicle for heavier loads.
+
+Two axles: front and rear.
+
+Front axle pivots for steering (the axle assembly is attached to the frame by a vertical pin, allowing rotation).
+
+More stable than a two-wheeled cart but requires a more even road surface.
+
+Draft animals.
+
+Oxen: strong, slow, steady. Can pull heavy loads on poor roads. Yoke (harness) rests on the neck.
+
+Horses: faster, more nimble. Require better roads. Use a collar (padded harness around the shoulders) for efficient pulling. The ancient throat-strap harness choked the horse; the shoulder collar was a major improvement.
+
+Donkeys, mules: smaller, sure-footed, good for mountain paths.
+
+Harness must distribute the pulling force across the animal's body without restricting breathing or movement.
+
+Sled.
+
+A platform on runners (smooth beams) that slide across the ground. Useful on snow, ice, or wet grass.
+
+Runners: smooth wood, bone, or metal. Wide runners distribute weight, preventing sinking in soft surfaces.
+
+Sleds predate wheels and work where wheels cannot: deep snow, muddy fields, forests without roads.
+
+Wheelbarrow.
+
+A single-wheeled cart for one person. The wheel is at the front, the handles at the back.
+
+The operator lifts the handles, balancing the load over the wheel. The wheel bears most of the weight.
+
+Highly maneuverable in tight spaces. Useful for construction, gardening, mining.
+
+Water Transport: Boats and Ships
+
+Water transport is far more efficient than land transport. Moving a ton of goods by water requires a fraction of the energy required to move it by land.
+
+Raft.
+
+The simplest watercraft: logs or bundles of buoyant material lashed together.
+
+Floats but is slow, hard to steer, and sits low in the water.
+
+Suitable for calm rivers and lakes, moving heavy cargo short distances.
+
+Dugout canoe.
+
+Hollow out a log to create a boat. One of the oldest boat types.
+
+Select a straight log (length: desired boat length, diameter: at least 50 cm).
+
+Char the interior with controlled fire to soften the wood. Scrape out the charred layer with adzes and gouges. Repeat until the desired depth is reached.
+
+Leave the ends solid for strength. Smooth the interior.
+
+A dugout is stable, durable, and can be quite large. The limiting factor is the size of available logs.
+
+Plank boat.
+
+Built from planks (flat pieces of wood) attached to a frame.
+
+Frame (skeleton): keel (the central spine running bow to stern), ribs (curved pieces extending from the keel to the sides), stem and stern posts (vertical pieces at bow and stern).
+
+Carvel construction: planks laid edge-to-edge against the ribs, creating a smooth hull. Seams are caulked (filled with oakum—loose hemp or jute fibers—and sealed with pitch).
+
+Clinker (lapstrake) construction: planks overlap like shingles. Each plank is fastened to the one below. Creates a ridged hull, stronger than carvel for the same thickness.
+
+Planks are attached to the frame with wooden pegs (treenails), iron nails, or stitched with rope through drilled holes.
+
+Waterproofing: caulk seams with oakum and pitch. Paint or tar the exterior.
+
+Sails.
+
+A sail captures wind energy, propelling the boat without rowing.
+
+Square sail: a rectangular sail hung from a horizontal yard (spar) across the mast. Efficient when the wind is behind (downwind sailing). Less effective for sailing across or into the wind.
+
+Fore-and-aft sail (lateen, gaff): a triangular or quadrilateral sail set along the length of the boat. Can sail at sharper angles to the wind (closer to upwind).
+
+Running rigging: ropes that adjust the sail position (sheets, halyards).
+
+Standing rigging: fixed ropes that support the mast (stays, shrouds).
+
+Sailing upwind requires tacking: sailing at an angle to the wind, then turning and sailing at an angle on the other side, zigzagging toward the destination.
+
+Oars and paddles.
+
+Oars: long, lever-action paddles fixed to the boat at a pivot point (oarlock). The rower faces backward, pulling the oar toward themselves.
+
+Paddles: shorter, held in the hands, used with a forward-facing stroke. Common in canoes and kayaks.
+
+Oars provide more power (longer lever arm) but require oarlocks. Paddles are simpler and more versatile.
+
+Steering.
+
+Rudder: a vertical blade at the stern that pivots to deflect water flow, turning the boat. Connected to a tiller (lever) or wheel that the helmsman controls.
+
+Steering oar: a large oar at the stern or side used to steer by pushing against the water.
+
+Sail trim: adjusting the sails can also steer the boat by changing the balance of forces.
+
+Anchoring.
+
+Anchor: a heavy weight, often with flukes (pointed arms) that dig into the seabed. Attached to a rope (rode) or chain.
+
+Drop the anchor over the side. The flukes catch and hold. The rope runs out as the boat drifts back, then holds.
+
+Retrieve by pulling in the rope while the boat moves forward over the anchor.
+
+In strong currents or storms, multiple anchors may be needed.
+
+Load and balance.
+
+A boat has a limited capacity (tonnage). Overloading sinks the boat.
+
+Weight must be distributed evenly. Heavy cargo on one side capsizes the boat. Place heavy items low and centered.
+
+Waterline: the line where the water surface meets the hull. The deeper the waterline, the less freeboard (height of deck above water) and the greater the risk of swamping.
+
+Propulsion Alternatives
+
+Animals for boats.
+
+Towpath: a path along a river or canal where animals (horses, mules) walk while towing a boat via a long rope. Common on canals. The animal does the work; the water provides low-friction movement.
+
+Engines.
+
+Steam engines (from the infrastructure corpus) can be adapted to boats. A steam engine drives a paddle wheel (mounted on the side or stern) or a propeller (screw). Requires fuel (coal or wood) and water for the boiler.
+
+The steamship ended dependence on wind, enabling reliable schedules.
+
+Maintenance and Repair
+
+Wood rots when wet. Keep boats dry when stored (haul out). Treat with tar or paint.
+
+Caulking dries out and shrinks. Recaulk seams periodically.
+
+Rigging (ropes) weakens with use. Inspect and replace worn lines.
+
+Sails tear and wear. Repair small tears with stitching. Replace entire sails when worn thin.
+
+Wheels wear, especially at the rim. Replace metal tires. Regrease axles.
+
+The Method
+
+Transportation is applied physics tested by journey. Observe: did the cargo arrive intact? Question: why did the wheel break? Hypothesize: the spokes were too thin. Test: build a wheel with thicker spokes. Correct: adjust the design. Share: teach others what worked. Repeat: every vehicle is an experiment.
+
+Error is not evil. Refusing to correct it is.
+
+A cart that breaks teaches you what to reinforce. A boat that sails fast teaches you what to repeat. The key is to observe, adjust, and try again.
+
+Start simple. A sled is easier than a wheeled cart. A raft is easier than a plank boat. A paddle is easier than a sail. Master the basics before attempting the complex.
+
+The progression of transportation mirrors the progression of trade. Carrying on foot limits trade to nearby neighbors. Carts extend range to regional markets. Boats open rivers and coasts. Ships cross oceans. Each improvement in transportation expands the market. Larger markets support more specialization. More specialization accelerates civilization.
+
+Movement is connection. Goods from far lands. Ideas from distant peoples. Resources from remote deposits. Transportation breaks isolation. It links the mine to the forge, the farm to the city, the producer to the consumer.
+
+Your task: move things. The physics is constant. The materials are available. You provide the design, the labor, and the maintenance. The rest is transportation.
+
+In the beginning there was infinite change. From change came the elements. From the elements came materials. From materials came tools. From tools came vehicles: carts, boats, ships. Vehicles are tools that move across distance, carrying burdens no human could carry alone. Build well, and your vehicles serve trade for years. Build poorly, and you learn what to fix next time. Build, test, correct, repeat.
