@@ -6,6 +6,9 @@ This repository contains the open-source tools and framework maintained by [ulti
 
 ## What's Here
 
+### University
+[Ultimate Law University](UNIVERSITY.md) — Education through falsification. Four programs: Constitutional Studies (the dictionary), Applied Ethics (prosecution framework), First Principles Knowledge (encyclopedia), Economic Theory (simulation). No tuition, no degrees — just falsifiable curriculum and the challenge to break it.
+
 ### Dictionary
 The [Coherent Dictionary of Simple English](https://ultimatelaw.org/coherent-dictionary-of-simple-english/) — a normative dictionary that defines key terms (fraud, deception, coercion, crime, punishment, and more) within a consistent logical framework. Every definition avoids contradictions and aligns with core principles: logic as the top rule, the passive Golden Rule, free trade, no victim no crime, and voluntary interaction.
 
