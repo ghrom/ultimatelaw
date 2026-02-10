@@ -94,6 +94,42 @@ Publish the Encyclopedia Galactica as a 4-volume print book set on Amazon, gener
 - [ ] Consider: Goodreads, relevant subreddits, prepper communities
 - [ ] Add to ultimatelaw.org
 
+### Phase 6: Library Distribution (Charity)
+
+Physical books in public libraries ensure the knowledge survives infrastructure failures and reaches people who can't or won't buy online.
+
+**Target libraries:**
+- [ ] Local public libraries (accept donations, often have "local author" sections)
+- [ ] University libraries (engineering, environmental studies, history departments)
+- [ ] Community college libraries
+- [ ] Prison libraries (captive audience with time to learn)
+- [ ] Survivalist/prepper community libraries and reading rooms
+- [ ] Makerspaces and hackerspaces
+- [ ] Rural libraries (often underserved, appreciate donations)
+- [ ] International: libraries in developing nations (knowledge matters most where infrastructure is fragile)
+
+**Process:**
+- [ ] Order author copies at print cost (~$4-6/volume, ~$20/set)
+- [ ] Write a brief donation letter explaining the project
+- [ ] Include GitHub link for digital access and contributions
+- [ ] Track donations for tax deduction if applicable
+- [ ] Request placement in Reference or Science sections
+
+**Scale:**
+| Reach | Sets | Cost |
+|-------|------|------|
+| Local proof | 10 | ~$200 |
+| Regional | 50 | ~$1,000 |
+| National | 100 | ~$2,000 |
+| Global seed | 250 | ~$5,000 |
+
+**Why this matters:**
+- Libraries are the last truly public knowledge infrastructure
+- A book on a shelf outlasts any website
+- Librarians curate; once accepted, it stays
+- Prison libraries create readers with time and motivation
+- One copy in a rural library might be the only physics textbook for miles
+
 ## Pricing Strategy
 
 | Option | Price/Vol | Royalty (~60% - print) | 4-Vol Revenue |
@@ -117,6 +153,7 @@ Print costs vary by page count. Use KDP calculator for exact figures.
 - [ ] At least 1 sale within first month (proof of concept)
 - [ ] Author copies received and quality verified
 - [ ] Links added to GitHub and ultimatelaw.org
+- [ ] At least 10 library donations completed (Phase 6 proof of concept)
 
 ## Resources
 
