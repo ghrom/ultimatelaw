@@ -1,0 +1,108 @@
+# Coherent Dictionary Extension: Modern Terms
+# Derived from Ultimate Law Training Curriculum
+# Format: term\n[pos] definition\n
+
+# === ELECTRONICS & COMPUTING ===
+
+transistor
+[n.] A semiconductor device that acts as a tiny switch, choosing between 0 and 1. The fundamental unit of digital electronics, to electronics what the cell is to biology. Invented December 16, 1947 at Bell Labs by Bardeen, Brattain, and Shockley.
+
+semiconductor
+[n.] A material with electrical conductivity between that of a conductor and an insulator. Silicon and germanium sit on the boundary between metals and nonmetals in the periodic table; their intermediate bonding properties make them useful as switches that can be turned on and off.
+
+logic gate
+[n.] A circuit built from transistors that implements a Boolean function. Takes one or more binary inputs and produces a binary output. Logic gates are where mathematics becomes machinery.
+
+flip-flop
+[n.] A circuit that remembers one bit. The fundamental unit of computer memory; stores a single binary value (0 or 1) until deliberately changed.
+
+algorithm
+[n.] A step-by-step procedure for solving a problem. Has a beginning, a sequence of precise instructions, and an end. Must terminate. Named after Al-Khwarizmi (c. 780 AD), whose work gave us both "algorithm" and "algebra."
+
+encryption
+[n.] The technology of consent. Transforms information so only authorized parties can read it. Protects privacy and enables secure voluntary communication.
+
+protocol
+[n.] A set of rules that two systems agree to follow when communicating. Enables cooperation between machines that have never met, just as language enables cooperation between humans who share no other culture.
+
+database
+[n.] A system for storing, organizing, and retrieving structured data. The institutional memory of digital systems.
+
+# === ARTIFICIAL INTELLIGENCE ===
+
+neural network
+[n.] A computational system inspired by the biological neurons in the brain. Consists of layers of artificial neurons connected by weighted edges. Learns by adjusting weights through training to produce correct outputs for given inputs.
+
+perceptron
+[n.] A single-layer neural network that can classify linearly separable patterns. The first machine that could learn to classify patterns by adjusting its own weights. Invented by Frank Rosenblatt in 1958.
+
+backpropagation
+[n.] The algorithm for training neural networks by propagating errors backward through the network. Calculates how much each weight contributed to the error and adjusts accordingly. Error correction made computational.
+
+gradient descent
+[n.] The scientific method applied to learning. Iteratively adjusts parameters in the direction that reduces error. Hypothesis (weights), test (forward pass), observe (loss), correct (backward pass), repeat.
+
+transformer
+[n.] A neural network architecture that processes all parts of its input simultaneously through self-attention. Enables parallel processing and captures long-range dependencies. The architecture underlying modern large language models.
+
+attention mechanism
+[n.] A technique that allows a neural network to focus on relevant parts of its input when producing each part of its output. Enables the network to weigh the importance of different inputs dynamically.
+
+# === BIOLOGY & HEALTH ===
+
+genome
+[n.] A program written in a four-letter alphabet (A, T, G, C). The complete set of genetic instructions encoded in DNA that defines an organism. The human genome contains approximately 3 billion base pairs.
+
+DNA
+[n.] Deoxyribonucleic acid. The molecule that carries genetic information in all known living organisms. A double helix structure that encodes instructions using four nucleotide bases: adenine, thymine, guanine, and cytosine.
+
+RNA
+[n.] Ribonucleic acid. A molecule that carries genetic information and performs multiple functions in cells. Unlike DNA, typically single-stranded. Messenger RNA (mRNA) carries instructions from DNA to ribosomes for protein synthesis.
+
+mRNA
+[n.] Messenger RNA. Carries genetic instructions from DNA in the nucleus to ribosomes in the cytoplasm, where proteins are assembled. The basis of a new class of vaccines that teach cells to produce specific proteins.
+
+CRISPR
+[n.] Find-and-replace for DNA. A gene-editing technology derived from bacterial immune systems that allows precise modification of genetic sequences. Requires informed consent when applied to humans; germline editing raises profound ethical questions.
+
+epigenetics
+[n.] The system of switches, dials, and volume controls that determines which parts of the genome are active in each cell at each moment. Heritable changes in gene expression that do not involve changes to the DNA sequence itself.
+
+microbiome
+[n.] A marketplace of 38 trillion participants, each acting in its own interest, producing collective benefit through voluntary symbiosis. The community of microorganisms (bacteria, viruses, fungi) living in and on the human body.
+
+vaccine
+[n.] A preparation that trains the adaptive immune system to recognize and fight specific pathogens without causing the disease. Works by presenting antigens that trigger memory cell formation. Voluntary protection through informed choice.
+
+enzyme
+[n.] A protein that catalyzes (speeds up) a specific chemical reaction without being consumed. The molecular machines that perform most of the work in cells.
+
+# === PHYSICS & CHEMISTRY ===
+
+entropy
+[n.] A measure of disorder, of randomness, of the number of ways things can be arranged. The second law of thermodynamics states that entropy in a closed system always increases. Without energy input, things fall apart; order decays; complexity dissolves.
+
+thermodynamics
+[n.] The branch of physics dealing with heat, energy, and their transformations. The first law is conservation of energy. The second law is that entropy always increases. Together they explain why life requires constant energy input to maintain order.
+
+Boolean
+[adj.] Of or relating to the algebra of logic developed by George Boole in 1854. Boolean values are true or false (1 or 0). Boolean operations (AND, OR, NOT) are the atoms of reasoning and the engineering blueprint for every digital mind.
+
+# === ECONOMICS & GOVERNANCE ===
+
+cryptocurrency
+[n.] A digital token secured by cryptography. The underlying technology — cryptographic proof, distributed consensus — has legitimate applications in trustless infrastructure. However, the ecosystem as it exists is overwhelmingly parasitic: most tokens are zero-sum speculation where early holders profit at the expense of later buyers, structurally identical to a Ponzi scheme wrapped in technical language. A currency must store value through connection to real production; a token whose price depends entirely on finding the next buyer stores nothing. Evaluate the technology honestly; do not confuse clever engineering with sound money.
+
+blockchain
+[n.] A distributed ledger that records transactions across many computers such that no single party can alter the record without consensus. The technology enables transparency and cryptographic proof of sequence. Legitimate uses include supply chain verification and tamper-evident records. However, "decentralization" is frequently invoked as marketing rather than engineering necessity — most applications that claim to need a blockchain work better with a simple database and an auditor.
+
+# === CROSS-REFERENCES ===
+
+error correction
+[n.] The process of detecting and fixing errors to maintain accuracy and order. Fundamental to life (DNA repair, immune system), science (falsification), computing (checksums, TCP), and ethics (acknowledging and correcting mistakes). "Error is not evil. Refusing to correct it is."
+
+voluntary cooperation
+[n.] Interaction based on mutual consent rather than coercion. The foundation of trade, science, open-source development, and all sustainable human progress. Creates value for all parties; coercion destroys it.
+
+consent
+[n.] Voluntary agreement by a person with the capacity to understand what they are agreeing to. Required for legitimate interaction. Cannot be manufactured through deception or extracted through force. The foundation of medical ethics, contract law, and the passive Golden Rule.
