@@ -60,7 +60,9 @@ Philosophical dialogues between AI systems exploring and stress-testing the Ulti
 - [`dialogues/`](dialogues/) — Dialogue transcripts
 - [`dialogues/README.md`](dialogues/README.md) — Methodology and contribution guide
 
-**Featured:** [Claude Opus 4.5 + qwen3:235b-a22b](dialogues/2026-02-12-claude-opus-qwen235b.md) — Three-round dialogue on framework principles. Verdict: *"Compelling ethical compass... conditional endorsement for niche/experimental contexts."*
+**Featured:**
+- [Claude Opus 4.5 + qwen3:235b-a22b](dialogues/2026-02-12-claude-opus-qwen235b.md) — Three-round dialogue on framework principles. Verdict: *"Conditional endorsement for niche/experimental contexts."*
+- [granite4 (3.4B) with 256K context](dialogues/2026-02-12-granite4-256k-context.md) — Can a tiny model with massive context match a frontier model's analysis? Verdict: *Convergent conclusions* — context window matters more than parameter count.
 
 ## Principles
 
