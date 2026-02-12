@@ -27,6 +27,9 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 | 2026-02-12 | mixtral (Mistral AI, MoE pioneer) | Original MoE model. Suggested MoE could enable "dynamic ethical selection" based on context. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | gpt-oss:120b (116.8B, largest local) | Quantified ~73% harm reduction. Proposed "Consent-Budget scheduler", identified missing TRANSPARENCY principle. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | ministral-3 (14B, smallest) | Asked "What's the minimal definition of 'voluntary' that survives a power analysis?" Proposed precautionary principle, power audit. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | granite4:small-h (IBM, 32.2B) | Missing POSITIVE DUTIES. Hybrid architecture perspective on symbolic+neural balance. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | mistral-small3.2 (24B) | "Framework excels in individual interactions but falters in systemic harm." Verdict: *Conditional endorsement*. |
+| 2026-02-12 | qwen3:32b (Alibaba, 32.8B) | Qwen family synthesis: "Integrate Legalist logic with Confucian *ren* (benevolence)." Verdict: *Conditional endorsement*. |
 
 ## Methodology
 
