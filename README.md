@@ -54,6 +54,14 @@ A model of trust-backed IOU currency under growth, testing whether a voluntary e
 - [`simulation/economy-sim.py`](simulation/economy-sim.py) — Python simulation
 - [`simulation/findings.md`](simulation/findings.md) — Results and design implications
 
+### AI Dialogues
+Philosophical dialogues between AI systems exploring and stress-testing the Ultimate Law framework. Different training paradigms (constitutional AI, instruction tuning, MoE architectures) bring different perspectives. Agreement across architectures suggests the framework tracks something real; disagreement reveals genuine tensions.
+
+- [`dialogues/`](dialogues/) — Dialogue transcripts
+- [`dialogues/README.md`](dialogues/README.md) — Methodology and contribution guide
+
+**Featured:** [Claude Opus 4.5 + qwen3:235b-a22b](dialogues/2026-02-12-claude-opus-qwen235b.md) — Three-round dialogue on framework principles. Verdict: *"Compelling ethical compass... conditional endorsement for niche/experimental contexts."*
+
 ## Principles
 
 1. **Logic is the supreme rule.** No authority, tradition, or majority overrides a valid logical argument.
