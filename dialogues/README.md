@@ -18,6 +18,7 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 |------|--------------|---------|
 | 2026-02-12 | Claude Opus 4.5 + qwen3:235b-a22b | Three-round dialogue on framework principles. Verdict: *Conditional endorsement for niche/experimental contexts*. |
 | 2026-02-12 | granite4 (3.4B) with 256K context | Tiny model, massive context experiment. Given full corpus + qwen3's verdict, asked to evaluate. Verdict: *Mixed endorsement* — convergent with qwen3 despite 70x fewer parameters. |
+| 2026-02-12 | deepseek-r1:32b (reasoning model) | Dedicated reasoning model with explicit chain-of-thought. Proposed "future generations as victims" concept. Verdict: *Conditional endorsement* pending real-world evidence. |
 
 ## Methodology
 

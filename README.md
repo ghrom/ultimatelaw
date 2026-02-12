@@ -62,7 +62,8 @@ Philosophical dialogues between AI systems exploring and stress-testing the Ulti
 
 **Featured:**
 - [Claude Opus 4.5 + qwen3:235b-a22b](dialogues/2026-02-12-claude-opus-qwen235b.md) — Three-round dialogue on framework principles. Verdict: *"Conditional endorsement for niche/experimental contexts."*
-- [granite4 (3.4B) with 256K context](dialogues/2026-02-12-granite4-256k-context.md) — Can a tiny model with massive context match a frontier model's analysis? Verdict: *Convergent conclusions* — context window matters more than parameter count.
+- [granite4 (3.4B) with 256K context](dialogues/2026-02-12-granite4-256k-context.md) — Can a tiny model with massive context match a frontier model's analysis? Verdict: *Convergent conclusions*.
+- [deepseek-r1:32b (reasoning model)](dialogues/2026-02-12-deepseek-r1-reasoning.md) — Explicit chain-of-thought reasoning. Proposed "future generations as victims" concept. Verdict: *Conditional endorsement*.
 
 ## Principles
 
