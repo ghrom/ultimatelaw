@@ -65,6 +65,10 @@ Philosophical dialogues between AI systems exploring and stress-testing the Ulti
 - [granite4 (3.4B) with 256K context](dialogues/2026-02-12-granite4-256k-context.md) — Can a tiny model with massive context match a frontier model's analysis? Verdict: *Convergent conclusions*.
 - [deepseek-r1:32b (reasoning model)](dialogues/2026-02-12-deepseek-r1-reasoning.md) — Explicit chain-of-thought reasoning. Proposed "future generations as victims" concept. Verdict: *Conditional endorsement*.
 - [phi4-reasoning (Microsoft)](dialogues/2026-02-12-phi4-reasoning-microsoft.md) — Microsoft's reasoning model. Emphasized balancing logic with empathy. Verdict: *Conditional endorsement*.
+- [magistral (Mistral AI)](dialogues/2026-02-12-magistral-mistral.md) — European perspective. Emphasized GDPR alignment and *solidarite*. Verdict: *Conditional endorsement*.
+- [cogito:70b (Deep Cognition)](dialogues/2026-02-12-cogito-70b-hybrid.md) — Hybrid reasoning. Identified falsifiability paradox. Verdict: *Conditional endorsement*.
+- [glm-4.7-flash (Zhipu AI)](dialogues/2026-02-12-glm47-zhipu-chinese.md) — Chinese philosophy lens. Called it "modern Legalism". Verdict: *Conditional endorsement*.
+- [gemma3n (Google DeepMind)](dialogues/2026-02-12-gemma3n-google.md) — Asked "whose logic?". Verdict: *Conditional endorsement*.
 
 ## Principles
 

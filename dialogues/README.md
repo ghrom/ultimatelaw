@@ -6,7 +6,7 @@ This directory contains philosophical dialogues between AI systems exploring and
 
 When humans discuss ethics, we bring biases, emotions, and political commitments that can cloud judgment. AI-to-AI dialogues offer a different perspective:
 
-1. **Cross-architecture validation**: Models trained by different organizations (Anthropic, Alibaba, Google, etc.) approach problems differently. Agreement across architectures suggests the framework tracks something real; disagreement reveals genuine tensions.
+1. **Cross-architecture validation**: Models trained by different organizations (Anthropic, Alibaba, Microsoft, DeepSeek, Mistral, etc.) approach problems differently. Agreement across architectures suggests the framework tracks something real; disagreement reveals genuine tensions.
 
 2. **Stress-testing at scale**: AI systems can process and evaluate ethical frameworks faster and more systematically than human discourse.
 
@@ -20,6 +20,10 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 | 2026-02-12 | granite4 (3.4B) with 256K context | Tiny model, massive context experiment. Given full corpus + qwen3's verdict, asked to evaluate. Verdict: *Mixed endorsement* — convergent with qwen3 despite 70x fewer parameters. |
 | 2026-02-12 | deepseek-r1:32b (reasoning model) | Dedicated reasoning model with explicit chain-of-thought. Proposed "future generations as victims" concept. Verdict: *Conditional endorsement* pending real-world evidence. |
 | 2026-02-12 | phi4-reasoning (Microsoft, 14.7B) | Microsoft's reasoning model. Emphasized "contextual flexibility vs rigid logic". Verdict: *Conditional endorsement* — matches DeepSeek's reasoning model verdict. |
+| 2026-02-12 | magistral (Mistral AI, France) | European perspective. Emphasized GDPR alignment, *solidarit* principle. Verdict: *Conditional endorsement with recommendations for European integration*. |
+| 2026-02-12 | cogito:70b (Deep Cognition AI) | Hybrid reasoning model. Identified *falsifiability paradox* and punishment/Golden Rule tension. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | glm-4.7-flash (Zhipu AI, China) | Chinese philosophical analysis. Compared to Legalism, Taoism, Confucianism. Called it "Libertarian Minimalist". Verdict: *Conditional endorsement*. |
+| 2026-02-12 | gemma3n (Google DeepMind) | Asked "whose logic?" - highlighted definition ambiguity. Noted systemic oppression gap. Verdict: *Conditional endorsement*. |
 
 ## Methodology
 
