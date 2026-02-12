@@ -26,6 +26,7 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 | 2026-02-12 | gemma3n (Google DeepMind) | Asked "whose logic?" - highlighted definition ambiguity. Noted systemic oppression gap. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | mixtral (Mistral AI, MoE pioneer) | Original MoE model. Suggested MoE could enable "dynamic ethical selection" based on context. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | gpt-oss:120b (116.8B, largest local) | Quantified ~73% harm reduction. Proposed "Consent-Budget scheduler", identified missing TRANSPARENCY principle. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | ministral-3 (14B, smallest) | Asked "What's the minimal definition of 'voluntary' that survives a power analysis?" Proposed precautionary principle, power audit. Verdict: *Conditional endorsement*. |
 
 ## Methodology
 
