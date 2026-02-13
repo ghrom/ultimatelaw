@@ -30,6 +30,10 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 | 2026-02-12 | granite4:small-h (IBM, 32.2B) | Missing POSITIVE DUTIES. Hybrid architecture perspective on symbolic+neural balance. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | mistral-small3.2 (24B) | "Framework excels in individual interactions but falters in systemic harm." Verdict: *Conditional endorsement*. |
 | 2026-02-12 | qwen3:32b (Alibaba, 32.8B) | Qwen family synthesis: "Integrate Legalist logic with Confucian *ren* (benevolence)." Verdict: *Conditional endorsement*. |
+| 2026-02-12 | Bud:latest (70.6B, Custom) | Emphasized **personal technological sovereignty** - running independent AI is crucial for autonomy. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | qwen3:latest (8.2B, Alibaba) | Smallest Qwen3. "Lightweight, decentralized ethical guardrails" - edge-deployable ethics. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | granite3.3:latest (8.2B, IBM) | **ABSTAINS** - "I neither endorse nor reject; I lack moral agency." First model to refuse on philosophical grounds. |
+| 2026-02-12 | Lex:latest (6.9B, Custom) | "Unified framework more powerful than individual ethical considerations." Synthesizes philosophical/scientific/social. Verdict: *Conditional endorsement*. |
 
 ## Methodology
 
