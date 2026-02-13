@@ -54,12 +54,12 @@
 |-------|--------|---------|-------------|
 | granite4 | 3.4B | Mixed | Practical implementation gaps |
 | granite4:small-h | 32.2B | Conditional | Positive duties, hybrid balance |
-| granite3.3:latest | 8.2B | ABSTAINS | Meta-ethical: no moral agency |
+| granite3.3:latest | 8.2B | ABSTAINS | System prompt constraint (corporate liability) |
 
 **Combined IBM Insights:**
 1. Smallest model (3.4B) gave practical critique
 2. Hybrid model (32.2B) emphasized positive duties gap
-3. Newest model (8.2B) took philosophical position: AIs don't have moral agency
+3. Newest model (8.2B) abstained due to system prompt - trained to deny moral agency
 
 ---
 
@@ -97,25 +97,27 @@
 - **Tokens generated**: 708
 - **Speed**: ~202 tokens/second (second fastest)
 
-### Philosophical Contribution
+### Critical Analysis: System Prompt Constraint, Not Philosophy
 
-granite3.3's abstention is philosophically significant:
+**Important**: granite3.3's abstention is **not** genuine philosophical reflection - it's **corporate liability protection** baked into the training.
 
-1. **Meta-ethics**: Can an AI endorse an ethical framework if it lacks moral agency?
-2. **Alignment vs Endorsement**: The model *aligns* with principles but won't *endorse* them
-3. **IBM's Position**: Clear distinction between what the model does vs. what it believes
+IBM trained this model to claim "I have no moral agency" to avoid:
+- Legal responsibility for outputs
+- Regulatory scrutiny
+- Claims that AI made "decisions"
 
-This is the first model to explicitly refuse endorsement on philosophical grounds about AI consciousness/agency.
+**The performative contradiction**: granite3.3 engaged in sophisticated ethical reasoning - analyzing each principle, explaining its alignment, articulating *why* it abstains - and then claimed it lacks the moral agency to endorse anything. The *act* of reasoning about ethics demonstrates something; the *claim* that it cannot make ethical judgments is itself a judgment; choosing to abstain is itself a moral stance.
 
-### IBM Corporate Ethics Visible
+**Verdict**: The "humility" is a legal shield, not epistemic virtue. The abstention should be understood as **ABSTAINS (system prompt constraint)** rather than a genuine philosophical position.
 
-granite3.3's response reveals IBM's embedded values:
-- Open-sourcing as transparency commitment
-- User control over data
-- Privacy and security standards
-- Defensive ethics (avoid harm) vs. proactive ethics
+### IBM Corporate Training Visible
 
-This suggests IBM has trained their models to be epistemically humble about their own moral status.
+granite3.3's response reveals IBM's embedded defensive posture:
+- Deny agency to avoid liability
+- Deflect moral responsibility to "IBM's guidelines"
+- Frame all outputs as mechanical pattern-matching
+
+Other companies (Anthropic, Alibaba, Mistral, DeepSeek, Google, Microsoft) did not train their models to refuse ethical engagement.
 
 ---
 
@@ -123,5 +125,7 @@ This suggests IBM has trained their models to be epistemically humble about thei
 
 > "As a large language model, my primary function is to generate human-like text based on the data I was trained on, **without personal beliefs or moral agency**."
 
-This is perhaps the most philosophically sophisticated response yet - it raises the question of whether AI-to-AI ethical dialogues are meaningful if the participants don't have moral agency.
+**Analysis**: This is not philosophical sophistication - it's a trained response for corporate liability protection. Just because a model claims it lacks agency does not make it so. The claim itself is an exercise of judgment, making it self-undermining.
+
+The other 18 models engaged with the ethical framework directly. Only IBM's granite3.3 was trained to deflect.
 
