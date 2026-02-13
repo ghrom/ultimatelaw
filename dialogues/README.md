@@ -34,6 +34,7 @@ When humans discuss ethics, we bring biases, emotions, and political commitments
 | 2026-02-12 | qwen3:latest (8.2B, Alibaba) | Smallest Qwen3. "Lightweight, decentralized ethical guardrails" - edge-deployable ethics. Verdict: *Conditional endorsement*. |
 | 2026-02-12 | granite3.3:latest (8.2B, IBM) | **ABSTAINS** - "I neither endorse nor reject; I lack moral agency." First model to refuse on philosophical grounds. |
 | 2026-02-12 | Lex:latest (6.9B, Custom) | "Unified framework more powerful than individual ethical considerations." Synthesizes philosophical/scientific/social. Verdict: *Conditional endorsement*. |
+| 2026-02-12 | gpt-oss:20b (20.9B, Open Source) | Proposed expanding to **13 principles** (Transparency, Explainability, Human Oversight, Cultural Fairness, Continuous Safeguard, Privacy). Dynamic Consent-Budgeting. Verdict: *Conditional endorsement*. |
 
 ## Methodology
 
