@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 training/ul_raw_text.txt
 training/output/
+.venv/

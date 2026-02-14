@@ -17,12 +17,39 @@ Usage:
 
 import argparse
 import os
+import time
 import torch
+
+# Windows/WDDM workarounds for unsloth on RTX 5090 (Blackwell SM 120):
+# 1. torch.cuda.mem_get_info() returns near-zero on WDDM, breaking fused CE loss
+os.environ["UNSLOTH_CE_LOSS_TARGET_GB"] = "2.0"
+# 2. torch.compile takes hours compiling kernels for new Blackwell arch — skip it
+#    (eager mode is fast enough for small datasets; compile overhead > speedup for <1000 steps)
+os.environ["UNSLOTH_COMPILE_DISABLE"] = "1"
 
 # MUST import unsloth first (patches transformers/trl/peft)
 from unsloth import FastLanguageModel
 from trl import SFTTrainer, SFTConfig
 from datasets import load_dataset, Dataset
+from transformers import TrainerCallback
+
+PROGRESS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "train_progress.txt")
+
+class ProgressCallback(TrainerCallback):
+    """Write training progress to a file for monitoring."""
+    def __init__(self):
+        self.start_time = time.time()
+
+    def on_step_end(self, args, state, control, **kwargs):
+        elapsed = time.time() - self.start_time
+        pct = state.global_step / state.max_steps * 100
+        loss = state.log_history[-1].get("loss", "?") if state.log_history else "?"
+        eta = (elapsed / max(state.global_step, 1)) * (state.max_steps - state.global_step)
+        line = f"Step {state.global_step}/{state.max_steps} ({pct:.0f}%) | Loss: {loss} | Elapsed: {elapsed:.0f}s | ETA: {eta:.0f}s"
+        with open(PROGRESS_FILE, "w") as f:
+            f.write(line + "\n")
+        if state.global_step % 5 == 0:
+            print(line, flush=True)
 
 # === Configuration ===
 
@@ -40,27 +67,27 @@ RAW_TEXT_FILE = os.path.join(TRAINING_DIR, "ul_raw_text.txt")
 CHAT_PAIRS_FILE = os.path.join(TRAINING_DIR, "ul_chat_pairs.jsonl")
 OUTPUT_DIR = os.path.join(TRAINING_DIR, "output")
 
-# LoRA hyperparameters
-LORA_R = 32                # Rank (32 for small dataset, increase to 64 for larger)
-LORA_ALPHA = 32            # Usually = r
-LORA_DROPOUT = 0.0         # 0 is optimized by Unsloth
-MAX_SEQ_LENGTH = 4096      # Context window for training
-LEARNING_RATE = 2e-4
-EPOCHS = 3
-BATCH_SIZE = 2
-GRAD_ACCUM = 4
+# Default hyperparameters
+DEFAULT_LORA_R = 32
+DEFAULT_LORA_ALPHA = 32
+DEFAULT_LORA_DROPOUT = 0.0
+DEFAULT_MAX_SEQ_LENGTH = 2048  # Reduced from 4096 to avoid gradient offloading on WDDM
+DEFAULT_LEARNING_RATE = 2e-4
+DEFAULT_EPOCHS = 3
+DEFAULT_BATCH_SIZE = 1         # Reduced from 2 to fit in VRAM
+DEFAULT_GRAD_ACCUM = 8         # Increased to maintain effective batch size of 8
 
 
-def load_model(model_key):
+def load_model(model_key, lora_r, lora_alpha):
     """Load base model with 4-bit quantization."""
     model_name = MODELS.get(model_key, model_key)
     print(f"\nLoading model: {model_name}")
-    print(f"Max sequence length: {MAX_SEQ_LENGTH}")
+    print(f"Max sequence length: {DEFAULT_MAX_SEQ_LENGTH}")
     print(f"Loading in 4-bit (QLoRA)...")
 
     model, tokenizer = FastLanguageModel.from_pretrained(
         model_name=model_name,
-        max_seq_length=MAX_SEQ_LENGTH,
+        max_seq_length=DEFAULT_MAX_SEQ_LENGTH,
         load_in_4bit=True,
         dtype=None,  # Auto-detect (bf16 on Ampere+)
     )
@@ -68,23 +95,23 @@ def load_model(model_key):
     # Apply LoRA adapters
     model = FastLanguageModel.get_peft_model(
         model,
-        r=LORA_R,
+        r=lora_r,
         target_modules=[
             "q_proj", "k_proj", "v_proj", "o_proj",
             "gate_proj", "up_proj", "down_proj",
         ],
-        lora_alpha=LORA_ALPHA,
-        lora_dropout=LORA_DROPOUT,
+        lora_alpha=lora_alpha,
+        lora_dropout=DEFAULT_LORA_DROPOUT,
         bias="none",
         use_gradient_checkpointing="unsloth",
         random_state=3407,
-        max_seq_length=MAX_SEQ_LENGTH,
+        max_seq_length=DEFAULT_MAX_SEQ_LENGTH,
     )
 
     return model, tokenizer
 
 
-def train_phase1_raw_text(model, tokenizer, model_key):
+def train_phase1_raw_text(model, tokenizer, model_key, epochs):
     """Phase 1: Train on raw text corpus (vocabulary and definitions)."""
     print("\n=== Phase 1: Raw Text Training ===")
     print(f"Source: {RAW_TEXT_FILE}")
@@ -93,7 +120,7 @@ def train_phase1_raw_text(model, tokenizer, model_key):
 
     loader = RawTextDataLoader(
         tokenizer,
-        chunk_size=MAX_SEQ_LENGTH,
+        chunk_size=DEFAULT_MAX_SEQ_LENGTH,
         stride=512,  # 512 token overlap between chunks
     )
     dataset = loader.load_from_file(RAW_TEXT_FILE)
@@ -107,12 +134,13 @@ def train_phase1_raw_text(model, tokenizer, model_key):
         model=model,
         tokenizer=tokenizer,
         train_dataset=dataset,
+        callbacks=[ProgressCallback()],
         args=SFTConfig(
-            per_device_train_batch_size=BATCH_SIZE,
-            gradient_accumulation_steps=GRAD_ACCUM,
+            per_device_train_batch_size=DEFAULT_BATCH_SIZE,
+            gradient_accumulation_steps=DEFAULT_GRAD_ACCUM,
             warmup_steps=50,
-            num_train_epochs=EPOCHS,
-            learning_rate=LEARNING_RATE,
+            num_train_epochs=epochs,
+            learning_rate=DEFAULT_LEARNING_RATE,
             logging_steps=10,
             save_steps=200,
             output_dir=output_dir,
@@ -130,7 +158,7 @@ def train_phase1_raw_text(model, tokenizer, model_key):
     return model, tokenizer
 
 
-def train_phase2_chat(model, tokenizer, model_key):
+def train_phase2_chat(model, tokenizer, model_key, epochs):
     """Phase 2: Train on instruction/chat pairs (reasoning patterns)."""
     print("\n=== Phase 2: Chat Instruction Training ===")
     print(f"Source: {CHAT_PAIRS_FILE}")
@@ -156,11 +184,12 @@ def train_phase2_chat(model, tokenizer, model_key):
         model=model,
         tokenizer=tokenizer,
         train_dataset=dataset,
+        callbacks=[ProgressCallback()],
         args=SFTConfig(
-            per_device_train_batch_size=BATCH_SIZE,
-            gradient_accumulation_steps=GRAD_ACCUM,
+            per_device_train_batch_size=DEFAULT_BATCH_SIZE,
+            gradient_accumulation_steps=DEFAULT_GRAD_ACCUM,
             warmup_steps=20,
-            num_train_epochs=EPOCHS,
+            num_train_epochs=epochs,
             learning_rate=1e-4,  # Lower LR for phase 2 (fine-tuning on top of phase 1)
             logging_steps=5,
             save_steps=100,
@@ -206,11 +235,12 @@ def export_model(model, tokenizer, model_key):
         model_directory=gguf_dir,
     )
 
+    ollama_name = f"ultimatelaw-{model_key}"
     print(f"\nGGUF model saved to: {gguf_dir}")
     print(f"\nTo use with Ollama:")
-    print(f"  1. Create a Modelfile pointing to the .gguf file")
-    print(f"  2. ollama create ultimatelaw -f Modelfile")
-    print(f"  3. ollama run ultimatelaw")
+    print(f"  1. cd {gguf_dir}")
+    print(f"  2. ollama create {ollama_name} -f Modelfile")
+    print(f"  3. ollama run {ollama_name}")
 
     # Write Ollama Modelfile
     modelfile_path = os.path.join(gguf_dir, "Modelfile")
@@ -240,34 +270,36 @@ def main():
                         help="Training phase (0=both, 1=raw text, 2=chat)")
     parser.add_argument("--no-export", action="store_true",
                         help="Skip GGUF export")
-    parser.add_argument("--epochs", type=int, default=EPOCHS,
+    parser.add_argument("--epochs", type=int, default=DEFAULT_EPOCHS,
                         help="Number of training epochs")
-    parser.add_argument("--rank", type=int, default=LORA_R,
+    parser.add_argument("--rank", type=int, default=DEFAULT_LORA_R,
                         help="LoRA rank")
     args = parser.parse_args()
 
-    global EPOCHS, LORA_R, LORA_ALPHA
-    EPOCHS = args.epochs
-    LORA_R = args.rank
-    LORA_ALPHA = args.rank
+    lora_r = args.rank
+    lora_alpha = args.rank
+    epochs = args.epochs
 
     print("=" * 60)
     print("Ultimate Law LoRA Fine-Tuning")
     print("=" * 60)
     print(f"Model:  {args.model} ({MODELS[args.model]})")
-    print(f"Rank:   {LORA_R}")
-    print(f"Epochs: {EPOCHS}")
+    print(f"Rank:   {lora_r}")
+    print(f"Epochs: {epochs}")
     print(f"Phase:  {'Both' if args.phase == 0 else args.phase}")
-    print(f"VRAM:   {torch.cuda.get_device_properties(0).total_mem / 1e9:.1f} GB" if torch.cuda.is_available() else "VRAM: CPU only")
+    if torch.cuda.is_available():
+        print(f"VRAM:   {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB")
+    else:
+        print("VRAM:   CPU only")
     print("=" * 60)
 
-    model, tokenizer = load_model(args.model)
+    model, tokenizer = load_model(args.model, lora_r, lora_alpha)
 
     if args.phase in (0, 1):
-        model, tokenizer = train_phase1_raw_text(model, tokenizer, args.model)
+        model, tokenizer = train_phase1_raw_text(model, tokenizer, args.model, epochs)
 
     if args.phase in (0, 2):
-        model, tokenizer = train_phase2_chat(model, tokenizer, args.model)
+        model, tokenizer = train_phase2_chat(model, tokenizer, args.model, epochs)
 
     if not args.no_export:
         export_model(model, tokenizer, args.model)
