@@ -100,7 +100,7 @@ Control
 The ability to direct something. Control over oneself is natural; control over others requires their consent or becomes coercion.
 
 Crime
-An action that harms someone who didn�t want it, creating a victim. No victim means no crime�simple logic from the Golden Rule. Punishment erases the wrong by making things right, not by revenge alone.
+An action that harms someone who didn't want it, creating a victim. No victim means no crime — simple logic from the Golden Rule. Only Justice — the victim's sovereign choice of collection or release — erases the moral debt.
 
 Currency
 Money that is widely accepted. Its value comes from trust in the issuer�s promise, not from the material it is made of.
@@ -169,7 +169,7 @@ Force
 Physical compulsion or the credible threat of physical compulsion that overrides consent.
 
 Forgiveness
-The voluntary cancellation of moral debt by the victim toward the agent who caused harm. Forgiveness may erase all guilt, including restitution and retribution, only when given freely by the actual victim without coercion, pressure, or substitution by others. Forgiveness is a gift, not an obligation, and cannot be demanded, enforced, or granted on behalf of another.
+A form of Justice in which the victim closes the moral debt by voluntary release. Forgiveness may extend to waiving any outstanding restitution. It is valid only when given freely by the actual victim, without coercion, pressure, or substitution by others. Forgiveness is a gift, not an obligation, and cannot be demanded, enforced, or granted on behalf of another.
 
 Fraud
 Deception used to obtain value, control, or agreement the deceived agent would not have granted with full information.
@@ -193,7 +193,7 @@ Golden Rule (Passive Version)
 Do not do to others what they would not want done to them. This is the heart of fairness�breaking it leads to punishment to restore balance, not to control.
 
 Good
-An action is good if it respects consent, does not create unwilling victims, and reduces or repairs harm. Good actions preserve or increase voluntary cooperation, trust, and the capacity of agents to act freely within reality. When harm has already occurred, good consists in justice: stopping further violation, restoring victims through restitution, and applying proportionate retribution only as needed to erase guilt. Good is not intention, belief, identity, or outcome by accident. Good is alignment with consent, causation, and non-harm in action.
+An action is good if it respects consent, does not create unwilling victims, and reduces or repairs harm. Good actions preserve or increase voluntary cooperation, trust, and the capacity of agents to act freely within reality. When harm has already occurred, good consists in Justice: stopping further violation, repairing material damage through restitution, and respecting the victim's sovereign right to close the moral debt through collection or release. Good is not intention, belief, identity, or outcome by accident. Good is alignment with consent, causation, and non-harm in action.
 
 Good News
 The achievable promise that civilization, under sustained voluntary cooperation, can deliver indefinite life extension to all who participate in building it. Good News is technical immortality bounded by physics, not faith�earned through trade, innovation, and consent, not granted by authority or divinity. It emerges from infinite change: as individuals freely exchange ideas and labor, they compound understanding of biology, aging, and repair until death becomes optional rather than inevitable. This is civilization�s ultimate value proposition�participate in creating abundance and knowledge, and share in the conquest of mortality. It requires no coercion, only the choice to contribute rather than parasitize. Good News is not utopian fantasy but logical extrapolation: if scarcity can be reduced through free trade and innovation can extend healthspan incrementally, then sufficient time and cooperation make indefinite life feasible within natural law. The promise is conditional�available to those who help build the systems that make it possible, unavailable to those who destroy them through coercion or violence. Good News makes no metaphysical claims about meaning or salvation; it is a technical claim about survival and time.
@@ -202,7 +202,7 @@ Government
 An organization claiming monopoly on force over a territory, using coercion like taxes or laws without full consent of those affected. Government violates the Golden Rule by creating victims through theft and control, ignoring fallibility and decentralized knowledge. Logic demands it shrink to only repairing real harms, or dissolve into voluntary systems.
 
 Guilt
-The moral debt created by causing harm to another against their will. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through restitution and proportionate retribution.
+The moral debt created by causing harm to another against their will. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
 
 Harm
 Unwanted damage to an agent, their body, property, or freedom. Harm creates victims and defines the boundary between freedom and crime.
@@ -247,7 +247,7 @@ Intention
 A planned direction for action. Intention matters for understanding why an agent acted but does not erase harm already caused.
 
 Justice
-Fixing wrongs through retribution (payback) and restitution (making whole). Its goal is to erase guilt, not to rule over people. Restoring balance after harm by stopping the offender and repairing the damage to the victim. Justice is not revenge or control. Derived from logic: only punish what creates victims.
+The victim's sovereign act of closing the moral debt created by harm. The debt may be closed by collection — proportionately mirroring harm back to the offender (retribution) — or by voluntary release (forgiveness). Both erase guilt. Restitution repairs the material damage independently; Justice disposes of the moral debt. Justice requires a real victim: without a victim there is no debt, and without a debt there is nothing to close. Justice is not revenge, which exceeds proportion, nor control, which creates new victims. A punisher acting on behalf of a victim is a proxy for Justice; their legitimacy ends where the victim's mandate ends. When the victim has been destroyed — as in murder — no proxy is possible, no mandate can be granted, and the moral debt becomes permanent. The offender's guilt is uncloseable, and their claim to reciprocity is forfeit.
 
 Knowledge
 Reliable understanding built from tested models that consistently match reality. Knowledge grows through prediction, error, and learning, not by declaration or force.
@@ -297,6 +297,9 @@ A simplified idea of how something works, used to understand, explain, or predic
 Money
 An IOU that can be traded. A promise of value.
 
+Murder
+The deliberate killing of an agent who did not consent to die. Murder is unique among harms: it destroys the only agent with sovereign power to close the moral debt it creates. The victim cannot collect (retribution) or release (forgiveness), and cannot grant a mandate to a proxy. Murder therefore creates permanent, uncloseable guilt and places the offender outside the system of reciprocity. See: Outlaw.
+
 Monopoly
 Exclusive control over a trade or resource, often enforced by authority rather than earned through better value. True monopolies violate free trade and create artificial scarcity, harming consumers without consent. In logic, they dissolve through competition unless propped up by coercion.
 
@@ -311,6 +314,9 @@ Rule by law derived from logic and reciprocity, not by the will of rulers or gro
 
 Obligation
 A duty freely accepted by agreement. Obligations created by force are not real obligations.
+
+Outlaw
+An agent whose guilt cannot be closed because they destroyed the victim who held sovereign power over the debt — typically through murder. The outlaw's claim to the Golden Rule's protection is forfeit: they demonstrated by their action that they reject reciprocity. No agent is obligated to trade with, shelter, or protect an outlaw, and ending an outlaw does not create a new victim, because protection under the Golden Rule requires participation in it.
 
 Ownership
 The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
@@ -361,10 +367,10 @@ Property
 Things you own, starting with your body and extending to what you create or exchange. Stealing it is harm; you�re the sole boss of it, as per natural rights from logic.
 
 Punisher
-An agent or system that uses force to make someone face consequences for harm they caused. Punishers act only when there is a real victim and the purpose is to restore balance, not to rule.
+An agent acting as proxy for a victim's Justice, using force to make an offender face consequences for harm they caused. A punisher's legitimacy derives from the victim's mandate and ends where that mandate ends. Punishers act only when there is a real victim and the purpose is Justice, not control.
 
 Punishment
-The way to fix a wrong by payback and making the victim whole. Only for real harms; its purpose is balance, not control. Punishment is the Golden Rule applied — mirroring back what was done to restore balance, not breaking fairness but enforcing it.
+The enforcement arm of Justice: the application of retribution or restitution as directed by the victim or their proxy. Only for real harms with real victims; its purpose is to close a moral debt, not to control. The Golden Rule may only be broken when punishing on behalf of a victim.
 
 Qualia
 The subjective �what it is like� aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
@@ -391,7 +397,7 @@ Restitution
 Returning stolen value or compensating for harm done. Restitution erases debt caused by wrongdoing.
 
 Retribution
-Imposed suffering meant to balance harm already caused. Retribution without a victim is injustice.
+A form of Justice in which the victim, or a proxy acting on the victim's behalf, closes the moral debt by proportionately mirroring harm back to the offender. Retribution without a victim is injustice. Retribution beyond proportion becomes revenge.
 
 Revenge
 Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Revenge is driven by emotion, not justice, and can exist even when no restitution or proportional retribution is involved.
