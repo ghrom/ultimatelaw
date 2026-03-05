@@ -370,7 +370,7 @@ Punisher
 An agent acting as proxy for a victim's Justice, using force to make an offender face consequences for harm they caused. A punisher's legitimacy derives from the victim's mandate and ends where that mandate ends. Punishers act only when there is a real victim and the purpose is Justice, not control.
 
 Punishment
-The enforcement arm of Justice: the application of retribution or restitution as directed by the victim or their proxy. Only for real harms with real victims; its purpose is to close a moral debt, not to control. The Golden Rule may only be broken when punishing on behalf of a victim.
+The enforcement arm of Justice: the application of retribution or restitution as directed by the victim or their proxy. Only for real harms with real victims; its purpose is to close a moral debt, not to control. Punishment is the Golden Rule applied — mirroring back what was done to restore balance, not breaking fairness but enforcing it.
 
 Qualia
 The subjective �what it is like� aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
