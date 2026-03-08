@@ -126,6 +126,9 @@ The commitment to act according to an intention.
 Democracy
 A group decision procedure where rules are chosen by voting. Vote cannot create consent; actions that violate boundaries still create victims even if supported by a majority.
 
+Duress
+The condition of being under threat, force, or pressure that removes the ability to consent freely. An agent acting under duress is not choosing — they are complying to avoid harm. Any agreement, confession, or transaction made under duress is invalid, because consent requires freedom and duress destroys it. Duress does not transfer responsibility to the victim forced to act; it transfers responsibility to the agent who applied the pressure.
+
 Deterrence
 The attempt to prevent harm by threatening punishment rather than responding to harm already done. Deterrence targets fear in potential offenders, not justice for actual victims, and becomes injustice when it punishes without a victim.
 
