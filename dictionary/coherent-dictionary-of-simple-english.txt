@@ -96,6 +96,9 @@ What follows from an action. Just consequences are tied to harm actually caused,
 Contract
 A voluntary agreement that creates clear expectations about actions or outcomes.
 
+Contract Breach
+The failure to fulfill terms voluntarily agreed to in a Contract. A breach creates a victim — the party who relied on the agreement and suffered damage from its violation. The breaching party owes Restitution for the damage caused. A breach is not renegotiation; renegotiation requires consent from all parties, while breach is unilateral. If no damage results from a breach, there is no victim and therefore no claim.
+
 Control
 The ability to direct something. Control over oneself is natural; control over others requires their consent or becomes coercion.
 
@@ -270,6 +273,9 @@ An action that still causes harm to unwilling victims, but causes less total har
 Liberty
 The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule�any erosion of it (like through authority or socialism) creates victims and must be restored through justice.
 
+License
+A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license�s terms is Contract Breach, creating a victim who is owed Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
+
 Lie / Lying
 Saying something you know is false to trick someone. A lie harms voluntary trade and trust because it stops people from knowing what they�re really agreeing to.
 
@@ -437,6 +443,9 @@ A system that promises fairness but uses force to take and redistribute without 
 
 Society
 A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive �societies� (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
+
+Software
+A set of instructions, encoded as a pattern, that directs a machine�s operations. Software is created through labor and intellect and has value through what it enables. Like all patterns, it can be copied without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
 
 Subconscious
 Mental processes that influence thoughts, feelings, and actions without being in awareness. The subconscious handles patterns, habits, and learned responses outside focused attention.
