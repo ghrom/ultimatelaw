@@ -162,7 +162,15 @@ Piston and cylinder: steam enters the cylinder, pushes the piston. A valve then 
 
 Condenser: after steam does work, it is cooled and condensed back into water, which returns to the boiler. This increases efficiency (less water needed).
 
-Steam engines are powerful but complex. They require metal fabrication (cylinders, pistons, valves), precise machining, and constant fuel.
+CRITICAL SAFETY: A boiler is a bomb. If the safety valve fails or is blocked, steam pressure builds until the boiler ruptures. A boiler explosion kills everyone nearby. Every boiler must have a working safety valve that cannot be blocked, plugged, or overridden. Test the safety valve regularly by raising pressure until it releases. If it does not release, shut down immediately and repair.
+
+Safety valve construction: a hole in the boiler covered by a weighted plug or spring-loaded disc. When steam pressure exceeds the weight or spring force, the plug lifts and releases steam. A simple weight on a lever arm works: adjust the weight's position to set the release pressure. Never add weight to increase pressure beyond what the boiler can handle.
+
+Boiler construction warning: the boiler must be made from wrought iron or steel, not cast iron. Cast iron is brittle and shatters under pressure. Wrought iron deforms before failing, giving warning (bulging, weeping at seams). Seams must be riveted or welded and tested with water pressure (hydrostatic test) before using steam. Fill the boiler with water, pump to 1.5 times operating pressure, inspect for leaks. A leak found with water is a repair. A leak found with steam is an explosion.
+
+Cylinder and piston tolerances: the piston must fit the cylinder closely or steam leaks around it, wasting energy. Wrap the piston in greased leather, hemp packing, or metal rings (piston rings) to create a seal. The cylinder bore must be smooth — grind with fine abrasive. Early steam engines (Newcomen, 1712) had rough tolerances and low efficiency. Better machining (Watt, 1769) dramatically improved performance.
+
+Steam engines are powerful but complex. They require metal fabrication (cylinders, pistons, valves), precise machining, and constant fuel. Do not attempt to build a steam engine until you have mastered ironworking, can produce airtight vessels, and can fabricate a working safety valve. Start with water wheels — they are simpler, safer, and sufficient for most early civilizational needs.
 
 Early applications: pumping water from mines, powering mills, locomotives, ships.
 
@@ -233,6 +241,24 @@ Generating electricity.
 Generator: a coil of wire rotating in a magnetic field produces electric current (Faraday's law). Mechanical rotation (from water wheel, windmill, or steam engine) turns the coil, generating electricity.
 
 Simple generator: wrap many turns of copper wire around an iron core (armature), mount on an axle, place between two magnets (permanent magnets or electromagnets). Spin the axle, current flows in the wire.
+
+Building a generator from salvaged materials.
+
+You need three things: magnets, wire, and rotation.
+
+Magnets: salvage permanent magnets from speakers, hard drives, microwave ovens (magnetron — dangerous, contains beryllium oxide ceramic; handle with gloves, do not break or inhale dust), or electric motors. Hard drive magnets (neodymium) are extremely strong and ideal.
+
+Alternatively, make electromagnets: wind copper wire around an iron core (bolt, nail, or rod). Pass current through the wire to create a magnetic field. This requires an initial power source (battery) to bootstrap.
+
+Wire: salvage copper wire from electrical cables, motors, transformers, or appliances. Strip insulation. More turns of wire = more voltage. Thicker wire = more current capacity.
+
+Frame: mount magnets in a ring on a fixed frame (stator). Mount the wire coil on a spinning shaft (rotor) inside the ring of magnets. Or reverse: mount wire coils on the stator and spin the magnets (simpler, avoids needing brushes to extract current from a spinning coil).
+
+Rotation: connect the shaft to a water wheel, windmill, bicycle wheel (pedal generator), or hand crank. For useful power, you need sustained rotation at reasonable speed. A water wheel is ideal — constant, unattended power.
+
+A generator built from a salvaged car alternator is the fastest path to electricity. Car alternators are designed to produce 12V DC at high current. Connect to any rotational source. Charge car batteries. From 12V DC, you can power lights (LED or car bulbs), charge devices, and run small tools.
+
+From scratch (no salvage): you need copper ore smelted into wire (extremely labor-intensive) and lodestone (naturally magnetized magnetite, a black iron oxide mineral that attracts iron) or iron magnetized by stroking with lodestone. This is possible but represents months of work. Prioritize water wheels for mechanical power long before attempting electrical generation from scratch.
 
 Dynamo: a generator that produces direct current (DC). Uses a commutator (split ring) to ensure current flows in one direction.
 

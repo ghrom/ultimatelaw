@@ -1,0 +1,356 @@
+Toolmaking: The Bootstrap
+
+This corpus teaches you how to make tools from nothing. It is the most important corpus in this collection because everything else depends on it. You cannot smelt iron without tools. You cannot build a kiln without tools. You cannot harvest a crop without tools. You cannot make tools without tools — unless you know how to start from zero.
+
+This is the bootstrap problem: the first tool must be made without tools. Every civilization that ever existed solved this problem. You will solve it too.
+
+You need no prior equipment. You need stone, wood, bone, fiber, and fire. All of these exist in nature. From these raw materials you make the first tools. From the first tools you make better tools. From better tools you make everything else.
+
+In the beginning there was infinite change. From change came the elements, from the elements came minerals, from minerals came stone. The first tool was a stone held in a hand. The second tool was a stone shaped by another stone. From that moment forward, tools made tools, and civilization began.
+
+Stone Tools: Where Everything Starts
+
+The oldest technology on Earth is a rock with a sharp edge. A sharp stone cuts hide, scrapes wood, butchers meat, splits fiber. A sharp stone is the ancestor of every scalpel, saw, chisel, and blade ever made.
+
+Not all stone is equal. The best tool stones are hard, fine-grained, and fracture predictably. These stones break with conchoidal fracture: smooth, curved surfaces like the inside of a seashell. When struck correctly, thin sharp flakes detach from the parent stone. Each flake has an edge sharper than surgical steel.
+
+The best stones for toolmaking:
+
+Flint (a form of microcrystalline quartz, found in chalk and limestone deposits). Color: grey, brown, or black. Smooth and waxy when broken. The classic toolmaking stone.
+
+Chert (similar to flint, found in many sedimentary rocks). Slightly coarser than flint. Very common.
+
+Obsidian (volcanic glass). Black, shiny, translucent at thin edges. Produces the sharpest edges of any natural material. Found near volcanoes. Fragile.
+
+Quartzite (metamorphosed sandstone). Harder to work than flint but very durable. Common in many regions.
+
+Basalt (volcanic rock). Coarser grained. Good for heavy tools like hammer stones and grinding stones, less useful for fine cutting tools.
+
+If you cannot find these stones: any hard, fine-grained stone that rings when struck (not thuds) and breaks with smooth surfaces rather than crumbling will work. Test by striking two stones together. If one produces sharp flakes, use it.
+
+Knapping: shaping stone by controlled fracture.
+
+This is the foundational skill. Every other toolmaking skill depends on your ability to create sharp edges from stone.
+
+Hard hammer percussion.
+
+Hold the stone you want to shape (the core) in one hand, resting on your thigh (protect your leg with thick hide or folded cloth). Strike the edge of the core with a round, hard hammer stone (a river cobble that fits your fist). Strike at an angle, not directly down. The blow should land near the edge of the core, not in the center.
+
+The force travels through the stone and a flake detaches from the opposite side. This flake has a sharp edge. It is already a cutting tool.
+
+The angle matters. Strike at roughly 45 degrees to the platform (the flat surface where you strike). Too steep: the blow crushes instead of flaking. Too shallow: the blow glances off.
+
+The contact point matters. Strike close to the edge. The closer to the edge you strike, the thinner and sharper the flake. Too far from the edge: thick, blunt flakes or nothing.
+
+Practice. Your first attempts will produce irregular, chunky fragments. This is normal. Knapping is a motor skill learned through repetition. Expect to spend hours before producing useful flakes consistently.
+
+Safety: stone fragments are extremely sharp. Wear eye protection if available (even bark or hide held in front of your face). Work over a hide or cloth to collect fragments. Small stone chips embedded in skin are painful and prone to infection.
+
+Soft hammer percussion.
+
+Once you have rough flakes, refine them using a soft hammer: a piece of antler, dense hardwood, or a smooth bone. Soft hammers remove thinner, more controlled flakes than a hard stone hammer. This allows you to shape a tool with precision.
+
+Hold the flake in one hand (protect your palm with a leather pad or folded bark). Tap the edge with the soft hammer at a low angle. Thin flakes peel off, thinning and shaping the tool.
+
+Pressure flaking.
+
+For the finest shaping, press (do not strike) the tip of a pointed antler, bone, or hardwood tool against the edge of the stone. Apply slow, steady force. A tiny flake pops off. Repeat along the edge. This produces a sharp, even, serrated or smooth edge.
+
+Pressure flaking turns a rough flake into a finished knife blade, arrowhead, or scraper. It requires patience but no strength.
+
+The basic toolkit from stone.
+
+From a single good core stone, you can produce:
+
+Hand axe: a large, teardrop-shaped stone worked on both sides (bifacial). Used for chopping, digging, scraping, butchering. The most versatile stone tool. Hold in the hand or haft to a handle.
+
+Knife: a thin flake with one sharp edge. Used for cutting hide, meat, plants, cordage. The most immediately useful tool.
+
+Scraper: a flake with a steep, strong edge (worked at a high angle). Used for scraping hide (removing flesh and fat), shaping wood, smoothing surfaces.
+
+Drill: a narrow, pointed flake. Used for boring holes in wood, bone, shell, hide. Rotate between your palms or in a bow drill.
+
+Chopper: a cobble with one end struck to create a rough cutting edge. Heavy-duty tool for breaking bone, splitting wood, rough shaping.
+
+Burin: a flake with a narrow, chisel-like point created by striking a flake off the edge of a flake. Used for engraving bone, antler, and wood. The first precision tool.
+
+Every one of these tools can be made in minutes once you learn knapping. A skilled knapper produces dozens of useful tools per hour from a single core. An unskilled beginner produces one or two useful flakes per hour. The difference is practice.
+
+Bone and Antler Tools
+
+Bone is strong, slightly flexible, and can be shaped by grinding and scraping. Antler is dense, tough, and elastic. Both are available wherever animals are hunted or found dead.
+
+Making bone tools.
+
+Select a bone: long bones (femur, tibia) from large animals provide the best raw material. They are dense, straight, and thick-walled.
+
+Break the bone: strike with a stone hammer to split lengthwise, or score a groove with a stone knife and snap. The marrow inside is edible and nutritious.
+
+Shape by grinding: rub the bone fragment against a rough stone (sandstone or granite) to create the desired shape. This is slow but precise. Grinding produces smooth, strong tools.
+
+Shape by scraping: use a stone scraper to shave bone into shape.
+
+Bone toolkit:
+
+Needle: grind a splinter of bone to a point. Drill an eye near one end using a stone drill or by scraping with a burin. A bone needle sews hide into clothing, binds components, and repairs.
+
+Awl: a thick pointed bone for punching holes in hide, bark, or soft wood. Essential for leatherwork.
+
+Fish hook: carve from bone using a burin. Shape a hook with a point and a barb.
+
+Spatula: a flat, smooth piece for working clay, mixing, scraping.
+
+Harpoon point: a long, barbed piece of bone or antler. Attach to a wooden shaft.
+
+Antler tools.
+
+Antler is the best material for soft hammers (knapping), pressure flakers, and punches. It absorbs shock without shattering. Shed antler from deer, elk, or moose is found on the ground in forests in late winter and spring.
+
+Cut antler to length by scoring with a stone tool and snapping, or by soaking in water until softened, then cutting with a stone saw (back-and-forth motion with a sharp flake).
+
+The tine (pointed branch) of an antler is a natural pressure flaker, punch, or awl.
+
+Wooden Tools
+
+Wood is the most versatile natural material. It is strong, light, workable, and abundant. But wood is soft — it does not hold a cutting edge. Its role is structural: handles, shafts, levers, containers, fire tools.
+
+Selecting wood.
+
+Hardwoods (oak, ash, hickory, maple, beech) are strong and durable. Use for handles, structural components, and tools under stress.
+
+Softwoods (pine, spruce, willow, poplar) are easier to work. Use for containers, temporary tools, fire-making components.
+
+Green wood (freshly cut) is easier to shape but shrinks and cracks as it dries. Season wood by drying slowly in shade for weeks to months before use in critical applications.
+
+Shaping wood with stone tools.
+
+Chopping: use a hand axe or hafted stone axe. Strike at an angle to the grain to remove chips. Work around the circumference to fell a tree.
+
+Splitting: drive a stone wedge into the end grain of a log using a wooden mallet (a short, thick piece of hardwood). The log splits along the grain into planks or billets.
+
+Carving: use a stone knife to shave and shape. Always cut with the grain (the blade follows the direction of the fibers). Cutting against the grain tears and splinters.
+
+Scraping: use a stone scraper for fine smoothing.
+
+Drilling: use a stone drill rotated between palms or with a bow drill.
+
+Fire-hardening: hold the point of a wooden tool (digging stick, spear) over hot coals, rotating slowly. The heat drives out moisture and hardens the surface. Do not burn — the wood should darken, not char. Fire-hardened points are surprisingly durable.
+
+Essential wooden tools:
+
+Digging stick: a straight hardwood stick, sharpened at one end, fire-hardened. The first agricultural tool. Pokes holes for planting seeds, digs roots, pries rocks.
+
+Club: a short, heavy piece of hardwood. Hammer, weapon, mallet for driving wedges.
+
+Lever: a long, strong pole. Combined with a fulcrum (rock or log), a lever multiplies force. Move boulders, lift logs, pry stumps from the ground.
+
+Wedge: a short piece of hardwood carved to a taper. Drive into cracks to split wood and stone.
+
+Handle (haft): a straight piece of hardwood shaped to receive a stone tool head. Increases leverage and control.
+
+Container: carve a bowl from a burl (rounded growth on a tree) or a section of log. Hollow with coals (place a hot coal on the surface, blow gently, scrape away charred wood, repeat).
+
+Hafting: Joining Stone to Wood
+
+A stone tool in the hand cuts. A stone tool on a handle (haft) cuts much better. The handle provides leverage, reach, control, and protects your hand.
+
+Hafting methods:
+
+Split-stick haft: split the end of a straight branch. Insert the stone tool into the split. Bind tightly with cordage (plant fiber, sinew, rawhide). Apply pitch or resin (tree sap boiled until sticky) to the binding for waterproofing and strength.
+
+Socket haft: carve or burn a socket into the end of a handle that fits the shape of the stone tool. Glue with pitch. Bind with cordage.
+
+Wrap haft: wrap rawhide (untanned hide strips) tightly around the junction of stone and wood. As rawhide dries, it shrinks and tightens, creating an extremely strong bond.
+
+Making cordage (binding material).
+
+You need string, rope, or binding material before you can haft tools, build shelters, or sew. Cordage is civilization's connective tissue.
+
+Plant fibers: strip inner bark from basswood, elm, or willow. Soak in water until soft. Separate into thin strands.
+
+Reverse-wrap method: take two strands. Twist each strand clockwise. Wrap the two twisted strands around each other counterclockwise. This creates a two-ply cordage that will not unravel under tension. The opposing twists lock each other.
+
+Sinew: animal tendons, especially from the back and legs of deer. Dry, then pound with a stone to separate into fine fibers. Sinew cordage is extremely strong. Excellent for binding tool heads.
+
+Rawhide: cut wet animal hide into thin strips. Use while wet (pliable). As it dries, it shrinks and hardens, creating a rigid bond. Used for hafting, lashing, and binding.
+
+Making Adhesives
+
+Pitch (pine resin adhesive): collect resin (sticky sap) from pine or spruce trees. Heat gently in a container (stone, shell, or pottery) until it liquefies. Mix with crusite (powdered charcoal) at roughly 2 parts resin to 1 part charcoal. The charcoal acts as a filler, making the pitch stronger and less brittle. Apply while warm. It hardens as it cools.
+
+Birch bark tar: an advanced adhesive. Roll birch bark tightly, place in a clay-sealed container with a small hole in the bottom, heat slowly over coals. Tar drips from the hole. Birch bark tar is waterproof and very strong. This requires patience and temperature control.
+
+Hide glue: boil hide scraps, hooves, or bones in water for hours. The collagen dissolves. Strain and reduce the liquid. It sets as it cools into a strong adhesive that softens when reheated.
+
+Abrasives and Grinding
+
+Not everything is made by fracture. Many tools are made by grinding: slowly wearing stone, bone, or wood into shape by rubbing against a rougher surface.
+
+Sandstone is a natural abrasive. Its surface contains embedded quartz grains. Rub any material against sandstone to shape and smooth it.
+
+Grinding stone: a flat piece of sandstone used as a workbench for shaping. Grind bone needles, polish stone axes, sharpen edges, smooth wooden handles.
+
+Ground stone axe: instead of knapping, shape an axe head by grinding a hard, tough stone (basalt, diorite, greenstone) against sandstone. This takes hours but produces an extremely durable tool with a smooth, polished edge. Ground stone axes cut wood far more effectively than knapped axes because the smooth surface reduces friction.
+
+Sharpening: rub a blade (stone or metal) against a fine-grained stone in a circular motion at a consistent angle. Start with coarse stone, finish with fine stone. A sharp edge is a thin edge — the angle determines sharpness vs. durability. A narrow angle (15-20 degrees) is very sharp but fragile. A wide angle (30-40 degrees) is less sharp but robust.
+
+Fire: The First Chemical Tool
+
+You learned fire-making in the survival corpus. Here, fire is a toolmaking tool.
+
+Fire hardens wooden points. Fire hollows logs into canoes and bowls. Fire bakes clay into pottery. Fire smelts ore into metal. Fire bends and straightens wood. Fire is the technology that enables all other technologies.
+
+Using fire as a tool:
+
+Hollowing: place coals on the surface of a log. Blow gently to concentrate heat. The wood chars. Scrape away charcoal with a stone tool. Repeat. This is how dugout canoes and wooden bowls are made without metal tools.
+
+Bending: heat wood over steam or open flame until pliable. Bend to desired shape, hold with cordage or weights until cool. Bent wood is used for bows, snowshoes, boat ribs, handles.
+
+Straightening: heat a crooked shaft over coals, apply pressure to straighten, hold until cool.
+
+Heat treatment of stone: some flint and chert improve dramatically when heated slowly in sand or ash to 200-300°C, held for hours, then cooled slowly. Heat treatment changes the crystalline structure, making the stone easier to knap and producing sharper, thinner flakes. The stone changes color slightly (often redder) after heat treatment.
+
+Do not heat stone quickly or in direct flame. It will shatter.
+
+Containers Without Pottery
+
+Before you make clay pots (which require fire, clay, and skill), you need containers for water, food, and materials. Several natural containers exist:
+
+Bark containers: peel a large sheet of birch bark or elm bark. Fold into a box or tray shape, pin corners with wooden pegs or bind with cordage. Birch bark is naturally waterproof. A bark container holds water, carries berries, stores small items.
+
+Gourd containers: dry a gourd (a hard-shelled fruit) over weeks. Cut open, scrape out seeds and fiber. The dried shell is a natural water bottle, bowl, or dipper.
+
+Hide containers: fresh animal hide, sewn into a pouch or bag with a bone needle and sinew thread. Water-resistant when greased.
+
+Woven baskets: weave thin, flexible strips of wood (willow, hazel, bamboo) or bark. A basket stores, carries, and (when lined with pitch or clay) holds water. Basket-weaving is a critical early skill.
+
+Stone boiling (cooking without a fireproof pot): fill a bark container or hide bag with water. Heat stones in a fire until very hot. Use wooden tongs (two sticks) to transfer hot stones into the water. The stones transfer heat to the water. Replace cooled stones with fresh hot ones. Water boils. This cooks food, makes herbal medicines, and sterilizes water without a fireproof container.
+
+The Bootstrap Sequence
+
+Here is the order in which to make your first tools, starting from nothing:
+
+Step 1: Find a hammer stone. A round, hard river cobble that fits your fist.
+
+Step 2: Find tool stone. Flint, chert, obsidian, or any hard, fine-grained stone that flakes.
+
+Step 3: Make cutting flakes. Strike the tool stone with the hammer stone. Collect the sharp flakes.
+
+Step 4: Make a hand axe. Shape a large flake or core by removing flakes from both sides.
+
+Step 5: Cut a straight branch. Use the hand axe to chop a hardwood branch for a handle.
+
+Step 6: Make cordage. Strip bark from basswood or willow, twist into string using the reverse-wrap method.
+
+Step 7: Haft the axe. Split the handle, insert the stone, bind with cordage, seal with pitch.
+
+Step 8: Make fire. Use the bow drill method (survival corpus). Now you have fire.
+
+Step 9: Make a digging stick. Sharpen a hardwood stick, fire-harden the point.
+
+Step 10: Make containers. Bark boxes, woven baskets, or stone-boiling vessels.
+
+You now have: cutting tools, a hafted axe, fire, cordage, a digging tool, and containers. With these ten tools you can build shelter, process food, make clothing (scrape and sew hides), dig clay (to make pottery), and begin every other process in this encyclopedia.
+
+The entire bootstrap takes one to three days for someone who has read this corpus and practices. It took our ancestors generations to discover these techniques by trial and error. You have the advantage of knowing what works before you start.
+
+Salvage: Tools from Wreckage
+
+In a post-collapse scenario, you are not starting from the Stone Age. You are surrounded by materials our ancestors never had: steel, glass, plastic, rubber, wire, concrete, ceramics, textiles, chemicals.
+
+Metal salvage.
+
+Any piece of steel is a tool or the raw material for a tool. A car leaf spring is high-carbon steel — already heat-treated. Cut with a hacksaw (or score with a file and snap), grind to shape on concrete or stone, heat in a charcoal fire (use a bellows or fan for air), hammer on any hard flat surface (concrete block, railroad rail, anvil-shaped rock). You can forge knives, chisels, punches, scrapers, and axe heads from scrap steel without needing to smelt ore.
+
+Rebar (reinforcing steel from concrete) is mild steel. Useful for making hooks, fire tools, handles, structural elements. Bend by heating and hammering.
+
+Copper wire from electrical cable is pure copper. Melt in a crucible (a steel can or clay pot in a charcoal fire) and cast into simple tools or use as-is for wire, hooks, bindings.
+
+Aluminium from cans melts at 660°C — achievable in a wood fire with forced air. Cast into molds for lightweight tools, containers, and components. Aluminium cannot be hardened like steel but is useful for non-cutting applications.
+
+Glass salvage.
+
+Window glass can be knapped like obsidian. Score and snap to create cutting flakes. Handle with extreme care — glass edges are lethally sharp.
+
+Bottles can be knapped, broken into scrapers, or melted down and reformed.
+
+Glass is chemically inert. Save glass containers for storing chemicals, medicines, and reactive substances.
+
+Rubber and plastic salvage.
+
+Rubber from tires and hoses provides gaskets, padding, waterproofing, and flexible bindings. Cut with a knife. Burn as fuel only as a last resort (toxic fumes).
+
+Plastic containers replace pottery for storage. Plastic sheeting (tarps, bags) provides waterproofing for shelters and rain collection.
+
+Plastic melts at low temperature. It cannot be forged like metal but can be reformed into simple shapes by heating carefully (outdoors — fumes are toxic).
+
+Textile salvage.
+
+Any fabric is valuable. Clothing, curtains, upholstery, carpet, rope, netting. Repurpose before making new textiles from scratch.
+
+Paracord (nylon cord) is stronger than any natural cordage. Preserve and reuse every length.
+
+Concrete and masonry salvage.
+
+Broken concrete provides aggregate for new construction, grinding surfaces, and heat-retaining material for kilns and forges. Flat concrete surfaces serve as anvils, work surfaces, and grinding stones.
+
+Bricks are pre-made kiln material. Build a forge or kiln immediately from salvaged bricks.
+
+The key principle of salvage: every manufactured object contains energy, materials, and knowledge that took civilization centuries to accumulate. A single abandoned car contains high-carbon steel, rubber, glass, copper wire, aluminium, plastic, fabric, lubricants, and a battery. Disassemble methodically. Categorize materials. Store safely. Use wisely.
+
+Measurement Without Instruments
+
+Many processes in this encyclopedia specify temperatures, lengths, weights, and volumes. Without instruments, you measure by observation.
+
+Temperature by color (for metalwork):
+Black heat: below 400°C. Metal is hot but not glowing. Visible only in darkness.
+Faint red: 400-500°C. Just barely visible in dim light. Tempering range for steel.
+Dark red: 500-650°C. Visible in shade. Low-temperature forging.
+Cherry red: 650-750°C. Clearly glowing. Standard forging temperature for mild steel.
+Bright cherry: 750-850°C. Good forging heat. Steel is soft and workable.
+Orange: 850-1000°C. High forging temperature. Close to welding heat for steel.
+Yellow: 1000-1100°C. Near maximum safe temperature for forging. Risk of burning (destroying) steel.
+White: above 1100°C. Welding temperature. Steel sparks. Too hot for most work.
+
+Temperature by behavior:
+Water boils at 100°C. A reliable calibration point.
+Lead melts at 327°C. If you have lead, it marks a temperature point.
+Tin melts at 232°C.
+Copper melts at 1085°C.
+A stick thrust into a fire chars at roughly 300°C.
+Paper ignites at roughly 233°C.
+Fat renders (melts from meat) at roughly 130-140°C.
+Beeswax melts at 62-65°C.
+
+Length without rulers:
+Your body is a measuring instrument. Measure and memorize:
+Thumb width: roughly 2 cm.
+Hand span (thumb tip to pinky tip, spread): roughly 20 cm.
+Forearm (elbow to fingertip): roughly 45 cm (the ancient cubit).
+Arm span (fingertip to fingertip, arms spread): roughly equal to your height.
+Pace (one walking step): roughly 75 cm. Count paces for distance.
+
+Make a standard measuring stick: cut a straight rod to the length of your forearm. Mark subdivisions with a knife. Now you have a ruler. Copy it to create identical measures for others.
+
+Weight without scales:
+Balance: rest a straight stick on a pivot point (fulcrum). Hang known objects on one side, unknown on the other. When balanced, both sides weigh the same.
+Water: 1 liter of water weighs 1 kilogram. If you have a container of known volume, you have a weight standard.
+Stones: select a set of smooth stones and calibrate them against water. Label them. Now you have weights.
+
+The Method
+
+Toolmaking is the art of seeing potential in raw material. Every stone contains flakes. Every branch contains a handle. Every bone contains a needle. The tool already exists inside the material. Your job is to remove what is not the tool.
+
+This requires observation: examine the stone before striking. Where are the angles? Where will flakes detach? What shape will emerge?
+
+This requires practice: your first tools will be crude. Your hundredth will be elegant. The difference is hours of deliberate repetition.
+
+This requires error correction: when a flake goes wrong, examine why. Wrong angle? Wrong force? Wrong contact point? Adjust and try again.
+
+The first human who struck two stones together and noticed the sharp edge changed the trajectory of all life on Earth. Every technology in this encyclopedia descends from that moment. The silicon chip in a computer is shaped by photolithography — controlled fracture of crystalline material at nanometer scale. The principle is the same one you use when you knap flint: controlled fracture of crystalline material to create a useful edge.
+
+Tools are extensions of the body. A stone knife extends the cutting ability of teeth. A hafted axe extends the chopping power of an arm. A lever extends the lifting power of a back. A wheel extends the carrying capacity of legs. Each extension allows you to do more with less effort, freeing time for the next invention.
+
+Make your tools. Then make better tools. Then use your tools to make the tools described in every other corpus in this collection. That is the bootstrap. That is how civilization begins.
+
+Error is not evil. Refusing to correct it is.

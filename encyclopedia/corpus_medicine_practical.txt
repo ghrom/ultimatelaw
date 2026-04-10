@@ -163,10 +163,23 @@ Ice: apply to skin before incision. Provides brief numbness.
 Alcohol: oral consumption reduces pain perception but impairs judgment. Not recommended.
 
 Herbal pain relief:
-- Willow bark (Salix species): contains salicin, a precursor to aspirin. Chew bark or brew tea. Reduces pain and inflammation.
-- Poppy (Papaver somniferum): latex from unripe seed pods contains morphine and codeine. Extremely effective pain relief but highly addictive and dangerous (overdose causes respiratory failure). Use only in extreme circumstances (amputation, severe injury). Dosing is difficult; start with very small amounts.
+- Willow bark (Salix species): contains salicin, a precursor to aspirin. Chew bark or brew tea (boil a thumb-length piece of inner bark in 1 cup water for 10 minutes). Reduces pain and inflammation. Dose: 1 cup of tea every 4-6 hours. Do not give to children under 16 (risk of Reye's syndrome). Do not combine with blood-thinning herbs.
 
-If no anesthesia is available, proceed with surgery if necessary. Restraint may be required. Have assistants hold the patient still.
+- Poppy (Papaver somniferum): latex from unripe seed pods contains morphine and codeine. Extremely effective pain relief but highly addictive and dangerous.
+
+  CRITICAL SAFETY: Overdose causes respiratory failure and death. The lethal dose is close to the therapeutic dose. There is no antidote without modern drugs (naloxone).
+
+  Preparation: score unripe seed pods (2-3 weeks after petals fall) with shallow vertical cuts. Collect the white latex that oozes out. Let it dry to a brown paste. This is crude opium.
+
+  Dosing (crude opium, oral): start with a piece the size of a grain of rice (roughly 30-50 mg). Wait 45 minutes. If pain continues and breathing is normal (more than 12 breaths per minute), give another grain-of-rice dose. Do not exceed 3 doses in 4 hours. Never give a second dose if the patient is drowsy or breathing slowly.
+
+  Poppy seed tea (milder): crush 2 tablespoons of ripe poppy seeds, steep in hot water for 15 minutes, strain, drink. Weaker than raw opium. Start with half a cup.
+
+  Monitor constantly. Count breaths per minute. Normal adult: 12-20 breaths/minute. Below 10: danger. Below 8: life-threatening — keep the patient awake, walk them, apply cold water to the face. If breathing stops, perform rescue breathing (mouth-to-mouth, 1 breath every 5 seconds).
+
+  Use only for: amputation, major fractures, severe burns, kidney stones. Never for headaches, minor wounds, or chronic pain. Addiction develops within days of repeated use.
+
+If no anesthesia is available, proceed with surgery if necessary. Have the patient bite on a leather strap or wooden stick. Restraint may be required. Have assistants hold the patient still. Work quickly — speed reduces suffering.
 
 Incision and suturing.
 
@@ -251,6 +264,26 @@ Tooth extraction: last resort for severe decay, abscess, or broken tooth causing
 Diagnosis: Knowing What You Face
 
 Diagnosis is pattern recognition. You observe symptoms, match them to known diseases, and treat accordingly.
+
+Detecting fever without a thermometer.
+
+Normal body temperature is approximately 37°C. Fever is a temperature above 38°C. To detect fever without a thermometer:
+
+Touch test: press the back of your hand (more sensitive than palm) against the patient's forehead, neck, and chest. Compare to your own skin temperature. If the patient feels distinctly warmer, they likely have a fever.
+
+Pulse rate: a resting adult pulse above 100 beats per minute suggests fever (pulse rises roughly 10 beats for each 1°C above normal). Count pulse at the wrist for 15 seconds, multiply by 4.
+
+Flushed skin: red cheeks, warm ears, glassy eyes suggest fever.
+
+Chills and shivering despite warm conditions: the body is raising its temperature. Fever is rising.
+
+Sweating without exertion: the body is lowering its temperature. Fever is breaking.
+
+Breathing rate: count breaths per minute. Normal adult: 12-20. Above 24 suggests fever or respiratory distress.
+
+Danger signs (seek urgent help or escalate care): fever with stiff neck (meningitis), fever with confusion or delirium (high fever, above 40°C), fever lasting more than 3 days with worsening symptoms, fever in a newborn or infant.
+
+Fever treatment: keep the patient hydrated. Remove excess clothing. Apply cool damp cloths to forehead, armpits, and groin. Willow bark tea reduces fever (see pain management). Do not bundle a feverish patient in blankets (this raises temperature further). A fever below 39°C in an otherwise healthy adult is the body's defense mechanism — it makes the body less hospitable to pathogens. Do not aggressively treat mild fevers.
 
 Infection: fever, redness, swelling, pus, pain.
 

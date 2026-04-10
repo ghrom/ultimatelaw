@@ -161,6 +161,160 @@ Potatoes: 15 million calories/hectare. Rice: 11 million. Corn: 8 million. Wheat:
 
 If you are feeding people, prioritize calorie density. Potatoes, rice, corn, beans. If you have surplus, diversify for nutrition and trade.
 
+Seasonal Timing: When to Plant
+
+Without a calendar, the seasons still tell you when to act. Learning to read natural indicators is as important as knowing what to plant.
+
+Last frost and first frost.
+
+The growing season is the number of frost-free days between the last spring frost and the first autumn frost. Most crops die or are damaged by frost (temperatures below 0°C). Your planting schedule depends on knowing when frosts occur in your area.
+
+Observe and record. The first year, you learn by watching. Track when the last frost occurs in spring and the first frost in autumn. Mark these dates. Over several years, a pattern emerges. Plan accordingly.
+
+Natural indicators of spring planting time:
+
+Soil temperature matters more than air temperature. Seeds will not germinate in cold soil regardless of warm air. Test by touch: soil at planting depth should feel cool but not cold. If you can hold your bare hand flat on the soil comfortably, it is above roughly 10°C — warm enough for most cool-season crops.
+
+Phenological indicators (events in nature that correlate with soil temperature):
+
+When forsythia blooms (bright yellow flowers, early spring): plant peas, lettuce, spinach, onions. Soil is approximately 7-10°C.
+
+When dandelions bloom: plant beets, carrots, potatoes. Soil is approximately 10-13°C.
+
+When apple trees bloom: plant beans, corn, squash. Soil is approximately 15-18°C. This is roughly the date of the last average frost.
+
+When lilacs are in full bloom: the last frost has almost certainly passed. Plant tomatoes, peppers, melons, and all warm-season crops.
+
+When soil feels warm to your bare feet in the morning: warm-season crops can go in.
+
+These indicators vary by species and region, but the principle is universal: plants in your area respond to the same soil temperatures your crops need. Watch what blooms, and plant accordingly.
+
+Autumn indicators:
+
+Shortening days signal winter. When daylight drops noticeably (late summer), begin planning harvest. When first nighttime temperatures approach freezing (you can feel it; your breath steams at dawn), harvest remaining warm-season crops.
+
+Hardy crops (kale, cabbage, root vegetables) tolerate light frost and can remain in the ground longer.
+
+Moon planting.
+
+Some traditional farming calendars recommend planting by moon phase. The evidence for this is weak, but the practice does no harm: plant above-ground crops during the waxing moon (new to full) and root crops during the waning moon (full to new). The real value of moon planting is that it forces you to follow a disciplined schedule.
+
+Protecting Your Crops: Pests, Disease, and Weeds
+
+Your crops exist in an ecosystem. Other organisms want to eat them. Some will destroy entire harvests. Protecting crops is not optional — it is the difference between surplus and starvation.
+
+The principles of pest management.
+
+Prevention is easier than cure. Healthy soil produces healthy plants. Healthy plants resist pests and diseases better than weak ones. Most pest problems begin with poor soil, overcrowding, or monoculture (planting the same crop in the same place repeatedly).
+
+Diversity defeats pests. A field of one crop is a buffet for the pest that eats it. A field of many crops limits any single pest. This is why crop rotation and companion planting matter.
+
+Observation catches problems early. Walk your fields daily. Look at leaves, stems, roots, soil. Notice changes. A small infestation caught early is easy to manage. A large infestation discovered late may be unstoppable.
+
+Common insect pests and responses.
+
+Aphids: tiny soft-bodied insects (green, black, or white) clustered on stems and leaf undersides. They suck plant sap, causing curled leaves and stunted growth. They also spread viral diseases.
+Response: spray with strong water stream to knock off. Encourage ladybugs and lacewings (natural predators). Plant nasturtiums nearby (aphids prefer nasturtiums, drawing them away from crops). In severe cases, spray soapy water (1 tablespoon soap per liter of water) directly on aphids. The soap breaks their waxy coating.
+
+Caterpillars (including cabbage worms, corn earworms, tomato hornworms): larvae of moths and butterflies that chew leaves and fruit. Caterpillars can defoliate a plant in days.
+Response: hand-pick and destroy (crush or feed to chickens). Cover brassicas with fine mesh netting to prevent moths from laying eggs. Plant dill and fennel nearby to attract parasitic wasps that lay eggs inside caterpillars.
+
+Slugs and snails: soft-bodied mollusks that feed at night, leaving slime trails and ragged holes in leaves. Worst in wet conditions.
+Response: scatter crushed eggshells or wood ash around plants (abrasive barrier). Set beer traps (shallow dish of beer — slugs are attracted, fall in, drown). Encourage frogs, toads, and ground beetles (natural predators).
+
+Beetles (including Colorado potato beetle, flea beetle, Japanese beetle): hard-shelled insects that chew leaves, sometimes down to skeletons.
+Response: hand-pick early in the morning when beetles are sluggish. Crop rotation (do not plant potatoes in the same spot two years running). Row covers (fine mesh over plants).
+
+Rodents (mice, rats, voles, rabbits): eat seeds, seedlings, roots, stored grain.
+Response: cats are the best rodent control ever invented — one cat protects an entire grain store. Store harvests in sealed containers (pottery, metal bins). Elevate grain stores off the ground. Set snap traps near signs of activity.
+
+Birds: eat seeds and ripe fruit.
+Response: cover seedbeds with mesh netting until sprouts establish. Use reflective strips (shiny material fluttering in wind) to deter birds from fruit.
+
+Natural pesticides (use as last resort).
+
+Neem (from neem tree seeds): grind seeds, soak in water, strain, spray. Disrupts insect feeding and reproduction. Effective against a wide range of insects. Low toxicity to humans and beneficial insects.
+
+Pyrethrum (from chrysanthemum flowers): dry flowers, grind to powder, mix with water and spray. Kills insects on contact. Degrades quickly in sunlight (does not persist in environment). Also kills beneficial insects — use selectively.
+
+Tobacco water: soak tobacco leaves in water for 24 hours, strain, spray. Kills many insects. Toxic to humans if ingested — wash hands after use. Do not use on nightshade family plants (tomatoes, potatoes, peppers) as it can spread tobacco mosaic virus.
+
+Diatomaceous earth: powder made from fossilized diatoms (microscopic shells). Sprinkle around plants. The sharp particles cut through insect exoskeletons, causing dehydration. Effective against slugs, beetles, ants. Harmless to humans and animals. Loses effectiveness when wet.
+
+Wood ash: sprinkle around plants. Deters slugs, snails, and some beetles. Also provides potassium. Do not over-apply — raises soil pH.
+
+Crop diseases and diagnosis.
+
+Most crop diseases are caused by fungi, bacteria, or viruses. They spread through water, wind, soil, insects, and contaminated tools.
+
+Fungal diseases (most common):
+
+Powdery mildew: white, powdery coating on leaves. Common on squash, cucumbers, grapes. Cause: humid conditions, poor air circulation. Response: remove affected leaves. Improve spacing between plants for air flow. Spray with dilute milk solution (1 part milk to 9 parts water) — the proteins in milk inhibit fungal growth.
+
+Blight (early and late): brown spots on leaves that spread rapidly. Late blight destroyed the Irish potato crop in the 1840s. Cause: wet, cool conditions. Late blight spreads explosively. Response: remove and burn (do not compost) affected plants immediately. Do not plant potatoes or tomatoes in the same spot for 3-4 years. Choose resistant varieties if available.
+
+Damping off: seedlings fall over and die at the soil line. The stem is pinched and rotted at the base. Cause: fungus in soil, usually triggered by overwatering and poor drainage. Response: improve drainage. Water from below (not overhead). Thin seedlings to improve air circulation.
+
+Rust: orange or brown pustules on leaf undersides. Common on beans and grains. Cause: wet conditions, warm temperatures. Response: remove affected leaves. Improve air circulation. Choose resistant varieties.
+
+Bacterial diseases:
+
+Bacterial wilt: plants wilt suddenly and permanently despite adequate water. Cut the stem — if milky sap oozes, it is bacterial wilt. Spread by cucumber beetles. Response: control beetle vectors. Remove and destroy affected plants. Do not compost.
+
+Soft rot: mushy, foul-smelling decay of stems, roots, or stored produce. Cause: bacteria entering through wounds. Response: handle produce carefully. Do not store damaged items. Cure root crops (dry in sun for a few days) before storage.
+
+Viral diseases:
+
+Mosaic virus: mottled yellow and green pattern on leaves. Stunted, distorted growth. Spread by aphids and contaminated tools. Response: control aphids. Remove and destroy infected plants. Clean tools with fire or alcohol between plants. No cure exists for viral infections — prevention is everything.
+
+General disease prevention:
+
+Rotate crops. Never plant the same family in the same spot two years running.
+Improve air circulation. Space plants adequately. Prune dense growth.
+Water at soil level, not on leaves. Wet foliage breeds fungus.
+Remove debris. Old plant material harbors disease organisms over winter.
+Clean tools. Wipe blades with alcohol or pass through flame when moving between plants, especially when disease is present.
+Choose resistant varieties when available. Resistance is the cheapest and most reliable defense.
+
+Weeds: the silent competitors.
+
+Weeds compete with crops for light, water, and nutrients. A weedy field can lose 50-80% of its potential yield.
+
+Weed management:
+
+Mulch. A 10-15 cm layer of organic mulch (straw, leaves, wood chips) blocks light and prevents most weed germination. The single most effective weed control method.
+
+Hand weeding. Pull weeds when small and soil is moist. Weed early and often — preventing seed production is critical (one weed can produce thousands of seeds).
+
+Hoeing. Slice weeds at the soil surface with a sharp hoe. Best done in dry weather so severed weeds desiccate quickly.
+
+Cover crops. Dense cover crops between seasons smother weeds.
+
+False seedbed. Prepare soil as if planting, water, wait for weeds to germinate, then hoe or flame them before planting your crop. This depletes the weed seed bank in the top soil layer.
+
+Do not let weeds go to seed. One year of seeding means seven years of weeding (a real approximation — weed seeds persist in soil for years).
+
+Troubleshooting Crop Failures
+
+Plants tell you what is wrong. Learn to read the symptoms.
+
+Yellowing leaves (chlorosis):
+Starting from bottom (older leaves): nitrogen deficiency. Add compost, manure, or grow legumes.
+Starting from top (new leaves): iron deficiency (usually caused by high pH soil). Add sulfur or acidic organic matter.
+Between veins (veins stay green): magnesium deficiency. Add Epsom salt (magnesium sulfate) or dolomite lime.
+
+Wilting despite wet soil: root rot from overwatering, poor drainage, or fungal disease. Improve drainage. Reduce watering. Pull affected plants and examine roots — healthy roots are white; diseased roots are brown and mushy.
+
+Stunted growth: compacted soil (roots cannot penetrate), nitrogen deficiency, cold soil, or root damage from pests. Diagnose by elimination: check soil, check nutrients, check temperature, check roots.
+
+Blossom drop (flowers fall without setting fruit): temperature stress (too hot or too cold), insufficient pollination, or water stress. For pollination: attract bees (plant flowers nearby) or hand-pollinate (transfer pollen with a small brush).
+
+Bitter or tough vegetables: water stress (insufficient or irregular watering), harvested too late, or bolting (plant going to seed prematurely due to heat or long days).
+
+Cracked fruit (tomatoes, melons): irregular watering — heavy rain or watering after a dry period causes rapid expansion that splits the skin. Water consistently.
+
+Poor germination: seeds too old, planted too deep, soil too cold, soil too wet (seeds rotted), or soil crusted over (seedlings cannot push through). Test seed viability: place 10 seeds on a damp paper towel in a warm place. Count how many sprout in 7-10 days. If fewer than 6, use fresher seeds or plant more densely.
+
 Livestock: Stored Calories on Legs
 
 Domestic animals provide meat, milk, eggs, labor, fertilizer, and materials (leather, wool). They convert plant material humans cannot digest (grass, crop residues) into food humans can.
