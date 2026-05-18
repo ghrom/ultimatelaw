@@ -139,7 +139,10 @@ Economy
 The web of voluntary trades and productions among people handling scarcity. An economy thrives on free trade and incentives, failing when force (like regulations or taxes) distorts it by breaking consent, incentives, and decentralized knowledge. From infinite change, economies self-organize without central plans, as no one can know everyone's needs.
 
 Effect
-A change in the environment caused by an action.
+A change produced by a prior cause. Effects can follow from actions (changes caused by agents) or from natural processes (changes with no agent). When an effect crosses another agent's boundaries against their consent, it becomes harm; the agent whose action produced it bears responsibility for restitution.
+
+Eschatology
+The study of last things: where civilization is heading, what counts as the end, and whether the end is fixed or chosen. Older eschatology treats the end as something handed down — judgment, collapse, or salvation arriving from outside the world, on a timetable no one controls. The coherent view inverts this. The end is not received; it is built. What civilization becomes by the time any one body fails depends on what free individuals trade, learn, and repair in the meantime. Under voluntary cooperation, scarcity shrinks, knowledge grows, and the systems that keep a person alive get better year by year. Death stops being the fixed endpoint of a life and becomes a failure mode of repair — a problem with a technical address, not a sentence handed down by anyone. Good News is the eschatology of free people: the end civilization is building toward is indefinite life for all who help build it. The question shifts from "what happens after we die?" to "how long before we no longer have to?"
 
 Emergence
 The process by which stable structures, laws, and relations arise as persistent patterns within infinite change. Nothing is imposed from outside; space, time, geometry, and physical constants are not fundamental but self-organize from the flow of transformation. Law is memory, inertia is habit, and geometry is history. Emergence explains how order exists without a designer and why rigid top-down control always fails against the deeper flux it attempts to override.
