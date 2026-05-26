@@ -17,6 +17,9 @@ Something that can form intentions, make decisions, and initiate actions.
 Agreement
 A clear, voluntary meeting of minds where all sides understand and accept the terms for a proposed interaction that affects boundaries. Without agreement or permission, an action that crosses another's boundary defaults to violation and harm.
 
+Art
+A created pattern intended to express, explore, or communicate something to others. It does not require beauty, approval, or agreement; its defining feature is the maker's intention to share a perception, feeling, idea, or experience. The meaning of art is not contained in the object alone but arises in the interaction between the pattern and the observer. Different observers may experience different responses, and none can be imposed as the 'correct' one. Art thrives through voluntary attention, honest expression, and the freedom to interpret without coercion.
+
 Attention
 The focusing of awareness on a particular thing while ignoring others. Attention selects what the mind processes most strongly at a given moment.
 
@@ -166,7 +169,7 @@ Expression
 The process of producing outputs, including actions, that convey ideas or information.
 
 Faith
-Holding a belief without sufficient evidence or despite contrary evidence. Faith can guide personal meaning but becomes dangerous when used to justify force, harm, or control over others.
+Trust or commitment held under uncertainty, where the evidence does not, or cannot, settle the question. Faith can sustain hope, meaning, and resolve; on questions evidence cannot reach, it can be neither proven nor disproven. It becomes dangerous only when it closes itself to correction on questions evidence can settle, or when it is used to justify force, harm, or control over others.
 
 Fallibility
 The fact that all agents make mistakes and aren't perfect in smarts or goodness. Systems assuming agents are flawless need force to work, which breaks freedom and leads to harm.
@@ -415,7 +418,7 @@ Revenge
 Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Revenge is driven by emotion, not justice, and can exist even when no restitution or proportional retribution is involved.
 
 Rights
-Boundaries that protect an agent's ability to act without being harmed or controlled by others. Rights emerge from logic and the Golden Rule: an agent owns their body, actions, and property without harming others unwillingly. Rights are not granted by authority or votes'they are timeless, self-evident from infinite change, and only limited by consent or restitution for violations.
+Rules about what no one may do to you without your agreement. They follow by logic from two things: agency, and the passive Golden Rule. They are not given by power-holders or votes; any agent who can reason can work them out. They apply the same way to everyone: if you claim a right, you must extend the same right to all agents like you. They describe what others must not do to you, not what they must give you. They matter only when someone might break them. Anyone who attacks another's rights cannot then hide behind their own. Any 'right' that needs someone to be forced into supplying it is not a right but power dressed up as one.
 
 Right to Free Trade
 The freedom to exchange goods, services, or ideas by mutual consent, without interference, as long as the exchange does not cause harm.
@@ -440,6 +443,9 @@ Value delivered through action rather than through a physical thing. A service i
 
 Signal
 A pattern of inputs or outputs that carries information.
+
+Social Construct
+A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary — language, games, money, manners — where leaving costs you the cooperation of others, and nothing more. Others are forced — borders, taxes, state authority — where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
 
 Socialism
 A system that promises fairness but uses force to take and redistribute without consent. It ignores scarcity, incentives, and decentralized knowledge, always leading to control, lies, and collapse. Morally wrong because it breaks reciprocity and creates victims through coercion.
