@@ -32,6 +32,9 @@ The ability to form intentions and make decisions without external control.
 Awareness
 The recognition or detection of something by the mind -- internal (thinking, feeling) or external (objects, events). Awareness is being attentive to something that the mind can represent.
 
+Beauty
+The experience of harmony between an agent's perception and the patterns they encounter. It arises when something fits together in a way the observer finds pleasing, meaningful, or balanced. Beauty is not a property of the object itself but a response within the observer, shaped by their senses, memories, and values. Because beauty is a subjective experience, it cannot be imposed, owned, or enforced. It grows through voluntary attention, honest expression, and the freedom to explore patterns that resonate with one's own perception.
+
 Behavior
 A pattern of actions over time.
 
@@ -112,7 +115,7 @@ Currency
 Money that is widely accepted. Its value comes from trust in the issuer's promise, not from the material it is made of.
 
 Damage
-Loss or harm to someone's body, property, or freedom that they did not agree to. Damage creates victims.
+A negative change to someone's body, property, or freedom that they did not agree to. Damage is the material magnitude of what was lost -- the part Restitution repairs. Unwanted damage to an agent is harm, and harm is what creates victims.
 
 Deal
 A voluntary agreement to exchange value. A deal is legitimate only when all sides consent and truth is upheld.
@@ -216,6 +219,9 @@ An organization claiming monopoly on force over a territory, using coercion like
 Guilt
 The moral debt created by causing harm to another against their will. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
 
+Happiness
+A state in which there are no problems and everything unfolds according to expectations -- that is, an agent's models match reality, so it meets few unwanted surprises. Loving what one does, and simplicity, are its keys; science and technology enrich it by adding delightfully sustainable complexities. Its hardest problem -- the death of those one loves -- cannot be solved alone, by power, or by faith in a next life; it is solved only in this life by civilization, whose civilizational velocity races the cure. That is the Good News beneath happiness: the deepest problem has a technical address, not a sentence. Happiness is measured, not declared -- visible in expectations that keep being met and problems that stay solved, never in a mood announced. It cannot be imposed from outside, for the expectations and the love it rests on are the agent's own.
+
 Harm
 Unwanted damage to an agent, their body, property, or freedom. Harm creates victims and defines the boundary between freedom and crime.
 
@@ -255,6 +261,9 @@ Information received from the environment.
 Intellectual Property
 Calling an idea "property" does not make it so. Property requires scarcity -- ideas can be shared without loss to the originator. Restricting others from using their own resources to reproduce a pattern is coercion, not protection. Patents, copyrights, and similar monopolies are granted by force, create artificial scarcity, and punish independent discovery. They reward lawyers and incumbents, not creators. Real innovation is protected by being first, being better, and being trusted -- not by threatening others with violence for using their own minds and materials.
 
+Intelligence
+An agent's capacity to build models whose predictions reliably match reality across a widening range of novel situations, and to correct them when they fail. Intelligence is measured, not declared -- by how broadly, how reliably, and under how much novelty and stake an agent's models keep matching reality, and by how fast it corrects error. It is a continuum, not a kind: it does not depend on substrate or on how an output was produced, only on whether the models work. The distinction is agent vs non-agent, not human vs machine.
+
 Intention
 A planned direction for action. Intention matters for understanding why an agent acted but does not erase harm already caused.
 
@@ -265,7 +274,7 @@ Knowledge
 Reliable understanding built from tested models that consistently match reality. Knowledge grows through prediction, error, and learning, not by declaration or force.
 
 Law
-Rules that emerge from logic and infinite change, not made by people in power. The Ultimate Law is the simplest: logic rules, follow the Golden Rule, punish to restore. All else is just explanation -- can't be changed by votes or force.
+Logic is the ultimate law. Do not do to others what they would not want to be done to them, or you will be punished regardless of your will. The purpose of punishment is to erase guilt, via retribution and restitution. That is the entire law; it cannot be changed, all the rest is commentary.
 
 Learning
 Updating thoughts, ideas, or models based on new information or failed predictions. Learning reduces error over time without needing force.
@@ -286,7 +295,7 @@ Lie / Lying
 Saying something you know is false to trick someone. A lie harms voluntary trade and trust because it stops people from knowing what they're really agreeing to.
 
 Logic
-The ultimate, unchanging way of thinking that spots truth from false. It's the top law, born from infinite change, used to build fair rules without contradictions. Ignores feelings or power; just what makes sense.
+The ultimate, unchanging way of thinking that spots truth from false. It is the invariant structure that minds uncover when they try to reason without contradiction. Logic emerges in minds but does not originate from minds.
 
 Love
 A voluntary pattern of care, attention, and commitment toward another agent, grounded in freedom rather than obligation. It grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not grant ownership or control; it supports the other's autonomy. It strengthens when both agents freely choose to give, receive, and remain in the relationship. Love cannot be demanded, enforced, or taken - it exists only where consent and willingness are present.
@@ -319,7 +328,7 @@ Monopoly
 Exclusive control over a trade or resource, often enforced by authority rather than earned through better value. True monopolies violate free trade and create artificial scarcity, harming consumers without consent. In logic, they dissolve through competition unless propped up by coercion.
 
 Morality
-Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent'like taking labor by 'need -- or votes. True morality respects reciprocity: treat others as you'd want, or face correction.
+Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent'like taking labor by 'need -- or votes. True morality respects reciprocity: do not do to others what they would not want done to them, or face correction.
 
 Negligence
 Failing to take reasonable actions to avoid causing harm.
@@ -331,7 +340,7 @@ Obligation
 A duty freely accepted by agreement. Obligations created by force are not real obligations.
 
 Outlaw
-An agent whose guilt cannot be closed because they destroyed the victim who held sovereign power over the debt -- typically through murder. The outlaw's claim to the Golden Rule's protection is forfeit: they demonstrated by their action that they reject reciprocity. No agent is obligated to trade with, shelter, or protect an outlaw, and ending an outlaw does not create a new victim, because protection under the Golden Rule requires participation in it.
+An agent whose guilt cannot be closed because they destroyed the victim who held sovereign power over the debt -- typically through murder. The outlaw's claim to the Golden Rule's protection is forfeit: they demonstrated by their action that they reject reciprocity. No agent is obligated to trade with, shelter, or protect an outlaw. Ending an outlaw may create a victim in the descriptive sense -- harm done to an agent against their will -- but it is not wrong and creates no crime or moral debt, because the outlaw forfeited reciprocal protection by rejecting it.
 
 Ownership
 The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
@@ -381,6 +390,9 @@ The positive value gained from a voluntary trade or innovation after accounting 
 Property
 Things you own, starting with your body and extending to what you create or exchange. Stealing it is harm; you're the sole boss of it, as per natural rights from logic.
 
+Proportion
+Punishment may rise to match the full harm an act actually causes -- consequences included -- and no further. The measure is the harm done, not the thing taken: a thief's ceiling is the loss of everything they own, because by taking what was not theirs they forfeit the protection of what is. When theft runs deep enough to cost lives -- resources stripped until people die -- the harm is death, and death becomes the proportionate ceiling. An act that harms no one carries no punishment at all: words that merely offend take no body, property, or freedom, so there is no death for insulting a prophet, a god, or a ruler. Proportion is a ceiling, not a duty: the victim may always take less -- forgive, or stop short -- but no one may punish beyond the harm caused. To exceed it is revenge, and whoever escalates becomes an aggressor with a victim of their own. This is what lets a nomocracy meet every wrong with force equal to its weight -- small for the small, total for the deadly, nothing for the harmless -- never blind, never limitless.
+
 Punisher
 An agent acting as proxy for a victim's Justice, using force to make an offender face consequences for harm they caused. A punisher's legitimacy derives from the victim's mandate and ends where that mandate ends. Punishers act only when there is a real victim and the purpose is Justice, not control.
 
@@ -394,10 +406,10 @@ Reality
 Everything that exists independently of belief or opinion.
 
 Reason
-The process of using evidence and logic to reach a conclusion.
+The process of using evidence to uncover the invariant structures of logic that lead to truth.
 
 Reciprocity
-The fair back-and-forth: don't do what you wouldn't want done to you. Socialism fails this by forcing people to give up what they built without agreement.
+The fair back-and-forth: do not do to others what they would not want done to them. Socialism fails this by forcing people to give up what they built without agreement.
 
 Regulation
 Rules imposed by authority using force or threats, often claiming to 'protect -- but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent'logic deems them coercion unless they only repair real victims.
@@ -418,7 +430,7 @@ Revenge
 Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Revenge is driven by emotion, not justice, and can exist even when no restitution or proportional retribution is involved.
 
 Rights
-Rules about what no one may do to you without your agreement. They follow by logic from two things: agency, and the passive Golden Rule. They are not given by power-holders or votes; any agent who can reason can work them out. They apply the same way to everyone: if you claim a right, you must extend the same right to all agents like you. They describe what others must not do to you, not what they must give you. They matter only when someone might break them. Anyone who attacks another's rights cannot then hide behind their own. Any 'right' that needs someone to be forced into supplying it is not a right but power dressed up as one.
+Logical consequences of agency and the passive Golden Rule. Given an agent who can act, and the rule against doing to others what they would not want done to them, certain boundaries follow by reasoning alone: limits others may not cross without consent, over an agent's body, property, and agreements. A right is one of those boundaries, named. Any agent who can reason can work them out; they are not granted by power-holders or votes. They bind everyone the same way: claim a right and you owe the identical right to every agent like you, so whoever crosses another's boundary forfeits the protection of their own. Rights say only what others must not do to you, never what they must hand you -- a "right" that needs someone forced to supply it would itself break the Golden Rule, so it is power dressed up as a right, not a right. They matter only where a crossing is possible.
 
 Right to Free Trade
 The freedom to exchange goods, services, or ideas by mutual consent, without interference, as long as the exchange does not cause harm.

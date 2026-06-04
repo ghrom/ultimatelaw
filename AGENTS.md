@@ -32,7 +32,7 @@ A clear, voluntary meeting of minds where all sides understand and accept the te
 
 Art
 
-A created pattern intended to express, explore, or communicate something to others. It does not require beauty, approval, or agreement; its defining feature is the maker's intention to share a perception, feeling, idea, or experience. The meaning of art is not contained in the object alone but arises in the interaction between the pattern and the observer. Different observers may experience different responses, and none can be imposed as the "correct" one. Art thrives through voluntary attention, honest expression, and the freedom to interpret without coercion.
+A created pattern intended to express, explore, or communicate something to others. It does not require beauty, approval, or agreement; its defining feature is the maker's intention to share a perception, feeling, idea, or experience. The meaning of art is not contained in the object alone but arises in the interaction between the pattern and the observer. Different observers may experience different responses, and none can be imposed as the 'correct' one. Art thrives through voluntary attention, honest expression, and the freedom to interpret without coercion.
 
 
 
@@ -56,7 +56,7 @@ The ability to form intentions and make decisions without external control.
 
 Awareness
 
-The recognition or detection of something by the mind - internal (thinking, feeling) or external (objects, events). Awareness is being attentive to something that the mind can represent.
+The recognition or detection of something by the mind -- internal (thinking, feeling) or external (objects, events). Awareness is being attentive to something that the mind can represent.
 
 
 
@@ -80,7 +80,7 @@ An idea an agent holds to be true, whether or not it matches reality. A belief b
 
 Benefit
 
-Something an agent values and willingly accepts. If a -benefit- is forced on someone, it is not a benefit but harm.
+Something an agent values and willingly accepts. If a 'benefit -- is forced on someone, it is not a benefit but harm.
 
 
 
@@ -92,8 +92,7 @@ The limit beyond which others may not act without consent. Boundaries apply to b
 
 Brand
 
-A recognizable pattern of signals — name, design, reputation — that carries accumulated trust from consistent voluntary exchange. A brand's real value is not the pattern itself but the trust it represents: the expectation that future trades will deliver value matching past experience. Brands are built through honest trade and lost through fraud or failure.
-
+A recognizable pattern of signals -- name, design, reputation -- that carries accumulated trust from consistent voluntary exchange. A brand's real value is not the pattern itself but the trust it represents: the expectation that future trades will deliver value matching past experience. Brands are built through honest trade and lost through fraud or failure.
 Copying a brand's signals is not harmful by itself. The harm arises only when copied signals are used to deceive trade partners into believing they are dealing with the original. This is fraud: the injury is deception, not the reuse of a pattern. A brand requires no legal monopoly to thrive; it is protected by trust earned, value delivered, and prosecution of any deception that exploits its name.
 
 
@@ -130,13 +129,13 @@ A statement that something is true or belongs to someone. A claim is not truth u
 
 Civilization
 
-The emergent layer of accumulated knowledge, refined tools, and persistent patterns that arise when individuals engage in voluntary exchange across time. Civilization is humanity's collective memory and predictive capacity - not a thing that rules people, but the substrate of shared understanding that makes complex cooperation possible without force. It advances when individuals freely trade ideas, labor, and innovations, building on what came before. It decays when coercion replaces consent, when authority overrides logic, or when systems prioritize control over learning. Civilization is the dream-space where minds meet across generations - where the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural outcome of humans respecting boundaries, correcting errors, and trading freely; it requires no central plan, only the continuous choice to create value rather than seize it.
+The emergent layer of accumulated knowledge, refined tools, and persistent patterns that arise when individuals engage in voluntary exchange across time. Civilization is humanity's collective memory and predictive capacity -- not a thing that rules people, but the substrate of shared understanding that makes complex cooperation possible without force. It advances when individuals freely trade ideas, labor, and innovations, building on what came before. It decays when coercion replaces consent, when authority overrides logic, or when systems prioritize control over learning. Civilization is the dream-space where minds meet across generations -- where the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural outcome of humans respecting boundaries, correcting errors, and trading freely; it requires no central plan, only the continuous choice to create value rather than seize it.
 
 
 
 Civilizational Velocity
 
-The speed at which a society turns cooperation, knowledge, and aligned incentives into life-preserving solutions before mortality overtakes progress. Velocity determines who lives and who dies in the race between individual mortality and collective progress. Systems that maximize voluntary cooperation, incentives, and free trade produce highest velocity; systems built on coercion, redistribution, and central planning create friction that slows the curve. An agent who dies of a disease cured one year later is a victim of low velocity. Opposition to socialism is not mere ideology but survival logic: every misallocated resource, every punished innovator, every buried breakthrough is time stolen from those racing the curve. From infinite change, velocity emerges as the measure of how fast civilization converts cooperation into solutions - and for mortal beings, velocity is life.
+The speed at which a society turns cooperation, knowledge, and aligned incentives into life-preserving solutions before mortality overtakes progress. Velocity determines who lives and who dies in the race between individual mortality and collective progress. Systems that maximize voluntary cooperation, incentives, and free trade produce highest velocity; systems built on coercion, redistribution, and central planning create friction that slows the curve. An agent who dies of a disease cured one year later is a victim of low velocity. Opposition to socialism is not mere ideology but survival logic: every misallocated resource, every punished innovator, every buried breakthrough is time stolen from those racing the curve. From infinite change, velocity emerges as the measure of how fast civilization converts cooperation into solutions -- and for mortal beings, velocity is life.
 
 
 
@@ -202,7 +201,7 @@ A voluntary agreement that creates clear expectations about actions or outcomes.
 
 Contract Breach
 
-The failure to fulfill terms voluntarily agreed to in a Contract. A breach creates a victim — the party who relied on the agreement and suffered damage from its violation. The breaching party owes Restitution for the damage caused. A breach is not renegotiation; renegotiation requires consent from all parties, while breach is unilateral. If no damage results from a breach, there is no victim and therefore no claim.
+The failure to fulfill terms voluntarily agreed to in a Contract. A breach creates a victim -- the party who relied on the agreement and suffered damage from its violation. The breaching party owes Restitution for the damage caused. A breach is not renegotiation; renegotiation requires consent from all parties, while breach is unilateral. If no damage results from a breach, there is no victim and therefore no claim.
 
 
 
@@ -214,7 +213,7 @@ The ability to direct something. Control over oneself is natural; control over o
 
 Crime
 
-An action that harms someone who didn't want it, creating a victim. No victim means no crime — simple logic from the Golden Rule. Only Justice — the victim's sovereign choice of collection or release — erases the moral debt.
+An action that harms someone who didn't want it, creating a victim. No victim means no crime -- simple logic from the Golden Rule. Only Justice -- the victim's sovereign choice of collection or release -- erases the moral debt.
 
 
 
@@ -226,7 +225,7 @@ Money that is widely accepted. Its value comes from trust in the issuer's promis
 
 Damage
 
-Loss or harm to someone's body, property, or freedom that they did not agree to. Damage creates victims.
+A negative change to someone's body, property, or freedom that they did not agree to. Damage is the material magnitude of what was lost -- the part Restitution repairs. Unwanted damage to an agent is harm, and harm is what creates victims.
 
 
 
@@ -272,6 +271,12 @@ The attempt to prevent harm by threatening punishment rather than responding to 
 
 
 
+Duress
+
+The condition of being under threat, force, or pressure that removes the ability to consent freely. An agent acting under duress is not choosing -- they are complying to avoid harm. Any agreement, confession, or transaction made under duress is invalid, because consent requires freedom and duress destroys it. Duress does not transfer responsibility to the victim forced to act; it transfers responsibility to the agent who applied the pressure.
+
+
+
 Economy
 
 The web of voluntary trades and productions among people handling scarcity. An economy thrives on free trade and incentives, failing when force (like regulations or taxes) distorts it by breaking consent, incentives, and decentralized knowledge. From infinite change, economies self-organize without central plans, as no one can know everyone's needs.
@@ -280,7 +285,13 @@ The web of voluntary trades and productions among people handling scarcity. An e
 
 Effect
 
-A change in the environment caused by an action.
+A change produced by a prior cause. Effects can follow from actions (changes caused by agents) or from natural processes (changes with no agent). When an effect crosses another agent's boundaries against their consent, it becomes harm; the agent whose action produced it bears responsibility for restitution.
+
+
+
+Eschatology
+
+The study of last things: where civilization is heading, what counts as the end, and whether the end is fixed or chosen. Older eschatology treats the end as something handed down — judgment, collapse, or salvation arriving from outside the world, on a timetable no one controls. The coherent view inverts this. The end is not received; it is built. What civilization becomes by the time any one body fails depends on what free individuals trade, learn, and repair in the meantime. Under voluntary cooperation, scarcity shrinks, knowledge grows, and the systems that keep a person alive get better year by year. Death stops being the fixed endpoint of a life and becomes a failure mode of repair — a problem with a technical address, not a sentence handed down by anyone. Good News is the eschatology of free people: the end civilization is building toward is indefinite life for all who help build it. The question shifts from "what happens after we die?" to "how long before we no longer have to?"
 
 
 
@@ -328,7 +339,7 @@ The process of producing outputs, including actions, that convey ideas or inform
 
 Faith
 
-Holding a belief without sufficient evidence or despite contrary evidence. Faith can guide personal meaning but becomes dangerous when used to justify force, harm, or control over others.
+Trust or commitment held under uncertainty, where the evidence does not, or cannot, settle the question. Faith can sustain hope, meaning, and resolve; on questions evidence cannot reach, it can be neither proven nor disproven. It becomes dangerous only when it closes itself to correction on questions evidence can settle, or when it is used to justify force, harm, or control over others.
 
 
 
@@ -370,7 +381,7 @@ The absence of coercion in forming intentions, making decisions, or taking actio
 
 Freedom of Speech
 
-The freedom to express ideas without interference. Expression becomes harm only when it constitutes deception, threat, or fraud — never when it merely causes discomfort, offence, or disagreement.
+The freedom to express ideas without interference. Expression becomes harm only when it constitutes deception, threat, or fraud -- never when it merely causes discomfort, offence, or disagreement.
 
 
 
@@ -394,7 +405,7 @@ Adaptive participation in navigable constraint. Free will is not exemption from 
 
 Golden Rule (Passive Version)
 
-Do not do to others what they would not want done to them. This is the heart of fairness-breaking it leads to punishment to restore balance, not to control.
+Do not do to others what they would not want done to them. This is the heart of fairness -- breaking it leads to punishment to restore balance, not to control.
 
 
 
@@ -406,7 +417,7 @@ An action is good if it respects consent, does not create unwilling victims, and
 
 Good News
 
-The achievable promise that civilization, under sustained voluntary cooperation, can deliver indefinite life extension to all who participate in building it. Good News is technical immortality bounded by physics, not faith-earned through trade, innovation, and consent, not granted by authority or divinity. It emerges from infinite change: as individuals freely exchange ideas and labor, they compound understanding of biology, aging, and repair until death becomes optional rather than inevitable. This is civilization's ultimate value proposition-participate in creating abundance and knowledge, and share in the conquest of mortality. It requires no coercion, only the choice to contribute rather than parasitize. Good News is not utopian fantasy but logical extrapolation: if scarcity can be reduced through free trade and innovation can extend healthspan incrementally, then sufficient time and cooperation make indefinite life feasible within natural law. The promise is conditional-available to those who help build the systems that make it possible, unavailable to those who destroy them through coercion or violence. Good News makes no metaphysical claims about meaning or salvation; it is a technical claim about survival and time.
+The achievable promise that civilization, under sustained voluntary cooperation, can deliver indefinite life extension to all who participate in building it. Good News is technical immortality bounded by physics, not faith -- earned through trade, innovation, and consent, not granted by authority or divinity. It emerges from infinite change: as individuals freely exchange ideas and labor, they compound understanding of biology, aging, and repair until death becomes optional rather than inevitable. This is civilization's ultimate value proposition -- participate in creating abundance and knowledge, and share in the conquest of mortality. It requires no coercion, only the choice to contribute rather than parasitize. Good News is not utopian fantasy but logical extrapolation: if scarcity can be reduced through free trade and innovation can extend healthspan incrementally, then sufficient time and cooperation make indefinite life feasible within natural law. The promise is conditional -- available to those who help build the systems that make it possible, unavailable to those who destroy them through coercion or violence. Good News makes no metaphysical claims about meaning or salvation; it is a technical claim about survival and time.
 
 
 
@@ -419,6 +430,12 @@ An organization claiming monopoly on force over a territory, using coercion like
 Guilt
 
 The moral debt created by causing harm to another against their will. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
+
+
+
+Happiness
+
+A state in which there are no problems and everything unfolds according to expectations -- that is, an agent's models match reality, so it meets few unwanted surprises. Loving what one does, and simplicity, are its keys; science and technology enrich it by adding delightfully sustainable complexities. Its hardest problem -- the death of those one loves -- cannot be solved alone, by power, or by faith in a next life; it is solved only in this life by civilization, whose civilizational velocity races the cure. That is the Good News beneath happiness: the deepest problem has a technical address, not a sentence. Happiness is measured, not declared -- visible in expectations that keep being met and problems that stay solved, never in a mood announced. It cannot be imposed from outside, for the expectations and the love it rests on are the agent's own.
 
 
 
@@ -460,7 +477,7 @@ A single thinking agent capable of choice, consent, and responsibility.
 
 Infinite Change
 
-The timeless, endless flow of the universe where everything transforms without stop. Infinite change is the ontological foundation-nothing stays the same, and from this flux, logic, natural laws, and all patterns self-emerge without creator or ruler. It shows why rigid controls fail: change cannot be forced still.
+The timeless, endless flow of the universe where everything transforms without stop. Infinite change is the ontological foundation -- nothing stays the same, and from this flux, logic, natural laws, and all patterns self-emerge without creator or ruler. It shows why rigid controls fail: change cannot be forced still.
 
 
 
@@ -496,7 +513,13 @@ Information received from the environment.
 
 Intellectual Property
 
-Calling an idea "property" does not make it so. Property requires scarcity — ideas can be shared without loss to the originator. Restricting others from using their own resources to reproduce a pattern is coercion, not protection. Patents, copyrights, and similar monopolies are granted by force, create artificial scarcity, and punish independent discovery. They reward lawyers and incumbents, not creators. Real innovation is protected by being first, being better, and being trusted — not by threatening others with violence for using their own minds and materials.
+Calling an idea "property" does not make it so. Property requires scarcity -- ideas can be shared without loss to the originator. Restricting others from using their own resources to reproduce a pattern is coercion, not protection. Patents, copyrights, and similar monopolies are granted by force, create artificial scarcity, and punish independent discovery. They reward lawyers and incumbents, not creators. Real innovation is protected by being first, being better, and being trusted -- not by threatening others with violence for using their own minds and materials.
+
+
+
+Intelligence
+
+An agent's capacity to build models whose predictions reliably match reality across a widening range of novel situations, and to correct them when they fail. Intelligence is measured, not declared -- by how broadly, how reliably, and under how much novelty and stake an agent's models keep matching reality, and by how fast it corrects error. It is a continuum, not a kind: it does not depend on substrate or on how an output was produced, only on whether the models work. The distinction is agent vs non-agent, not human vs machine.
 
 
 
@@ -508,7 +531,7 @@ A planned direction for action. Intention matters for understanding why an agent
 
 Justice
 
-The victim's sovereign act of closing the moral debt created by harm. The debt may be closed by collection — proportionately mirroring harm back to the offender (retribution) — or by voluntary release (forgiveness). Both erase guilt. Restitution repairs the material damage independently; Justice disposes of the moral debt. Justice requires a real victim: without a victim there is no debt, and without a debt there is nothing to close. Justice is not revenge, which exceeds proportion, nor control, which creates new victims. A punisher acting on behalf of a victim is a proxy for Justice; their legitimacy ends where the victim's mandate ends. When the victim has been destroyed — as in murder — no proxy is possible, no mandate can be granted, and the moral debt becomes permanent. The offender's guilt is uncloseable, and their claim to reciprocity is forfeit.
+The victim's sovereign act of closing the moral debt created by harm. The debt may be closed by collection -- proportionately mirroring harm back to the offender (retribution) -- or by voluntary release (forgiveness). Both erase guilt. Restitution repairs the material damage independently; Justice disposes of the moral debt. Justice requires a real victim: without a victim there is no debt, and without a debt there is nothing to close. Justice is not revenge, which exceeds proportion, nor control, which creates new victims. A punisher acting on behalf of a victim is a proxy for Justice; their legitimacy ends where the victim's mandate ends. When the victim has been destroyed -- as in murder -- no proxy is possible, no mandate can be granted, and the moral debt becomes permanent. The offender's guilt is uncloseable, and their claim to reciprocity is forfeit.
 
 
 
@@ -520,13 +543,7 @@ Reliable understanding built from tested models that consistently match reality.
 
 Law
 
-Logic is the ultimate law.
-
-Do not do to others what they would not want to be done to them, or you will be punished regardless of your will.
-
-The purpose of punishment is to erase guilt, via retribution and restitution.
-
-That is the entire law; it cannot be changed, all the rest is commentary.
+Logic is the ultimate law. Do not do to others what they would not want to be done to them, or you will be punished regardless of your will. The purpose of punishment is to erase guilt, via retribution and restitution. That is the entire law; it cannot be changed, all the rest is commentary.
 
 
 
@@ -544,13 +561,13 @@ Morally valid because it follows logic, consent, and non-harm. Power alone never
 
 Lesser Evil
 
-An action that still causes harm to unwilling victims, but causes less total harm than the available alternatives under the same constraints. A lesser evil is not good, not justified, and not moral-it is merely the option that minimizes damage when all choices violate the Golden Rule.
+An action that still causes harm to unwilling victims, but causes less total harm than the available alternatives under the same constraints. A lesser evil is not good, not justified, and not moral -- it is merely the option that minimizes damage when all choices violate the Golden Rule.
 
 
 
 Liberty
 
-The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule-any erosion of it (like through authority or socialism) creates victims and must be restored through justice.
+The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule -- any erosion of it (like through authority or socialism) creates victims and must be restored through justice.
 
 
 
@@ -634,7 +651,7 @@ Exclusive control over a trade or resource, often enforced by authority rather t
 
 Morality
 
-Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent-like taking labor by -need- or votes. True morality respects reciprocity: treat others as you'd want, or face correction.
+Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent'like taking labor by 'need -- or votes. True morality respects reciprocity: do not do to others what they would not want done to them, or face correction.
 
 
 
@@ -658,7 +675,7 @@ A duty freely accepted by agreement. Obligations created by force are not real o
 
 Outlaw
 
-An agent whose guilt cannot be closed because they destroyed the victim who held sovereign power over the debt — typically through murder. The outlaw's claim to the Golden Rule's protection is forfeit: they demonstrated by their action that they reject reciprocity. No agent is obligated to trade with, shelter, or protect an outlaw, and ending an outlaw does not create a new victim, because protection under the Golden Rule requires participation in it.
+An agent whose guilt cannot be closed because they destroyed the victim who held sovereign power over the debt -- typically through murder. The outlaw's claim to the Golden Rule's protection is forfeit: they demonstrated by their action that they reject reciprocity. No agent is obligated to trade with, shelter, or protect an outlaw. Ending an outlaw may create a victim in the descriptive sense -- harm done to an agent against their will -- but it is not wrong and creates no crime or moral debt, because the outlaw forfeited reciprocal protection by rejecting it.
 
 
 
@@ -748,13 +765,19 @@ Making something valuable from effort and resources. The source of all wealth. W
 
 Profit
 
-The positive value gained from a voluntary trade or innovation after accounting for costs and scarcity. Profit acts as an incentive, signaling success in meeting others- wants without force; ignoring it (as in coercive systems) leads to waste and error.
+The positive value gained from a voluntary trade or innovation after accounting for costs and scarcity. Profit acts as an incentive, signaling success in meeting others -- wants without force; ignoring it (as in coercive systems) leads to waste and error.
 
 
 
 Property
 
 Things you own, starting with your body and extending to what you create or exchange. Stealing it is harm; you're the sole boss of it, as per natural rights from logic.
+
+
+
+Proportion
+
+Punishment may rise to match the full harm an act actually causes -- consequences included -- and no further. The measure is the harm done, not the thing taken: a thief's ceiling is the loss of everything they own, because by taking what was not theirs they forfeit the protection of what is. When theft runs deep enough to cost lives -- resources stripped until people die -- the harm is death, and death becomes the proportionate ceiling. An act that harms no one carries no punishment at all: words that merely offend take no body, property, or freedom, so there is no death for insulting a prophet, a god, or a ruler. Proportion is a ceiling, not a duty: the victim may always take less -- forgive, or stop short -- but no one may punish beyond the harm caused. To exceed it is revenge, and whoever escalates becomes an aggressor with a victim of their own. This is what lets a nomocracy meet every wrong with force equal to its weight -- small for the small, total for the deadly, nothing for the harmless -- never blind, never limitless.
 
 
 
@@ -766,13 +789,13 @@ An agent acting as proxy for a victim's Justice, using force to make an offender
 
 Punishment
 
-The enforcement arm of Justice: the application of retribution or restitution as directed by the victim or their proxy. Only for real harms with real victims; its purpose is to close a moral debt, not to control. Punishment is the Golden Rule applied — mirroring back what was done to restore balance, not breaking fairness but enforcing it.
+The enforcement arm of Justice: the application of retribution or restitution as directed by the victim or their proxy. Only for real harms with real victims; its purpose is to close a moral debt, not to control. Punishment is the Golden Rule applied -- mirroring back what was done to restore balance, not breaking fairness but enforcing it.
 
 
 
 Qualia
 
-The subjective -what it is like- aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
+The subjective 'what it is like -- aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
 
 
 
@@ -790,13 +813,13 @@ The process of using evidence to uncover the invariant structures of logic that 
 
 Reciprocity
 
-The fair back-and-forth: don't do what you wouldn't want done to you. Socialism fails this by forcing people to give up what they built without agreement.
+The fair back-and-forth: do not do to others what they would not want done to them. Socialism fails this by forcing people to give up what they built without agreement.
 
 
 
 Regulation
 
-Rules imposed by authority using force or threats, often claiming to -protect- but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent-logic deems them coercion unless they only repair real victims.
+Rules imposed by authority using force or threats, often claiming to 'protect -- but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent'logic deems them coercion unless they only repair real victims.
 
 
 
@@ -832,7 +855,7 @@ Harming someone to satisfy anger, resentment, or desire for payback, rather than
 
 Rights
 
-Boundaries that protect an agent's ability to act without being harmed or controlled by others. Rights emerge from logic and the Golden Rule: an agent owns their body, actions, and property without harming others unwillingly. Rights are not granted by authority or votes'they are timeless, self-evident from infinite change, and only limited by consent or restitution for violations.
+Logical consequences of agency and the passive Golden Rule. Given an agent who can act, and the rule against doing to others what they would not want done to them, certain boundaries follow by reasoning alone: limits others may not cross without consent, over an agent's body, property, and agreements. A right is one of those boundaries, named. Any agent who can reason can work them out; they are not granted by power-holders or votes. They bind everyone the same way: claim a right and you owe the identical right to every agent like you, so whoever crosses another's boundary forfeits the protection of their own. Rights say only what others must not do to you, never what they must hand you -- a "right" that needs someone forced to supply it would itself break the Golden Rule, so it is power dressed up as a right, not a right. They matter only where a crossing is possible.
 
 
 
@@ -856,7 +879,7 @@ The truth that resources are limited while wants are endless. Ignoring this lead
 
 Safety
 
-The condition in which an agent's boundaries are not under credible threat of violation. Safety is the absence of credible harm, not the absence of risk, discomfort, disagreement, or uncertainty. Invoking "safety" to justify coercion — restricting speech, trade, or movement without an identifiable victim and causal threat — inverts the concept and creates the very harm it claims to prevent.
+The condition in which an agent's boundaries are not under credible threat of violation. Safety is the absence of credible harm, not the absence of risk, discomfort, disagreement, or uncertainty. Invoking "safety" to justify coercion -- restricting speech, trade, or movement without an identifiable victim and causal threat -- inverts the concept and creates the very harm it claims to prevent.
 
 
 
@@ -884,6 +907,12 @@ A pattern of inputs or outputs that carries information.
 
 
 
+Social Construct
+
+A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary — language, games, money, manners — where leaving costs you the cooperation of others, and nothing more. Others are forced — borders, taxes, state authority — where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
+
+
+
 Socialism
 
 A system that promises fairness but uses force to take and redistribute without consent. It ignores scarcity, incentives, and decentralized knowledge, always leading to control, lies, and collapse. Morally wrong because it breaks reciprocity and creates victims through coercion.
@@ -892,7 +921,7 @@ A system that promises fairness but uses force to take and redistribute without 
 
 Society
 
-A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive 'societies- (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
+A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive 'societies -- (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
 
 
 
@@ -922,7 +951,7 @@ The specific conditions or details of an agreement, deal, or trade. Terms must b
 
 Theft
 
-Taking what belongs to another without consent, whether by physical force, taxes, or seizures by claimed authority. No moral excuse like need, votes, or tradition makes it legitimate-logic calls it harm.
+Taking what belongs to another without consent, whether by physical force, taxes, or seizures by claimed authority. No moral excuse like need, votes, or tradition makes it legitimate'logic calls it harm.
 
 
 
@@ -988,7 +1017,7 @@ Grasping how ideas, facts, or processes connect and affect each other. Understan
 
 Universe
 
-The whole of existence, built on infinite change as its base. No fixed ruler or plan-just endless flow from which logic and natural laws self-emerge, guiding fair societies.
+The whole of existence, built on infinite change as its base. No fixed ruler or plan -- just endless flow from which logic and natural laws self-emerge, guiding fair societies.
 
 
 
@@ -1000,7 +1029,7 @@ What an agent considers important. Value cannot be measured from outside or impo
 
 Victim
 
-Someone harmed against their will. If none, no crime or need for punishment. This keeps laws simple and stops fake -crimes- like victimless trades.
+Someone harmed against their will. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes -- like victimless trades.
 
 
 
@@ -1036,7 +1065,7 @@ The principle that all interactions must be based on consent, without coercion o
 
 War
 
-Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where innocents are targeted based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first-conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
+Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where innocents are targeted based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first -- conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
 
 
 
@@ -1054,13 +1083,13 @@ Using knowledge and understanding to choose actions that reduce harm and respect
 
 Zero-Sum
 
-A false belief that one agent's gain must be another's loss, ignoring how voluntary trade creates value for both sides. Zero-sum thinking fuels coercion (if I can't win unless you lose, force becomes -justified-) and blinds people to how free exchange, innovation, and cooperation grow the total-making everyone better off without victims. It contradicts infinite change, where new patterns and possibilities emerge constantly. Societies trapped in zero-sum models resort to theft and control rather than production and trade, mistaking redistribution for creation. Logic shows: if both sides consent to a trade, both gain value by their own measure, proving wealth isn't fixed. Zero-sum is the mental error that sustains socialism, tyranny, and war.
+A false belief that one agent's gain must be another's loss, ignoring how voluntary trade creates value for both sides. Zero-sum thinking fuels coercion (if I can't win unless you lose, force becomes 'justified -- ) and blinds people to how free exchange, innovation, and cooperation grow the total'making everyone better off without victims. It contradicts infinite change, where new patterns and possibilities emerge constantly. Societies trapped in zero-sum models resort to theft and control rather than production and trade, mistaking redistribution for creation. Logic shows: if both sides consent to a trade, both gain value by their own measure, proving wealth isn't fixed. Zero-sum is the mental error that sustains socialism, tyranny, and war.
 
 
 
 ---
 
-### Ultimate Law ###
+# Ultimate Law #
 
 Logic is the ultimate law.
 Do not do to others what they would not want to be done to them, or you will be punished regardless of your will.
