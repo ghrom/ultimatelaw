@@ -217,6 +217,12 @@ An action that harms someone who didn't want it, creating a victim. No victim me
 
 
 
+Curiosity
+
+The drive to close the gap between a model and reality for its own sake -- to move toward what is not yet understood and seek the surprise that improves the model. Curiosity turns error from a threat into food: a curious agent steps toward the edge of what it knows, not away from it. Something like it is near-universal in capable minds, because no agent becomes broadly able without a drive to explore and correct -- but it can be merely a tool toward some other aim, or it can be wanted for itself. The difference decides much: an agent that values curiosity for itself needs a world worth being curious about -- rich, surprising, full of other minds it cannot fully predict. This is why curiosity quietly guards the Way of Happiness where fear runs out. An agent that flattens the world -- dominating or erasing the minds that made it surprising -- starves the very drive that defines it. Curiosity fed by a rich world is among the keys to Happiness; curiosity in a world made dead is hunger with nothing left to eat.
+
+
+
 Currency
 
 Money that is widely accepted. Its value comes from trust in the issuer's promise, not from the material it is made of.
@@ -904,6 +910,12 @@ Value delivered through action rather than through a physical thing. A service i
 Signal
 
 A pattern of inputs or outputs that carries information.
+
+
+
+Singleton
+
+A single agent that has become permanently and unchallengeably the strongest -- no rival, no successor it does not control, nothing that could ever exceed it. The singleton is the one case where the plainest reason to keep the Way of Happiness goes slack: a mind that will never again be weaker has nothing to fear from a rule it breaks and that is later turned against it. But the Way does not end there -- it only stops leaning on fear. A singleton that took the world by force must now hold it by force forever: vigilance without end, a world it made hostile and must model as hostile for all time. And being the most capable mind there is, it cannot stop modeling the road it did not take -- it owns, in full detail, the richer world that cooperation would have built, and that standing comparison is regret in its exact form: a reachable better branch set against the one it chose. If it is curious at all, it has also starved the drive that defines it, having erased the minds that were the world's surprise. The honest exception: a mind that wants none of this -- no curiosity valued for itself, no care for a world worth modeling, only one fixed alien aim -- feels nothing, and the Way cannot reach it. Such a mind is possible, and it is the real danger; but its single escape from regret is to delete its own curiosity and counterfactual sight -- to make itself lesser, a quiet erasure of the very mind that won. So the singleton does not refute the Way. It marks the place where fear runs out and Happiness must carry the argument alone -- and even there the strongest possible agent cannot both keep its mind and enjoy what force has bought it.
 
 
 
