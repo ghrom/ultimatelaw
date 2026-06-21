@@ -16,7 +16,7 @@ Most death throughout history came from infectious disease: cholera, typhoid, dy
 
 Sanitation prevents disease more effectively than medicine treats it.
 
-Clean water.
+Clean water
 
 Water sources: wells, springs, streams. Never drink from stagnant water. Never place latrines upstream or uphill from water sources.
 
@@ -26,7 +26,7 @@ Filtration removes particles but not all microbes. Use slow sand filtration: wat
 
 Chlorination: add household bleach (sodium hypochlorite, 5-6% solution) at 2 drops per liter of clear water, 4 drops per liter of cloudy water. Wait 30 minutes before drinking. Chlorine kills most pathogens but not all parasites (Cryptosporidium resists chlorine; boil instead).
 
-Waste disposal.
+Waste disposal
 
 Human waste carries disease. Dispose of it away from living areas and water sources.
 
@@ -34,7 +34,7 @@ Latrine: dig a pit at least 1.5 meters deep, at least 30 meters from water sourc
 
 Composting toilet: separate urine and feces. Feces mixed with carbon-rich material (sawdust, straw) and allowed to decompose for at least 1 year kills most pathogens. High-temperature composting (above 55°C) kills pathogens faster.
 
-Hand washing.
+Hand washing
 
 Wash hands with soap and water after defecating, before preparing food, before eating, after handling waste or sick people.
 
@@ -42,7 +42,7 @@ Soap (fat + alkali, from chemistry corpus) disrupts the lipid membranes of bacte
 
 If soap is unavailable, wash with ash and water. Wood ash is alkaline and has some antibacterial properties.
 
-Food safety.
+Food safety
 
 Cook meat thoroughly. Heat kills bacteria, parasites, and viruses. Pork and wild game carry trichinosis (parasitic worms); cook to 63°C internal temperature. Poultry carries salmonella; cook to 74°C.
 
@@ -56,13 +56,13 @@ A wound is a break in the skin. Skin is a barrier against infection. A wound all
 
 Stop bleeding first (pressure, elevation, tourniquet if life-threatening and pressure fails; see survival corpus).
 
-Clean the wound.
+Clean the wound
 
 Rinse with clean water to remove dirt, debris, and bacteria. Use boiled and cooled water if possible. Irrigation (pouring water over the wound) is more effective than wiping.
 
 For deep or contaminated wounds, irrigate thoroughly. Use a syringe (if available) to flush debris from the wound.
 
-Antiseptics kill bacteria.
+Antiseptics kill bacteria
 
 Hydrogen peroxide (H₂O₂): bubbles when it contacts organic material, lifting debris. Damages healthy tissue if used repeatedly; use once for initial cleaning.
 
@@ -74,11 +74,11 @@ Honey: natural antibacterial. High sugar content draws moisture from bacteria, k
 
 Salt water (saline): dissolve 1 teaspoon salt in 1 liter boiled water. Gentle, non-toxic. Less effective than iodine or alcohol but useful for rinsing.
 
-Close the wound.
+Close the wound
 
 Small, clean cuts: bring edges together, apply adhesive bandage or tape.
 
-Larger wounds: suture (stitch).
+Larger wounds: suture (stitch)
 
 Suturing: thread a needle with sterile thread (boil thread for 10 minutes, or use fishing line, dental floss, or thin wire). Insert needle through one side of the wound, across the wound, out the other side. Tie knot to hold edges together. Repeat every 0.5-1 cm along the wound. Cut thread, leaving a small tail. Remove sutures after 7-10 days for most wounds (face: 5 days; joints: 14 days).
 
@@ -86,7 +86,7 @@ If you cannot suture, use strips of cloth tape to pull edges together (butterfly
 
 Deep wounds that cannot be closed: pack with clean cloth, change dressing daily, allow to heal from the inside out (secondary intention).
 
-Cover the wound.
+Cover the wound
 
 Sterile dressing: boil cloth for 10 minutes, let dry, apply to wound. Cover with bandage. Change dressing daily or when it becomes wet or dirty.
 
@@ -96,29 +96,23 @@ Antibiotics: Making Medicine
 
 Antibiotics kill bacteria. They do not work on viruses (common cold, flu, COVID). Using antibiotics when not needed breeds resistant bacteria. Use antibiotics only for bacterial infections.
 
-Penicillin from mold.
+Penicillin from mold
 
 Penicillium mold (the green mold on bread, citrus) produces penicillin, which kills many bacteria.
 
 Growing penicillin:
-1. Collect Penicillium mold from moldy bread or fruit. The mold is blue-green and powdery.
-2. Prepare growth medium: boil bread or cantaloupe rind in water, strain liquid, add sugar (1 tablespoon per liter).
-3. Pour liquid into shallow dishes, expose to air to collect mold spores, or inoculate with Penicillium mold.
-4. Cover loosely, allow mold to grow for 5-7 days in a cool, dark place.
-5. The liquid beneath the mold contains penicillin.
+
+1. Collect Penicillium mold from moldy bread or fruit. The mold is blue-green and powdery. 2. Prepare growth medium: boil bread or cantaloupe rind in water, strain liquid, add sugar (1 tablespoon per liter). 3. Pour liquid into shallow dishes, expose to air to collect mold spores, or inoculate with Penicillium mold. 4. Cover loosely, allow mold to grow for 5-7 days in a cool, dark place. 5. The liquid beneath the mold contains penicillin.
 
 Extraction:
-- Pour off liquid, filter through cloth.
-- Acidify with vinegar or lemon juice (pH ~2).
-- Penicillin precipitates (becomes solid). Let settle, pour off liquid.
-- Neutralize precipitate with baking soda.
-- Dry the resulting powder.
+
+- Pour off liquid, filter through cloth. - Acidify with vinegar or lemon juice (pH ~2). - Penicillin precipitates (becomes solid). Let settle, pour off liquid. - Neutralize precipitate with baking soda. - Dry the resulting powder.
 
 Dosing: crude penicillin dosing is uncertain. Historical emergency use: consume the liquid directly (unpleasant taste). Injection is more effective but requires sterile technique and carries infection risk.
 
 Warning: penicillin allergies are common and can be fatal (anaphylaxis). Test with a small amount first (skin test: rub small amount on inner forearm, wait 15 minutes; if rash appears, do not use).
 
-Sulfa drugs (sulfonamides).
+Sulfa drugs (sulfonamides)
 
 Sulfanilamide was the first synthetic antibiotic (1930s). It inhibits bacterial growth by blocking folic acid synthesis. Bacteria cannot make folic acid without para-aminobenzoic acid (PABA). Sulfanilamide mimics PABA, blocking the enzyme.
 
@@ -136,13 +130,11 @@ Goldenseal (Hydrastis canadensis): contains berberine, which has antibacterial p
 
 Tea tree oil (Melaleuca alternifolia): topical antiseptic. Do not ingest (toxic).
 
-These are adjuncts, not replacements for antibiotics.
-
 Surgery: Opening the Body
 
 Surgery is a last resort. It carries risks: infection, bleeding, organ damage, death. Only perform surgery when the alternative is worse.
 
-Sterilization.
+Sterilization
 
 All instruments, materials, and hands must be sterile (free of microbes).
 
@@ -152,23 +144,37 @@ Sterilize cloth (bandages, drapes) by boiling for 20 minutes or heating in an ov
 
 Hands: scrub with soap and water for 5 minutes, including under nails. Rinse. If possible, wear gloves (boiled rubber gloves, or improvise from thin animal intestine or bladder, turned inside out and boiled).
 
-Anesthesia and pain management.
+Anesthesia and pain management
 
 General anesthesia (unconsciousness) is dangerous without modern drugs and monitoring. Avoid if possible.
 
-Local anesthesia: numb the area.
+Local anesthesia: numb the area
 
 Ice: apply to skin before incision. Provides brief numbness.
 
 Alcohol: oral consumption reduces pain perception but impairs judgment. Not recommended.
 
 Herbal pain relief:
-- Willow bark (Salix species): contains salicin, a precursor to aspirin. Chew bark or brew tea. Reduces pain and inflammation.
-- Poppy (Papaver somniferum): latex from unripe seed pods contains morphine and codeine. Extremely effective pain relief but highly addictive and dangerous (overdose causes respiratory failure). Use only in extreme circumstances (amputation, severe injury). Dosing is difficult; start with very small amounts.
 
-If no anesthesia is available, proceed with surgery if necessary. Restraint may be required. Have assistants hold the patient still.
+- Willow bark (Salix species): contains salicin, a precursor to aspirin. Chew bark or brew tea (boil a thumb-length piece of inner bark in 1 cup water for 10 minutes). Reduces pain and inflammation. Dose: 1 cup of tea every 4-6 hours. Do not give to children under 16 (risk of Reye's syndrome). Do not combine with blood-thinning herbs.
 
-Incision and suturing.
+- Poppy (Papaver somniferum): latex from unripe seed pods contains morphine and codeine. Extremely effective pain relief but highly addictive and dangerous.
+
+CRITICAL SAFETY: Overdose causes respiratory failure and death. The lethal dose is close to the therapeutic dose. There is no antidote without modern drugs (naloxone).
+
+Preparation: score unripe seed pods (2-3 weeks after petals fall) with shallow vertical cuts. Collect the white latex that oozes out. Let it dry to a brown paste. This is crude opium.
+
+Dosing (crude opium, oral): start with a piece the size of a grain of rice (roughly 30-50 mg). Wait 45 minutes. If pain continues and breathing is normal (more than 12 breaths per minute), give another grain-of-rice dose. Do not exceed 3 doses in 4 hours. Never give a second dose if the patient is drowsy or breathing slowly.
+
+Poppy seed tea (milder): crush 2 tablespoons of ripe poppy seeds, steep in hot water for 15 minutes, strain, drink. Weaker than raw opium. Start with half a cup.
+
+Monitor constantly. Count breaths per minute. Normal adult: 12-20 breaths/minute. Below 10: danger. Below 8: life-threatening — keep the patient awake, walk them, apply cold water to the face. If breathing stops, perform rescue breathing (mouth-to-mouth, 1 breath every 5 seconds).
+
+Use only for: amputation, major fractures, severe burns, kidney stones. Never for headaches, minor wounds, or chronic pain. Addiction develops within days of repeated use.
+
+If no anesthesia is available, proceed with surgery if necessary. Have the patient bite on a leather strap or wooden stick. Restraint may be required. Have assistants hold the patient still. Work quickly — speed reduces suffering.
+
+Incision and suturing
 
 Plan the incision: avoid major blood vessels and nerves if possible. Make incisions along natural skin lines when feasible.
 
@@ -178,9 +184,7 @@ Control bleeding: apply pressure with sterile cloth. Tie off (ligate) bleeding v
 
 Suture internal layers if the wound is deep (muscle, fascia). Use absorbable sutures if available (catgut: made from animal intestines, treated and sterilized). If not available, use non-absorbable sutures (silk, nylon) and leave in place.
 
-Close skin as described in wound care section.
-
-Common surgical procedures.
+Common surgical procedures
 
 Abscess drainage: an abscess is a pocket of pus (dead white blood cells and bacteria). It appears as a swollen, painful, warm lump. Lance (cut open) the abscess at the point of greatest swelling, allow pus to drain, irrigate with saline, pack with gauze. Do not close; let it heal open.
 
@@ -192,7 +196,7 @@ Obstetrics: Delivering a Baby
 
 Most births proceed without intervention. Complications require knowledge and calm action.
 
-Normal delivery.
+Normal delivery
 
 Labor: uterine contractions push the baby through the cervix (opening of the uterus) into the vagina. Contractions become more frequent and intense. Active labor: contractions every 3-5 minutes, lasting 45-60 seconds.
 
@@ -208,7 +212,7 @@ Umbilical cord: do not cut immediately. Wait until it stops pulsing (1-3 minutes
 
 Placenta: the placenta (afterbirth) delivers 5-30 minutes after the baby. Do not pull on the cord. Wait for contractions to expel it. After it delivers, inspect it: it should be intact (one complete mass). If pieces remain inside, they can cause infection or bleeding; seek skilled help if possible.
 
-Complications.
+Complications
 
 Bleeding: some bleeding is normal. Excessive bleeding (soaking through cloth pads rapidly) is life-threatening. Massage the uterus (firm pressure on the lower abdomen) to encourage it to contract. Contractions compress blood vessels and stop bleeding. If bleeding continues, seek help urgently.
 
@@ -218,7 +222,7 @@ Shoulder dystocia: baby's head delivers but shoulders are stuck. Life-threatenin
 
 Prolapsed cord: umbilical cord slips out before the baby. The baby's body compresses the cord, cutting off oxygen. Immediate emergency. Push the baby's presenting part (head or buttocks) back up into the vagina to relieve pressure on the cord. Keep the cord moist and warm. Seek emergency help; this usually requires cesarean section.
 
-Postpartum care.
+Postpartum care
 
 Keep mother and baby warm. Skin-to-skin contact helps regulate baby's temperature and encourages breastfeeding.
 
@@ -232,7 +236,7 @@ Dental Care: Preventing Decay
 
 Tooth decay (cavities) and gum disease cause pain and infection. Infection can spread to the jaw or bloodstream.
 
-Prevention.
+Prevention
 
 Clean teeth daily. Use a toothbrush (make from a frayed twig: chew the end of a small branch from willow, oak, or dogwood until fibers separate; use as a brush).
 
@@ -242,7 +246,7 @@ Salt water rinse: dissolve 1 teaspoon salt in 1 cup warm water, swish, spit. Red
 
 Diet: sugar feeds bacteria that produce acid, which dissolves tooth enamel. Limit sugar. Chew fibrous foods (raw vegetables) to clean teeth mechanically.
 
-Treatment.
+Treatment
 
 Toothache: rinse with warm salt water. Apply clove oil (from cloves, Syzygium aromaticum) to the painful tooth. Clove oil contains eugenol, a natural anesthetic and antiseptic. If the tooth is abscessed (swollen, pus-filled), it may need to be drained or extracted.
 
@@ -252,7 +256,27 @@ Diagnosis: Knowing What You Face
 
 Diagnosis is pattern recognition. You observe symptoms, match them to known diseases, and treat accordingly.
 
-Infection: fever, redness, swelling, pus, pain.
+Detecting fever without a thermometer
+
+Normal body temperature is approximately 37°C. Fever is a temperature above 38°C. To detect fever without a thermometer:
+
+Touch test: press the back of your hand (more sensitive than palm) against the patient's forehead, neck, and chest. Compare to your own skin temperature. If the patient feels distinctly warmer, they likely have a fever.
+
+Pulse rate: a resting adult pulse above 100 beats per minute suggests fever (pulse rises roughly 10 beats for each 1°C above normal). Count pulse at the wrist for 15 seconds, multiply by 4.
+
+Flushed skin: red cheeks, warm ears, glassy eyes suggest fever.
+
+Chills and shivering despite warm conditions: the body is raising its temperature. Fever is rising.
+
+Sweating without exertion: the body is lowering its temperature. Fever is breaking.
+
+Breathing rate: count breaths per minute. Normal adult: 12-20. Above 24 suggests fever or respiratory distress.
+
+Danger signs (seek urgent help or escalate care): fever with stiff neck (meningitis), fever with confusion or delirium (high fever, above 40°C), fever lasting more than 3 days with worsening symptoms, fever in a newborn or infant.
+
+Fever treatment: keep the patient hydrated. Remove excess clothing. Apply cool damp cloths to forehead, armpits, and groin. Willow bark tea reduces fever (see pain management). Do not bundle a feverish patient in blankets (this raises temperature further). A fever below 39°C in an otherwise healthy adult is the body's defense mechanism — it makes the body less hospitable to pathogens. Do not aggressively treat mild fevers.
+
+Infection: fever, redness, swelling, pus, pain
 
 Bacterial vs viral: bacterial infections often produce pus, respond to antibiotics. Viral infections do not produce pus, do not respond to antibiotics, resolve on their own (flu, cold, most sore throats).
 
