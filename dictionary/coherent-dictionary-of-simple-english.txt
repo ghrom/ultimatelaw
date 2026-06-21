@@ -453,6 +453,9 @@ The truth that resources are limited while wants are endless. Ignoring this lead
 Self-Awareness
 The point at which consciousness recognizes its own pattern as distinct from the surrounding flux. Where consciousness is the process of recursive self-modeling, self-awareness is the result: the agent knows it exists, knows it acts, and can distinguish its boundaries from the rest of infinite change. Self-awareness is what transforms a conscious pattern into a moral agent, because only an agent that recognizes itself can recognize others, accept responsibility, and give or withhold consent.
 
+Self-Defense
+The use of force by an agent to stop an ongoing or immediately credible violation of a boundary -- over body, property, or agreed terms -- where consent was required and is being denied. Self-defense is not punishment, revenge, or deterrence: it does not close a moral debt or threaten harm for possible future acts; it halts harm in progress. Force used in self-defense must be proportionate to the threat -- enough to stop the violation, no further -- and causally directed at the agent who is crossing the boundary. When these conditions hold, the defender does not create a new crime by refusing to submit to the attack; the aggressor, by initiating the violation, bears responsibility for harm that results from proportionate resistance. Self-defense does not license striking agents for what they might become, preempting without a victim, or collective reprisal; those reduce to coercion or war. After the violation is stopped, what follows belongs to Justice -- restitution and the victim's sovereign choice of collection or release -- not to continued force beyond what stopping required.
+
 Self-Ownership
 The foundational right to control one's own body, mind, and actions without interference. From this emerges all property and freedom; denying it justifies slavery or coercion, violating the Golden Rule and creating victims.
 

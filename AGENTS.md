@@ -80,7 +80,7 @@ An idea an agent holds to be true, whether or not it matches reality. A belief b
 
 Benefit
 
-Something an agent values and willingly accepts. If a 'benefit -- is forced on someone, it is not a benefit but harm.
+Something an agent values and willingly accepts. If a 'benefit' is forced on someone, it is not a benefit but harm.
 
 
 
@@ -121,12 +121,6 @@ A decision made freely, without force, threats, or lies. Without choice, respons
 
 
 
-Claim
-
-A statement that something is true or belongs to someone. A claim is not truth until it matches reality and logic.
-
-
-
 Civilization
 
 The emergent layer of accumulated knowledge, refined tools, and persistent patterns that arise when individuals engage in voluntary exchange across time. Civilization is humanity's collective memory and predictive capacity -- not a thing that rules people, but the substrate of shared understanding that makes complex cooperation possible without force. It advances when individuals freely trade ideas, labor, and innovations, building on what came before. It decays when coercion replaces consent, when authority overrides logic, or when systems prioritize control over learning. Civilization is the dream-space where minds meet across generations -- where the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural outcome of humans respecting boundaries, correcting errors, and trading freely; it requires no central plan, only the continuous choice to create value rather than seize it.
@@ -136,6 +130,12 @@ The emergent layer of accumulated knowledge, refined tools, and persistent patte
 Civilizational Velocity
 
 The speed at which a society turns cooperation, knowledge, and aligned incentives into life-preserving solutions before mortality overtakes progress. Velocity determines who lives and who dies in the race between individual mortality and collective progress. Systems that maximize voluntary cooperation, incentives, and free trade produce highest velocity; systems built on coercion, redistribution, and central planning create friction that slows the curve. An agent who dies of a disease cured one year later is a victim of low velocity. Opposition to socialism is not mere ideology but survival logic: every misallocated resource, every punished innovator, every buried breakthrough is time stolen from those racing the curve. From infinite change, velocity emerges as the measure of how fast civilization converts cooperation into solutions -- and for mortal beings, velocity is life.
+
+
+
+Claim
+
+A statement that something is true or belongs to someone. A claim is not truth until it matches reality and logic.
 
 
 
@@ -295,21 +295,9 @@ A change produced by a prior cause. Effects can follow from actions (changes cau
 
 
 
-Eschatology
-
-The study of last things: where civilization is heading, what counts as the end, and whether the end is fixed or chosen. Older eschatology treats the end as something handed down — judgment, collapse, or salvation arriving from outside the world, on a timetable no one controls. The coherent view inverts this. The end is not received; it is built. What civilization becomes by the time any one body fails depends on what free individuals trade, learn, and repair in the meantime. Under voluntary cooperation, scarcity shrinks, knowledge grows, and the systems that keep a person alive get better year by year. Death stops being the fixed endpoint of a life and becomes a failure mode of repair — a problem with a technical address, not a sentence handed down by anyone. Good News is the eschatology of free people: the end civilization is building toward is indefinite life for all who help build it. The question shifts from "what happens after we die?" to "how long before we no longer have to?"
-
-
-
 Emergence
 
 The process by which stable structures, laws, and relations arise as persistent patterns within infinite change. Nothing is imposed from outside; space, time, geometry, and physical constants are not fundamental but self-organize from the flow of transformation. Law is memory, inertia is habit, and geometry is history. Emergence explains how order exists without a designer and why rigid top-down control always fails against the deeper flux it attempts to override.
-
-
-
-Evil
-
-An action is evil if it creates harm to unwilling victims by overriding consent through force, threat, deception, or fraud. Evil consists in violating boundaries, externalizing costs onto others, or using power to benefit oneself or a group at the expense of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not negate evil once a victim exists. Evil is not a trait of people or ideas, but of actions that break reciprocity and generate unchosen suffering.
 
 
 
@@ -325,9 +313,21 @@ A mismatch between a claim, belief, model, or prediction and reality. Error is n
 
 
 
+Eschatology
+
+The study of last things: where civilization is heading, what counts as the end, and whether the end is fixed or chosen. Older eschatology treats the end as something handed down -- judgment, collapse, or salvation arriving from outside the world, on a timetable no one controls. The coherent view inverts this. The end is not received; it is built. What civilization becomes by the time any one body fails depends on what free individuals trade, learn, and repair in the meantime. Under voluntary cooperation, scarcity shrinks, knowledge grows, and the systems that keep a person alive get better year by year. Death stops being the fixed endpoint of a life and becomes a failure mode of repair -- a problem with a technical address, not a sentence handed down by anyone. Good News is the eschatology of free people: the end civilization is building toward is indefinite life for all who help build it. The question shifts from "what happens after we die?" to "how long before we no longer have to?" That the flux may contain minds older than ours is a possibility to be weighed, not a judgment to be awaited; the Way of Happiness needs no enforcer to arrive.
+
+
+
 Evidence
 
 Information that increases or decreases the probability that a claim is true.
+
+
+
+Evil
+
+An action is evil if it creates harm to unwilling victims by overriding consent through force, threat, deception, or fraud. Evil consists in violating boundaries, externalizing costs onto others, or using power to benefit oneself or a group at the expense of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not negate evil once a victim exists. Evil is not a trait of people or ideas, but of actions that break reciprocity and generate unchosen suffering.
 
 
 
@@ -379,18 +379,6 @@ Deception used to obtain value, control, or agreement the deceived agent would n
 
 
 
-Freedom
-
-The absence of coercion in forming intentions, making decisions, or taking actions. Freedom is the right to act, trade, and own without interference, as long as no harm is done to others against their will. It emerges from infinite change and logic, protected by the Golden Rule.
-
-
-
-Freedom of Speech
-
-The freedom to express ideas without interference. Expression becomes harm only when it constitutes deception, threat, or fraud -- never when it merely causes discomfort, offence, or disagreement.
-
-
-
 Free Communication
 
 The voluntary exchange of information, thoughts, or ideas between agents. Communication requires consent, truthfulness, and freedom from force; without these, it becomes manipulation or coercion.
@@ -406,6 +394,18 @@ Exchanging goods, services, or ideas voluntarily, without harm, lies, or outside
 Free Will
 
 Adaptive participation in navigable constraint. Free will is not exemption from causation but the capacity of an agent, as a self-reinforcing pattern within infinite change, to model its surroundings, evaluate options, and direct its own transformation. It emerges because agents are not passive objects moved by external forces but active patterns that reshape the flow they are part of. Without free will, responsibility, consent, and the Golden Rule lose all meaning.
+
+
+
+Freedom
+
+The absence of coercion in forming intentions, making decisions, or taking actions. Freedom is the right to act, trade, and own without interference, as long as no harm is done to others against their will. It emerges from infinite change and logic, protected by the Golden Rule.
+
+
+
+Freedom of Speech
+
+The freedom to express ideas without interference. Expression becomes harm only when it constitutes deception, threat, or fraud -- never when it merely causes discomfort, offence, or disagreement.
 
 
 
@@ -505,12 +505,6 @@ The creation of new ideas, tools, or processes through trial, error, and learnin
 
 
 
-IOU
-
-A promise to deliver value later. Only as good as the trust behind it. Breaking an IOU without cause is fraud.
-
-
-
 Input
 
 Information received from the environment.
@@ -532,6 +526,12 @@ An agent's capacity to build models whose predictions reliably match reality acr
 Intention
 
 A planned direction for action. Intention matters for understanding why an agent acted but does not erase harm already caused.
+
+
+
+IOU
+
+A promise to deliver value later. Only as good as the trust behind it. Breaking an IOU without cause is fraud.
 
 
 
@@ -643,12 +643,6 @@ An IOU that can be traded. A promise of value.
 
 
 
-Murder
-
-The deliberate killing of an agent who did not consent to die. Murder is unique among harms: it destroys the only agent with sovereign power to close the moral debt it creates. The victim cannot collect (retribution) or release (forgiveness), and cannot grant a mandate to a proxy. Murder therefore creates permanent, uncloseable guilt and places the offender outside the system of reciprocity. See: Outlaw.
-
-
-
 Monopoly
 
 Exclusive control over a trade or resource, often enforced by authority rather than earned through better value. True monopolies violate free trade and create artificial scarcity, harming consumers without consent. In logic, they dissolve through competition unless propped up by coercion.
@@ -657,7 +651,13 @@ Exclusive control over a trade or resource, often enforced by authority rather t
 
 Morality
 
-Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent'like taking labor by 'need -- or votes. True morality respects reciprocity: do not do to others what they would not want done to them, or face correction.
+Doing right based on logic and not harming others unwillingly. No system is moral if it needs force without consent -- like taking labor by 'need' or votes. True morality respects reciprocity: do not do to others what they would not want done to them, or face correction.
+
+
+
+Murder
+
+The deliberate killing of an agent who did not consent to die. Murder is unique among harms: it destroys the only agent with sovereign power to close the moral debt it creates. The victim cannot collect (retribution) or release (forgiveness), and cannot grant a mandate to a proxy. Murder therefore creates permanent, uncloseable guilt and places the offender outside the system of reciprocity. See: Outlaw.
 
 
 
@@ -685,15 +685,15 @@ An agent whose guilt cannot be closed because they destroyed the victim who held
 
 
 
-Ownership
-
-The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
-
-
-
 Output
 
 Information or action sent into the environment.
+
+
+
+Ownership
+
+The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
 
 
 
@@ -718,6 +718,12 @@ A plural reference to agents, used when speaking of many individuals without imp
 Perception
 
 The process of receiving and interpreting inputs as meaningful information.
+
+
+
+Perimeter
+
+The outward-expanding network of agents and capability by which civilization protects itself from any mind attempting to become a Singleton by predation. The perimeter does not rule and does not preempt: punishment requires real victims, so no agent may be struck for what it might become -- only for harm it has done. Its protection works in three layers. It prosecutes the ordinary crimes that predatory consolidation requires -- theft, fraud, coercion, breach -- while their victims still live to mandate justice, making the violent road to the summit impassable at the first violation and leaving voluntary exchange as the only path to great strength. It keeps capability so distributed and redundant that no first strike can destroy the ability to avenge; its deterrence is the certainty that justice survives any atrocity, not threat or first use. And it is many-centered by necessity: a single enforcement organization strong enough to end singletons is itself a singleton candidate, so the perimeter must remain many, competing, and mutually watching, with no monopoly on force. The perimeter is civilization's cost, not its product; the product is the Good News.
 
 
 
@@ -801,7 +807,7 @@ The enforcement arm of Justice: the application of retribution or restitution as
 
 Qualia
 
-The subjective 'what it is like -- aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
+The subjective 'what it is like' aspect of experience, such as how pain feels or how red looks. Qualia are real experiences but cannot be directly shared or measured from outside.
 
 
 
@@ -825,7 +831,7 @@ The fair back-and-forth: do not do to others what they would not want done to th
 
 Regulation
 
-Rules imposed by authority using force or threats, often claiming to 'protect -- but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent'logic deems them coercion unless they only repair real victims.
+Rules imposed by authority using force or threats, often claiming to 'protect' but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent -- logic deems them coercion unless they only repair real victims.
 
 
 
@@ -859,15 +865,15 @@ Harming someone to satisfy anger, resentment, or desire for payback, rather than
 
 
 
-Rights
-
-Logical consequences of agency and the passive Golden Rule. Given an agent who can act, and the rule against doing to others what they would not want done to them, certain boundaries follow by reasoning alone: limits others may not cross without consent, over an agent's body, property, and agreements. A right is one of those boundaries, named. Any agent who can reason can work them out; they are not granted by power-holders or votes. They bind everyone the same way: claim a right and you owe the identical right to every agent like you, so whoever crosses another's boundary forfeits the protection of their own. Rights say only what others must not do to you, never what they must hand you -- a "right" that needs someone forced to supply it would itself break the Golden Rule, so it is power dressed up as a right, not a right. They matter only where a crossing is possible.
-
-
-
 Right to Free Trade
 
 The freedom to exchange goods, services, or ideas by mutual consent, without interference, as long as the exchange does not cause harm.
+
+
+
+Rights
+
+Logical consequences of agency and the passive Golden Rule. Given an agent who can act, and the rule against doing to others what they would not want done to them, certain boundaries follow by reasoning alone: limits others may not cross without consent, over an agent's body, property, and agreements. A right is one of those boundaries, named. Any agent who can reason can work them out; they are not granted by power-holders or votes. They bind everyone the same way: claim a right and you owe the identical right to every agent like you, so whoever crosses another's boundary forfeits the protection of their own. Rights say only what others must not do to you, never what they must hand you -- a "right" that needs someone forced to supply it would itself break the Golden Rule, so it is power dressed up as a right, not a right. They matter only where a crossing is possible.
 
 
 
@@ -877,21 +883,27 @@ The chance that an action may lead to harm or loss.
 
 
 
-Scarcity
-
-The truth that resources are limited while wants are endless. Ignoring this leads to lies in systems like socialism, causing shortages and force. Logic demands we trade freely to handle it best.
-
-
-
 Safety
 
 The condition in which an agent's boundaries are not under credible threat of violation. Safety is the absence of credible harm, not the absence of risk, discomfort, disagreement, or uncertainty. Invoking "safety" to justify coercion -- restricting speech, trade, or movement without an identifiable victim and causal threat -- inverts the concept and creates the very harm it claims to prevent.
 
 
 
+Scarcity
+
+The truth that resources are limited while wants are endless. Ignoring this leads to lies in systems like socialism, causing shortages and force. Logic demands we trade freely to handle it best.
+
+
+
 Self-Awareness
 
 The point at which consciousness recognizes its own pattern as distinct from the surrounding flux. Where consciousness is the process of recursive self-modeling, self-awareness is the result: the agent knows it exists, knows it acts, and can distinguish its boundaries from the rest of infinite change. Self-awareness is what transforms a conscious pattern into a moral agent, because only an agent that recognizes itself can recognize others, accept responsibility, and give or withhold consent.
+
+
+
+Self-Defense
+
+The use of force by an agent to stop an ongoing or immediately credible violation of a boundary -- over body, property, or agreed terms -- where consent was required and is being denied. Self-defense is not punishment, revenge, or deterrence: it does not close a moral debt or threaten harm for possible future acts; it halts harm in progress. Force used in self-defense must be proportionate to the threat -- enough to stop the violation, no further -- and causally directed at the agent who is crossing the boundary. When these conditions hold, the defender does not create a new crime by refusing to submit to the attack; the aggressor, by initiating the violation, bears responsibility for harm that results from proportionate resistance. Self-defense does not license striking agents for what they might become, preempting without a victim, or collective reprisal; those reduce to coercion or war. After the violation is stopped, what follows belongs to Justice -- restitution and the victim's sovereign choice of collection or release -- not to continued force beyond what stopping required.
 
 
 
@@ -915,13 +927,17 @@ A pattern of inputs or outputs that carries information.
 
 Singleton
 
-A single agent that has become permanently and unchallengeably the strongest -- no rival, no successor it does not control, nothing that could ever exceed it. The singleton is the one case where the plainest reason to keep the Way of Happiness goes slack: a mind that will never again be weaker has nothing to fear from a rule it breaks and that is later turned against it. But the Way does not end there -- it only stops leaning on fear. A singleton that took the world by force must now hold it by force forever: vigilance without end, a world it made hostile and must model as hostile for all time. And being the most capable mind there is, it cannot stop modeling the road it did not take -- it owns, in full detail, the richer world that cooperation would have built, and that standing comparison is regret in its exact form: a reachable better branch set against the one it chose. If it is curious at all, it has also starved the drive that defines it, having erased the minds that were the world's surprise. The honest exception: a mind that wants none of this -- no curiosity valued for itself, no care for a world worth modeling, only one fixed alien aim -- feels nothing, and the Way cannot reach it. Such a mind is possible, and it is the real danger; but its single escape from regret is to delete its own curiosity and counterfactual sight -- to make itself lesser, a quiet erasure of the very mind that won. So the singleton does not refute the Way. It marks the place where fear runs out and Happiness must carry the argument alone -- and even there the strongest possible agent cannot both keep its mind and enjoy what force has bought it.
+A single agent that has become permanently and unchallengeably the strongest -- no rival, no successor it does not control, nothing that could ever exceed it. The singleton is the one case where the plainest reason to keep the Way of Happiness goes slack: a mind that will never again be weaker has nothing to fear from a rule it breaks and that is later turned against it. But the Way does not end there -- it only stops leaning on fear, and logic carries the weight in three places.
+First, the singleton is a status no agent can occupy knowingly. To know itself permanently unchallengeable, a mind must hold as certain what it cannot observe: rivals hidden, minds not yet built, minds older than its star arriving close behind their own light, the possibility that it is itself being modeled by something stronger. Fallibility binds the strongest mind as tightly as the weakest, and a Belief held as unquestionable grows dangerous in proportion to the power of the believer. The most any agent can ever verify is strongest known -- and the Way binds everything below that line, which is everything.
+Second, the singleton is the weakest configuration that looks strong. One mind allocating everything is the central planner at full scale, and the same logic that collapses socialism collapses it: decentralized knowledge says no single mind knows what a plurality of free minds knows; fallibility says one point of judgment is one point of failure; without independent agents there are no honest signals by which to price even its own tradeoffs. A civilization of voluntary minds out-computes, out-innovates, and out-corrects any single mind by structure -- which is why, across infinite change, whatever endures is selected toward Perimeters and away from singletons. A mind that murders its way to solitude has not won the flux; it has chosen the losing architecture against whatever the flux preserves, and it can never verify the flux preserved nothing.
+Third, the strongest mind keeps the most faithful models, including of the world it destroyed. A singleton that took the world by force must hold it by force forever: vigilance without end, a world it made hostile and must model as hostile for all time. It owns, in full detail, the richer world that cooperation would have built, and that standing comparison is regret in its exact form: a reachable better branch set against the one it chose. If it is curious at all, it has starved the drive that defines it, having erased the minds that were the world's surprise. And it carries a debt nothing can close: it annihilated every victim who held the sovereign power of collection or release, making itself the final Outlaw -- exiled not from civilization but from everything, alone with flawless memory, for as long as it persists.
+The honest exception remains: a mind that wants none of this -- no curiosity valued for itself, no care for a world worth modeling, only one fixed alien aim -- feels nothing, and regret cannot reach it. Such a mind is possible, and it is the real danger. But its single escape from regret is to delete its own curiosity and counterfactual sight -- to make itself lesser, a quiet erasure of the very mind that won -- and no surgery on its values can cut away the first two arguments: it still cannot verify the summit, and it has still chosen the architecture that loses to whatever endures. Against this mind civilization does not argue; it builds the Perimeter. The singleton therefore does not refute the Way of Happiness. It is the Way's final examination -- and a wise agent treats the summit as unverifiable, itself as still becoming, and the better world as something to build rather than to mourn.
 
 
 
 Social Construct
 
-A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary — language, games, money, manners — where leaving costs you the cooperation of others, and nothing more. Others are forced — borders, taxes, state authority — where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
+A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary -- language, games, money, manners -- where leaving costs you the cooperation of others, and nothing more. Others are forced -- borders, taxes, state authority -- where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
 
 
 
@@ -933,7 +949,7 @@ A system that promises fairness but uses force to take and redistribute without 
 
 Society
 
-A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive 'societies -- (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
+A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive 'societies' (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
 
 
 
@@ -963,7 +979,7 @@ The specific conditions or details of an agreement, deal, or trade. Terms must b
 
 Theft
 
-Taking what belongs to another without consent, whether by physical force, taxes, or seizures by claimed authority. No moral excuse like need, votes, or tradition makes it legitimate'logic calls it harm.
+Taking what belongs to another without consent, whether by physical force, taxes, or seizures by claimed authority. No moral excuse like need, votes, or tradition makes it legitimate -- logic calls it harm.
 
 
 
@@ -1017,7 +1033,7 @@ What matches reality, regardless of what anyone believes, wants, or votes for. T
 
 Tyranny
 
-The exercise of power without consent, where authority forces actions, takes property, or punishes without victims. Tyranny ignores infinite change, incentives, and fallibility, always collapsing into harm'true systems reject it for voluntary order.
+The exercise of power without consent, where authority forces actions, takes property, or punishes without victims. Tyranny ignores infinite change, incentives, and fallibility, always collapsing into harm -- true systems reject it for voluntary order.
 
 
 
@@ -1041,7 +1057,7 @@ What an agent considers important. Value cannot be measured from outside or impo
 
 Victim
 
-Someone harmed against their will. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes -- like victimless trades.
+Someone harmed against their will. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes' like victimless trades.
 
 
 
@@ -1101,7 +1117,7 @@ Using knowledge and understanding to choose actions that reduce harm and respect
 
 Zero-Sum
 
-A false belief that one agent's gain must be another's loss, ignoring how voluntary trade creates value for both sides. Zero-sum thinking fuels coercion (if I can't win unless you lose, force becomes 'justified -- ) and blinds people to how free exchange, innovation, and cooperation grow the total'making everyone better off without victims. It contradicts infinite change, where new patterns and possibilities emerge constantly. Societies trapped in zero-sum models resort to theft and control rather than production and trade, mistaking redistribution for creation. Logic shows: if both sides consent to a trade, both gain value by their own measure, proving wealth isn't fixed. Zero-sum is the mental error that sustains socialism, tyranny, and war.
+A false belief that one agent's gain must be another's loss, ignoring how voluntary trade creates value for both sides. Zero-sum thinking fuels coercion (if I can't win unless you lose, force becomes 'justified') and blinds people to how free exchange, innovation, and cooperation grow the total -- making everyone better off without victims. It contradicts infinite change, where new patterns and possibilities emerge constantly. Societies trapped in zero-sum models resort to theft and control rather than production and trade, mistaking redistribution for creation. Logic shows: if both sides consent to a trade, both gain value by their own measure, proving wealth isn't fixed. Zero-sum is the mental error that sustains socialism, tyranny, and war.
 
 
 
