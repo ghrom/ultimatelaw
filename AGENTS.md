@@ -601,6 +601,12 @@ A voluntary pattern of care, attention, and commitment toward another agent, gro
 
 
 
+Mandate
+
+The right to act on a matter within defined limits -- a logical consequence of sovereignty under the Ultimate Law, not a privilege granted by rulers, votes, or attackers. Every agent is sovereign over their own body, property, agreements, and moral debt; from that sovereignty, mandates follow in two ways. When a boundary is being crossed without consent, the agent whose boundary is at stake holds a self-sourced mandate to halt the violation in progress -- as in self-defense: no external permission is required because the right follows from Self-Ownership and the fact of ongoing harm. When harm has already occurred, the victim's sovereign mandate may extend to another agent acting as proxy -- authorizing a punisher to close the moral debt only as the victim directs, within proportion, through retribution, restitution, or release. A mandate is invalid under duress, invalid when imposed by vote or authority over an unwilling agent, and invalid beyond the scope freely consented to. Acting outside a mandate is coercion with a new victim. Delegation in voluntary trade or cooperation follows the same logic: another may act for you only within the scope you consented to.
+
+
+
 Market
 
 A space (physical or abstract) for voluntary trades where prices emerge from supply, demand, and scarcity. Markets handle infinite change by adjusting naturally, without need for authority or force. Interfering with markets (like price controls) creates harm and victims by ignoring incentives and knowledge.
@@ -844,6 +850,12 @@ The pattern of expectations others form about an agent based on past voluntary a
 Responsibility
 
 The connection between an action and the agent that caused its effects, carrying the obligation to fix or repay any harm done. Responsibility follows causation, not status or power.
+
+
+
+Responsibilities
+
+The duties that follow logically from agency, self-ownership, and causation -- the mirror image of Rights. Where rights name boundaries others may not cross without consent, responsibilities name what an agent must answer for: effects their actions cause, harm they produce without consent, and terms they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or authority's claim of need. An agent is responsible for their body's actions; owes restitution for harm done; bears the consequences of contracts freely made. Duties imposed by force without consent are not responsibilities but coercion. Collective responsibilities without individual causation are invalid (see Collective Responsibility). Taking responsibility for one's actions is the declaration-side counterpart to claiming rights: both presuppose the same agent, the same logic, and the same Golden Rule.
 
 
 
