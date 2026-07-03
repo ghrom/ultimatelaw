@@ -39,6 +39,8 @@ A normative dictionary of 170 terms defined without internal contradiction. Ever
 **Resources**:
 - Core dictionary: 170 terms, 40KB — [dictionary/coherent-dictionary-of-simple-english.txt](dictionary/coherent-dictionary-of-simple-english.txt)
 - Extended dictionary: 17,470 terms, 868KB — [dictionary/coherent-dictionary-extended.txt](dictionary/coherent-dictionary-extended.txt)
+- Structure map: [docs/dictionary-structure.md](docs/dictionary-structure.md) — layers, pipelines, reasoning chains
+- Interactive explorer: [visualization/output/index.html](visualization/output/index.html) — click-through dependency graph
 
 ---
 

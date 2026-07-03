@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Coherent Dictionary — Structure Explorer</title>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --panel: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      height: 100vh;
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      grid-template-rows: auto 1fr;
+    }
+    header {
+      grid-column: 1 / -1;
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--panel);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    header h1 {
+      font-size: 1rem;
+      margin: 0;
+      font-weight: 600;
+    }
+    header .meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    aside {
+      border-right: 1px solid var(--border);
+      background: var(--panel);
+      overflow-y: auto;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    main {
+      position: relative;
+      overflow: hidden;
+    }
+    label {
+      display: block;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      margin-bottom: 0.35rem;
+    }
+    input[type="search"], select {
+      width: 100%;
+      padding: 0.5rem 0.65rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 0.9rem;
+    }
+    .legend, .chain-list {
+      font-size: 0.82rem;
+    }
+    .legend-item, .chain-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+      margin-bottom: 0.4rem;
+      cursor: pointer;
+      padding: 0.25rem 0;
+    }
+    .legend-item:hover, .chain-item:hover { color: var(--accent); }
+    .swatch {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+    .detail {
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+    }
+    .detail h2 {
+      font-size: 1.05rem;
+      margin: 0 0 0.5rem;
+    }
+    .detail .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-bottom: 0.75rem;
+    }
+    .tag {
+      font-size: 0.7rem;
+      padding: 0.15rem 0.45rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .detail p {
+      font-size: 0.88rem;
+      line-height: 1.55;
+      color: #c9d1d9;
+      margin: 0;
+    }
+    .detail .refs {
+      margin-top: 0.75rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    .ref-link {
+      color: var(--accent);
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    #graph {
+      width: 100%;
+      height: 100%;
+    }
+    .node circle { cursor: pointer; stroke: #0d1117; stroke-width: 1.5px; }
+    .node text {
+      font-size: 10px;
+      fill: var(--text);
+      pointer-events: none;
+      text-shadow: 0 0 3px #0d1117, 0 0 3px #0d1117;
+    }
+    .link { stroke: #484f58; stroke-opacity: 0.45; }
+    .link.spine { stroke: #58a6ff; stroke-opacity: 0.7; stroke-width: 2px; }
+    .link.highlight { stroke: #f0883e; stroke-opacity: 1; stroke-width: 2px; }
+    .node.highlight circle { stroke: #f0883e; stroke-width: 3px; }
+    .node.dimmed { opacity: 0.15; }
+    .toolbar {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      display: flex;
+      gap: 0.5rem;
+    }
+    button {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.35rem 0.65rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+    button:hover { border-color: var(--accent); color: var(--accent); }
+    .empty { color: var(--muted); font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Coherent Dictionary — Structure Explorer</h1>
+    <span class="meta" id="stats"></span>
+  </header>
+
+  <aside>
+    <div>
+      <label for="search">Search terms</label>
+      <input type="search" id="search" placeholder="Consent, Justice, Theft…" />
+    </div>
+    <div>
+      <label for="cluster">Cluster</label>
+      <select id="cluster"><option value="">All clusters</option></select>
+    </div>
+    <div>
+      <label for="stability">Stability</label>
+      <select id="stability">
+        <option value="">All</option>
+        <option value="green">Green — tight closure</option>
+        <option value="yellow">Yellow — edge pressure</option>
+        <option value="blue">Blue — post-hoc addition</option>
+        <option value="gray">Gray — implementation</option>
+      </select>
+    </div>
+    <div>
+      <label>View mode</label>
+      <select id="colorMode">
+        <option value="stability">Color by stability</option>
+        <option value="cluster">Color by cluster</option>
+        <option value="layer">Color by layer</option>
+      </select>
+    </div>
+    <div class="legend" id="legend"></div>
+    <div>
+      <label>Reasoning chains (derived)</label>
+      <div class="chain-list" id="chains"></div>
+    </div>
+    <div class="detail" id="detail">
+      <p class="empty">Click a node to see its definition and references.</p>
+    </div>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <button id="reset">Reset view</button>
+      <button id="fit">Fit graph</button>
+    </div>
+    <svg id="graph"></svg>
+  </main>
+
+  <script>
+    /*__GRAPH_DATA__*/
+
+    const statsEl = document.getElementById("stats");
+    statsEl.textContent = `${GRAPH_DATA.meta.termCount} terms · ${GRAPH_DATA.meta.edgeCount} edges`;
+
+    const nameToNode = new Map(GRAPH_DATA.nodes.map(n => [n.name, n]));
+    const clusterSelect = document.getElementById("cluster");
+    Object.keys(GRAPH_DATA.clusters).forEach(c => {
+      const opt = document.createElement("option");
+      opt.value = c;
+      opt.textContent = c.replace(/_/g, " ");
+      clusterSelect.appendChild(opt);
+    });
+
+    const layerColors = ["#e06c75", "#d19a66", "#98c379", "#e5c07b", "#c678dd", "#61afef", "#56b6c2"];
+
+    function nodeColor(d, mode) {
+      if (mode === "cluster") return d.clusterColor;
+      if (mode === "layer") return d.layer >= 0 ? layerColors[d.layer] : "#6e7681";
+      return d.color;
+    }
+
+    const svg = d3.select("#graph");
+    const width = () => main.clientWidth;
+    const height = () => main.clientHeight;
+    const main = document.querySelector("main");
+
+    const g = svg.append("g");
+    svg.call(
+      d3.zoom().scaleExtent([0.15, 4]).on("zoom", e => g.attr("transform", e.transform))
+    );
+
+    const simulation = d3.forceSimulation(GRAPH_DATA.nodes)
+      .force("link", d3.forceLink(GRAPH_DATA.edges).id(d => d.id).distance(70).strength(0.35))
+      .force("charge", d3.forceManyBody().strength(-120))
+      .force("center", d3.forceCenter(0, 0))
+      .force("collision", d3.forceCollide().radius(28));
+
+    let link = g.append("g").attr("class", "links").selectAll("line");
+    let node = g.append("g").attr("class", "nodes").selectAll("g");
+
+    function renderGraph(filterFn) {
+      const nodes = GRAPH_DATA.nodes.filter(filterFn);
+      const ids = new Set(nodes.map(n => n.id));
+      const edges = GRAPH_DATA.edges.filter(e => {
+        const s = typeof e.source === "object" ? e.source.id : e.source;
+        const t = typeof e.target === "object" ? e.target.id : e.target;
+        return ids.has(s) && ids.has(t);
+      });
+
+      simulation.nodes(nodes);
+      simulation.force("link").links(edges);
+      simulation.alpha(0.8).restart();
+
+      link = link.data(edges, d => `${d.source.id || d.source}-${d.target.id || d.target}`);
+      link.exit().remove();
+      link = link.enter().append("line")
+        .attr("class", d => `link ${d.type || ""}`)
+        .merge(link);
+
+      node = node.data(nodes, d => d.id);
+      node.exit().remove();
+      const enter = node.enter().append("g").attr("class", "node")
+        .call(d3.drag()
+          .on("start", (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+          .on("drag", (e, d) => { d.fx = e.x; d.fy = e.y; })
+          .on("end", (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; })
+        )
+        .on("click", (_, d) => selectNode(d));
+      enter.append("circle").attr("r", d => 6 + Math.min(d.inDegree, 12));
+      enter.append("text").attr("x", 10).attr("y", 4).text(d => d.name);
+      node = enter.merge(node);
+
+      updateColors();
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("transform", d => `translate(${d.x},${d.y})`);
+      });
+    }
+
+    function updateColors() {
+      const mode = document.getElementById("colorMode").value;
+      node.select("circle").attr("fill", d => nodeColor(d, mode));
+      renderLegend(mode);
+    }
+
+    function renderLegend(mode) {
+      const el = document.getElementById("legend");
+      if (mode === "stability") {
+        el.innerHTML = Object.entries(GRAPH_DATA.stabilityLegend).map(([k, v]) =>
+          `<div class="legend-item" data-stability="${k}"><span class="swatch" style="background:${k === "default" ? "#c9d1d9" : {green:"#3d9970",yellow:"#f5c842",blue:"#4a9eff",gray:"#8b949e"}[k]}"></span>${v}</div>`
+        ).join("");
+      } else if (mode === "cluster") {
+        el.innerHTML = Object.entries(GRAPH_DATA.clusters).map(([k]) =>
+          `<div class="legend-item"><span class="swatch" style="background:${nameToNode.get(GRAPH_DATA.clusters[k][0])?.clusterColor || "#6e7681"}"></span>${k.replace(/_/g," ")}</div>`
+        ).join("") + `<div class="legend-item"><span class="swatch" style="background:#6e7681"></span>other</div>`;
+      } else {
+        el.innerHTML = [0,1,2,3,4,5].map(i =>
+          `<div class="legend-item"><span class="swatch" style="background:${layerColors[i]}"></span>Layer ${i}</div>`
+        ).join("") + `<div class="legend-item"><span class="swatch" style="background:#6e7681"></span>unassigned</div>`;
+      }
+    }
+
+    function getRefs(node) {
+      return GRAPH_DATA.edges
+        .filter(e => (e.source.id ?? e.source) === node.id)
+        .map(e => GRAPH_DATA.nodes.find(n => n.id === (e.target.id ?? e.target)))
+        .filter(Boolean);
+    }
+
+    function getReferencedBy(node) {
+      return GRAPH_DATA.edges
+        .filter(e => (e.target.id ?? e.target) === node.id)
+        .map(e => GRAPH_DATA.nodes.find(n => n.id === (e.source.id ?? e.source)))
+        .filter(Boolean);
+    }
+
+    function selectNode(d) {
+      const refs = getRefs(d);
+      const by = getReferencedBy(d);
+      document.getElementById("detail").innerHTML = `
+        <h2>${d.name}</h2>
+        <div class="tags">
+          <span class="tag">${d.cluster.replace(/_/g," ")}</span>
+          <span class="tag">layer ${d.layer >= 0 ? d.layer : "—"}</span>
+          <span class="tag">${GRAPH_DATA.stabilityLegend[d.stability] || d.stability}</span>
+          <span class="tag">${d.inDegree} incoming refs</span>
+        </div>
+        <p>${d.definition}</p>
+        <div class="refs">
+          ${refs.length ? `<div>References: ${refs.map(r => `<span class="ref-link" data-name="${r.name}">${r.name}</span>`).join(", ")}</div>` : ""}
+          ${by.length ? `<div>Referenced by: ${by.slice(0,12).map(r => `<span class="ref-link" data-name="${r.name}">${r.name}</span>`).join(", ")}${by.length>12?"…":""}</div>` : ""}
+        </div>`;
+      document.querySelectorAll(".ref-link").forEach(el => {
+        el.addEventListener("click", () => selectNode(nameToNode.get(el.dataset.name)));
+      });
+      highlightNeighborhood(d);
+    }
+
+    function highlightNeighborhood(d) {
+      const neighborIds = new Set([d.id]);
+      GRAPH_DATA.edges.forEach(e => {
+        const s = e.source.id ?? e.source;
+        const t = e.target.id ?? e.target;
+        if (s === d.id) neighborIds.add(t);
+        if (t === d.id) neighborIds.add(s);
+      });
+      node.classed("highlight", n => n.id === d.id)
+        .classed("dimmed", n => !neighborIds.has(n.id));
+      link.classed("highlight", e => {
+        const s = e.source.id ?? e.source;
+        const t = e.target.id ?? e.target;
+        return s === d.id || t === d.id;
+      });
+    }
+
+    function applyFilters() {
+      const q = document.getElementById("search").value.trim().toLowerCase();
+      const cluster = document.getElementById("cluster").value;
+      const stability = document.getElementById("stability").value;
+      renderGraph(n => {
+        if (cluster && n.cluster !== cluster) return false;
+        if (stability && n.stability !== stability) return false;
+        if (q && !n.name.toLowerCase().includes(q) && !n.definition.toLowerCase().includes(q)) return false;
+        return true;
+      });
+    }
+
+    document.getElementById("search").addEventListener("input", applyFilters);
+    document.getElementById("cluster").addEventListener("change", applyFilters);
+    document.getElementById("stability").addEventListener("change", applyFilters);
+    document.getElementById("colorMode").addEventListener("change", updateColors);
+
+    document.getElementById("reset").addEventListener("click", () => {
+      svg.transition().duration(400).call(d3.zoom().transform, d3.zoomIdentity);
+      node.classed("highlight dimmed", false);
+      link.classed("highlight", false);
+    });
+
+    document.getElementById("fit").addEventListener("click", fitGraph);
+
+    function fitGraph() {
+      const bounds = g.node().getBBox();
+      const w = width(), h = height();
+      const scale = 0.85 / Math.max(bounds.width / w, bounds.height / h);
+      const tx = w / 2 - scale * (bounds.x + bounds.width / 2);
+      const ty = h / 2 - scale * (bounds.y + bounds.height / 2);
+      svg.transition().duration(500).call(
+        d3.zoom().transform,
+        d3.zoomIdentity.translate(tx, ty).scale(scale)
+      );
+    }
+
+    const chainsEl = document.getElementById("chains");
+    GRAPH_DATA.reasoningChains.forEach(chain => {
+      const div = document.createElement("div");
+      div.className = "chain-item";
+      div.innerHTML = `<span class="swatch" style="background:#58a6ff"></span><span><strong>${chain.conclusion}</strong><br><small>${chain.premises.join(" → ")}</small></span>`;
+      div.addEventListener("click", () => {
+        chain.premises.forEach((p, i) => setTimeout(() => selectNode(nameToNode.get(p)), i * 200));
+      });
+      chainsEl.appendChild(div);
+    });
+
+    function resize() {
+      svg.attr("width", width()).attr("height", height());
+      simulation.force("center", d3.forceCenter(width() / 2, height() / 2));
+      simulation.alpha(0.2).restart();
+    }
+    window.addEventListener("resize", resize);
+    resize();
+    applyFilters();
+    setTimeout(fitGraph, 1200);
+  </script>
+</body>
+</html>

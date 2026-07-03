@@ -1,0 +1,66 @@
+{
+  "termCount": 187,
+  "edgeCount": 119,
+  "topHubs": [
+    {
+      "name": "Restitution",
+      "inDegree": 16
+    },
+    {
+      "name": "Golden Rule (Passive Version)",
+      "inDegree": 15
+    },
+    {
+      "name": "Justice",
+      "inDegree": 8
+    },
+    {
+      "name": "Good",
+      "inDegree": 5
+    },
+    {
+      "name": "Contract",
+      "inDegree": 4
+    },
+    {
+      "name": "Happiness",
+      "inDegree": 4
+    },
+    {
+      "name": "Logic",
+      "inDegree": 4
+    },
+    {
+      "name": "Collective",
+      "inDegree": 3
+    },
+    {
+      "name": "Good News",
+      "inDegree": 3
+    },
+    {
+      "name": "Law",
+      "inDegree": 3
+    },
+    {
+      "name": "License",
+      "inDegree": 3
+    },
+    {
+      "name": "Outlaw",
+      "inDegree": 3
+    },
+    {
+      "name": "Way of Happiness",
+      "inDegree": 3
+    },
+    {
+      "name": "Communication",
+      "inDegree": 2
+    },
+    {
+      "name": "Contract Breach",
+      "inDegree": 2
+    }
+  ]
+}

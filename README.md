@@ -31,6 +31,12 @@ The extended dictionary was built by realigning WordNet 1.5 with Ultimate Law pr
 - **Core**: [`dictionary/coherent-dictionary-of-simple-english.txt`](dictionary/coherent-dictionary-of-simple-english.txt)
 - **Extended**: [`dictionary/coherent-dictionary-extended.txt`](dictionary/coherent-dictionary-extended.txt)
 
+**Structure visualization:**
+
+- [`docs/dictionary-structure.md`](docs/dictionary-structure.md) — Mermaid diagrams (layers, justice pipeline, coercion tree, reasoning chains)
+- [`visualization/output/index.html`](visualization/output/index.html) — interactive graph explorer (open in browser)
+- `python3 visualization/generate_graph.py` — regenerate JSON, Mermaid, and HTML from the dictionary
+
 ### Prosecution Framework
 A method for prosecuting fraud, spam, deception, and other harms on digital platforms using published definitions, falsifiable charges, and proportional sanctions. No moderator authority required. Every charge cites a definition anyone can audit. If any charge misapplies a definition, the case should be overturned.
 
