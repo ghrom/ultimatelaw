@@ -535,9 +535,31 @@ A promise to deliver value later. Only as good as the trust behind it. Breaking 
 
 
 
+Judge
+
+An agent who discovers proven facts and states how Law applies to them. A Judge does not create Law, guilt, Justice, responsibility, or status; these follow from facts and Law. The authority of a Judge's statement derives only from its correct application of Law. A statement that contradicts evidence or logic is Error, regardless of who made it.
+
+
+
+Judgment
+
+A falsifiable statement by a Judge of how Law applies to proven facts. A Judgment states what happened, who caused harm, who is the victim, what restitution and proportion follow, whether guilt exists, and any resulting status. It discovers and records these consequences; it does not create Law, guilt, or Justice. It is authoritative only while its facts remain proven and its reasoning remains logically correct, and it must change when either is disproven.
+
+
+
 Justice
 
 The victim's sovereign act of closing the moral debt created by harm. The debt may be closed by collection -- proportionately mirroring harm back to the offender (retribution) -- or by voluntary release (forgiveness). Both erase guilt. Restitution repairs the material damage independently; Justice disposes of the moral debt. Justice requires a real victim: without a victim there is no debt, and without a debt there is nothing to close. Justice is not revenge, which exceeds proportion, nor control, which creates new victims. A punisher acting on behalf of a victim is a proxy for Justice; their legitimacy ends where the victim's mandate ends. When the victim has been destroyed -- as in murder -- no proxy is possible, no mandate can be granted, and the moral debt becomes permanent. The offender's guilt is uncloseable, and their claim to reciprocity is forfeit.
+
+
+
+Kindness
+
+Voluntary action to reduce another's actual harm or to help them toward what they would choose if able -- without crossing their boundaries or overriding the consent of a capable agent. Kindness is offered, not owed; it cannot be demanded, enforced, or taken. What is forced on someone is not kindness but harm, whatever name is given to it.
+
+For a capable agent, kindness respects refusal: help only with permission, or in ways that do not trespass on body, property, or agreements. For someone who temporarily lacks the capacity to understand a real risk -- such as a young child or a temporarily incapacitated person -- kindness may include the minimum necessary temporary guardianship to prevent harms they cannot yet evaluate, always aimed at restoring full self-ownership as soon as they are able. Guardianship that exceeds what is needed, lasts without end, or keeps capacity from growing is not kindness but control.
+
+Kindness is not reciprocity, justice, or love: it does not erase guilt, close moral debt, or require an ongoing bond. It is good when it respects consent and creates no unwilling victim; it is not good when it overrides autonomy, hides deception, or treats capable adults as if they were unable to choose.
 
 
 
@@ -915,7 +937,9 @@ The point at which consciousness recognizes its own pattern as distinct from the
 
 Self-Defense
 
-The use of force by an agent to stop an ongoing or immediately credible violation of a boundary -- over body, property, or agreed terms -- where consent was required and is being denied. Self-defense is not punishment, revenge, or deterrence: it does not close a moral debt or threaten harm for possible future acts; it halts harm in progress. Force used in self-defense must be proportionate to the threat -- enough to stop the violation, no further -- and causally directed at the agent who is crossing the boundary. When these conditions hold, the defender does not create a new crime by refusing to submit to the attack; the aggressor, by initiating the violation, bears responsibility for harm that results from proportionate resistance. Self-defense does not license striking agents for what they might become, preempting without a victim, or collective reprisal; those reduce to coercion or war. After the violation is stopped, what follows belongs to Justice -- restitution and the victim's sovereign choice of collection or release -- not to continued force beyond what stopping required.
+Self-defense is not an exception to Law. It is the immediate application of Law that preserves a boundary while it is being violated. An agent may use only the force necessary to stop an ongoing or immediately credible non-consensual crossing of a boundary over body, property, or agreed terms. The force must be causally directed at the agent crossing the boundary and must end when the violation ends.
+
+Self-defense is not punishment, revenge, deterrence, or Justice. It stops harm in progress; it does not close moral debt or threaten harm for possible future acts. The defender creates no new crime by refusing to submit, and the aggressor bears responsibility for harm caused by proportionate resistance. Striking agents for what they might become, acting without an ongoing or immediately credible violation, or using collective reprisal is coercion or war, not self-defense. After the violation stops, what follows belongs to Judgment and Justice -- finding responsibility, repairing material damage, and respecting the victim's sovereign choice of collection or release.
 
 
 
