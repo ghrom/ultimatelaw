@@ -48,6 +48,13 @@ A complete curriculum for restarting civilization from first principles. 18 text
 
 Designed for print publication as a four-volume set. Use it, adapt it, translate it, sell it. It's a gift to humanity.
 
+### OmegaClaw / Themis contribution
+A drop-in constitution pack for [OmegaClaw-Core](https://github.com/asi-alliance/OmegaClaw-Core): Law-bound prompt, dictionary knowledge + AtomSpace premises, adjudication and challenge workflows, and a coherence eval battery. Optional module — does not fork their agent loop.
+
+- [`contributions/omegaclaw-themis/`](contributions/omegaclaw-themis/) — pack root
+- [`contributions/omegaclaw-themis/INSTALL.md`](contributions/omegaclaw-themis/INSTALL.md) — install against OmegaClaw paths
+- [`contributions/omegaclaw-themis/UPSTREAM_PR.md`](contributions/omegaclaw-themis/UPSTREAM_PR.md) — upstream PR pitch
+
 ### Economic Simulation
 A model of trust-backed IOU currency under growth, testing whether a voluntary economy with prosecution services resists inflation and wealth concentration.
 

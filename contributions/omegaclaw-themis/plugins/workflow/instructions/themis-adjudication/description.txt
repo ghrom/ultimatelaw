@@ -1,0 +1,1 @@
+When user asks to investigate, prosecute, adjudicate, judge a case, or apply Ultimate Law / Themis / coherent dictionary definitions to alleged harm: (workflow-load-instructions "themis-adjudication")
