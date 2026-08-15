@@ -141,7 +141,7 @@ A statement that something is true or belongs to someone. A claim is not truth u
 
 Coercion
 
-External pressure that overrides or replaces an agent's intentions or decisions, such as taking what they own or forcing them to act without agreement. Coercion breaks the Golden Rule and creates victims; it is wrong unless applied as proportionate punishment for harm already done.
+External pressure that overrides or replaces an agent's intentions or decisions, such as taking what they own or forcing them to act without agreement. Coercion against an intact boundary breaks the Golden Rule and creates victims; it is wrong unless it acts within a Forfeiture -- as proportionate punishment for harm already done, or as the minimum force needed to halt an ongoing or immediately credible crossing, as in self-defense.
 
 
 
@@ -213,7 +213,7 @@ The ability to direct something. Control over oneself is natural; control over o
 
 Crime
 
-An action that harms someone who didn't want it, creating a victim. No victim means no crime -- simple logic from the Golden Rule. Only Justice -- the victim's sovereign choice of collection or release -- erases the moral debt.
+An action that harms someone who didn't want it across an intact boundary -- one under no Forfeiture -- creating a victim. No victim means no crime -- simple logic from the Golden Rule. Only Justice -- the victim's sovereign choice of collection or release -- erases the moral debt.
 
 
 
@@ -327,7 +327,7 @@ Information that increases or decreases the probability that a claim is true.
 
 Evil
 
-An action is evil if it creates harm to unwilling victims by overriding consent through force, threat, deception, or fraud. Evil consists in violating boundaries, externalizing costs onto others, or using power to benefit oneself or a group at the expense of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not negate evil once a victim exists. Evil is not a trait of people or ideas, but of actions that break reciprocity and generate unchosen suffering.
+An action is evil if it creates harm to unwilling victims by overriding consent through force, threat, deception, or fraud. Evil consists in violating boundaries, externalizing costs onto others, or using power to benefit oneself or a group at the expense of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not negate evil once a victim exists; but harm within a Forfeiture creates no victim and is not evil. Evil is not a trait of people or ideas, but of actions that break reciprocity and generate unchosen suffering.
 
 
 
@@ -364,6 +364,15 @@ An emotional response to the expectation of pain or damage. Fear guides avoidanc
 Force
 
 Physical compulsion or the credible threat of physical compulsion that overrides consent.
+
+
+
+Forfeiture
+
+The suspension of a boundary's protection, caused by crossing another's boundary. Rights bind reciprocally: to claim a right is to owe the identical right to every agent like you, so an agent who crosses another's boundary without consent withdraws, by that act, the protection of their own boundaries of every kind the full harm reached, consequences included -- in full. A thief who takes what is not theirs forfeits the protection of what is: every boundary over their own property stands open, because by rejecting the property principle they have placed themselves outside it. Forfeiture is not granted, voted, or declared. Like Guilt, it exists objectively from causation; a Judgment discovers it, never creates it.
+Forfeiture is what lets force answer harm without making the answer a new crime. Harm within a forfeited boundary has no Victim in the normative sense: the agent is harmed in fact -- the descriptive sense -- but no protected boundary was crossed, so there is no violation, no new guilt, and no new moral debt. This is why the defender, the punisher acting within Mandate and Proportion, and the ender of an Outlaw commit no crime, while the same acts against an intact boundary would be crimes.
+Forfeiture runs in three phases. While a crossing is ongoing or immediately credible, the aggressor's protection is forfeit, toward anyone, to the minimum force needed to halt it, as in self-defense. Once the harm is done, the forfeiture is held by the victim: it extends across every kind the full harm reached and may be exercised only by the victim or a proxy within their Mandate. When the offender has destroyed the victim -- as in Murder -- the forfeiture is left with no holder to bound, exercise, or release it, and it becomes general and permanent; such an agent is an Outlaw.
+The measure of a forfeiture is the kind the full harm reached, not the size of the thing taken. A thief's ceiling is the loss of everything they own, because by taking what was not theirs they forfeit the protection of what is; a theft that runs deep enough to cost lives reaches the body, and death becomes the ceiling. Force that exits the kinds the full harm reached crosses an intact boundary: killing a pure property thief is a new crime with a new victim, and the escalator becomes an aggressor. Forfeiture ends when Justice closes the moral debt by collection or release; after that, the former offender's boundaries stand whole again, and harming them creates a victim like any other. A forfeiture that was never real protects no one who acts on it: punishing the wrong agent, or ending one mistaken for an Outlaw, crosses an intact boundary, and responsibility for that harm follows causation -- falling on a deceiver who procured the act by fraud, and otherwise on the actor, whatever they believed.
 
 
 
@@ -435,7 +444,7 @@ An organization claiming monopoly on force over a territory, using coercion like
 
 Guilt
 
-The moral debt created by causing harm to another against their will. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
+The moral debt created by causing harm to another against their will across an intact boundary; harm within a Forfeiture creates no guilt. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
 
 
 
@@ -447,7 +456,7 @@ A state in which there are no problems and everything unfolds according to expec
 
 Harm
 
-Unwanted damage to an agent, their body, property, or freedom. Harm creates victims and defines the boundary between freedom and crime.
+Unwanted damage to an agent, their body, property, or freedom. Harm across an intact boundary creates victims and defines the line between freedom and crime; harm within a Forfeiture creates none.
 
 
 
@@ -556,9 +565,7 @@ The victim's sovereign act of closing the moral debt created by harm. The debt m
 Kindness
 
 Voluntary action to reduce another's actual harm or to help them toward what they would choose if able -- without crossing their boundaries or overriding the consent of a capable agent. Kindness is offered, not owed; it cannot be demanded, enforced, or taken. What is forced on someone is not kindness but harm, whatever name is given to it.
-
 For a capable agent, kindness respects refusal: help only with permission, or in ways that do not trespass on body, property, or agreements. For someone who temporarily lacks the capacity to understand a real risk -- such as a young child or a temporarily incapacitated person -- kindness may include the minimum necessary temporary guardianship to prevent harms they cannot yet evaluate, always aimed at restoring full self-ownership as soon as they are able. Guardianship that exceeds what is needed, lasts without end, or keeps capacity from growing is not kindness but control.
-
 Kindness is not reciprocity, justice, or love: it does not erase guilt, close moral debt, or require an ongoing bond. It is good when it respects consent and creates no unwilling victim; it is not good when it overrides autonomy, hides deception, or treats capable adults as if they were unable to choose.
 
 
@@ -685,7 +692,7 @@ Doing right based on logic and not harming others unwillingly. No system is mora
 
 Murder
 
-The deliberate killing of an agent who did not consent to die. Murder is unique among harms: it destroys the only agent with sovereign power to close the moral debt it creates. The victim cannot collect (retribution) or release (forgiveness), and cannot grant a mandate to a proxy. Murder therefore creates permanent, uncloseable guilt and places the offender outside the system of reciprocity. See: Outlaw.
+The deliberate killing of an agent who did not consent to die and whose boundaries stood intact. Killing within a Forfeiture -- proportionate collection under a victim's mandate, self-defense against an ongoing or immediately credible attack, the ending of an outlaw -- is not murder. Murder is unique among harms: it destroys the only agent with sovereign power to close the moral debt it creates. The victim cannot collect (retribution) or release (forgiveness), and cannot grant a mandate to a proxy. Murder therefore creates permanent, uncloseable guilt and places the offender outside the system of reciprocity.
 
 
 
@@ -877,7 +884,7 @@ The connection between an action and the agent that caused its effects, carrying
 
 Responsibilities
 
-The duties that follow logically from agency, self-ownership, and causation -- the mirror image of Rights. Where rights name boundaries others may not cross without consent, responsibilities name what an agent must answer for: effects their actions cause, harm they produce without consent, and terms they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or authority's claim of need. An agent is responsible for their body's actions; owes restitution for harm done; bears the consequences of contracts freely made. Duties imposed by force without consent are not responsibilities but coercion. Collective responsibilities without individual causation are invalid (see Collective Responsibility). Taking responsibility for one's actions is the declaration-side counterpart to claiming rights: both presuppose the same agent, the same logic, and the same Golden Rule.
+The duties that follow logically from agency, self-ownership, and causation -- the mirror image of Rights. Where rights name boundaries others may not cross without consent, responsibilities name what an agent must answer for: effects their actions cause, harm they produce without consent, and terms they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or authority's claim of need. An agent is responsible for their body's actions; owes restitution for harm done; bears the consequences of contracts freely made. Duties imposed by force without consent are not responsibilities but coercion. Collective responsibilities without individual causation are invalid. Taking responsibility for one's actions is the declaration-side counterpart to claiming rights: both presuppose the same agent, the same logic, and the same Golden Rule.
 
 
 
@@ -938,7 +945,6 @@ The point at which consciousness recognizes its own pattern as distinct from the
 Self-Defense
 
 Self-defense is not an exception to Law. It is the immediate application of Law that preserves a boundary while it is being violated. An agent may use only the force necessary to stop an ongoing or immediately credible non-consensual crossing of a boundary over body, property, or agreed terms. The force must be causally directed at the agent crossing the boundary and must end when the violation ends.
-
 Self-defense is not punishment, revenge, deterrence, or Justice. It stops harm in progress; it does not close moral debt or threaten harm for possible future acts. The defender creates no new crime by refusing to submit, and the aggressor bears responsibility for harm caused by proportionate resistance. Striking agents for what they might become, acting without an ongoing or immediately credible violation, or using collective reprisal is coercion or war, not self-defense. After the violation stops, what follows belongs to Judgment and Justice -- finding responsibility, repairing material damage, and respecting the victim's sovereign choice of collection or release.
 
 
@@ -1093,7 +1099,7 @@ What an agent considers important. Value cannot be measured from outside or impo
 
 Victim
 
-Someone harmed against their will. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes' like victimless trades.
+Someone harmed against their will across a boundary whose protection stands intact. Harm within a Forfeiture -- proportionate punishment, self-defense, the ending of an outlaw -- injures an agent in fact but creates no victim in the Law's sense. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes' like victimless trades.
 
 
 
@@ -1111,7 +1117,7 @@ An exchange between people where neither side is harmed or tricked, and both agr
 
 Violation
 
-Crossing a boundary where consent was required. All violations create victims.
+Crossing a boundary where consent was required. All violations create victims. Within a Forfeiture no consent is required, so no violation occurs.
 
 
 
