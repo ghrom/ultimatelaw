@@ -372,7 +372,7 @@ Forfeiture
 The suspension of a boundary's protection, caused by crossing another's boundary. Rights bind reciprocally: to claim a right is to owe the identical right to every agent like you, so an agent who crosses another's boundary without consent withdraws, by that act, the protection of their own boundaries of every kind the full harm reached, consequences included -- in full. A thief who takes what is not theirs forfeits the protection of what is: every boundary over their own property stands open, because by rejecting the property principle they have placed themselves outside it. Forfeiture is not granted, voted, or declared. Like Guilt, it exists objectively from causation; a Judgment discovers it, never creates it.
 Forfeiture is what lets force answer harm without making the answer a new crime. Harm within a forfeited boundary has no Victim in the normative sense: the agent is harmed in fact -- the descriptive sense -- but no protected boundary was crossed, so there is no violation, no new guilt, and no new moral debt. This is why the defender, the punisher acting within Mandate and Proportion, and the ender of an Outlaw commit no crime, while the same acts against an intact boundary would be crimes.
 Forfeiture runs in three phases. While a crossing is ongoing or immediately credible, the aggressor's protection is forfeit, toward anyone, to the minimum force needed to halt it, as in self-defense. Once the harm is done, the forfeiture is held by the victim: it extends across every kind the full harm reached and may be exercised only by the victim or a proxy within their Mandate. When the offender has destroyed the victim -- as in Murder -- the forfeiture is left with no holder to bound, exercise, or release it, and it becomes general and permanent; such an agent is an Outlaw.
-The measure of a forfeiture is the kind the full harm reached, not the size of the thing taken. A thief's ceiling is the loss of everything they own, because by taking what was not theirs they forfeit the protection of what is; a theft that runs deep enough to cost lives reaches the body, and death becomes the ceiling. Force that exits the kinds the full harm reached crosses an intact boundary: killing a pure property thief is a new crime with a new victim, and the escalator becomes an aggressor. Forfeiture ends when Justice closes the moral debt by collection or release; after that, the former offender's boundaries stand whole again, and harming them creates a victim like any other. A forfeiture that was never real protects no one who acts on it: punishing the wrong agent, or ending one mistaken for an Outlaw, crosses an intact boundary, and responsibility for that harm follows causation -- falling on a deceiver who procured the act by fraud, and otherwise on the actor, whatever they believed.
+The measure of a forfeiture is the kind the full harm reached, not the size of the thing taken. A thief's ceiling is the loss of everything they own, because by taking what was not theirs they forfeit the protection of what is; a theft that runs deep enough to cost lives reaches the body, and death becomes the ceiling. Force that exceeds the kinds the full harm reached crosses an intact boundary: killing a pure property thief is a new crime with a new victim, and the escalator becomes an aggressor. Forfeiture ends when Justice closes the moral debt by collection or release; after that, the former offender's boundaries stand whole again, and harming them creates a victim like any other. A forfeiture that was never real protects no one who acts on it: punishing the wrong agent, or ending one mistaken for an Outlaw, crosses an intact boundary, and responsibility for that harm follows causation -- falling on a deceiver who procured the act by fraud, and otherwise on the actor, whatever they believed.
 
 
 
@@ -876,15 +876,15 @@ The pattern of expectations others form about an agent based on past voluntary a
 
 
 
-Responsibility
-
-The connection between an action and the agent that caused its effects, carrying the obligation to fix or repay any harm done. Responsibility follows causation, not status or power.
-
-
-
 Responsibilities
 
 The duties that follow logically from agency, self-ownership, and causation -- the mirror image of Rights. Where rights name boundaries others may not cross without consent, responsibilities name what an agent must answer for: effects their actions cause, harm they produce without consent, and terms they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or authority's claim of need. An agent is responsible for their body's actions; owes restitution for harm done; bears the consequences of contracts freely made. Duties imposed by force without consent are not responsibilities but coercion. Collective responsibilities without individual causation are invalid. Taking responsibility for one's actions is the declaration-side counterpart to claiming rights: both presuppose the same agent, the same logic, and the same Golden Rule.
+
+
+
+Responsibility
+
+The connection between an action and the agent that caused its effects, carrying the obligation to fix or repay any harm done. Responsibility follows causation, not status or power.
 
 
 
