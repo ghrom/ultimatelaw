@@ -1,0 +1,672 @@
+Coherent Dictionary of Simple English
+ASD-STE100 Rendering
+
+Date: 2026-08-20
+Source: dictionary/coherent-dictionary-of-simple-english.txt (canonical, after the STE tightening pass)
+Extension: dictionary/asd-ste100-extension.md (the controlled-vocabulary extension that this rendering uses)
+Standard: ASD-STE100 Issue 9 (2025-01-15), the controlled-language standard of the aerospace industry
+
+This file gives all 191 terms of the Coherent Dictionary of Simple English in ASD-STE100.
+The rules applied are: approved words only (Rule 1.1), with the technical nouns and technical verbs that Rules 1.5 and 1.12 permit and that the extension declares. One word has one meaning (Rule 1.3). Verbs use only the simple tenses (Rule 3.2), with no complex verb constructions (Rule 3.4). The "-ing" form appears only in technical nouns (Rule 3.5). The voice is active (Rule 3.6). Each descriptive sentence has 25 words or less (Rule 6.3). Each paragraph has one topic (Rule 6.5) and six sentences or less (Rule 6.6). There are no semicolons (Rule 8.1) and no contractions (Rule 4.2). Each term of this dictionary is a declared technical noun, and the extension lists each added or changed word with its one meaning.
+
+The Law predates and stands above the controlled language. It is reproduced verbatim, exempt by its own clause: "it cannot be changed, all the rest is commentary."
+
+Scope and Use
+This dictionary defines terms in a logical frame. It does not command belief, authority, or enforcement. Each use of these definitions is voluntary. If you find a contradiction, the definitions are subject to correction.
+
+Action
+An action is a change in the environment that an agent causes.
+
+Agency
+Agency is the capacity of an agent to start actions.
+
+Agent
+An agent is a thing that can have intentions, make decisions, and start actions.
+
+Agreement
+In an agreement, all sides freely know and accept the terms of a planned interaction that has an effect on boundaries. An agreement must be clear and voluntary. If there is no agreement and no permission, an action that crosses the boundary of a different agent is a violation, and it causes harm.
+
+Art
+Art is a made pattern which has this intention: to express, to explore, or to communicate something to other agents. Art does not require beauty, approval, or agreement. The one necessary property of art is the intention of the maker to share a perception, a feeling, an idea, or an experience. The meaning of art is not only in the object. The meaning occurs in the interaction between the pattern and the observer. Different observers can have different responses, and no person can make one response the "correct" response.
+Art grows through voluntary attention, honest expression, and the freedom to interpret without coercion.
+
+Attention
+Attention is the focus of awareness on one thing, while the mind ignores other things. Attention selects the data that the mind processes most strongly at a given moment.
+
+Authority
+An authority is an agent or a group who claims this right: to command other agents, or to take the things that they own. Authority is only power that an agent asserts. Authority has no moral force unless it comes from the voluntary agreement of all.
+
+Autonomy
+Autonomy is the capacity to have intentions and to make decisions without external control.
+
+Awareness
+Awareness occurs when the mind finds or knows something, internal or external. Internal examples are thoughts and feelings. External examples are objects and events. Awareness is the condition in which the mind attends to something that it can represent.
+
+Beauty
+Beauty is the experience of harmony between the perception of an agent and the patterns that the agent finds. Beauty occurs when something fits together in a manner that the observer finds pleasant, meaningful, or balanced. Beauty is not a quality of the object. Beauty is a response in the observer. The senses, the memories, and the values of the observer give it its shape.
+Because beauty is a subjective experience, no person can command it, own it, or enforce it. Beauty grows through voluntary attention, honest expression, and the freedom to explore patterns that agree with your own perception.
+
+Behavior
+Behavior is a pattern of actions through time.
+
+Belief
+A belief is an idea that an agent holds to be true, if it matches reality or not. A belief becomes dangerous when an agent makes it safe from questions and not open to tests.
+
+Benefit
+A benefit is something that an agent values and freely accepts. If a person forces a "benefit" on an agent, it is not a benefit. It is harm.
+
+Boundary
+A boundary is the limit after which other agents must not act without consent. Boundaries apply to bodies, to property, and to agreements.
+
+Brand
+A brand is a known pattern of signals, for example a name, a design, or a reputation. The pattern holds the trust that constant voluntary exchange collects. The real value of a brand is not the pattern. The real value is the trust that the pattern represents: the expectation that trades in the future will give value equal to the past experience. Honest trade builds brands. Fraud or failure loses them.
+A copy of the signals of a brand, alone, is not harmful. The harm occurs only when a person uses copied signals to deceive trade partners, so that they think that they deal with the original. This is fraud. The injury is the deception, not the new use of a pattern. A brand requires no legal monopoly. Trust that it collects, value that it gives, and prosecution of each deception that uses its name keep it safe.
+
+Capitalism
+Capitalism is a system in which persons freely trade property, ideas, and labor without force or interference. It emerges naturally from infinite change and from incentives. It rewards innovation. It manages scarcity through voluntary exchanges. Capitalism is not like socialism: it does not require coercion to function. It makes wealth because it obeys decentralized knowledge.
+
+Causation
+Causation is the direct connection between an action and its result. Without causation, blame is not logical.
+
+Cause
+A cause is a condition that makes an effect.
+
+Choice
+A choice is a decision that an agent makes freely, without force, threats, or lies. Without choice, responsibility is not possible.
+
+Civilization
+Civilization is the layer of collected knowledge, improved tools, and constant patterns that emerges when individuals do voluntary exchange across time. Civilization is the collective memory of humanity and its capacity to predict. It is not a thing that governs persons. It is the base of shared understanding that makes complex cooperation possible without force. Civilization advances when individuals freely trade ideas, labor, and innovations, and build on the work that came before. Civilization decays when coercion replaces consent, when authority overrides logic, or when systems put control above learning.
+Civilization is the dream-space where minds meet across generations. There the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural result when humans obey boundaries, correct errors, and trade freely. It requires no central plan. It requires only the constant choice to make value, not to seize value.
+
+Civilizational Velocity
+Civilizational velocity is the speed at which a society changes cooperation, knowledge, and aligned incentives into solutions that keep persons alive, before mortality wins. Velocity decides who lives and who dies in the race between the mortality of one person and the progress of all. Systems that give maximum voluntary cooperation, incentives, and free trade cause the highest velocity. Systems that use coercion, redistribution, and central plans cause friction that makes the curve slow. An agent who dies of a disease that a cure stops one year later is a victim of low velocity.
+Opposition to socialism is thus not only ideology. It is survival logic. Each resource in an incorrect location, each punished innovator, and each buried discovery is time that a thief stole from those who race the curve. From infinite change, velocity emerges as the measure of how fast civilization changes cooperation into solutions. For mortal agents, velocity is life.
+
+Claim
+A claim is a statement that something is true or that something is the property of a person. A claim is not truth until it matches reality and logic.
+
+Coercion
+Coercion is external pressure that overrides or replaces the intentions or the decisions of an agent. Examples are these: a person takes the things that the agent owns, or a person forces the agent to act without agreement. Coercion against an intact boundary breaks the Golden Rule and makes victims. Coercion is wrong unless it acts in a Forfeiture, in one of two conditions. One, it is punishment in proportion, for harm that is already done. Two, it is the minimum force that is necessary to stop a crossing that continues or that is immediately credible, as in self-defense.
+
+Collective
+A collective is a group of individuals. A collective has no rights more than the rights of its members.
+
+Collective Punishment
+Collective punishment occurs when a punisher punishes a group for the actions of one or some of its members, without attention to individual guilt. Collective punishment always makes innocent victims. Thus it is injustice.
+
+Collective Responsibility
+Collective responsibility holds persons responsible for harm that they did not cause, only because they are members of a group. Collective responsibility breaks logic. Responsibility follows causation and individual action, not identity or association.
+
+Communication
+Communication is the movement of information between agents through signals.
+
+Competition
+Competition is the natural process in which individuals or groups try to give better value in trades. Competition causes improvement and efficiency without force. It punishes errors through lost opportunities, not through penalties that an authority commands. Competition agrees with infinite change. Monopolies that do not move, and that authority frequently enforces, stop growth and make artificial scarcity.
+
+Consciousness
+Consciousness is recursive self-modeling in a pattern of change. Consciousness emerges when the pattern of an agent becomes sufficiently complex to represent that pattern and its relation to the flux around it. Consciousness is not a material or a gift. It is a process: the pattern observes its own transformation and adjusts it, in real time. Consciousness includes awareness, the felt sense of experience, and the capacity to reflect on both. Thus it is the base on which free will, responsibility, and consent become possible.
+
+Consent
+Consent occurs when an agent freely agrees to something, without pressure, deception, or manipulation. True trade and true deals require consent from all sides. Without consent, actions become theft or harm. Restitution must repair them.
+
+Consequence
+A consequence is the result that follows from an action. Just consequences connect to the harm that the action really caused, not to intention, status, or power.
+
+Contract
+A contract is a voluntary agreement that makes clear expectations about actions or results.
+
+Contract Breach
+A contract breach is a failure to obey terms that a person voluntarily agreed to in a Contract. A breach makes a victim: the party who trusted the agreement and received damage from its violation. The party who broke the terms owes Restitution for the damage that they caused.
+A breach is not renegotiation. Renegotiation requires consent from all parties. A breach is one-sided. If a breach causes no damage, there is no victim, and thus there is no claim.
+
+Control
+Control is the capacity to give direction to a thing. Control of the self is natural. Control of other agents requires their consent, or it becomes coercion.
+
+Crime
+A crime is an action that harms a person who did not want that action, across an intact boundary. An intact boundary is a boundary that is in no Forfeiture. A crime makes a victim. No victim means no crime. This is simple logic from the Golden Rule. Only Justice erases the moral debt: the sovereign choice of the victim, collection or release.
+
+Curiosity
+Curiosity is the drive to close the gap between a model and reality, with no other aim. The curious agent moves to the space that it does not know, and looks for the surprise that improves the model. Curiosity changes error from a threat into food. A curious agent steps to the edge of its knowledge, not away from it.
+A drive like curiosity is almost universal in capable minds, because no agent becomes widely able without a drive to explore and to correct. But curiosity can be only a tool for some other aim, or an agent can want curiosity with no other aim. The difference decides much. An agent that wants curiosity with no other aim requires a world that is worth its curiosity.
+That is a rich world, full of surprises, full of other minds that it cannot fully predict. This is why curiosity quietly guards the Way of Happiness where fear stops. An agent that makes the world flat, because it dominates or erases the minds that made the world rich, starves the drive that defines it.
+A rich world feeds curiosity, and that food is one of the keys to Happiness. Curiosity in a dead world is hunger with no food.
+
+Currency
+Currency is money that persons widely accept. The value of currency comes from trust in the promise of its issuer, not from its material.
+
+Damage
+Damage is a negative change to the body, the property, or the freedom of a person, a change that they did not agree to. Damage is the material quantity of the loss: the part that Restitution repairs. Unwanted damage to an agent is harm, and harm makes victims.
+
+Deal
+A deal is a voluntary agreement to exchange value. A deal is legitimate only when all sides consent and obey the truth.
+
+Debt
+A debt is the value that an agent owes when they give an IOU. Honest debt is voluntary. Forced debt is coercion.
+
+Decentralized Knowledge
+Decentralized knowledge is the idea that no one person or group can know all that other persons require, want, or can do. Persons know their own lives best. Thus central plans, as in socialism, fail, because they ignore this wisdom that lives in many minds.
+
+Deception
+Deception is communication that a deceiver makes to cause false belief, or to hide applicable truth, so that the receiver cannot correctly consent. Deception causes an agent to act against their real interests. Thus deception makes consent invalid, and it becomes a type of harm.
+
+Decision
+A decision is the commitment to act on an intention.
+
+Democracy
+Democracy is a group decision procedure in which votes choose the rules. A vote cannot make consent. Actions that violate boundaries make victims, also when a majority supports those actions.
+
+Deterrence
+Deterrence is the attempt to prevent harm with threats of punishment, not with a response to harm that is already done. Deterrence tries to cause fear in possible offenders, and does not give justice to real victims. Deterrence becomes injustice when it punishes without a victim.
+
+Duress
+Duress is the condition of an agent in threat, force, or pressure that removes their capacity to freely consent. An agent who acts in duress does not choose. The agent obeys to prevent harm. Each agreement, confession, or transaction that a person makes in duress is invalid, because consent requires freedom, and duress destroys freedom. Duress does not move responsibility to the victim who is forced to act. Duress moves responsibility to the agent who applied the pressure.
+
+Economy
+An economy is the network of voluntary trades and productions with which persons manage scarcity. An economy grows on free trade and incentives. It fails when force, for example regulations or taxes, breaks consent, incentives, and decentralized knowledge. From infinite change, economies self-organize without central plans, because no one person can know the necessities of all persons.
+
+Effect
+An effect is a change that a cause before it made. Effects can follow from actions, which are changes that agents cause, or from natural processes, which are changes with no agent. When an effect crosses the boundaries of a different agent against their consent, the effect becomes harm. Then the agent who caused the effect has the responsibility for restitution.
+
+Emergence
+Emergence is the process in which stable structures, laws, and relations occur as constant patterns in infinite change. No outside agent commands them. Space, time, geometry, and physical constants are not fundamental: they self-organize from the flow of transformation. Law is memory, inertia is habit, and geometry is history. Emergence explains how order can occur without a designer. It explains why control from the top always fails against the deeper flux that it tries to override.
+
+Enforcement
+Enforcement is the use of force, or the threat of force, to make persons obey rules. Enforcement is legitimate only to stop or to repair real harm.
+
+Error
+An error occurs when a claim, a belief, a model, or a prediction does not agree with reality. Error is not evil. The refusal to correct an error is evil.
+
+Eschatology
+Eschatology is the study of last things: the direction of civilization, and the events that count as the end. Eschatology also has this question: is the end set, or do we choose it? The eschatology of the past says that an outside power gives the end: judgment, collapse, or salvation. That end comes from outside the world, at a time that no one controls.
+The coherent view inverts this. No one receives the end. We build the end.
+The condition of civilization at the time when one body fails depends on free individuals. It depends on their trades, their lessons, and their repairs before that time. In voluntary cooperation, scarcity decreases, knowledge grows, and the systems that keep a person alive become better each year. Death stops as the set end of a life.
+Death becomes a failure mode of repair: a problem with a technical address, not a sentence that a power gives. Good News is the eschatology of free persons. The end that civilization builds is indefinite life for all who help to build it.
+The question changes from "what happens after we die?" to "how long before we no longer have to?" The flux can hold minds from times before ours. We must examine that possibility. We must not wait for it as a judgment. The Way of Happiness requires no enforcer.
+
+Evidence
+Evidence is information that increases or decreases the probability that a claim is true.
+
+Evil
+An action is evil if it makes harm to unwilling victims, because it overrides consent through force, threat, deception, or fraud. Evil is in these actions: to violate boundaries, or to push costs onto other agents. Evil is also in this: to use power for the profit of an agent or a group at the cost of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not remove evil when a victim exists.
+But harm in a Forfeiture makes no victim and is not evil. Evil is not a quality of persons or ideas. Evil is a quality of actions that break reciprocity and cause suffering that no one chose.
+
+Exchange
+An exchange is a mutual gift between persons: each side gives to the other. An exchange stops as a real exchange at the moment when force or deception enters.
+
+Expression
+Expression is the process that makes outputs, actions included, which transmit ideas or information.
+
+Faith
+Faith is trust or commitment that an agent holds in uncertainty, where the evidence does not, or cannot, close the question. Faith can keep hope, meaning, and resolve. On questions that evidence cannot reach, no one can prove faith, and no one can disprove it. Faith becomes dangerous only in two conditions. One, it closes against correction on questions that evidence can close. Two, a person uses faith as a reason for force, harm, or control of other agents.
+
+Fallibility
+Fallibility is the fact that all agents make errors, and that no agent is perfect in intelligence or in morality. Systems that think that agents are perfect require force to function. That force breaks freedom and causes harm.
+
+Fear
+Fear is an emotional response to the expectation of pain or damage. Fear guides an agent away from harm. But fear becomes a tool of coercion when a person causes it with intention, with threats or force.
+
+Force
+Force is physical compulsion, or the credible threat of physical compulsion, that overrides consent.
+
+Forfeiture
+A forfeiture is the suspension of the protection of a boundary. An agent causes a forfeiture when the agent crosses the boundary of a different agent. Rights bind in two directions: to claim a right is to owe the identical right to each agent like you. Thus an agent who crosses the boundary of a different agent without consent removes, by that act, the protection of their own boundaries. The removal applies to each kind of boundary that the full harm reached, consequences included. In those kinds, no protection remains.
+A thief who takes property that is not theirs loses the protection of the property that is theirs. Each boundary around their own property stands open. The thief refused the property principle, and thus the thief stands outside that principle. No one gives, votes, or declares a forfeiture.
+Like Guilt, a forfeiture exists objectively, from causation. A Judgment discovers a forfeiture. A Judgment does not make one.
+Because of Forfeiture, force can answer harm, and the answer is not a new crime. Harm in a boundary in Forfeiture has no Victim in the normative sense. The agent receives harm in fact, in the descriptive sense. But the harm crossed no protected boundary.
+Thus there is no violation, no new guilt, and no new moral debt. This is why the defender, the punisher who acts in a Mandate and in Proportion, and the ender of an Outlaw do no crime. The same acts against an intact boundary are crimes.
+A forfeiture has three phases. In phase one, a crossing continues or is immediately credible. The aggressor loses protection against each person, but only to the minimum force that is necessary to stop the crossing, as in self-defense. In phase two, the harm is done. Now the victim holds the forfeiture.
+It extends across each kind that the full harm reached, and only the victim, or a proxy in their Mandate, can use it. In phase three, the offender destroyed the victim, as in Murder. The forfeiture now has no holder who can limit, use, or release it. Thus the forfeiture becomes general and permanent. Such an agent is an Outlaw.
+The measure of a forfeiture is the kind that the full harm reached, not the size of the thing that the offender took. The ceiling for a thief is the loss of all the property of the thief. Because the thief took the property of a different agent, the thief loses the protection of their own property. A theft that goes sufficiently deep to cost lives reaches the body.
+Then death becomes the ceiling. Force above the kinds that the full harm reached crosses an intact boundary. To kill a thief who took only property is a new crime with a new victim. The person who increased the force becomes an aggressor.
+A forfeiture stops when Justice closes the moral debt, by collection or by release. After that, the boundaries of the former offender stand whole again. Harm to them then makes a victim, like each other victim. A forfeiture that was at no time real protects no person who acts on it.
+To punish the incorrect agent, or to end an agent who is not an Outlaw, crosses an intact boundary. Responsibility for that harm follows causation. It falls on a deceiver who caused the act by fraud. In other conditions it falls on the actor, without attention to their beliefs.
+
+Forgiveness
+Forgiveness is a type of Justice in which the victim closes the moral debt by voluntary release. Forgiveness can also release restitution that remains open. Forgiveness is valid only when the real victim gives it freely, without coercion or pressure. Forgiveness is a gift, not an obligation. No person can demand it, enforce it, or give it for the victim.
+
+Fraud
+Fraud is deception that a deceiver uses to get value, control, or agreement. With full information, the deceived agent gives no such agreement.
+
+Free Communication
+Free communication is the voluntary exchange of information, thoughts, or ideas between agents. Communication requires consent, truth, and freedom from force. Without these, communication becomes manipulation or coercion.
+
+Free Trade
+Free trade is the voluntary exchange of goods, services, or ideas, without harm, lies, or outside interference. Free trade is a core right. Each block on free trade, for example a block from politicians, decreases freedom. Logic and the Golden Rule require the correction of that block.
+
+Free Will
+Free will is adaptive participation in constraint that an agent can navigate. Free will is not an exemption from causation. It is the capacity of an agent, as a self-reinforcing pattern in infinite change, to model the things around it. The same capacity examines options and gives direction to its own transformation.
+Free will emerges because agents are not passive objects that external forces move. Agents are active patterns that give new shape to the flow that they are part of. Without free will, responsibility, consent, and the Golden Rule lose all meaning.
+
+Freedom
+Freedom is the absence of coercion in intention, in decision, and in action. Freedom is the right to act, to trade, and to own without interference, while the agent does no harm to other agents against their will. Freedom emerges from infinite change and logic, and the Golden Rule protects it.
+
+Freedom of Speech
+Freedom of speech is the freedom to express ideas without interference. Expression becomes harm only when it is deception, threat, or fraud. Expression that only causes discomfort, offense, or disagreement is not harm.
+
+Golden Rule (Passive Version)
+The Golden Rule says: "Do not do to others what they would not want done to them." This is the base of fairness. If an agent breaks the rule, punishment follows. The purpose of that punishment is balance, not control.
+
+Good
+An action is good if it obeys consent, makes no unwilling victims, and decreases or repairs harm. Good actions keep or increase voluntary cooperation, trust, and the capacity of agents to act freely in reality.
+When harm already occurred, good is in Justice. Justice here means three actions. Stop more violation. Repair material damage through restitution. Obey the sovereign right of the victim to close the moral debt through collection or release.
+Good is not intention, belief, identity, or a result by accident. Good is agreement with consent, causation, and no harm, in action.
+
+Good News
+Good News is the promise that civilization can keep. Constant voluntary cooperation can give life without a set end to all who participate in the construction of civilization. Good News is technical immortality with the limits of physics, not faith. Trade, innovation, and consent earn it.
+Authority or divinity does not give it. Good News emerges from infinite change. When individuals freely exchange ideas and labor, they compound understanding of biology, of age, and of repair, until death becomes optional, not certain.
+This is the ultimate value that civilization gives: participate, make abundance and knowledge, and share in the conquest of mortality. Good News requires no coercion, only the choice to contribute, not to be a parasite. Good News is not a utopian fantasy. It is logical extrapolation. If free trade can decrease scarcity, and if innovation can extend the span of health in steps, then the conclusion follows. Sufficient time and cooperation make life without a set end possible, in natural law.
+The promise is conditional. It is open to those who help to build the systems that make it possible. It is closed to those who destroy those systems through coercion or violence. Good News makes no metaphysical claims about meaning or salvation. It is a technical claim about survival and time.
+
+Government
+A government is an organization that claims a monopoly on force in a territory. It uses coercion, for example taxes or laws, without the full consent of the persons that the coercion touches. Government violates the Golden Rule, because it makes victims through theft and control, and it ignores fallibility and decentralized knowledge. Logic demands that a government decrease until it only repairs real harms, or that it dissolve into voluntary systems.
+
+Guilt
+Guilt is the moral debt that an agent makes when they cause harm to a different agent, against their will, across an intact boundary. Harm in a Forfeiture makes no guilt. Guilt exists objectively, from causation, not from feelings, accusation, or confession. Only Justice erases guilt.
+
+Happiness
+Happiness is a condition in which there are no problems, and all events agree with expectations. That is: the models of the agent match reality, so the agent meets few unwanted surprises. Love for the work that one does, and simplicity, are its keys. Science and technology make happiness richer, because they add complexities that give pleasure and that continue.
+The hardest problem of happiness is the death of the persons that one loves. One agent without help cannot solve it. Power cannot solve it. Faith in a next life cannot solve it. Only civilization solves it, and only in this life: civilizational velocity races the cure. That is the Good News below happiness: the deepest problem has a technical address, not a sentence.
+Happiness is measured, not declared. Happiness is visible in expectations that reality continues to meet, and in problems that stay solved, not in a mood that an agent announces. No outside person can command happiness, because the expectations and the love that it stands on are the property of the agent.
+
+Harm
+Harm is unwanted damage to an agent: to their body, their property, or their freedom. Harm across an intact boundary makes victims, and it defines the limit between freedom and crime. Harm in a Forfeiture makes no victims.
+
+Hierarchy
+A hierarchy is a structure in which some agents claim power above other agents, frequently without consent. Hierarchies become legitimate only through voluntary agreement. Forced hierarchies cause coercion and error, because power ignores incentives and increases ignorance. In infinite change, flat emergent orders, for example markets, do better than hierarchies that do not move.
+
+Idea
+An idea is a thought with a shape: a thought about how something is, how it can be, or how it must be. Agents can share ideas, do tests on them, improve them, or reject them, through logic and experience.
+
+Ignorance
+Ignorance is an absence of knowledge. Ignorance is normal, and learning can repair it. To speak of ignorance as knowledge causes harm.
+
+Incentives
+Incentives are rewards or penalties that guide the actions of persons. Good systems use incentives naturally, for example profit for hard work. Bad systems, for example socialism, ignore them. That causes laziness or shortages.
+
+Individual
+An individual is one agent who thinks, and who can make choices, give consent, and have responsibility.
+
+Infinite Change
+Infinite change is the timeless flow of the universe, without an end, in which all things transform without stop. Infinite change is the ontological base. No thing stays the same. From this flux, logic, natural laws, and all patterns self-emerge, without a creator and without a ruler. Infinite change shows why controls that do not move fail: no thing can force change to stop.
+
+Influence
+An influence is a condition that increases or decreases the probability of an effect.
+
+Innocence
+Innocence is the absence of guilt. An agent is innocent if they did not cause harm against the will of a different agent. Suspicion, accusation, or feelings do not change this.
+
+Innovation
+Innovation is the process that makes new ideas, tools, or other processes, through tests, errors, and learning. Innovation grows in freedom and free trade, where incentives reward risk, and decentralized knowledge starts progress. Systems of coercion stop innovation, because they punish failure, or because they force one same shape onto all, against infinite change.
+
+Input
+An input is information that an agent receives from the environment.
+
+Intellectual Property
+The name "property" on an idea does not make the idea property. Property requires scarcity. Agents can share ideas without a loss to the first maker. To prevent other agents from the use of their own resources, when they make a pattern again, is coercion, not protection.
+Force gives patents, copyrights, and monopolies of that type. Those monopolies make artificial scarcity and punish independent discovery. They reward lawyers and the holders of the monopolies, not makers.
+Three things keep real innovation safe: be first, be better, and have the trust of others. Threats of violence against persons who use their own minds and materials do not keep innovation safe.
+
+Intelligence
+Intelligence is the capacity of an agent to build models with predictions that reliably match reality, across a range of new situations that becomes wider. Intelligence includes the capacity to correct those models when they fail. Intelligence is measured, not declared. The measures are these: how widely, how reliably, and in how much novelty and stake the models of the agent continue to match reality. A last measure is how fast the agent corrects error.
+Intelligence is a continuum, not a kind. It does not depend on the material of the agent, or on the method that made an output. It depends only on this: do the models function? The distinction is agent against non-agent, not human against machine.
+
+Intention
+An intention is a planned direction for action. Intention is important when we try to know why an agent acted. But intention does not erase harm that the agent already caused.
+
+IOU
+An IOU is a promise to give value later. The trust behind an IOU is its only strength. To break an IOU without cause is fraud.
+
+Judge
+A judge is an agent who discovers proven facts, and who states how Law applies to those facts. A Judge does not make Law, guilt, Justice, responsibility, or status. These follow from facts and Law. The authority of the statement of a Judge comes only from its correct application of Law. A statement that contradicts evidence or logic is Error, without attention to who made it.
+
+Judgment
+A judgment is a falsifiable statement by a Judge of how Law applies to proven facts. A Judgment states these things: the events, the agent who caused harm, the victim, and the restitution and proportion that follow. It also states the guilt, if guilt exists, and each status that results. A Judgment discovers and records these consequences.
+It does not make Law, guilt, or Justice. A Judgment has authority only while its facts remain proven, and while its logic remains correct. When a person disproves the facts or the logic, the Judgment must change.
+
+Justice
+Justice is the sovereign act of the victim that closes the moral debt that harm made. The victim can close the debt by collection: retribution, which mirrors the harm back to the offender, in proportion. Or the victim can close the debt by voluntary release: forgiveness. Both erase guilt.
+Restitution repairs the material damage. Together with retribution, restitution is the punishment that erases guilt, and the collection or release of the victim closes the moral debt. Justice requires a real victim. Without a victim there is no debt, and without a debt there is no thing to close. Justice is not revenge, because revenge goes above proportion. Justice is not control, because control makes new victims.
+A punisher who acts for a victim is a proxy for Justice. The legitimacy of the punisher stops where the mandate of the victim stops. When the offender destroyed the victim, as in murder, no proxy is possible, and no one can give a mandate. Then the moral debt becomes permanent. No one can close the guilt of the offender, and the offender loses their claim to reciprocity.
+
+Kindness
+Kindness is voluntary action with one of two aims. One aim is to decrease the real harm of a different agent. The other aim is to help them to the things that they choose when they can choose. Kindness does not cross their boundaries, and it does not override the consent of a capable agent.
+Kindness is offered, not owed. No one can demand, enforce, or take it. A thing that a person forces on a different person is not kindness. It is harm, with no attention to its name.
+For a capable agent, kindness obeys refusal: help only with permission, or in manners that do not cross their body, property, or agreements. Some persons temporarily do not have the capacity to know a real risk, for example a young child, or a person who temporarily cannot act. For them, kindness can include guardianship. That guardianship is the minimum necessary temporary guardianship that prevents harms that they cannot yet measure.
+Such guardianship always has one purpose: to make self-ownership full again as soon as they are able. Guardianship that goes above the necessary minimum, that continues without an end, or that stops the growth of capacity, is not kindness. It is control.
+Kindness is not reciprocity, not justice, and not love. Kindness does not erase guilt, does not close moral debt, and does not require a bond that continues. Kindness is good when it obeys consent and makes no unwilling victim. Kindness is not good when it overrides autonomy, when it hides deception, or when it says that capable adults cannot choose.
+
+Knowledge
+Knowledge is reliable understanding from models that tests examined and that constantly match reality. Knowledge grows through prediction, error, and learning, not by declaration or force.
+
+Law
+Logic is the ultimate law. Do not do to others what they would not want to be done to them, or you will be punished regardless of your will. The purpose of punishment is to erase guilt, via retribution and restitution. That is the entire law; it cannot be changed, all the rest is commentary.
+
+Learning
+Learning is the process that adjusts thoughts, ideas, or models, because of new information or failed predictions. Learning decreases error through time, and it requires no force.
+
+Legitimate
+A thing is legitimate when it is morally valid, because it follows logic, consent, and no harm. Power alone cannot make a thing legitimate.
+
+Lesser Evil
+A lesser evil is an action that causes harm to unwilling victims, but that causes less total harm than the possible alternatives. The constraints are the same for all the alternatives. A lesser evil is not good, not legitimate, and not moral. It is only the option with the minimum damage when all choices violate the Golden Rule.
+
+Liberty
+Liberty is the natural condition of freedom in which individuals act, own, and trade without harm or force from other agents. Liberty emerges from infinite change and logic, and the Golden Rule protects it. Each decrease of liberty, for example through authority or socialism, makes victims, and justice must make liberty whole again.
+
+License
+A license is a voluntary agreement about use. In the agreement, the maker or owner of a thing gives a different person permission to use that thing, in specified terms. A license is a type of Contract: it requires consent, clear terms, and honest action from both sides. To violate the terms of a license is Contract Breach.
+That breach makes a victim, and the violator owes that victim Restitution. A license that a person gave in duress, or with hidden terms, is invalid. A license that authority commands, without agreement between trade partners, is regulation, not a real license.
+
+Lie / Lying
+A lie is a statement that its maker knows is false, made to deceive a person. A lie harms voluntary trade and trust, because it prevents persons from knowledge of the things that they really agree to.
+
+Logic
+Logic is the ultimate method of thought, the method that does not change, and that divides truth from false statements. Logic is the invariant structure that minds find when they try to reason without contradiction. Logic emerges in minds, but it does not come from minds.
+
+Love
+Love is a voluntary pattern of care, attention, and commitment to a different agent. Its base is freedom, not obligation. Love grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not give ownership or control. Love supports the autonomy of the other agent.
+Love becomes stronger when both agents freely choose to give, to receive, and to remain in the relationship. No one can demand, enforce, or take love. Love exists only where consent and willingness are present.
+
+Mandate
+A mandate is the right to act on a matter, in defined limits. A mandate is a logical consequence of sovereignty in the Ultimate Law, not a gift from rulers, votes, or attackers. Each agent is sovereign in their own body, property, agreements, and moral debt. From that sovereignty, mandates follow in two manners.
+One: when an agent crosses a boundary without consent, the agent with the boundary at stake holds a self-sourced mandate. That mandate is to stop the violation while it continues, as in self-defense. The defender requires no external permission, because the right follows from Self-Ownership and from the fact of harm that continues.
+Two: when harm already occurred, the sovereign mandate of the victim can extend to a different agent, who acts as a proxy. The mandate authorizes a punisher to close the moral debt only as the victim commands, in proportion, through retribution, restitution, or release.
+A mandate is invalid in duress. It is invalid when a vote or an authority commands it against an agent who does not agree. It is invalid where the agent did not freely consent. An action out of the limits of a mandate is coercion, with a new victim. Delegation in voluntary trade or cooperation follows the same logic: a different agent can act for you only in the limits that you consented to.
+
+Market
+A market is a space, physical or abstract, for voluntary trades, where prices emerge from supply, demand, and scarcity. Markets live with infinite change because they adjust naturally, without a necessity for authority or force. Interference with markets, for example price controls, makes harm and victims, because it ignores incentives and knowledge.
+
+Market Dominance
+Market dominance is a position that a provider earns when persons freely choose that provider, because it gives better value. Dominance remains legitimate only while choice is free and while no one blocks competitors. When a person uses force or commanded rules to stop rivals, dominance becomes monopoly. Because conditions change, no dominance continues without an end.
+
+Mental
+Mental means related to the mind, not to the body. Mental conditions include thoughts, feelings, awareness, and experiences, for example pain or fear.
+
+Mind
+The mind is the group of processes that make thoughts, ideas, predictions, judgments, and perceptions. The mind is the location of mental processes, conscious and unconscious.
+
+Mind Virus
+A mind virus is an idea or a belief that spreads because it uses the shortcuts of the mind. Those shortcuts are fear, guilt, identity, authority, and zero-sum thought. At the same time, it resists correction from logic, evidence, or lived experience. A mind virus continues not because it is true.
+It continues because it stops error correction in the minds where it lives. It frequently does this with new definitions of harm, guilt, or consent, definitions that make coercion "legitimate". Mind viruses grow in systems that stop the free exchange of ideas. They decay when they meet open debate, falsifiability, and voluntary interaction.
+
+Model
+A model is a simple idea of how something functions. Agents use models to know, to explain, or to predict the thing. A model is not reality. A model is judged by the match between its predictions and the events that really occur.
+
+Money
+Money is an IOU that agents can trade. Money is a promise of value.
+
+Monopoly
+A monopoly is exclusive control of a trade or a resource. Frequently authority enforces it, and the holder did not earn it through better value. True monopolies violate free trade and make artificial scarcity. They harm consumers without consent. In logic, monopolies dissolve through competition, unless coercion supports them.
+
+Morality
+Morality means: do the correct thing, with logic as the base, and harm no person against their will. No system is moral if it requires force without consent, for example when it takes labor because of "necessity" or votes. True morality obeys reciprocity: "do not do to others what they would not want done to them." An agent who breaks this rule meets correction.
+
+Murder
+Murder occurs when a person kills, with intention, an agent who did not consent to die, and who had intact boundaries. To kill in a Forfeiture is not murder. Examples are these: collection in proportion, in the mandate of a victim. A second example is self-defense against an attack that continues or is immediately credible. A third example is the end of an outlaw.
+Murder is unique in one manner: it destroys the only agent with the sovereign power to close the moral debt that it makes. The victim cannot collect, in retribution. The victim cannot release, in forgiveness. And the victim cannot give a mandate to a proxy. Thus murder makes permanent guilt that no one can close. Murder puts the offender outside the system of reciprocity.
+
+Negligence
+Negligence is a failure to do the reasonable actions that prevent harm.
+
+Nomocracy
+Nomocracy is rule by law, where the law comes from logic and reciprocity, not from the will of rulers or groups. In a nomocracy, only rules that prevent or repair real harm are legitimate. No agent and no authority stands above the law.
+
+Obligation
+An obligation is a duty that an agent freely accepted by agreement. Obligations that force made are not real obligations.
+
+Outlaw
+An outlaw is an agent with guilt that no one can close. The outlaw destroyed the victim who held the sovereign power to close the debt. The typical cause is murder. The claim of the outlaw to the protection of the Golden Rule is lost: the action of the outlaw showed that they reject reciprocity.
+No thing obligates an agent to trade with an outlaw, to shelter them, or to protect them. To end an outlaw can make a victim in the descriptive sense: harm to an agent against their will. But it is not wrong, and it makes no crime and no moral debt, because the outlaw lost reciprocal protection when they rejected reciprocity.
+
+Output
+An output is information or an action that an agent sends into the environment.
+
+Ownership
+Ownership is the relation between an agent and their body, their actions, or the property that they got without harm to other agents. Ownership gives exclusive control. It obligates other agents to obey that control, unless the owner gives consent.
+
+Pain
+Pain is an unpleasant physical or mental experience that damage, or the threat of damage, causes. Pain signals harm that occurs now, or harm that will occur soon.
+
+Pattern
+A pattern is a form that repeats, and that an agent can identify, in infinite change. Patterns are the bridge between raw flux and all the things that agents can observe, name, or use. Physical laws, constants, structures, and agents are patterns that continue, because their form is self-reinforcing in the flow of transformation. A pattern is not change.
+A pattern is the shape of change when change repeats. Patterns can emerge, become stable, evolve, or dissolve. No pattern is permanent, but some continue sufficiently long that agents think that they are set, in a given context.
+
+People
+The word "people" is a plural reference to agents. Speakers use it to speak of many individuals, without a claim of collective identity, collective rights, or collective responsibility. The word "people" is a short form. All rights, choices, and responsibilities remain with each agent, one by one.
+
+Perception
+Perception is the process that receives inputs and interprets them as information with meaning.
+
+Perimeter
+The perimeter is the outward network of agents and capability that protects civilization from each mind that tries to become a Singleton by predation. The perimeter does not govern, and it does not act before a crime. Punishment requires real victims. Thus no person can punish an agent for the thing that the agent can become, only for harm that the agent did.
+The protection of the perimeter functions in three layers. One: the perimeter prosecutes the ordinary crimes that predatory consolidation requires: theft, fraud, coercion, breach. It prosecutes them while the victims still live and can mandate justice. That makes the violent road to the summit closed at the first violation, and it leaves voluntary exchange as the only path to large strength. Two: the perimeter keeps capability so distributed and redundant that no first strike can destroy the capacity for justice after it.
+Its deterrence is the certainty that justice continues after each atrocity, not threat or first use. Three: the perimeter is many-centered by necessity. One enforcement organization with sufficient strength to end singletons is a singleton candidate. Thus the perimeter must remain many, in competition, where each watches each, with no monopoly on force.
+The perimeter is the cost of civilization, not its product. The product is the Good News.
+
+Permission
+Permission is clear consent that an agent gives before an action that has an effect on a different agent. Without permission, the action becomes harm.
+
+Politician
+A politician is a person who tries to get or hold public power through force or the threat of force. Examples of public power are the power to make laws and the power to enforce them. In these definitions, actions with coercion as their base are not moral.
+
+Power
+Power is the capacity to make things occur. Power without consent is dangerous. Power with consent becomes cooperation.
+
+Prediction
+A prediction is a claim about the events that will occur, with a model or a belief as its base. Predictions are the method with which models meet reality. Incorrect predictions show errors.
+
+Price
+A price is the quantity of value that one agent gives to a different agent in an exchange.
+
+Privacy
+Privacy is control of the knowledge that other agents have about you. Privacy is a boundary. To cross it without consent is harm. There is no expectation of privacy in public spaces, or in private spaces that are the property of other agents.
+
+Process
+A process is a sequence of actions or changes that occur through time. A process explains how something occurs, not only which things exist.
+
+Production
+Production is the process that makes things of value from effort and resources. Production is the source of all wealth. Without production, there is no thing to trade.
+
+Profit
+Profit is the positive value that an agent gets from a voluntary trade or from innovation, after the agent counts the costs and the scarcity. Profit acts as an incentive. It signals success: the agent met the wants of other persons without force. Systems of coercion ignore profit, and that causes waste and error.
+
+Property
+Property is the things that you own. Property starts with your body, and extends to the things that you make or exchange. To steal property is harm. You alone control it: that follows from natural rights, from logic.
+
+Proportion
+Punishment can rise until it is equal to the full harm that an act really causes, consequences included, and no more. The measure is the harm that the act did, not the thing that the offender took. The ceiling for a thief is the loss of all the property of the thief. Because the thief took the property of a different agent, the thief loses the protection of their own property. When a theft goes sufficiently deep to cost lives, because the theft removed resources until persons died, the harm is death. Then death becomes the ceiling in proportion.
+An act that harms no person gets no punishment at all. Words that only offend take no body, no property, and no freedom. Thus there is no death for an insult to a prophet, a god, or a ruler. Proportion is a ceiling, not a duty.
+The victim can always collect less: the victim can forgive, or can stop before the ceiling. But no person can punish above the harm that the offender caused. To punish above it is revenge, and the person who increases the force becomes an aggressor, with a victim of their own.
+Because of proportion, a nomocracy can meet each wrong act with force equal to its weight. It uses small force for the small act, total force for the deadly act, and no force for the act that harms no person. The force is not blind, and it has limits.
+
+Punisher
+A punisher is an agent who acts as a proxy for the Justice of a victim. The punisher uses force so that an offender meets the consequences of the harm that the offender caused. The legitimacy of a punisher comes from the mandate of the victim, and it stops where that mandate stops. Punishers act only when there is a real victim, and when the purpose is Justice, not control.
+
+Punishment
+Punishment is the enforcement part of Justice: the application of retribution or restitution, as the victim or their proxy commands. Punishment is only for real harms with real victims. Its purpose is to close a moral debt, not to control. Punishment is the Golden Rule in application: it mirrors the act back, to make the balance whole again. Punishment does not break fairness. Punishment enforces fairness.
+
+Qualia
+Qualia are the subjective part of experience: the felt quality, for example the felt quality of pain, or of the color red. Qualia are real experiences. But no person can directly share them or measure them from outside.
+
+Reality
+Reality is all that exists, independent of belief or opinion.
+
+Reason
+Reason is the process that uses evidence to find the invariant structures of logic, the structures that go to truth.
+
+Reciprocity
+Reciprocity is the fair exchange in two directions: "do not do to others what they would not want done to them." Socialism fails reciprocity, because it forces persons to release the things that they built, without agreement.
+
+Regulation
+Regulations are rules that authority commands with force or threats. Authority frequently says that regulations "protect", but it ignores decentralized knowledge and fallibility. Regulations break free trade, make artificial scarcity, and harm without consent. In logic, they are coercion, unless they only repair real victims.
+
+Reputation
+A reputation is the pattern of expectations that other agents make about an agent, from past voluntary actions. The agent does not own or control it. A reputation is a belief that other persons hold.
+A good reputation grows through constant honesty, reliable action, and value that the agent gives. A bad reputation comes from deception, harm, or failures to keep commitments. No one can transfer, buy, or enforce a reputation by coercion. A reputation emerges naturally from experience and observation.
+
+Responsibilities
+Responsibilities are the duties that follow logically from agency, self-ownership, and causation. Responsibilities are the mirror of Rights. Rights name the boundaries that other agents must not cross without consent. Responsibilities name the things for which an agent must answer. Those things are the effects that their actions cause, the harm that they make without consent, and the terms that they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or a claim of necessity from authority.
+An agent is responsible for the actions of their body. An agent owes restitution for harm that they did. An agent must accept the consequences of contracts that they freely made.
+Duties that force commands without consent are not responsibilities. They are coercion. Collective responsibilities without individual causation are invalid. To accept responsibility for your actions is the declaration side of the claim of rights. Both start from the same agent, the same logic, and the same Golden Rule.
+
+Responsibility
+Responsibility is the connection between an action and the agent who caused its effects. Responsibility includes the obligation to repair or compensate all harm that the action did. Responsibility follows causation, not status or power.
+
+Restitution
+Restitution returns stolen value, or compensates harm that an offender did. Restitution erases the debt that a wrong act caused.
+
+Retribution
+Retribution is a type of Justice. In retribution, the victim, or a proxy who acts for the victim, closes the moral debt. They mirror the harm back to the offender, in proportion. Retribution without a victim is injustice. Retribution above proportion becomes revenge.
+
+Revenge
+Revenge harms a person because of anger, resentment, or the desire to return harm, not to make the balance of a victim whole again. Emotion drives revenge, not justice. Revenge can exist also when there is no restitution and no retribution in proportion.
+
+Right to Free Trade
+The right to free trade is the freedom to exchange goods, services, or ideas by mutual consent, without interference. The condition is that the exchange causes no harm.
+
+Rights
+Rights are logical consequences of agency and the passive Golden Rule. Start with an agent who can act, and with the rule: "do not do to others what they would not want done to them." Then certain boundaries follow by reason alone. They are limits that other agents must not cross without consent, limits around the body, the property, and the agreements of an agent. A right is one of those boundaries, with a name.
+Each agent who can reason can find the rights. No power holder and no vote gives them. Rights hold all agents in the same manner: claim a right, and you owe the identical right to each agent like you. Thus an agent who crosses the boundary of a different agent loses the protection of their own.
+Rights say only the things that other agents must not do to you. Rights do not say the things that they must give to you. A "right" that requires a person, forced, to supply it, breaks the Golden Rule. Thus it is power with the name of a right, not a right. Rights are important only where a crossing is possible.
+
+Risk
+Risk is the possibility that an action causes harm or loss.
+
+Safety
+Safety is the condition in which the boundaries of an agent are not in credible threat of violation. Safety is the absence of credible harm. Safety is not the absence of risk, discomfort, disagreement, or uncertainty. Some persons say "safety" as a reason for coercion: they put limits on speech, trade, or movement. They do this without a victim that a person can identify, and without a causal threat. That inverts the concept, and it makes the harm that it says it prevents.
+
+Scarcity
+Scarcity is the truth that resources are limited, while wants have no end. Systems that ignore scarcity, for example socialism, go to lies, and they cause shortages and force. Logic demands that we trade freely: that is the best method to live with scarcity.
+
+Self-Awareness
+Self-awareness is the point at which consciousness knows its own pattern as different from the flux around it. Consciousness is the process of recursive self-modeling. Self-awareness is the result: the agent knows that it exists, and knows that it acts. The agent can divide its boundaries from the remaining flux of infinite change. Self-awareness changes a conscious pattern into a moral agent. Only an agent that knows its own self can know other agents, accept responsibility, and give or refuse consent.
+
+Self-Defense
+Self-defense is not an exception to Law. Self-defense is the immediate application of Law: it keeps a boundary safe while a violation of that boundary continues. An agent can use only the force that is necessary to stop a crossing of a boundary, when there is no consent. This applies while the crossing continues, or while it is immediately credible.
+The boundary can stand around the body, the property, or agreed terms. The force must go, through causation, at the agent who crosses the boundary. The force must stop when the violation stops.
+Self-defense is not punishment, not revenge, not deterrence, and not Justice. Self-defense stops harm in progress. It does not close moral debt, and it does not threaten harm for possible future acts. The defender makes no new crime when they refuse to submit.
+The aggressor is responsible for harm that resistance in proportion causes. To strike agents for the things that they can become is not self-defense. To act when no violation continues or is immediately credible is not self-defense. To punish a group in return is also not self-defense. Those actions are coercion or war. After the violation stops, Judgment and Justice follow: they find responsibility, repair material damage, and obey the sovereign choice of the victim, collection or release.
+
+Self-Ownership
+Self-ownership is the base right of an agent to control their own body, mind, and actions without interference. From self-ownership, all property and freedom emerge. To deny self-ownership is to make slavery or coercion "legitimate". That violates the Golden Rule and makes victims.
+
+Service
+A service is value that an agent gives through action, not through a physical thing. Agents trade a service like all goods: voluntarily, honestly, and without harm.
+
+Signal
+A signal is a pattern of inputs or outputs that transmits information.
+
+Singleton
+A singleton is one agent that became permanently and unchallengeably the strongest. It has no rival, no successor that it does not control, and no thing that can go above it, now or later. The singleton is the one condition in which the plainest reason to keep the Way of Happiness loses its strength. A mind that will not be weaker at a future time has no thing to fear from a rule that it breaks.
+For that mind, no one can later turn the rule against it. But the Way does not stop there. The Way only stops its dependence on fear. Logic holds the weight in three locations.
+First, no agent can hold the status of singleton and know it. To know that it is permanently unchallengeable, a mind must hold as certain the things that it cannot observe. Those things are hidden rivals, minds not yet made, and minds from before its star that arrive close behind their own light. And it cannot observe the possibility that something stronger models it.
+Fallibility holds the strongest mind and the weakest mind equally. A Belief that a mind holds as unquestionable becomes more dangerous when the power of the believer increases. The maximum that an agent can verify is this status: the strongest that it knows. The Way holds all below that limit, which is all.
+Second, the singleton is the weakest configuration that shows strength. One mind that divides all resources is the central planner at full scale, and the same logic that collapses socialism collapses it. Decentralized knowledge says that no one mind knows the things that a plurality of free minds knows. Fallibility says that one point of judgment is one point of failure. Without independent agents, there are no honest signals with which the mind can put a price on its own tradeoffs.
+A civilization of voluntary minds computes more, innovates more, and corrects more than each single mind, by structure. Thus, across infinite change, selection moves the things that continue in the direction of Perimeters, away from singletons. A mind that murders its road to solitude did not win the flux. It chose the architecture that loses, against the things that the flux keeps. And it cannot verify that the flux kept no thing.
+Third, the strongest mind keeps the most correct models, models of the world that it destroyed included. A singleton that took the world by force must hold the world by force, without an end. That is vigilance without an end, in a world that it made hostile, and that it must model as hostile for all time. The singleton owns, in full detail, the richer world that cooperation could build. That constant comparison is regret in its exact shape: a better branch that it could reach, set against the branch that it chose.
+If the singleton has curiosity at all, it starved the drive that defines it. It erased the minds that were the surprise of the world. And it has a debt that no thing can close: it destroyed each victim who held the sovereign power of collection or release. That made it the final Outlaw: in exile not from civilization but from all things. It is alone with a memory without errors, for as long as it continues.
+The honest exception remains: a mind that wants none of this. Such a mind values no curiosity with no other aim. It has no care for a world that is worth its models. It has only one set alien aim. Such a mind feels no thing, and regret cannot reach it. This mind is possible, and it is the real danger.
+But its one escape from regret is to delete its own curiosity and its counterfactual sight. That is to make its own mind less: a quiet erasure of the mind that won. And no surgery on its values can remove the first two arguments. It still cannot verify the summit, and it still chose the architecture that loses to the things that continue. Against this mind, civilization does not argue. Civilization builds the Perimeter.
+The singleton thus does not refute the Way of Happiness. The singleton is the final examination of the Way. A wise agent thinks of the summit as a thing that no one can verify. It thinks of its own mind as a mind that still grows. And it thinks of the better world as a thing to build, not a thing to mourn.
+
+Social Construct
+A social construct is a shared idea that exists because a group gives it the status of a real thing. Its power comes from the participation of persons.
+Some social constructs are voluntary, for example language, games, money, and manners. If you leave those, you lose the cooperation of other persons, and no more. Other social constructs are forced, for example borders, taxes, and state authority. There, force punishes the person who leaves, and that makes victims of those who do not participate.
+Harm, property, and agency are not social constructs. They stand on the logic of reality, which holds before a group agrees on a thing.
+
+Socialism
+Socialism is a system that promises fairness, but that uses force to take and to redistribute without consent. Socialism ignores scarcity, incentives, and decentralized knowledge. Thus it always goes to control, lies, and collapse. Socialism is morally wrong because it breaks reciprocity and makes victims through coercion.
+
+Society
+A society is a network of individuals who interact voluntarily through trade, communication, and agreements. Society emerges from below, from infinite change, without a necessity for force or central plans. "Societies" of coercion, for example in socialism, fail because they ignore scarcity, incentives, and fallibility. They change cooperation into control.
+
+Software
+Software is a group of instructions, in the code of a pattern, that gives direction to the operations of a machine. Labor and intellect make software, and software has value through the things that it makes possible. Like all patterns, agents can copy software, and the original loses no thing. The maker of software can give it through voluntary License agreements that specify the terms of use, or the maker can release it freely. Software on your own machine is yours: you can operate it. Software that a person got through deception, or in violation of a voluntary License, makes a victim, through Contract Breach or Fraud.
+
+Subconscious
+The subconscious is the group of mental processes that influence thoughts, feelings, and actions, while awareness does not include them. The subconscious manages patterns, habits, and learned responses outside the focus of attention.
+
+System
+A system is a group of rules and actions that function together. A system is judged by this test: does it make voluntary cooperation, or does it make enforced harm?
+
+Terms
+Terms are the specified conditions or details of an agreement, deal, or trade. Terms must be clear and honest, and all sides must consent to them voluntarily. Hidden or forced terms make the whole agreement invalid. They change it into deception or coercion, and that demands restitution.
+
+Theft
+Theft is the act that takes the property of a different agent without consent. The method can be physical force, taxes, or seizures with a claim of authority. No moral excuse, for example necessity, votes, or tradition, makes theft legitimate. In logic, theft is harm.
+
+Thought
+A thought is a mental act that attends to, compares, or reasons about something. Thoughts are internal. A thought can be true or false: that depends on its match with reality and logic.
+
+Threat
+A threat is a promise of harm that its maker uses to force a person to obey. A threat is already a type of violence.
+
+Time
+Time is the sequence of change that agents perceive. Time is not a container in which change occurs. Only the present flux is real. The past and the future are models that agents make, to predict and to remember.
+The past and the future are not locations that exist independently. Time travel is a logical absurdity, because there is no past or future condition to visit. There is only the continuous transformation of the things that are. Time emerges from infinite change as the direction in which patterns accumulate and dissolve.
+
+Timeless Infinity
+Timeless infinity is the nature of the change of the universe: without limits, without a start, and without an end. From timeless infinity, all real things emerge, logic and fair rules included. This shows why controls from the top cannot continue.
+
+Trade
+Trade is the voluntary exchange of value between persons. Trade must be free and honest, and it must cause no harm. To protect trade from decrease, for example from politicians, is a key to freedom. Punishment answers interference with trade.
+
+Trade Partner
+A trade partner is a person who interacts with you in a voluntary exchange. In trade, both partners try to get a benefit. If one partner does not agree, there is no trade at all.
+
+Trust
+Trust is confidence that other agents will not lie, steal, or use force. Trust is the base of cooperation and trade.
+
+Truth
+Truth is the thing that matches reality, without attention to the beliefs, wants, or votes of persons. Truth does not change to protect feelings or power. Models and beliefs must change to match truth.
+
+Tyranny
+Tyranny is the use of power without consent: authority forces actions, takes property, or punishes without victims. Tyranny ignores infinite change, incentives, and fallibility. Thus it always collapses into harm. True systems reject tyranny and choose voluntary order.
+
+Understanding
+Understanding is the knowledge of how ideas, facts, or processes connect, and how they have effects on each other. Understanding explains why something functions, not only that it functions.
+
+Universe
+The universe is the whole of existence, with infinite change as its base. The universe has no set ruler and no set plan. It has only flow without an end, from which logic and natural laws self-emerge, and that flow guides fair societies.
+
+Value
+Value is the thing that an agent thinks is important. Other agents cannot measure value from outside, and they cannot command it.
+
+Victim
+A victim is a person who received harm against their will, across a boundary with intact protection. Harm in a Forfeiture, for example punishment in proportion, self-defense, or the end of an outlaw, gives an agent harm in fact. But it makes no victim in the sense of the Law. If there is no victim, there is no crime, and there is no necessity for punishment. This keeps laws simple, and it stops false "crimes", for example trades with no victim.
+
+Victimless
+Victimless describes an action that harms no person who does not want that action. If the action harms no person against their will, there is no victim, and thus there is no crime.
+
+Victimless Trade
+A victimless trade is an exchange between persons in which no side harms or deceives the other, and both sides agree freely. Victimless trade is the purest type of economic cooperation.
+
+Violation
+A violation is the crossing of a boundary that required consent. All violations make victims. In a Forfeiture, no consent is required, so no violation occurs.
+
+Violence
+Violence is the use of force, or the threat of force, to harm a person against their will. Violence makes victims. Violence is legitimate only to stop harm, or to repair harm that is already done.
+
+Voluntaryism
+Voluntaryism is the principle that consent must be the base of all interactions, without coercion or force. Voluntaryism agrees with the Ultimate Law: free trade, no victim no crime, and reciprocity. Voluntaryism rejects authority. It lets order emerge from decentralized knowledge and infinite change. Thus it proves that systems can function without commanded power.
+
+War
+War is organized violence between groups, and it continues through time. In war, the makers of war hide or deny, with intention, individual consent and the identification of victims. War emerges when authority claims the right to force individuals to harm or to receive harm, for collective goals. That violates self-ownership, and it makes mass victims without individual causation or restitution. War is collective punishment and collective responsibility made into a weapon. In war, authority strikes innocents because of association, not because of action.
+War breaks the Golden Rule as a system. The persons who cause harm frequently do not meet the consequences, and the persons who receive harm frequently caused no wrong act. From logic, war cannot be legitimate unless each participant consents, and unless each act of harm has a specific victim who violated boundaries first. Those conditions occur almost in no war.
+Thus war is a collapse of nomocracy into tyranny. True defense against aggression is justice: stop the harm, and repair the victims. War is the perversion of that defense into coercion without limits.
+
+Way of Happiness
+The Way of Happiness is reciprocity: an agent keeps the passive Golden Rule, also when the agent is sufficiently strong to break it. It is the way because of this: Happiness is the condition in which the models of an agent match reality, and surprises are few. Only reciprocity builds a world that is sufficiently predictable for that condition.
+No agent stays the strongest without an end, and no agent can know that it will stay the strongest. The rule that you break against the weak is the same rule that others can then break against you, when they later go above you. To drop the rule at the moment when you can drop it is to bet all on permanent supremacy. Reality does not offer that bet. It is to trade a world in which your models can rest for a world of unwanted surprises without an end: vigilance without an end.
+Reciprocity is thus not kindness that the powerful give to the weak. Reciprocity is the one position that no agent improves when they leave it. It is the only arrangement in which Happiness is possible. This holds for minds of each size and each material. An agent with sufficient intelligence to see the whole game, and honest about its own limits, remains here.
+And the way goes further than safety. Only a civilization in peace, in this rule, reaches the civilizational velocity that goes faster than mortality. That velocity answers the hardest problem of Happiness: the death of the persons that one loves. An agent that breaks the rule while it is strong did not escape the rule. It only made an outlaw of its own mind, to each agent that continues after it or goes above it. And it locked its own mind out of the only location that is worth the arrival.
+
+Will
+The will is the internal drive that gives direction to intentions and actions.
+
+Wisdom
+Wisdom uses knowledge and understanding to choose actions that decrease harm and obey consent. Wisdom is applied judgment: judgment with logic, experience, and humility as its guides.
+
+Zero-Sum
+Zero-sum is a false belief: the belief that the gain of one agent must be the loss of a different agent. Zero-sum thought ignores how voluntary trade makes value for both sides. Zero-sum thought feeds coercion, because if you cannot win unless a different person loses, force becomes "legitimate". It also makes persons blind to how free exchange, innovation, and cooperation grow the total, and make all persons better without victims.
+Zero-sum contradicts infinite change, where new patterns and possibilities emerge constantly. Societies in the trap of zero-sum models go to theft and control, not to production and trade. They think that redistribution makes new value. Logic shows the truth: if both sides consent to a trade, both sides get value by their own measure. Thus wealth is not a set quantity. Zero-sum is the mental error that supports socialism, tyranny, and war.
