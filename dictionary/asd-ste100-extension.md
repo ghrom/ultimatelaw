@@ -3,7 +3,7 @@
 ## The controlled-language extension for the Coherent Dictionary of Simple English
 
 Date: 2026-08-20.
-Applies to: `dictionary/coherent-dictionary-asd-ste100.txt` (the STE rendering of all 191 terms).
+Applies to: `dictionary/coherent-dictionary-asd-ste100.txt` (the STE rendering of all 192 terms).
 Base standard: ASD-STE100 Issue 9 (2025-01-15), (c) ASD, Brussels -- the controlled language of the aerospace industry, with about 900 approved words and 53 writing rules. The standard is free from asd-ste100.org. This file does not reproduce the ASD word list; it declares only the words of this project, which is the extension mechanism that STE itself provides (Rules 1.5 and 1.12: technical nouns and technical verbs).
 
 STE was made so that a maintenance instruction cannot be misread. This extension exists because a moral constitution has the same requirement, and a harder vocabulary problem: the approved dictionary has words for machines, but not for time, speech, truth, life, or justice. The extension supplies exactly that vocabulary, one meaning per word, in the STE manner.
@@ -15,7 +15,7 @@ STE was made so that a maintenance instruction cannot be misread. This extension
 The rendering obeys these ASD-STE100 Issue 9 rules. Rule numbers are from the official Issue 9 PDF.
 
 - **1.1 / 1.5 / 1.12** -- approved words only, plus declared technical nouns and technical verbs (this file is the declaration).
-- **1.2 / 1.3** -- one word, one part of speech, one meaning. The 191 terms and the words below each carry exactly one meaning.
+- **1.2 / 1.3** -- one word, one part of speech, one meaning. The 192 terms and the words below each carry exactly one meaning.
 - **1.14** -- American English spelling.
 - **3.2 / 3.4** -- only the simple tenses (infinitive, imperative, simple present, simple past, simple future, past participle as adjective); no complex verb constructions.
 - **3.5** -- the "-ing" form only in technical nouns (crossing, self-modeling, ceiling, feeling, meaning, suffering, and the term headings Learning, Understanding, Lying).
@@ -49,11 +49,11 @@ These 7 words ARE in the ASD-STE100 approved dictionary, but this project uses t
 
 ## 3. Added words
 
-### 3a. The 191 terms
+### 3a. The 192 terms
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
-### 3b. Declared vocabulary (519 base words, 680 surface forms)
+### 3b. Declared vocabulary (520 base words, 681 surface forms)
 
 Each word below is declared with exactly one meaning, in STE style. Regular inflections and the listed forms belong to the base word. Some of these words STE lists as not approved for technical manuals (for example *cross*, *take*, *demand*, *kind*): they are declared here deliberately. STE rejects them because they are vague in maintenance text, and this dictionary cures that vagueness by definition instead of avoidance -- *take* has exactly one meaning here, and it is the thief's.
 
@@ -477,7 +477,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **watch** | watches | to look at with continued attention |
 | **win** | wins, won | to get the result in a competition |
 
-#### Words of quality, quantity, and manner (97)
+#### Words of quality, quantity, and manner (98)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -489,6 +489,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **arrangement** |  | the manner in which things are put together |
 | **balance** | balanced | the condition in which the sides are equal |
 | **blind** |  | without sight; without attention to differences |
+| **chance** |  | the part of events that no known cause directs |
 | **conclusion** |  | the statement that follows from the reasons |
 | **conditional** |  | true or given only in a condition |
 | **constraint** | constraints | a limit on the possible actions |
@@ -630,19 +631,19 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 ## 4. Counts (computed, not estimated)
 
-Measured on the finished rendering (all 191 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
+Measured on the finished rendering (all 192 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **12270**
-- from the ASD-STE100 approved vocabulary: **6834** tokens = **55.7%**
-- the 7 overridden approved words: **392** tokens = **3.2%**
-- the 191 terms and their word family: **3221** tokens = **26.3%**
-- declared extension vocabulary: **1823** tokens = **14.9%**
-- distinct approved base words used: **282** of the approximately 875 in Issue 9
-- added words: **519** base words (**680** surface forms) + the **191** terms
+- STE prose tokens: **12366**
+- from the ASD-STE100 approved vocabulary: **6890** tokens = **55.7%**
+- the 7 overridden approved words: **393** tokens = **3.2%**
+- the 192 terms and their word family: **3249** tokens = **26.3%**
+- declared extension vocabulary: **1834** tokens = **14.8%**
+- distinct approved base words used: **283** of the approximately 875 in Issue 9
+- added words: **520** base words (**681** surface forms) + the **192** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 
-Read together: about 59% of the running text is carried by the aerospace vocabulary itself; the remaining 41% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 519 declared words plus the 191 terms it can also say *why the thief's ceiling is everything they own*.
+Read together: about 59% of the running text is carried by the aerospace vocabulary itself; the remaining 41% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 520 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
 
 ---
 

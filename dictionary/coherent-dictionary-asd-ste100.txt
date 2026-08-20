@@ -6,7 +6,7 @@ Source: dictionary/coherent-dictionary-of-simple-english.txt (canonical, after t
 Extension: dictionary/asd-ste100-extension.md (the controlled-vocabulary extension that this rendering uses)
 Standard: ASD-STE100 Issue 9 (2025-01-15), the controlled-language standard of the aerospace industry
 
-This file gives all 191 terms of the Coherent Dictionary of Simple English in ASD-STE100.
+This file gives all 192 terms of the Coherent Dictionary of Simple English in ASD-STE100.
 The rules applied are: approved words only (Rule 1.1), with the technical nouns and technical verbs that Rules 1.5 and 1.12 permit and that the extension declares. One word has one meaning (Rule 1.3). Verbs use only the simple tenses (Rule 3.2), with no complex verb constructions (Rule 3.4). The "-ing" form appears only in technical nouns (Rule 3.5). The voice is active (Rule 3.6). Each descriptive sentence has 25 words or less (Rule 6.3). Each paragraph has one topic (Rule 6.5) and six sentences or less (Rule 6.6). There are no semicolons (Rule 8.1) and no contractions (Rule 4.2). Each term of this dictionary is a declared technical noun, and the extension lists each added or changed word with its one meaning.
 
 The Law predates and stands above the controlled language. It is reproduced verbatim, exempt by its own clause: "it cannot be changed, all the rest is commentary."
@@ -121,6 +121,10 @@ A breach is not renegotiation. Renegotiation requires consent from all parties. 
 
 Control
 Control is the capacity to give direction to a thing. Control of the self is natural. Control of other agents requires their consent, or it becomes coercion.
+
+Correlation
+A correlation is a pattern in which two or more things change together, more frequently than chance alone causes. Correlation is evidence that a connection can exist. It is not the connection. Only Causation connects an effect to the agent who caused it, and only causation holds responsibility.
+To punish on correlation -- membership, association, a shared quality, or numbers about a group -- is to punish without causation. That makes innocent victims, as in Collective Punishment. Models on correlation can predict, but they explain no thing without the cause. A prediction that functions is not yet understanding.
 
 Crime
 A crime is an action that harms a person who did not want that action, across an intact boundary. An intact boundary is a boundary that is in no Forfeiture. A crime makes a victim. No victim means no crime. This is simple logic from the Golden Rule. Only Justice erases the moral debt: the sovereign choice of the victim, collection or release.
