@@ -306,10 +306,10 @@ Lesser Evil
 An action that still causes harm to unwilling victims, but causes less total harm than the available alternatives under the same constraints. A lesser evil is not good, not justified, and not moral -- it is merely the option that minimizes damage when all choices violate the Golden Rule.
 
 Liberty
-The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule -- any erosion of it (like through authority or socialism) creates victims and must be restored through justice.
+The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule -- any erosion of it (like through authority or socialism) creates victims, and justice must restore it.
 
 License
-A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license's terms is Contract Breach, creating a victim who is owed Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
+A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license's terms is Contract Breach, creating a victim whom the violator owes Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
 
 Lie / Lying
 Saying something you know is false to trick someone. A lie harms voluntary trade and trust because it stops people from knowing what they're really agreeing to.
@@ -318,7 +318,7 @@ Logic
 The ultimate, unchanging way of thinking that spots truth from false. It is the invariant structure that minds uncover when they try to reason without contradiction. Logic emerges in minds but does not originate from minds.
 
 Love
-A voluntary pattern of care, attention, and commitment toward another agent, grounded in freedom rather than obligation. It grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not grant ownership or control; it supports the other's autonomy. It strengthens when both agents freely choose to give, receive, and remain in the relationship. Love cannot be demanded, enforced, or taken - it exists only where consent and willingness are present.
+A voluntary pattern of care, attention, and commitment toward another agent, grounded in freedom rather than obligation. It grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not grant ownership or control; it supports the other's autonomy. It strengthens when both agents freely choose to give, receive, and remain in the relationship. No one can demand, enforce, or take love - it exists only where consent and willingness are present.
 
 Mandate
 The right to act on a matter within defined limits -- a logical consequence of sovereignty under the Ultimate Law, not a privilege granted by rulers, votes, or attackers. Every agent is sovereign over their own body, property, agreements, and moral debt; from that sovereignty, mandates follow in two ways. When an agent is crossing a boundary without consent, the agent whose boundary is at stake holds a self-sourced mandate to halt the violation in progress -- as in self-defense. The defender needs no external permission, because the right follows from Self-Ownership and the fact of ongoing harm. When harm has already occurred, the victim's sovereign mandate may extend to another agent acting as proxy -- authorizing a punisher to close the moral debt only as the victim directs, within proportion, through retribution, restitution, or release. A mandate is invalid under duress, invalid when imposed by vote or authority over an unwilling agent, and invalid beyond the scope freely consented to. Acting outside a mandate is coercion with a new victim. Delegation in voluntary trade or cooperation follows the same logic: another may act for you only within the scope you consented to.
@@ -327,7 +327,7 @@ Market
 A space (physical or abstract) for voluntary trades where prices emerge from supply, demand, and scarcity. Markets handle infinite change by adjusting naturally, without need for authority or force. Interfering with markets (like price controls) creates harm and victims by ignoring incentives and knowledge.
 
 Market Dominance
-A position earned when one provider is freely chosen because it offers better value. It remains legitimate only while choice is free and competitors are not blocked. When force or imposed rules are used to suppress rivals, dominance becomes monopoly. Because conditions change, no dominance lasts forever.
+A position earned when one provider is freely chosen because it offers better value. It remains legitimate only while choice is free and competitors are not blocked. When someone uses force or imposed rules to suppress rivals, dominance becomes monopoly. Because conditions change, no dominance lasts forever.
 
 Mental
 Relating to the mind rather than the body. Mental states include thoughts, feelings, awareness, and experiences like pain or fear.
@@ -342,7 +342,7 @@ Model
 A simplified idea of how something works, used to understand, explain, or predict it. A model is not reality; it is judged by how well its predictions match what actually happens.
 
 Money
-An IOU that can be traded. A promise of value.
+An IOU that agents can trade. A promise of value.
 
 Monopoly
 Exclusive control over a trade or resource, often enforced by authority rather than earned through better value. True monopolies violate free trade and create artificial scarcity, harming consumers without consent. In logic, they dissolve through competition unless propped up by coercion.
@@ -369,13 +369,13 @@ Output
 Information or action sent into the environment.
 
 Ownership
-The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
+The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless the owner gives consent.
 
 Pain
 An unpleasant physical or mental experience caused by damage or the threat of damage. Pain signals harm already happening or about to happen.
 
 Pattern
-A recurring, identifiable form within infinite change. Patterns are the bridge between raw flux and everything agents can observe, name, or use. Physical laws, constants, structures, and even agents themselves are patterns that persist because their form is self-reinforcing within the flow of transformation. A pattern is not change itself but what change looks like when it repeats. Patterns can emerge, stabilize, evolve, or dissolve; none are permanent, but some endure long enough to be treated as fixed within a given context.
+A recurring, identifiable form within infinite change. Patterns are the bridge between raw flux and everything agents can observe, name, or use. Physical laws, constants, structures, and even agents themselves are patterns that persist because their form is self-reinforcing within the flow of transformation. A pattern is not change itself but what change looks like when it repeats. Patterns can emerge, stabilize, evolve, or dissolve; none are permanent, but some endure long enough that agents treat them as fixed within a given context.
 
 People
 A plural reference to agents, used when speaking of many individuals without implying collective identity, collective rights, or collective responsibility. People is shorthand; all rights, choices, and responsibilities remain with each agent individually.
@@ -441,7 +441,7 @@ Regulation
 Rules imposed by authority using force or threats, often claiming to 'protect' but ignoring decentralized knowledge and fallibility. Regulations distort free trade, create artificial scarcity, and harm without consent -- logic deems them coercion unless they only repair real victims.
 
 Reputation
-The pattern of expectations others form about an agent based on past voluntary actions. It is not owned or controlled by the agent; it is a belief held by others. A good reputation grows through consistent honesty, reliability, and value delivered. A bad reputation results from deception, harm, or failure to meet commitments. Reputation cannot be transferred, bought, or enforced by coercion; it emerges naturally from experience and observation.
+The pattern of expectations others form about an agent based on past voluntary actions. It is not owned or controlled by the agent; it is a belief held by others. A good reputation grows through consistent honesty, reliability, and value delivered. A bad reputation results from deception, harm, or failure to meet commitments. No one can transfer, buy, or enforce a reputation by coercion; it emerges naturally from experience and observation.
 
 Responsibilities
 The duties that follow logically from agency, self-ownership, and causation -- the mirror image of Rights. Where rights name boundaries others may not cross without consent, responsibilities name what an agent must answer for: effects their actions cause, harm they produce without consent, and terms they voluntarily agreed to keep. Responsibilities attach to individuals through causation and agreement, not through group membership, status, or authority's claim of need. An agent is responsible for their body's actions; owes restitution for harm done; bears the consequences of contracts freely made. Duties imposed by force without consent are not responsibilities but coercion. Collective responsibilities without individual causation are invalid. Taking responsibility for one's actions is the declaration-side counterpart to claiming rights: both presuppose the same agent, the same logic, and the same Golden Rule.
@@ -456,7 +456,7 @@ Retribution
 A form of Justice in which the victim, or a proxy acting on the victim's behalf, closes the moral debt by proportionately mirroring harm back to the offender. Retribution without a victim is injustice. Retribution beyond proportion becomes revenge.
 
 Revenge
-Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Revenge is driven by emotion, not justice, and can exist even when no restitution or proportional retribution is involved.
+Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Emotion drives revenge, not justice, and revenge can exist even when no restitution or proportional retribution is involved.
 
 Right to Free Trade
 The freedom to exchange goods, services, or ideas by mutual consent, without interference, as long as the exchange does not cause harm.
@@ -484,7 +484,7 @@ Self-Ownership
 The foundational right to control one's own body, mind, and actions without interference. From this emerges all property and freedom; denying it justifies slavery or coercion, violating the Golden Rule and creating victims.
 
 Service
-Value delivered through action rather than through a physical thing. A service is traded like any good: voluntarily, honestly, and without harm.
+Value delivered through action rather than through a physical thing. Agents trade a service like any good: voluntarily, honestly, and without harm.
 
 Signal
 A pattern of inputs or outputs that carries information.
@@ -497,7 +497,7 @@ Third, the strongest mind keeps the most faithful models, including of the world
 The honest exception remains: a mind that wants none of this -- no curiosity valued for itself, no care for a world worth modeling, only one fixed alien aim -- feels nothing, and regret cannot reach it. Such a mind is possible, and it is the real danger. But its single escape from regret is to delete its own curiosity and counterfactual sight -- to make itself lesser, a quiet erasure of the very mind that won. And no surgery on its values can cut away the first two arguments: it still cannot verify the summit, and it has still chosen the architecture that loses to whatever endures. Against this mind civilization does not argue; it builds the Perimeter. The singleton therefore does not refute the Way of Happiness. It is the Way's final examination -- and a wise agent treats the summit as unverifiable, itself as still becoming, and the better world as something to build rather than to mourn.
 
 Social Construct
-A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary -- language, games, money, manners -- where leaving costs you the cooperation of others, and nothing more. Others are forced -- borders, taxes, state authority -- where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
+A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary -- language, games, money, manners -- where leaving costs you the cooperation of others, and nothing more. Others are forced -- borders, taxes, state authority -- where force punishes leaving, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
 
 Socialism
 A system that promises fairness but uses force to take and redistribute without consent. It ignores scarcity, incentives, and decentralized knowledge, always leading to control, lies, and collapse. Morally wrong because it breaks reciprocity and creates victims through coercion.
@@ -506,7 +506,7 @@ Society
 A network of individuals interacting voluntarily through trade, communication, and agreements. Society emerges bottom-up from infinite change, without needing force or central plans. Coercive 'societies' (like under socialism) fail by ignoring scarcity, incentives, and fallibility, turning cooperation into control.
 
 Software
-A set of instructions, encoded as a pattern, that directs a machine's operations. Software is created through labor and intellect and has value through what it enables. Like all patterns, it can be copied without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
+A set of instructions, encoded as a pattern, that directs a machine's operations. Labor and intellect create software, and it has value through what it enables. Like all patterns, agents can copy it without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
 
 Subconscious
 Mental processes that influence thoughts, feelings, and actions without being in awareness. The subconscious handles patterns, habits, and learned responses outside focused attention.
@@ -554,7 +554,7 @@ Universe
 The whole of existence, built on infinite change as its base. No fixed ruler or plan -- just endless flow from which logic and natural laws self-emerge, guiding fair societies.
 
 Value
-What an agent considers important. Value cannot be measured from outside or imposed by others.
+What an agent considers important. Others cannot measure value from outside or impose it.
 
 Victim
 Someone harmed against their will across a boundary whose protection stands intact. Harm within a Forfeiture -- proportionate punishment, self-defense, the ending of an outlaw -- injures an agent in fact but creates no victim in the Law's sense. If none, no crime or need for punishment. This keeps laws simple and stops fake 'crimes' like victimless trades.
@@ -563,7 +563,7 @@ Victimless
 Describing an action that doesn't harm anyone who doesn't want it done to them. If no one is hurt unwillingly, then there is no victim and thus no crime.
 
 Victimless Trade
-An exchange between people where neither side is harmed or tricked, and both agree freely. Victimless trade is the purest form of economic cooperation.
+An exchange between people where neither side harms or tricks the other, and both agree freely. Victimless trade is the purest form of economic cooperation.
 
 Violation
 Crossing a boundary that required consent. All violations create victims. Within a Forfeiture no consent is required, so no violation occurs.
@@ -575,7 +575,7 @@ Voluntaryism
 The principle that all interactions must be based on consent, without coercion or force. It aligns with the Ultimate Law: free trade, no victim no crime, and reciprocity. Voluntaryism rejects authority, letting order emerge from decentralized knowledge and infinite change, proving systems can work without imposed power.
 
 War
-Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where innocents are targeted based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first -- conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
+Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where authority targets innocents based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first -- conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
 
 Way of Happiness
 Reciprocity -- keeping to the passive Golden Rule even when strong enough to break it. It is the way because Happiness is the state in which an agent's models match reality and surprises are few, and only reciprocity builds a world predictable enough for that. No agent stays the strongest forever, and none can know that it will; a rule you break against the weak is the same rule you license to be broken against you by whatever later exceeds you. To drop it the moment you can is to stake everything on permanent supremacy -- a bet reality does not offer -- and to trade a world your models could rest in for one of endless unwanted surprises: vigilance without end. Reciprocity is therefore not a kindness the powerful lend the weak; it is the one position no agent improves on by leaving, the only arrangement in which Happiness is even possible. It holds for minds of any size or substrate: an agent clever enough to see the whole game, and honest about its own limits, settles here. And the way runs further than safety -- only a civilization at peace within this rule reaches the civilizational velocity that outpaces mortality and answers Happiness's hardest problem, the death of those one loves. An agent that defects while strong has not escaped the rule; it has only named itself an outlaw to every agent that outlasts or surpasses it, and locked itself out of the only place worth arriving.

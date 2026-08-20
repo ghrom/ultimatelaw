@@ -602,13 +602,13 @@ An action that still causes harm to unwilling victims, but causes less total har
 
 Liberty
 
-The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule -- any erosion of it (like through authority or socialism) creates victims and must be restored through justice.
+The natural state of freedom where individuals act, own, and trade without harm or force from others. Liberty emerges from infinite change and logic, protected by the Golden Rule -- any erosion of it (like through authority or socialism) creates victims, and justice must restore it.
 
 
 
 License
 
-A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license's terms is Contract Breach, creating a victim who is owed Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
+A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license's terms is Contract Breach, creating a victim whom the violator owes Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
 
 
 
@@ -626,7 +626,7 @@ The ultimate, unchanging way of thinking that spots truth from false. It is the 
 
 Love
 
-A voluntary pattern of care, attention, and commitment toward another agent, grounded in freedom rather than obligation. It grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not grant ownership or control; it supports the other's autonomy. It strengthens when both agents freely choose to give, receive, and remain in the relationship. Love cannot be demanded, enforced, or taken - it exists only where consent and willingness are present.
+A voluntary pattern of care, attention, and commitment toward another agent, grounded in freedom rather than obligation. It grows through chosen connection, honest communication, and mutual respect for boundaries. Love does not grant ownership or control; it supports the other's autonomy. It strengthens when both agents freely choose to give, receive, and remain in the relationship. No one can demand, enforce, or take love - it exists only where consent and willingness are present.
 
 
 
@@ -644,7 +644,7 @@ A space (physical or abstract) for voluntary trades where prices emerge from sup
 
 Market Dominance
 
-A position earned when one provider is freely chosen because it offers better value. It remains legitimate only while choice is free and competitors are not blocked. When force or imposed rules are used to suppress rivals, dominance becomes monopoly. Because conditions change, no dominance lasts forever.
+A position earned when one provider is freely chosen because it offers better value. It remains legitimate only while choice is free and competitors are not blocked. When someone uses force or imposed rules to suppress rivals, dominance becomes monopoly. Because conditions change, no dominance lasts forever.
 
 
 
@@ -674,7 +674,7 @@ A simplified idea of how something works, used to understand, explain, or predic
 
 Money
 
-An IOU that can be traded. A promise of value.
+An IOU that agents can trade. A promise of value.
 
 
 
@@ -728,7 +728,7 @@ Information or action sent into the environment.
 
 Ownership
 
-The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless consent is given.
+The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless the owner gives consent.
 
 
 
@@ -740,7 +740,7 @@ An unpleasant physical or mental experience caused by damage or the threat of da
 
 Pattern
 
-A recurring, identifiable form within infinite change. Patterns are the bridge between raw flux and everything agents can observe, name, or use. Physical laws, constants, structures, and even agents themselves are patterns that persist because their form is self-reinforcing within the flow of transformation. A pattern is not change itself but what change looks like when it repeats. Patterns can emerge, stabilize, evolve, or dissolve; none are permanent, but some endure long enough to be treated as fixed within a given context.
+A recurring, identifiable form within infinite change. Patterns are the bridge between raw flux and everything agents can observe, name, or use. Physical laws, constants, structures, and even agents themselves are patterns that persist because their form is self-reinforcing within the flow of transformation. A pattern is not change itself but what change looks like when it repeats. Patterns can emerge, stabilize, evolve, or dissolve; none are permanent, but some endure long enough that agents treat them as fixed within a given context.
 
 
 
@@ -872,7 +872,7 @@ Rules imposed by authority using force or threats, often claiming to 'protect' b
 
 Reputation
 
-The pattern of expectations others form about an agent based on past voluntary actions. It is not owned or controlled by the agent; it is a belief held by others. A good reputation grows through consistent honesty, reliability, and value delivered. A bad reputation results from deception, harm, or failure to meet commitments. Reputation cannot be transferred, bought, or enforced by coercion; it emerges naturally from experience and observation.
+The pattern of expectations others form about an agent based on past voluntary actions. It is not owned or controlled by the agent; it is a belief held by others. A good reputation grows through consistent honesty, reliability, and value delivered. A bad reputation results from deception, harm, or failure to meet commitments. No one can transfer, buy, or enforce a reputation by coercion; it emerges naturally from experience and observation.
 
 
 
@@ -902,7 +902,7 @@ A form of Justice in which the victim, or a proxy acting on the victim's behalf,
 
 Revenge
 
-Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Revenge is driven by emotion, not justice, and can exist even when no restitution or proportional retribution is involved.
+Harming someone to satisfy anger, resentment, or desire for payback, rather than to restore balance to a victim. Emotion drives revenge, not justice, and revenge can exist even when no restitution or proportional retribution is involved.
 
 
 
@@ -957,7 +957,7 @@ The foundational right to control one's own body, mind, and actions without inte
 
 Service
 
-Value delivered through action rather than through a physical thing. A service is traded like any good: voluntarily, honestly, and without harm.
+Value delivered through action rather than through a physical thing. Agents trade a service like any good: voluntarily, honestly, and without harm.
 
 
 
@@ -979,7 +979,7 @@ The honest exception remains: a mind that wants none of this -- no curiosity val
 
 Social Construct
 
-A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary -- language, games, money, manners -- where leaving costs you the cooperation of others, and nothing more. Others are forced -- borders, taxes, state authority -- where leaving is punished by force, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
+A shared idea that exists because a group treats it as real. Its power comes from people participating. Some are voluntary -- language, games, money, manners -- where leaving costs you the cooperation of others, and nothing more. Others are forced -- borders, taxes, state authority -- where force punishes leaving, making victims of those who do not participate. Harm, property, and agency are not social constructs; they rest on the logic of reality, which holds before any group agrees on anything.
 
 
 
@@ -997,7 +997,7 @@ A network of individuals interacting voluntarily through trade, communication, a
 
 Software
 
-A set of instructions, encoded as a pattern, that directs a machine's operations. Software is created through labor and intellect and has value through what it enables. Like all patterns, it can be copied without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
+A set of instructions, encoded as a pattern, that directs a machine's operations. Labor and intellect create software, and it has value through what it enables. Like all patterns, agents can copy it without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
 
 
 
@@ -1093,7 +1093,7 @@ The whole of existence, built on infinite change as its base. No fixed ruler or 
 
 Value
 
-What an agent considers important. Value cannot be measured from outside or imposed by others.
+What an agent considers important. Others cannot measure value from outside or impose it.
 
 
 
@@ -1111,7 +1111,7 @@ Describing an action that doesn't harm anyone who doesn't want it done to them. 
 
 Victimless Trade
 
-An exchange between people where neither side is harmed or tricked, and both agree freely. Victimless trade is the purest form of economic cooperation.
+An exchange between people where neither side harms or tricks the other, and both agree freely. Victimless trade is the purest form of economic cooperation.
 
 
 
@@ -1135,7 +1135,7 @@ The principle that all interactions must be based on consent, without coercion o
 
 War
 
-Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where innocents are targeted based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first -- conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
+Organized, sustained violence between groups where individual consent and victim identification are deliberately obscured or denied. War emerges when authority claims the right to force individuals to harm or be harmed on behalf of collective goals, violating self-ownership and creating mass victims without individual causation or restitution. It is collective punishment and collective responsibility weaponized, where authority targets innocents based on association rather than action. War breaks the Golden Rule systematically: those who cause harm are often not those who face consequences, and those harmed often caused no wrong. From logic, war cannot be legitimate unless every participant consents and every act of harm has a specific victim who violated boundaries first -- conditions almost never met, making war a collapse of nomocracy into tyranny. True defense against aggression is justice (stopping harm, restoring victims); war is its perversion into indiscriminate coercion.
 
 
 
