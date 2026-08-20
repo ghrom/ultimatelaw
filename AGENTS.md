@@ -32,7 +32,7 @@ A clear, voluntary meeting of minds where all sides understand and accept the te
 
 Art
 
-A created pattern intended to express, explore, or communicate something to others. It does not require beauty, approval, or agreement; its defining feature is the maker's intention to share a perception, feeling, idea, or experience. The meaning of art is not contained in the object alone but arises in the interaction between the pattern and the observer. Different observers may experience different responses, and none can be imposed as the 'correct' one. Art thrives through voluntary attention, honest expression, and the freedom to interpret without coercion.
+A created pattern intended to express, explore, or communicate something to others. It does not require beauty, approval, or agreement; its defining feature is the maker's intention to share a perception, feeling, idea, or experience. The meaning of art is not contained in the object alone but arises in the interaction between the pattern and the observer. Different observers may experience different responses, and no one can impose any as the 'correct' one. Art thrives through voluntary attention, honest expression, and the freedom to interpret without coercion.
 
 
 
@@ -92,8 +92,8 @@ The limit beyond which others may not act without consent. Boundaries apply to b
 
 Brand
 
-A recognizable pattern of signals -- name, design, reputation -- that carries accumulated trust from consistent voluntary exchange. A brand's real value is not the pattern itself but the trust it represents: the expectation that future trades will deliver value matching past experience. Brands are built through honest trade and lost through fraud or failure.
-Copying a brand's signals is not harmful by itself. The harm arises only when copied signals are used to deceive trade partners into believing they are dealing with the original. This is fraud: the injury is deception, not the reuse of a pattern. A brand requires no legal monopoly to thrive; it is protected by trust earned, value delivered, and prosecution of any deception that exploits its name.
+A recognizable pattern of signals -- name, design, reputation -- that carries accumulated trust from consistent voluntary exchange. A brand's real value is not the pattern itself but the trust it represents: the expectation that future trades will deliver value matching past experience. Honest trade builds brands; fraud or failure loses them.
+Copying a brand's signals is not harmful by itself. The harm arises only when someone uses copied signals to deceive trade partners into believing they are dealing with the original. This is fraud: the injury is deception, not the reuse of a pattern. A brand requires no legal monopoly to thrive; trust earned, value delivered, and prosecution of any deception that exploits its name protect it.
 
 
 
@@ -183,7 +183,7 @@ Recursive self-modeling within a pattern of change. Consciousness emerges when a
 
 Consent
 
-Freely agreeing to something without pressure, deception, or manipulation. True trade and deals require consent from all sides; without it, actions become theft or harm, which must be repaired through restitution.
+Freely agreeing to something without pressure, deception, or manipulation. True trade and deals require consent from all sides; without it, actions become theft or harm, which restitution must repair.
 
 
 
@@ -225,7 +225,7 @@ The drive to close the gap between a model and reality for its own sake -- to mo
 
 Currency
 
-Money that is widely accepted. Its value comes from trust in the issuer's promise, not from the material it is made of.
+Money that is widely accepted. Its value comes from trust in the issuer's promise, not from its material.
 
 
 
@@ -243,7 +243,7 @@ A voluntary agreement to exchange value. A deal is legitimate only when all side
 
 Debt
 
-What is owed when an IOU is given. Honest debt is voluntary. Forced debt is coercion.
+What an agent owes when they give an IOU. Honest debt is voluntary. Forced debt is coercion.
 
 
 
@@ -267,7 +267,7 @@ The commitment to act according to an intention.
 
 Democracy
 
-A group decision procedure where rules are chosen by voting. Vote cannot create consent; actions that violate boundaries still create victims even if supported by a majority.
+A group decision procedure where voting chooses the rules. Vote cannot create consent; actions that violate boundaries still create victims even if supported by a majority.
 
 
 
@@ -345,7 +345,7 @@ The process of producing outputs, including actions, that convey ideas or inform
 
 Faith
 
-Trust or commitment held under uncertainty, where the evidence does not, or cannot, settle the question. Faith can sustain hope, meaning, and resolve; on questions evidence cannot reach, it can be neither proven nor disproven. It becomes dangerous only when it closes itself to correction on questions evidence can settle, or when it is used to justify force, harm, or control over others.
+Trust or commitment held under uncertainty, where the evidence does not, or cannot, settle the question. Faith can sustain hope, meaning, and resolve; on questions evidence cannot reach, it can be neither proven nor disproven. It becomes dangerous only when it closes itself to correction on questions evidence can settle, or when someone uses it to justify force, harm, or control over others.
 
 
 
@@ -444,7 +444,7 @@ An organization claiming monopoly on force over a territory, using coercion like
 
 Guilt
 
-The moral debt created by causing harm to another against their will across an intact boundary; harm within a Forfeiture creates no guilt. Guilt exists objectively from causation, not from feelings, accusation, or confession, and is erased only through Justice.
+The moral debt created by causing harm to another against their will across an intact boundary; harm within a Forfeiture creates no guilt. Guilt exists objectively from causation, not from feelings, accusation, or confession, and only Justice erases it.
 
 
 
@@ -468,7 +468,7 @@ A structure where some claim power over others, often without consent. Hierarchi
 
 Idea
 
-A formed thought about how something is, could be, or should be. Ideas can be shared, tested, improved, or rejected through logic and experience.
+A formed thought about how something is, could be, or should be. Agents can share, test, improve, or reject ideas through logic and experience.
 
 
 
@@ -492,7 +492,7 @@ A single thinking agent capable of choice, consent, and responsibility.
 
 Infinite Change
 
-The timeless, endless flow of the universe where everything transforms without stop. Infinite change is the ontological foundation -- nothing stays the same, and from this flux, logic, natural laws, and all patterns self-emerge without creator or ruler. It shows why rigid controls fail: change cannot be forced still.
+The timeless, endless flow of the universe where everything transforms without stop. Infinite change is the ontological foundation -- nothing stays the same, and from this flux, logic, natural laws, and all patterns self-emerge without creator or ruler. It shows why rigid controls fail: nothing can force change still.
 
 
 
@@ -522,7 +522,7 @@ Information received from the environment.
 
 Intellectual Property
 
-Calling an idea "property" does not make it so. Property requires scarcity -- ideas can be shared without loss to the originator. Restricting others from using their own resources to reproduce a pattern is coercion, not protection. Patents, copyrights, and similar monopolies are granted by force, create artificial scarcity, and punish independent discovery. They reward lawyers and incumbents, not creators. Real innovation is protected by being first, being better, and being trusted -- not by threatening others with violence for using their own minds and materials.
+Calling an idea "property" does not make it so. Property requires scarcity -- agents can share ideas without loss to the originator. Restricting others from using their own resources to reproduce a pattern is coercion, not protection. Force grants patents, copyrights, and similar monopolies; they create artificial scarcity and punish independent discovery. They reward lawyers and incumbents, not creators. Being first, being better, and being trusted protect real innovation -- not threatening others with violence for using their own minds and materials.
 
 
 
