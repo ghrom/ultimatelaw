@@ -211,6 +211,12 @@ The ability to direct something. Control over oneself is natural; control over o
 
 
 
+Correlation
+
+A pattern in which two or more things change together more often than chance alone would produce. Correlation is evidence that a connection may exist; it is not the connection. Only Causation ties an effect to the agent whose action produced it, and only causation carries responsibility. Punishing on correlation -- membership, association, resemblance, statistics -- is punishing without causation, and it creates innocent victims, as in Collective Punishment. Models built on correlation may predict, but they explain nothing without the cause; a prediction that works is not yet understanding.
+
+
+
 Crime
 
 An action that harms someone who didn't want it across an intact boundary -- one under no Forfeiture -- creating a victim. No victim means no crime -- simple logic from the Golden Rule. Only Justice -- the victim's sovereign choice of collection or release -- erases the moral debt.
