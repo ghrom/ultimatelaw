@@ -53,14 +53,15 @@ These 7 words ARE in the ASD-STE100 approved dictionary, but this project uses t
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
-### 3b. Declared vocabulary (520 base words, 681 surface forms)
+### 3b. Declared vocabulary (535 base words, 704 surface forms)
 
 Each word below is declared with exactly one meaning, in STE style. Regular inflections and the listed forms belong to the base word. Some of these words STE lists as not approved for technical manuals (for example *cross*, *take*, *demand*, *kind*): they are declared here deliberately. STE rejects them because they are vague in maintenance text, and this dictionary cures that vagueness by definition instead of avoidance -- *take* has exactly one meaning here, and it is the thief's.
 
-#### Words of the moral doctrine (73)
+#### Words of the moral doctrine (75)
 
 | word | also used as | one meaning |
 |---|---|---|
+| **actor** |  | the agent who did the act |
 | **aggression** |  | a crossing of a boundary with force |
 | **aggressor** |  | an agent who crosses a boundary with force |
 | **atrocity** |  | a very large and cruel harm |
@@ -113,6 +114,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **reciprocal** |  | equal in two directions between agents |
 | **refusal** |  | the act that refuses |
 | **refuse** |  | to say no to a thing |
+| **renegotiation** |  | a new agreement about the terms, with consent from all sides |
 | **resistance** |  | force that answers a crossing, to stop it |
 | **respect** |  | attention to the boundaries and the choices of an agent |
 | **seize** |  | to take with force |
@@ -135,7 +137,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **voluntary** | voluntarily | chosen freely, without force, threat, or deception |
 | **wrong** |  | against the Law: it makes an unwilling victim |
 
-#### Words of mind and knowledge (75)
+#### Words of mind and knowledge (79)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -154,6 +156,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **concept** |  | an idea with a name and limits |
 | **confidence** |  | trust that a thing is true or will occur |
 | **conscious** |  | with consciousness |
+| **contradiction** | contradict, contradicts | two claims that cannot both be true |
 | **counterfactual** |  | about the things that could occur but did not |
 | **curious** |  | with curiosity |
 | **decide** | decides | to make a decision |
@@ -169,6 +172,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **expectation** |  | the condition of a mind that thinks that a thing will occur |
 | **experience** | experiences | the things that occur to an agent, as the agent feels them |
 | **explore** |  | to go into a thing that you do not know, to know it |
+| **falsifiable** | falsifiability | that evidence can show to be false |
 | **feelings** |  | plural of feeling: the felt conditions of the mind |
 | **focus** |  | the point where attention goes |
 | **guide** | guides | to show the direction |
@@ -203,6 +207,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **reflect** |  | to think about your own thoughts |
 | **regret** |  | pain about your own past choice |
 | **remember** |  | to hold in memory |
+| **resentment** |  | anger that stays about a past wrong |
 | **resolve** |  | a firm decision to continue |
 | **shortcut** |  | a quick path of the mind that does not examine |
 | **sight** |  | the capacity to see |
@@ -213,9 +218,10 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **uncertainty** |  | the condition in which knowledge is not sufficient to decide |
 | **unconscious** |  | without awareness, but active in the mind |
 | **verify** |  | to make sure that a thing is true |
+| **willingness** |  | the condition of an agent who agrees to act |
 | **wisdom** |  | good judgment from knowledge and experience |
 
-#### Words of speech and truth (34)
+#### Words of speech and truth (37)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -237,12 +243,15 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **express** |  | to put a thought into signals |
 | **false** |  | not in agreement with reality |
 | **hide** | hides, hidden | to keep out of sight |
+| **honest** | honesty, honestly | that says the truth and hides no part of it |
 | **identification** |  | the act that identifies |
 | **insist** |  | to state again with force |
 | **language** |  | the shared system of signals that persons speak and write |
 | **obscure** |  | to make hard to see or to know |
 | **promise** | promises | a statement that binds its maker to a future act |
 | **reference** |  | words that point at a thing |
+| **refute** |  | to show with logic or evidence that a claim is false |
+| **rule** | rules | a statement that says what agents must do or must not do |
 | **say** | says, said | to make words |
 | **sentence** |  | a complete unit of words, or the punishment that a judgment states |
 | **speakers** |  | plural of speaker: persons who speak |
@@ -309,7 +318,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **unborn** |  | not yet born |
 | **young** |  | early in life |
 
-#### Words of society and economy (55)
+#### Words of society and economy (58)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -317,6 +326,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **borders** |  | plural of border: the lines that states draw around territory |
 | **buy** |  | to get a thing for money |
 | **competitors** |  | plural of competitor: agents who compete for the same trade |
+| **conquest** |  | a full win over a thing that stood against you |
 | **consumer** | consumers | a person who uses goods or services |
 | **cooperation** |  | work that agents do together, freely |
 | **copyrights** |  | plural of copyright: a legal monopoly on copies of a pattern |
@@ -328,6 +338,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **gain** |  | an increase of value |
 | **game** | games | a voluntary activity with rules and a goal |
 | **goal** |  | the result that an agent tries to reach |
+| **god** |  | a being that believers put above nature |
 | **ideology** |  | a system of ideas about how society must be |
 | **innovate** | innovates | to make new methods or tools |
 | **innovator** |  | a person who makes new methods or tools |
@@ -351,6 +362,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **pressure** |  | force of any type that pushes an agent to act |
 | **private** |  | of one agent, not of all |
 | **product** |  | the thing that a process makes |
+| **prophet** |  | a person who claims to speak for a god |
 | **provider** |  | an agent who gives goods or services |
 | **public** |  | open to all persons |
 | **redistribute** | redistribution | to take value from some persons and give it to other persons |
@@ -369,7 +381,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **wealth** |  | the total value that agents made and hold |
 | **weapon** |  | a tool made to harm |
 
-#### Words of the world and nature (31)
+#### Words of the world and nature (32)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -398,6 +410,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **physics** | physical | the science of matter, energy, and motion |
 | **raw** |  | in its first condition, without work on it |
 | **red** |  | the color of blood |
+| **relation** | relations, relationship | the manner in which two things stand to each other |
 | **road** |  | a path that persons made to move on |
 | **scale** |  | the size of a thing against other things |
 | **science** |  | knowledge from tests and models that match reality |
@@ -477,10 +490,11 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **watch** | watches | to look at with continued attention |
 | **win** | wins, won | to get the result in a competition |
 
-#### Words of quality, quantity, and manner (98)
+#### Words of quality, quantity, and manner (100)
 
 | word | also used as | one meaning |
 |---|---|---|
+| **absence** |  | the condition in which a thing is not there |
 | **abstract** |  | in ideas, not in physical things |
 | **absurdity** |  | a claim that logic cannot hold |
 | **abundance** |  | much more than necessary |
@@ -490,6 +504,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **balance** | balanced | the condition in which the sides are equal |
 | **blind** |  | without sight; without attention to differences |
 | **chance** |  | the part of events that no known cause directs |
+| **coherent** |  | with parts that agree, without contradiction |
 | **conclusion** |  | the statement that follows from the reasons |
 | **conditional** |  | true or given only in a condition |
 | **constraint** | constraints | a limit on the possible actions |
@@ -639,11 +654,11 @@ Measured on the finished rendering (all 192 entries, Law excluded as verbatim an
 - the 192 terms and their word family: **3249** tokens = **26.3%**
 - declared extension vocabulary: **1834** tokens = **14.8%**
 - distinct approved base words used: **283** of the approximately 875 in Issue 9
-- added words: **520** base words (**681** surface forms) + the **192** terms
+- added words: **535** base words (**704** surface forms) + the **192** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 
-Read together: about 59% of the running text is carried by the aerospace vocabulary itself; the remaining 41% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 520 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
+Read together: about 59% of the running text is carried by the aerospace vocabulary itself; the remaining 41% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 535 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
 
 ---
 
