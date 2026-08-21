@@ -191,8 +191,8 @@ Evidence
 Evidence is information that increases or decreases the probability that a claim is true.
 
 Evil
-An action is evil if it makes harm to unwilling victims, because it overrides consent through force, threat, deception, or fraud. Evil is in these actions: to violate boundaries, or to push costs onto other agents. Evil is also in this: to use power for the profit of an agent or a group at the cost of innocent agents. Intentions, beliefs, votes, traditions, or claimed necessity do not remove evil when a victim exists.
-But harm in a Forfeiture makes no victim and is not evil. Evil is not a quality of persons or ideas. Evil is a quality of actions that break reciprocity and cause suffering that no one chose.
+An action is evil if it makes harm to unwilling victims, because it overrides consent through force, threat, deception, or fraud. Evil is in these actions: to violate boundaries, or to push costs onto other agents. Evil is also in this: to use power for the profit of an agent or a group at the cost of innocent agents.
+Intentions, beliefs, votes, traditions, or claimed necessity do not remove evil when a victim exists. But harm in a Forfeiture makes no victim and is not evil. Evil is not a quality of persons or ideas. Evil is a quality of actions that break reciprocity and cause suffering that no one chose.
 
 Exchange
 An exchange is a mutual gift between persons: each side gives to the other. An exchange stops as a real exchange at the moment when force or deception enters.
