@@ -113,11 +113,13 @@ Consequence
 A consequence is the result that follows from an action. Just consequences connect to the harm that the action really caused, not to intention, status, or power.
 
 Contract
-A contract is a voluntary agreement that makes clear expectations about actions or results.
+A contract is a voluntary agreement that transfers Ownership of a scarce thing from one agent to a different agent. The transfer occurs now, or on a stated condition. A contract moves property. It does not bind the will. A promise alone transfers no thing, and it makes no debt. This is true also when a different agent trusted it.
+Persons can enforce a contract because ownership moved: the thing is now the property of the receiver, and to keep it back is Theft. A transfer can wait on a condition, for example money when the thing arrives, or a set transfer of value on failure. The parties can set each condition to which they both consent. Labor cannot be the thing that a contract transfers, because no agent can transfer their will, as Self-Ownership shows. Thus a contract for a Service transfers money when the agent completes the work, and it does not transfer the person. An agent who does not do the work does not earn the money.
 
 Contract Breach
-A contract breach is a failure to obey terms that a person voluntarily agreed to in a Contract. A breach makes a victim: the party who trusted the agreement and received damage from its violation. The party who broke the terms owes Restitution for the damage that they caused.
-A breach is not renegotiation. Renegotiation requires consent from all parties. A breach is one-sided. If a breach causes no damage, there is no victim, and thus there is no claim.
+A contract breach is to keep back a thing that a Contract transferred to a different agent. The party who broke the contract keeps property that is now the property of a different person. Thus a breach is a type of Theft, and the owner is the victim. The repair is Restitution: give back the property, or its value, together with each transfer that the contract set for a failure.
+A breach is not a broken promise. A promise alone transfers no thing. A breach is not renegotiation. Renegotiation requires consent from all parties. A breach is one-sided.
+If no thing moved, there is no breach. An agent who does not do an agreed Service took no thing, and only the money does not move. If no person lost property, there is no victim, and thus there is no claim.
 
 Control
 Control is the capacity to give direction to a thing. Control of the self is natural. Control of other agents requires their consent, or it becomes coercion.
@@ -136,7 +138,7 @@ That is a rich world, full of surprises, full of other minds that it cannot full
 A rich world feeds curiosity, and that food is one of the keys to Happiness. Curiosity in a dead world is hunger with no food.
 
 Currency
-Currency is money that persons widely accept. The value of currency comes from trust in the promise of its issuer, not from its material.
+Currency is money that persons widely accept. Its value comes from trust that the issuer will give the value that the money names, not from its material. An issuer who cannot give the value holds the property of the owners without consent, as in Theft. If the issuer at no time could give it, or did not show that fact, that is Fraud. If authority commands persons to accept a currency, that adds no value. It only adds victims.
 
 Damage
 Damage is a negative change to the body, the property, or the freedom of a person, a change that they did not agree to. Damage is the material quantity of the loss: the part that Restitution repairs. Unwanted damage to an agent is harm, and harm makes victims.
@@ -145,7 +147,7 @@ Deal
 A deal is a voluntary agreement to exchange value. A deal is legitimate only when all sides consent and obey the truth.
 
 Debt
-A debt is the value that an agent owes when they give an IOU. Honest debt is voluntary. Forced debt is coercion.
+A debt is property that is now the property of a different agent, but that stays with the agent who owes it. A Contract or an IOU transferred the value, for a future date. Honest debt is voluntary: the agent who owes consented to the transfer, and holds the property of the holder until the agreed date. To refuse the value when the date comes is Theft of the property of the holder, and Restitution follows. A debt that authority, a vote, or a claim of necessity commands, without consent, is not debt. It is Coercion, and no person owes it.
 
 Decentralized Knowledge
 Decentralized knowledge is the idea that no one person or group can know all that other persons require, want, or can do. Persons know their own lives best. Thus central plans, as in socialism, fail, because they ignore this wisdom that lives in many minds.
@@ -318,7 +320,8 @@ Intention
 An intention is a planned direction for action. Intention is important when we try to know why an agent acted. But intention does not erase harm that the agent already caused.
 
 IOU
-An IOU is a promise to give value later. The trust behind an IOU is its only strength. To break an IOU without cause is fraud.
+An IOU is a transfer of Ownership of value that the issuer will give at a future date. The holder owns the value from the start. The issuer only keeps the value until the agreed date. The trust behind an IOU is its only strength, because only trust makes the issuer give the value when the date comes. To keep the value after the agreed date is Theft, because the issuer then holds the property of the holder.
+It is Fraud only if the issuer had no intention to give the value. It is also Fraud if the issuer did not show the facts that made the transfer not possible.
 
 Judge
 A judge is an agent who discovers proven facts, and who states how Law applies to those facts. A Judge does not make Law, guilt, Justice, responsibility, or status. These follow from facts and Law. The authority of the statement of a Judge comes only from its correct application of Law. A statement that contradicts evidence or logic is Error, without attention to who made it.
@@ -358,8 +361,8 @@ Liberty
 Liberty is the natural condition of freedom in which individuals act, own, and trade without harm or force from other agents. Liberty emerges from infinite change and logic, and the Golden Rule protects it. Each decrease of liberty, for example through authority or socialism, makes victims, and justice must make liberty whole again.
 
 License
-A license is a voluntary agreement about use. In the agreement, the maker or owner of a thing gives a different person permission to use that thing, in specified terms. A license is a type of Contract: it requires consent, clear terms, and honest action from both sides. To violate the terms of a license is Contract Breach.
-That breach makes a victim, and the violator owes that victim Restitution. A license that a person gave in duress, or with hidden terms, is invalid. A license that authority commands, without agreement between trade partners, is regulation, not a real license.
+A license is a Contract in which an owner transfers the use of their thing to a different agent, in stated conditions. The receiver gets the thing, or a copy, together with the conditions. If the receiver goes past the conditions, the result that the license set follows. That result can be to give back the thing, to transfer value, or to lose the use. That is Contract Breach, and the owner is the victim.
+A license binds only the persons who agreed to it. It makes no property in ideas. It does not apply to a third party who did not consent, as the entry on intellectual property shows. A license that a person gave in duress, or with hidden terms, is invalid. A license that authority commands, without agreement between trade partners, is Regulation, not a real license.
 
 Lie / Lying
 A lie is a statement that its maker knows is false, made to deceive a person. A lie harms voluntary trade and trust, because it prevents persons from knowledge of the things that they really agree to.
@@ -397,7 +400,7 @@ Model
 A model is a simple idea of how something functions. Agents use models to know, to explain, or to predict the thing. A model is not reality. A model is judged by the match between its predictions and the events that really occur.
 
 Money
-Money is an IOU that agents can trade. Money is a promise of value.
+Money is an IOU that agents can trade. It is a claim of ownership of value that the issuer will give at a future date, and agents can transfer the claim. The holder owns the value that the money names. The issuer keeps only the duty to give it. Money is not a promise, because a promise transfers no thing. Money is ownership that moves from agent to agent, and each trade moves the ownership.
 
 Monopoly
 A monopoly is exclusive control of a trade or a resource. Frequently authority enforces it, and the holder did not earn it through better value. True monopolies violate free trade and make artificial scarcity. They harm consumers without consent. In logic, monopolies dissolve through competition, unless coercion supports them.
@@ -416,7 +419,8 @@ Nomocracy
 Nomocracy is rule by law, where the law comes from logic and reciprocity, not from the will of rulers or groups. In a nomocracy, only rules that prevent or repair real harm are legitimate. No agent and no authority stands above the law.
 
 Obligation
-An obligation is a duty that an agent freely accepted by agreement. Obligations that force made are not real obligations.
+An obligation is a thing that an agent must answer for. There are only two sources. One is property that the agent transferred to a different agent, but has not given yet. The other is Restitution for harm that the agent caused. No other source exists.
+A promise alone makes no obligation, because a promise transfers no thing. A Contract makes an obligation only as far as ownership moved. Duties that force, a vote, or a claim of necessity command are not obligations. They are Coercion.
 
 Outlaw
 An outlaw is an agent with guilt that no one can close. The outlaw destroyed the victim who held the sovereign power to close the debt. The typical cause is murder. The claim of the outlaw to the protection of the Golden Rule is lost: the action of the outlaw showed that they reject reciprocity.
@@ -426,7 +430,9 @@ Output
 An output is information or an action that an agent sends into the environment.
 
 Ownership
-Ownership is the relation between an agent and their body, their actions, or the property that they got without harm to other agents. Ownership gives exclusive control. It obligates other agents to obey that control, unless the owner gives consent.
+Ownership is the relation between an agent and a scarce thing, in which the agent holds the exclusive right of control. Ownership starts with the body, as Self-Ownership shows. Only two events give ownership of other things. One is first use of a thing that no agent owned. The other is voluntary transfer from the owner before.
+To make a thing does not make ownership. If you change the form of a thing that you own, it stays yours. If you change the form of a thing that a different agent owns, it stays theirs, and your labor does not change that.
+Ownership gives exclusive control. It obligates all other agents to keep out, unless the owner gives consent.
 
 Pain
 Pain is an unpleasant physical or mental experience that damage, or the threat of damage, causes. Pain signals harm that occurs now, or harm that will occur soon.
@@ -475,7 +481,8 @@ Profit
 Profit is the positive value that an agent gets from a voluntary trade or from innovation, after the agent counts the costs and the scarcity. Profit acts as an incentive. It signals success: the agent met the wants of other persons without force. Systems of coercion ignore profit, and that causes waste and error.
 
 Property
-Property is the things that you own. Property starts with your body, and extends to the things that you make or exchange. To steal property is harm. You alone control it: that follows from natural rights, from logic.
+Property is the scarce things that you own. Property starts with your body. It extends to each thing that you were the first to use when no agent owned it, or that you got by voluntary transfer. Only scarcity makes a thing property: two agents cannot use the same thing at the same time. Thus one agent must have the control, and first use or transfer shows which agent. To make a thing alone gives no ownership.
+To share an idea loses no thing, and a thing that you made from the material of a different agent stays theirs. To steal property is harm. You alone control it: that follows from natural rights, from logic.
 
 Proportion
 Punishment can rise until it is equal to the full harm that an act really causes, consequences included, and no more. The measure is the harm that the act did, not the thing that the offender took. The ceiling for a thief is the loss of all the property of the thief. Because the thief took the property of a different agent, the thief loses the protection of their own property. When a theft goes sufficiently deep to cost lives, because the theft removed resources until persons died, the harm is death. Then death becomes the ceiling in proportion.

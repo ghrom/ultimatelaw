@@ -53,7 +53,7 @@ These 7 words ARE in the ASD-STE100 approved dictionary, but this project uses t
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
-### 3b. Declared vocabulary (535 base words, 704 surface forms)
+### 3b. Declared vocabulary (536 base words, 705 surface forms)
 
 Each word below is declared with exactly one meaning, in STE style. Regular inflections and the listed forms belong to the base word. Some of these words STE lists as not approved for technical manuals (for example *cross*, *take*, *demand*, *kind*): they are declared here deliberately. STE rejects them because they are vague in maintenance text, and this dictionary cures that vagueness by definition instead of avoidance -- *take* has exactly one meaning here, and it is the thief's.
 
@@ -248,7 +248,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **insist** |  | to state again with force |
 | **language** |  | the shared system of signals that persons speak and write |
 | **obscure** |  | to make hard to see or to know |
-| **promise** | promises | a statement that binds its maker to a future act |
+| **promise** | promises | a statement about a future act, which by itself transfers no thing |
 | **reference** |  | words that point at a thing |
 | **refute** |  | to show with logic or evidence that a claim is false |
 | **rule** | rules | a statement that says what agents must do or must not do |
@@ -490,7 +490,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **watch** | watches | to look at with continued attention |
 | **win** | wins, won | to get the result in a competition |
 
-#### Words of quality, quantity, and manner (100)
+#### Words of quality, quantity, and manner (101)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -569,6 +569,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **response** | responses | the change that follows a signal or an act |
 | **responsible** |  | connected by causation to an effect, and thus with the duty for it |
 | **rich** | richer | with much value or much content |
+| **scarce** |  | in short supply: two agents cannot use it at the same time |
 | **simple** |  | with few parts |
 | **simplicity** |  | the condition of a simple thing |
 | **single** |  | one only |
@@ -648,17 +649,17 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 Measured on the finished rendering (all 192 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **12366**
-- from the ASD-STE100 approved vocabulary: **6890** tokens = **55.7%**
-- the 7 overridden approved words: **393** tokens = **3.2%**
-- the 192 terms and their word family: **3249** tokens = **26.3%**
-- declared extension vocabulary: **1834** tokens = **14.8%**
-- distinct approved base words used: **283** of the approximately 875 in Issue 9
-- added words: **535** base words (**704** surface forms) + the **192** terms
+- STE prose tokens: **13123**
+- from the ASD-STE100 approved vocabulary: **7385** tokens = **56.3%**
+- the 7 overridden approved words: **442** tokens = **3.4%**
+- the 192 terms and their word family: **3348** tokens = **25.5%**
+- declared extension vocabulary: **1948** tokens = **14.8%**
+- distinct approved base words used: **287** of the approximately 875 in Issue 9
+- added words: **536** base words (**705** surface forms) + the **192** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 
-Read together: about 59% of the running text is carried by the aerospace vocabulary itself; the remaining 41% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 535 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
+Read together: about 60% of the running text is carried by the aerospace vocabulary itself; the remaining 40% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 536 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
 
 ---
 

@@ -195,13 +195,13 @@ What follows from an action. Just consequences are tied to harm actually caused,
 
 Contract
 
-A voluntary agreement that creates clear expectations about actions or outcomes.
+A voluntary agreement that transfers Ownership of something scarce from one agent to another, now or on a stated condition. A contract moves property; it does not bind the will. A bare promise transfers nothing and creates no debt, however much another relied on it. A contract is enforceable because ownership has already passed: the thing now belongs to the receiver, and holding it back is Theft. Transfers may wait on a condition -- payment on delivery, a penalty on failure -- and the parties may set any condition they both consent to. Labor cannot transfer this way, because the will is inalienable under Self-Ownership. A contract for a Service therefore transfers money on performance, never the person; an agent who does not perform simply does not earn it.
 
 
 
 Contract Breach
 
-The failure to fulfill terms voluntarily agreed to in a Contract. A breach creates a victim -- the party who relied on the agreement and suffered damage from its violation. The breaching party owes Restitution for the damage caused. A breach is not renegotiation; renegotiation requires consent from all parties, while breach is unilateral. If no damage results from a breach, there is no victim and therefore no claim.
+Holding back what a Contract has already transferred to another. The breaching party keeps property that now belongs to someone else, so breach is a form of Theft, and the owner is the victim. The remedy is Restitution: return the property, or its value, together with any conditional transfer the contract set for the case of failure. A breach is not a broken promise; promises as such transfer nothing. Nor is it renegotiation, which requires consent from all parties, while breach is unilateral. Where nothing has transferred, there is no breach: an agent who declines to perform a Service has taken nothing, and only the payment fails to pass. If no one lost property, there is no victim and therefore no claim.
 
 
 
@@ -231,7 +231,7 @@ The drive to close the gap between a model and reality for its own sake -- to mo
 
 Currency
 
-Money that is widely accepted. Its value comes from trust in the issuer's promise, not from its material.
+Money that is widely accepted. Its value comes from trust that the issuer will deliver what the title names, not from its material. An issuer who cannot deliver holds the owners' property without consent, as in Theft; an issuer who never could, or hid that fact, committed Fraud. Forcing acceptance by authority adds no value to a currency -- it only adds victims.
 
 
 
@@ -249,7 +249,7 @@ A voluntary agreement to exchange value. A deal is legitimate only when all side
 
 Debt
 
-What an agent owes when they give an IOU. Honest debt is voluntary. Forced debt is coercion.
+Property that already belongs to another but still sits in the debtor's hands -- value a Contract or an IOU has transferred for delivery later. Honest debt is voluntary: the debtor consented to the transfer and holds the creditor's property in trust until the due date. Refusing to deliver when due is Theft of what the creditor owns, and Restitution follows. A debt imposed without consent -- by authority, vote, or claimed need -- is not debt but Coercion, and no one owes it.
 
 
 
@@ -546,7 +546,7 @@ A planned direction for action. Intention matters for understanding why an agent
 
 IOU
 
-A promise to deliver value later. Only as good as the trust behind it. Breaking an IOU without cause is fraud.
+A transfer of Ownership over value that the issuer will deliver later. The holder already owns what the IOU names; the issuer keeps possession only until the due date. An IOU is worth exactly the Trust behind it, because trust is the only thing that makes a future delivery likely. Failing to deliver when due is Theft, since the issuer now holds the owner's property. It is Fraud only when the issuer never intended to deliver, or hid the facts that made delivery impossible.
 
 
 
@@ -614,7 +614,7 @@ The natural state of freedom where individuals act, own, and trade without harm 
 
 License
 
-A voluntary agreement in which the creator or owner of something grants another permission to use it under specified terms. A license is a form of Contract: it requires consent, clear terms, and honest dealing from both sides. Violating a license's terms is Contract Breach, creating a victim whom the violator owes Restitution. A license granted under duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is regulation, not a real license.
+A Contract in which an owner transfers to another the use of something they own, on stated conditions. The licensee receives the thing, or a copy, together with the conditions; exceeding them triggers whatever the license set for that case -- return, payment, or loss of the use. That is Contract Breach, and the owner is the victim. A license binds only those who agreed to it; it creates no property in ideas and reaches no third party who never consented, as the entry on intellectual property explains. A license granted under Duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is Regulation, not a real license.
 
 
 
@@ -680,7 +680,7 @@ A simplified idea of how something works, used to understand, explain, or predic
 
 Money
 
-An IOU that agents can trade. A promise of value.
+An IOU that agents can trade: a transferable claim of ownership over value that the issuer will deliver later. Whoever holds it owns what it names; the issuer keeps only the duty to deliver. Money is not a promise, because a promise transfers nothing. It is title that moves from hand to hand, and each trade moves the title with it.
 
 
 
@@ -716,7 +716,7 @@ Rule by law derived from logic and reciprocity, not by the will of rulers or gro
 
 Obligation
 
-A duty freely accepted by agreement. Obligations created by force are not real obligations.
+What an agent must answer for: property already transferred to another and not yet delivered, or Restitution for harm they caused. No other source exists. A bare promise creates none, since promising transfers nothing; a Contract creates one exactly as far as ownership has passed. Duties imposed by force, vote, or claimed need are not obligations but Coercion.
 
 
 
@@ -734,7 +734,7 @@ Information or action sent into the environment.
 
 Ownership
 
-The relationship between an agent and their body, actions, or property acquired without harming others. Ownership gives exclusive control and makes others bound to respect it unless the owner gives consent.
+The relationship between an agent and a scarce thing over which they hold the exclusive right of control. It begins with the body, under Self-Ownership, and reaches other things in only two ways: first use of something no one owned, or voluntary transfer from a prior owner. Creating a thing does not create ownership. Shaping what you own leaves it yours; shaping what another owns leaves it theirs, whatever labor you added. Ownership gives exclusive control, and it binds everyone else to keep out unless the owner consents.
 
 
 
@@ -824,7 +824,7 @@ The positive value gained from a voluntary trade or innovation after accounting 
 
 Property
 
-Things you own, starting with your body and extending to what you create or exchange. Stealing it is harm; you're the sole boss of it, as per natural rights from logic.
+Scarce things you own, starting with your body and extending to whatever you first took into use when no one owned it, or received by voluntary transfer. Only scarcity makes something property: two agents cannot both use the same thing at once, so someone must decide, and first use or transfer says who. Creation alone confers nothing. Sharing an idea loses nothing, and a thing shaped from another's material stays theirs. Stealing property is harm; you're the sole boss of it, as per natural rights from logic.
 
 
 
