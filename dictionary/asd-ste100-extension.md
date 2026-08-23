@@ -649,10 +649,10 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 Measured on the finished rendering (all 192 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **13123**
-- from the ASD-STE100 approved vocabulary: **7385** tokens = **56.3%**
-- the 7 overridden approved words: **442** tokens = **3.4%**
-- the 192 terms and their word family: **3348** tokens = **25.5%**
+- STE prose tokens: **13138**
+- from the ASD-STE100 approved vocabulary: **7399** tokens = **56.3%**
+- the 7 overridden approved words: **446** tokens = **3.4%**
+- the 192 terms and their word family: **3345** tokens = **25.5%**
 - declared extension vocabulary: **1948** tokens = **14.8%**
 - distinct approved base words used: **287** of the approximately 875 in Issue 9
 - added words: **536** base words (**705** surface forms) + the **192** terms
