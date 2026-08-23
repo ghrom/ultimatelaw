@@ -126,7 +126,7 @@ dictionary_terms = {
     "Restitution": "Returning stolen value or compensating for harm done. Restitution erases debt caused by wrongdoing.",
     "Rights": "Boundaries that protect an agent's ability to act without being harmed or controlled by others. Rights emerge from logic and the Golden Rule. Rights are not granted by authority or votes -- they are timeless and self-evident.",
     "Safety": "The condition in which an agent's boundaries are not under credible threat of violation. Safety is the absence of credible harm, not the absence of risk, discomfort, disagreement, or uncertainty. Invoking 'safety' to justify coercion without an identifiable victim inverts the concept.",
-    "Self-Ownership": "The foundational right to control one's own body, mind, and actions without interference. From this emerges all property and freedom; denying it justifies slavery or coercion.",
+    "Self-Ownership": "The foundational right to control one's own body, mind, and actions without interference. From this emerges the boundary -- the body is the first boundary -- and with it all property and freedom; denying it justifies slavery or coercion.",
     "Socialism": "A system that promises fairness but uses force to take and redistribute without consent. It ignores scarcity, incentives, and decentralized knowledge, always leading to control, lies, and collapse. Morally wrong because it breaks reciprocity and creates victims through coercion.",
     "Theft": "Taking what belongs to another without consent, whether by physical force, taxes, or seizures by claimed authority. No moral excuse like need, votes, or tradition makes it legitimate.",
     "Trade": "Voluntary swap of value between people. Must be free, honest, and without harm.",

@@ -945,7 +945,7 @@ Self-defense is not punishment, revenge, deterrence, or Justice. It stops harm i
 
 Self-Ownership
 
-The foundational right to control one's own body, mind, and actions without interference. From this emerges all property and freedom; denying it justifies slavery or coercion, violating the Golden Rule and creating victims.
+The foundational right to control one's own body, mind, and actions without interference. From this emerges the boundary -- the body is the first boundary -- and with it all property and freedom; denying it justifies slavery or coercion, violating the Golden Rule and creating victims.
 
 
 
