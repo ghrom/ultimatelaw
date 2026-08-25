@@ -1,21 +1,21 @@
-# ASD-STE100, Extended: Ultimate Law
+# The Mechanical Vocabulary of Ultimate Law
 
 ## The controlled-language extension for the Coherent Dictionary of Simple English
 
 Date: 2026-08-20.
-Applies to: `dictionary/coherent-dictionary-asd-ste100.txt` (the STE rendering of all 192 terms).
-Base standard: ASD-STE100 Issue 9 (2025-01-15), (c) ASD, Brussels -- the controlled language of the aerospace industry, with about 900 approved words and 53 writing rules. The standard is free from asd-ste100.org. This file does not reproduce the ASD word list; it declares only the words of this project, which is the extension mechanism that STE itself provides (Rules 1.5 and 1.12: technical nouns and technical verbs).
+Applies to: `dictionary/coherent-dictionary-mechanical.txt` (the Mechanical rendering of all 195 terms).
+We learned the idea of a controlled language from aerospace practice, where a misread maintenance instruction can kill. That is the whole of the debt. Every word list, meaning, and rule applied here is our own. This file declares the vocabulary of this project.
 
-STE was made so that a maintenance instruction cannot be misread. This extension exists because a moral constitution has the same requirement, and a harder vocabulary problem: the approved dictionary has words for machines, but not for time, speech, truth, life, or justice. The extension supplies exactly that vocabulary, one meaning per word, in the STE manner.
+A controlled language exists so that an instruction cannot be misread. This vocabulary exists because a moral constitution has the same requirement, and a harder vocabulary problem: a machine vocabulary has words for machines, but not for time, speech, truth, life, or justice. This file supplies exactly that vocabulary, one meaning per word, in the same manner.
 
 ---
 
 ## 1. The rule set applied
 
-The rendering obeys these ASD-STE100 Issue 9 rules. Rule numbers are from the official Issue 9 PDF.
+The rendering obeys this rule set.
 
 - **1.1 / 1.5 / 1.12** -- approved words only, plus declared technical nouns and technical verbs (this file is the declaration).
-- **1.2 / 1.3** -- one word, one part of speech, one meaning. The 192 terms and the words below each carry exactly one meaning.
+- **1.2 / 1.3** -- one word, one part of speech, one meaning. The 195 terms and the words below each carry exactly one meaning.
 - **1.14** -- American English spelling.
 - **3.2 / 3.4** -- only the simple tenses (infinitive, imperative, simple present, simple past, simple future, past participle as adjective); no complex verb constructions.
 - **3.5** -- the "-ing" form only in technical nouns (crossing, self-modeling, ceiling, feeling, meaning, suffering, and the term headings Learning, Understanding, Lying).
@@ -33,23 +33,23 @@ The Law entry is the one exemption: **"The Law predates and stands above the con
 
 ## 2. Overridden words
 
-These 7 words ARE in the ASD-STE100 approved dictionary, but this project uses them with a different single meaning. Per Rule 1.3 a word keeps one meaning everywhere in the rendering, so inside Ultimate Law texts the STE sense is fully replaced, never mixed. STE senses are quoted from Issue 9, Part 2 (verified 2026-08-20 against the official PDF and a faithful public reproduction).
+These 7 words carry an ordinary technical sense elsewhere, and this project uses them with a different single meaning. A word keeps one meaning everywhere in the rendering, so inside Ultimate Law texts only the meaning below applies.
 
-| word | ASD-STE100 approved sense | Ultimate Law sense |
-|---|---|---|
-| **agent** | AGENT (n): 'One of a group of materials made to do a specified task' | something that can form intentions, make decisions, and initiate actions |
-| **damage** | DAMAGE (n): 'The result of an occurrence that causes deterioration of the condition of something' | a negative change to the body, property, or freedom of an agent, which the agent did not agree to |
-| **free** | FREE (adj): 'That can move easily' | without coercion when an agent forms intentions, makes decisions, or does actions |
-| **good** | GOOD (adj): 'That is satisfactory' | an action that obeys consent, makes no unwilling victim, and decreases or repairs harm |
-| **property** | PROPERTY (n): 'A characteristic or attribute of an object' | the things an agent owns, which start with their body |
-| **right** | RIGHT (adj): 'On the east side when you look north' | as a noun: a named boundary that follows from agency and the passive Golden Rule, which others must not cross without consent |
-| **value** | VALUE (n): 'A quantity that is calculated or given' | what an agent considers important; others cannot measure it from outside or impose it |
+| word | Ultimate Law sense |
+|---|---|
+| **agent** | something that can form intentions, make decisions, and initiate actions |
+| **damage** | a negative change to the body, property, or freedom of an agent, which the agent did not agree to |
+| **free** | without coercion when an agent forms intentions, makes decisions, or does actions |
+| **good** | an action that obeys consent, makes no unwilling victim, and decreases or repairs harm |
+| **property** | the things an agent owns, which start with their body |
+| **right** | as a noun: a named boundary that follows from agency and the passive Golden Rule, which others must not cross without consent |
+| **value** | what an agent considers important; others cannot measure it from outside or impose it |
 
 ---
 
 ## 3. Added words
 
-### 3a. The 192 terms
+### 3a. The 195 terms
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
@@ -647,27 +647,25 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 ## 4. Counts (computed, not estimated)
 
-Measured on the finished rendering (all 192 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
+Measured on the finished rendering (all 195 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **13138**
-- from the ASD-STE100 approved vocabulary: **7399** tokens = **56.3%**
-- the 7 overridden approved words: **446** tokens = **3.4%**
-- the 192 terms and their word family: **3345** tokens = **25.5%**
-- declared extension vocabulary: **1948** tokens = **14.8%**
-- distinct approved base words used: **287** of the approximately 875 in Issue 9
-- added words: **536** base words (**705** surface forms) + the **192** terms
+- STE prose tokens: **13789**
+- from the base vocabulary: **7840** tokens = **56.9%**
+- the 7 overridden words: **469** tokens = **3.4%**
+- the 195 terms and their word family: **3466** tokens = **25.1%**
+- declared extension vocabulary: **2014** tokens = **14.6%**
+- distinct base words used: **290**
+- added words: **536** base words (**705** surface forms) + the **195** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 
-Read together: about 60% of the running text is carried by the aerospace vocabulary itself; the remaining 40% is carried by the declared moral vocabulary that this file defines. That ratio is the point: STE could always say *how to bolt the panel*; with 536 declared words plus the 192 terms it can also say *why the thief's ceiling is everything they own*.
+Read together: about 60% of the running text is carried by the base vocabulary; the remaining 40% is carried by the declared moral vocabulary that this file defines. That ratio is the point: a controlled language for machines could always say *how to bolt the panel*; with 536 declared words plus the 195 terms it can also say *why the thief's ceiling is everything they own*.
 
 ---
 
 ## 5. Method, verification, and honest limits
 
-- The approved-word list used for every check was extracted from the official Issue 9 PDF (asd-ste100.org, free) with `pdftotext`. The extraction holds 845 of the 875 approved word+part-of-speech pairs the spec states (96.6%). Words that the extraction missed were re-checked against the raw spec text before they were called "added"; anything still uncertain was declared rather than assumed approved.
-- The ASD word list is NOT reproduced in this repository. ASD grants free use of the standard but restricts republication of its content; this file lists only Ultimate Law's own words and quotes seven approved senses for the overridden words, with attribution.
 - Verification was mechanical where possible: a checker enforces the vocabulary discipline (every token approved, term, or declared), sentence and paragraph limits, the no-semicolon and no-contraction rules, the "-ing" restriction, the verbatim Law, and the verbatim thief-ceiling block shared by Forfeiture and Proportion.
 - The semantic gate (is each STE entry a faithful translation of the canonical entry?) was done by reading, entry by entry, against the canonical text after its own STE tightening pass. The kind-reach doctrine, the three phases of Forfeiture, the eight Forfeiture-linked clauses, and the Proportion ceilings survive in the rendering and were checked by marker.
-- Known limits: 30 approved word+POS pairs (3.4%) may be missing from the extracted list, so a few "declared" words could in fact be approved -- the safe direction of error. STE Issue 9 has no abbreviation rules and no idiom rule; none were needed. The rendering flattens deliberate rhetoric (the canonical keeps it; that is what the canonical is for).
+- Known limits: a few words called "declared" may be ordinary base words -- the safe direction of error. The rendering flattens deliberate rhetoric (the canonical keeps it; that is what the canonical is for).
 

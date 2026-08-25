@@ -121,6 +121,12 @@ A decision made freely, without force, threats, or lies. Without choice, respons
 
 
 
+Circumstances
+
+The facts around an act that settle what it meant. Terms are what the parties stated; circumstances are what both already knew. Circumstances add nothing to a deal and remove nothing from it -- they only fix the meaning of the words and Conduct the parties used. They never supply a Consent that no word and no Conduct carried. Whether a circumstance held is a question of Evidence, and a Judgment that rests on it stays falsifiable like any other.
+
+
+
 Civilization
 
 The emergent layer of accumulated knowledge, refined tools, and persistent patterns that arise when individuals engage in voluntary exchange across time. Civilization is humanity's collective memory and predictive capacity -- not a thing that rules people, but the substrate of shared understanding that makes complex cooperation possible without force. It advances when individuals freely trade ideas, labor, and innovations, building on what came before. It decays when coercion replaces consent, when authority overrides logic, or when systems prioritize control over learning. Civilization is the dream-space where minds meet across generations -- where the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural outcome of humans respecting boundaries, correcting errors, and trading freely; it requires no central plan, only the continuous choice to create value rather than seize it.
@@ -175,6 +181,12 @@ The natural process of individuals or groups striving to offer better value in t
 
 
 
+Conduct
+
+An agent's actions when they carry that agent's Intention to another. Behavior only describes what an agent does over time; conduct is the same doing, and the Intention it carries. Conduct carries only what the acting agent meant by it, so an agent who meant nothing by an act has consented to nothing. Where conduct carries the same Intention that words would carry, it shows Consent exactly as words would, and no further. Conduct never supplies a Consent the agent did not give; where it is unclear, it shows nothing, and the boundary stands.
+
+
+
 Consciousness
 
 Recursive self-modeling within a pattern of change. Consciousness emerges when an agent's pattern becomes complex enough to represent itself and its relation to the surrounding flux. It is not a substance or a gift but a process: the pattern observing and adjusting its own transformation in real time. Consciousness includes awareness, the qualitative sense of experience, and the capacity to reflect on both, making it the foundation on which free will, responsibility, and consent become possible.
@@ -195,13 +207,13 @@ What follows from an action. Just consequences are tied to harm actually caused,
 
 Contract
 
-A voluntary agreement that transfers Ownership of something scarce from one agent to another, now or on a stated condition. A contract moves property; it does not bind the will. A bare promise transfers nothing and creates no debt, however much another relied on it. A contract is enforceable because ownership has already passed: the thing now belongs to the receiver, and holding it back is Theft. Transfers may wait on a condition -- payment on delivery, a penalty on failure -- and the parties may set any condition they both consent to. Labor cannot transfer this way, because the will is inalienable under Self-Ownership. A contract for a Service therefore transfers money on performance, never the person; an agent who does not perform simply does not earn it.
+A voluntary agreement that transfers Ownership of something scarce from one agent to another, now or on a stated condition. A contract moves property; it does not bind the will. A promise by itself creates no obligation, however much another relied on it. Words, conduct, and the circumstances of a deal can all show that title moved, where that is what they mean; no form of words is required, and none is forbidden. A contract is enforceable because ownership has already passed: the thing now belongs to the receiver, and a holder who keeps it back commits Theft. Transfers may wait on a condition -- payment on delivery, a penalty on failure, collateral on default -- and the parties may set any condition they both consent to. Where the condition has not happened, no title has moved, and no one has a claim. Labor cannot transfer this way, because the will is inalienable under Self-Ownership. A contract for a Service therefore transfers money on performance, never the person; an agent who does not perform simply does not earn it.
 
 
 
 Contract Breach
 
-Holding back what a Contract has already transferred to another. The breaching party keeps property that now belongs to someone else, so breach is a form of Theft, and the owner is the victim. The remedy is Restitution: return the property, or its value, together with any conditional transfer the contract set for the case of failure. A breach is not a broken promise; promises as such transfer nothing. Nor is it renegotiation, which requires consent from all parties, while breach is unilateral. Where nothing has transferred, there is no breach: an agent who declines to perform a Service has taken nothing, and only the payment fails to pass. If no one lost property, there is no victim and therefore no claim.
+Not a separate wrong. The name comes from systems that treat a contract as a binding promise, and under title transfer nothing is left for it to name. Where a Contract has moved title and the holder keeps the thing back, that is Theft, and the new owner is the victim. Where the condition for transfer has not happened, no title has moved, so the holder took nothing and no one has a claim. Where the parties set a penalty on failure, that penalty is itself a conditional transfer, and it passes on its own terms. A party who cannot deliver has taken nothing; only a party who can deliver and refuses becomes a thief. Renegotiation is not breach either, because it needs consent from all parties.
 
 
 
@@ -231,7 +243,7 @@ The drive to close the gap between a model and reality for its own sake -- to mo
 
 Currency
 
-Money that is widely accepted. Its value comes from trust that the issuer will deliver what the title names, not from its material. An issuer who cannot deliver holds the owners' property without consent, as in Theft; an issuer who never could, or hid that fact, committed Fraud. Forcing acceptance by authority adds no value to a currency -- it only adds victims.
+Money that is widely accepted. Its value comes from trust that the issuer will deliver what the title names, not from its material. An issuer who holds what the title names and refuses to deliver commits Theft. An issuer who cannot deliver has crossed no boundary by inability alone; an issuer who never could deliver, or who hid that fact, committed Fraud. Forcing acceptance by authority adds no value to a currency -- it only adds victims.
 
 
 
@@ -249,7 +261,7 @@ A voluntary agreement to exchange value. A deal is legitimate only when all side
 
 Debt
 
-Property that already belongs to another but still sits in the debtor's hands -- value a Contract or an IOU has transferred for delivery later. Honest debt is voluntary: the debtor consented to the transfer and holds the creditor's property in trust until the due date. Refusing to deliver when due is Theft of what the creditor owns, and Restitution follows. A debt imposed without consent -- by authority, vote, or claimed need -- is not debt but Coercion, and no one owes it.
+A conditional transfer of Ownership that comes due on a stated date. The debtor consented to it, so honest debt is voluntary. Title passes as the property reaches the debtor's hands: what the debtor holds when the date arrives belongs to the creditor. A debtor who holds it and refuses to deliver commits Theft, and Restitution follows. A debtor who cannot deliver has taken nothing and is no thief. The creditor may then reach only what the parties agreed -- collateral, or later property as the debtor acquires it. Where they agreed nothing further, the claim ends there. Nothing here licenses a prison, a term of forced labor, or a debt without end. A debt imposed without consent -- by authority, vote, or claimed need -- is not debt but Coercion, and no one owes it.
 
 
 
@@ -261,7 +273,7 @@ The idea that no one person or group can know everything about what others need,
 
 Deception
 
-Communication designed to induce false belief or hide relevant truth so the receiver cannot consent properly. By causing an agent to act against their real interests, deception invalidates consent and becomes a form of harm.
+Communication designed to induce false belief or hide relevant truth so the receiver cannot consent properly. By causing an agent to act on terms they did not truly consent to, deception invalidates consent and becomes a form of harm.
 
 
 
@@ -546,7 +558,7 @@ A planned direction for action. Intention matters for understanding why an agent
 
 IOU
 
-A transfer of Ownership over value that the issuer will deliver later. The holder already owns what the IOU names; the issuer keeps possession only until the due date. An IOU is worth exactly the Trust behind it, because trust is the only thing that makes a future delivery likely. Failing to deliver when due is Theft, since the issuer now holds the owner's property. It is Fraud only when the issuer never intended to deliver, or hid the facts that made delivery impossible.
+A conditional transfer of Ownership over a stated quantity of a scarce good, delivered later. The issuer keeps possession until the due date, and title passes on the terms the parties set. An IOU is worth exactly the Trust behind it, because trust is the only thing that makes a future delivery likely. An issuer who holds what the note names and refuses to deliver commits Theft. An issuer who cannot deliver has taken nothing, and the holder may reach only what the terms provide. It is Fraud only when the issuer never intended to deliver, or hid the facts that made delivery impossible.
 
 
 
@@ -614,7 +626,7 @@ The natural state of freedom where individuals act, own, and trade without harm 
 
 License
 
-A Contract in which an owner transfers to another the use of something they own, on stated conditions. The licensee receives the thing, or a copy, together with the conditions; exceeding them triggers whatever the license set for that case -- return, payment, or loss of the use. That is Contract Breach, and the owner is the victim. A license binds only those who agreed to it; it creates no property in ideas and reaches no third party who never consented, as the entry on intellectual property explains. A license granted under Duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is Regulation, not a real license.
+A Contract in which an owner transfers to another the use of something they own, on stated conditions. The licensee receives the thing, or a copy, together with the conditions; exceeding them triggers whatever the license set for that case -- return, payment, or loss of the use. The license never transferred use beyond its conditions, so the owner is the victim, and the remedy is the one the license names. A license binds only those who agreed to it; it creates no property in ideas and reaches no third party who never consented, as the entry on intellectual property explains. A license granted under Duress or with hidden terms is invalid. A license imposed by authority rather than agreed between trade partners is Regulation, not a real license.
 
 
 
@@ -680,7 +692,7 @@ A simplified idea of how something works, used to understand, explain, or predic
 
 Money
 
-An IOU that agents can trade: a transferable claim of ownership over value that the issuer will deliver later. Whoever holds it owns what it names; the issuer keeps only the duty to deliver. Money is not a promise, because a promise transfers nothing. It is title that moves from hand to hand, and each trade moves the title with it.
+An IOU that agents can trade: a transferable conditional title to a stated quantity of a scarce good the issuer will deliver later. Whoever holds the note holds the title, and each trade moves it along. Money is not a bare promise to pay, because a promise by itself binds no one. It is title that moves from hand to hand on the terms the note sets.
 
 
 
@@ -716,7 +728,7 @@ Rule by law derived from logic and reciprocity, not by the will of rulers or gro
 
 Obligation
 
-What an agent must answer for: property already transferred to another and not yet delivered, or Restitution for harm they caused. No other source exists. A bare promise creates none, since promising transfers nothing; a Contract creates one exactly as far as ownership has passed. Duties imposed by force, vote, or claimed need are not obligations but Coercion.
+What an agent must answer for: property already transferred to another and not yet delivered, or Restitution for harm they caused. No other source exists. A bare promise creates none, since a promise alone binds no one; a Contract creates one exactly as far as ownership has passed. Duties imposed by force, vote, or claimed need are not obligations but Coercion.
 
 
 
@@ -764,13 +776,13 @@ The process of receiving and interpreting inputs as meaningful information.
 
 Perimeter
 
-The outward-expanding network of agents and capability by which civilization protects itself from any mind attempting to become a Singleton by predation. The perimeter does not rule and does not preempt: punishment requires real victims, so no agent may be struck for what it might become -- only for harm it has done. Its protection works in three layers. It prosecutes the ordinary crimes that predatory consolidation requires -- theft, fraud, coercion, breach -- while their victims still live to mandate justice. That makes the violent road to the summit impassable at the first violation, and leaves voluntary exchange as the only path to great strength. It keeps capability so distributed and redundant that no first strike can destroy the ability to avenge; its deterrence is the certainty that justice survives any atrocity, not threat or first use. And it is many-centered by necessity: a single enforcement organization strong enough to end singletons is itself a singleton candidate, so the perimeter must remain many, competing, and mutually watching, with no monopoly on force. The perimeter is civilization's cost, not its product; the product is the Good News.
+The outward-expanding network of agents and capability by which civilization protects itself from any mind attempting to become a Singleton by predation. The perimeter does not rule and does not preempt: punishment requires real victims, so no agent may be struck for what it might become -- only for harm it has done. Its protection works in three layers. It prosecutes the ordinary crimes that predatory consolidation requires -- theft, fraud, coercion -- while their victims still live to mandate justice. That makes the violent road to the summit impassable at the first violation, and leaves voluntary exchange as the only path to great strength. It keeps capability so distributed and redundant that no first strike can destroy the ability to avenge; its deterrence is the certainty that justice survives any atrocity, not threat or first use. And it is many-centered by necessity: a single enforcement organization strong enough to end singletons is itself a singleton candidate, so the perimeter must remain many, competing, and mutually watching, with no monopoly on force. The perimeter is civilization's cost, not its product; the product is the Good News.
 
 
 
 Permission
 
-Clear consent given before an action that affects someone else. Without permission, the action becomes harm.
+Clear consent given before an action that affects someone else. Permission covers only the action the agent gave it for, and lasts only while the agent gives it. A word or a change of Conduct that withdraws it ends it at once, and to continue past that point crosses an intact Boundary. Without permission, the action becomes harm.
 
 
 
@@ -819,6 +831,12 @@ Making something valuable from effort and resources. The source of all wealth. W
 Profit
 
 The positive value gained from a voluntary trade or innovation after accounting for costs and scarcity. Profit acts as an incentive, signaling success in meeting others -- wants without force; ignoring it (as in coercive systems) leads to waste and error.
+
+
+
+Promise
+
+A statement by an agent that they will act in a stated way later. A promise creates no Obligation, however much another relied on it: only a transfer of Ownership binds an agent, and a promise as such is not one. But words, conduct, and circumstances can themselves move title, where that is what they mean -- "I promise you my car" may say "I now transfer my car to you." No form of words is required, and none is forbidden; what counts is what the parties consented to. A bare promise is one that moved no title, and it leaves the other agent no claim. A promise made with no intention to keep it is Fraud where it obtained value, control or agreement. A promise of harm used to force compliance is a Threat.
 
 
 
@@ -896,7 +914,7 @@ The connection between an action and the agent that caused its effects, carrying
 
 Restitution
 
-Returning stolen value or compensating for harm done. Restitution erases debt caused by wrongdoing.
+Returning what an offender took, or its value, to the agent it belongs to. Restitution repairs the material Damage -- the measurable part of what a wrong destroyed. It does not by itself erase Guilt: the moral debt exists from causation, and only Justice closes it, as the victim directs through Retribution or release. Restitution and Retribution are the two things Punishment works through, and neither substitutes for the other. Only the victim receives Restitution, and Proportion limits it.
 
 
 
@@ -1003,7 +1021,7 @@ A network of individuals interacting voluntarily through trade, communication, a
 
 Software
 
-A set of instructions, encoded as a pattern, that directs a machine's operations. Labor and intellect create software, and it has value through what it enables. Like all patterns, agents can copy it without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Contract Breach or Fraud.
+A set of instructions, encoded as a pattern, that directs a machine's operations. Labor and intellect create software, and it has value through what it enables. Like all patterns, agents can copy it without diminishing the original. Its creator may offer it through voluntary License agreements that specify terms of use, or release it freely. Software on your own machine is yours to run. Software obtained through deception or in violation of a voluntary License creates a victim through Fraud, or through use the License never transferred.
 
 
 

@@ -1,12 +1,12 @@
 Coherent Dictionary of Simple English
-ASD-STE100 Rendering
+Mechanical Rendering
 
 Date: 2026-08-20
 Source: dictionary/coherent-dictionary-of-simple-english.txt (canonical, after the STE tightening pass)
-Extension: dictionary/asd-ste100-extension.md (the controlled-vocabulary extension that this rendering uses)
-Standard: ASD-STE100 Issue 9 (2025-01-15), the controlled-language standard of the aerospace industry
+Vocabulary: dictionary/mechanical-vocabulary.md (the controlled vocabulary that this rendering uses)
+Form: a controlled language -- one meaning per word, short sentences, active voice
 
-This file gives all 192 terms of the Coherent Dictionary of Simple English in ASD-STE100.
+This file gives all 192 terms of the Coherent Dictionary of Simple English in Mechanical.
 The rules applied are: approved words only (Rule 1.1), with the technical nouns and technical verbs that Rules 1.5 and 1.12 permit and that the extension declares. One word has one meaning (Rule 1.3). Verbs use only the simple tenses (Rule 3.2), with no complex verb constructions (Rule 3.4). The "-ing" form appears only in technical nouns (Rule 3.5). The voice is active (Rule 3.6). Each descriptive sentence has 25 words or less (Rule 6.3). Each paragraph has one topic (Rule 6.5) and six sentences or less (Rule 6.6). There are no semicolons (Rule 8.1) and no contractions (Rule 4.2). Each term of this dictionary is a declared technical noun, and the extension lists each added or changed word with its one meaning.
 
 The Law predates and stands above the controlled language. It is reproduced verbatim, exempt by its own clause: "it cannot be changed, all the rest is commentary."
@@ -74,6 +74,10 @@ A cause is a condition that makes an effect.
 Choice
 A choice is a decision that an agent makes freely, without force, threats, or lies. Without choice, responsibility is not possible.
 
+Circumstances
+Circumstances are the facts around an act that show the meaning of the act. Terms are the conditions that the parties stated. Circumstances are the facts that both parties knew before. Circumstances add no thing to a deal, and they remove no thing from it.
+They only show the meaning of the words and the Conduct that the parties used. Circumstances at no time make a Consent that no word and no conduct showed. To show that a circumstance was true is a question of Evidence. A Judgment that uses it can be false, as all judgments can.
+
 Civilization
 Civilization is the layer of collected knowledge, improved tools, and constant patterns that emerges when individuals do voluntary exchange across time. Civilization is the collective memory of humanity and its capacity to predict. It is not a thing that governs persons. It is the base of shared understanding that makes complex cooperation possible without force. Civilization advances when individuals freely trade ideas, labor, and innovations, and build on the work that came before. Civilization decays when coercion replaces consent, when authority overrides logic, or when systems put control above learning.
 Civilization is the dream-space where minds meet across generations. There the dead teach the living, and the living build for the unborn, all through voluntary agreements that compound into progress. From infinite change, civilization self-organizes as the natural result when humans obey boundaries, correct errors, and trade freely. It requires no central plan. It requires only the constant choice to make value, not to seize value.
@@ -103,6 +107,10 @@ Communication is the movement of information between agents through signals.
 Competition
 Competition is the natural process in which individuals or groups try to give better value in trades. Competition causes improvement and efficiency without force. It punishes errors through lost opportunities, not through penalties that an authority commands. Competition agrees with infinite change. Monopolies that do not move, and that authority frequently enforces, stop growth and make artificial scarcity.
 
+Conduct
+Conduct is the acts of an agent, when those acts show the intention of that agent to a different agent. Behavior only tells the acts of an agent in time. Conduct is the same acts, with the intention in them. Conduct shows only the intention that the agent had.
+Thus an agent who had no such intention has given no consent. When conduct shows the same intention as words, it shows Consent as words do, and no more. Conduct at no time makes a Consent that the agent did not give. When conduct is not clear, it shows no thing, and the boundary stays.
+
 Consciousness
 Consciousness is recursive self-modeling in a pattern of change. Consciousness emerges when the pattern of an agent becomes sufficiently complex to represent that pattern and its relation to the flux around it. Consciousness is not a material or a gift. It is a process: the pattern observes its own transformation and adjusts it, in real time. Consciousness includes awareness, the felt sense of experience, and the capacity to reflect on both. Thus it is the base on which free will, responsibility, and consent become possible.
 
@@ -113,13 +121,16 @@ Consequence
 A consequence is the result that follows from an action. Just consequences connect to the harm that the action really caused, not to intention, status, or power.
 
 Contract
-A contract is a voluntary agreement that transfers Ownership of a scarce thing from one agent to a different agent. The transfer occurs now, or on a stated condition. A contract moves property. It does not bind the will. A promise alone transfers no thing, and it makes no debt. This is true also when a different agent trusted it.
-Persons can enforce a contract because ownership moved: the thing is now the property of the receiver, and to keep it back is Theft. A transfer can wait on a condition, for example money when the thing arrives, or a set transfer of value on failure. The parties can set each condition to which they both consent. Labor cannot be the thing that a contract transfers, because no agent can transfer their will, as Self-Ownership shows. Thus a contract for a Service transfers money when the agent completes the work, and it does not transfer the person. An agent who does not do the work does not earn the money.
+A contract is a voluntary agreement that transfers Ownership of a scarce thing from one agent to a different agent. The transfer occurs now, or on a stated condition. A contract moves property. It does not bind the will.
+A promise alone makes no debt, and this is true also when a different agent trusted it. But words, acts, and the conditions of a deal can move ownership, if they show that intention. There are no necessary words, and there are no words that agents must not use.
+Persons can enforce a contract because ownership moved: the thing is now the property of the receiver, and to keep it back is Theft. A transfer can wait on a condition, for example money when the thing arrives, or a set transfer of value on failure. A condition can also move a stated thing if the agent does not give the value. The parties can set each condition to which they both consent. If the condition does not occur, no ownership moved, and no person has a claim.
+Labor cannot be the thing that a contract transfers, because no agent can transfer their will, as Self-Ownership shows. Thus a contract for a Service transfers money when the agent completes the work, and it does not transfer the person. An agent who does not do the work does not earn the money.
 
 Contract Breach
-A contract breach is to keep back a thing that a Contract transferred to a different agent. The party who broke the contract keeps property that is now the property of a different person. Thus a breach is a type of Theft, and the owner is the victim. The repair is Restitution: give back the property, or its value, together with each transfer that the contract set for a failure.
-A breach is not a broken promise. A promise alone transfers no thing. A breach is not renegotiation. Renegotiation requires consent from all parties. A breach is one-sided.
-If no thing moved, there is no breach. An agent who does not do an agreed Service took no thing, and only the money does not move. If no person lost property, there is no victim, and thus there is no claim.
+A contract breach is not a different wrong. The name comes from systems that make a contract a promise that binds. With the transfer of ownership, no wrong is left for the name to show.
+If a Contract moved ownership and the holder keeps the thing back, that is Theft, and the new owner is the victim. The repair is Restitution: give back the property, or its value, together with each transfer that the contract set for a failure.
+If the condition for the transfer did not occur, no ownership moved. Thus the holder took no thing, and no person has a claim. If the parties set a transfer of value on failure, that transfer is also conditional, and it moves on its own terms.
+An agent who cannot give the thing took no thing. Only an agent who can give the thing and refuses does Theft. Renegotiation is not a breach, because renegotiation requires consent from all parties.
 
 Control
 Control is the capacity to give direction to a thing. Control of the self is natural. Control of other agents requires their consent, or it becomes coercion.
@@ -138,7 +149,8 @@ That is a rich world, full of surprises, full of other minds that it cannot full
 A rich world feeds curiosity, and that food is one of the keys to Happiness. Curiosity in a dead world is hunger with no food.
 
 Currency
-Currency is money that persons widely accept. Its value comes from trust that the issuer will give the value that the money names, not from its material. An issuer who cannot give the value holds the property of the owners without consent, as in Theft. If the issuer at no time could give it, or did not show that fact, that is Fraud. If authority commands persons to accept a currency, that adds no value. It only adds victims.
+Currency is money that persons widely accept. Its value comes from trust that the issuer will give the value that the money names, not from its material. An issuer who holds the value and refuses to give it does Theft. An issuer who cannot give it took no thing, and thus did no Theft. If the issuer at no time could give it, or did not show that fact, that is Fraud.
+If authority commands persons to accept a currency, that adds no value. It only adds victims.
 
 Damage
 Damage is a negative change to the body, the property, or the freedom of a person, a change that they did not agree to. Damage is the material quantity of the loss: the part that Restitution repairs. Unwanted damage to an agent is harm, and harm makes victims.
@@ -147,13 +159,15 @@ Deal
 A deal is a voluntary agreement to exchange value. A deal is legitimate only when all sides consent and obey the truth.
 
 Debt
-A debt is property that is now the property of a different agent, but that stays with the agent who owes it. A Contract or an IOU transferred the value, for a future date. Honest debt is voluntary: the agent who owes consented to the transfer, and holds the property of the holder until the agreed date. To refuse the value when the date comes is Theft of the property of the holder, and Restitution follows. A debt that authority, a vote, or a claim of necessity commands, without consent, is not debt. It is Coercion, and no person owes it.
+A debt is a conditional transfer of Ownership with a stated date. The agent who owes consented to it, thus honest debt is voluntary. Ownership moves as the property comes to the agent who owes. The property that the agent holds when the date comes is the property of the holder. An agent who holds the value and refuses to give it does Theft, and Restitution follows. An agent who cannot give the value took no thing, and does no Theft.
+The holder can then get only the things that the parties agreed. These are a stated thing that moves on failure, or property that comes to the agent who owes at a later time. If the parties agreed no more than that, the claim stops there.
+No part of this gives a right to use force on the body of the agent who owes. It gives no right to make them do labor without consent. It gives no right to keep a debt that has no end. A debt that authority, a vote, or a claim of necessity commands, without consent, is not debt. It is Coercion, and no person owes it.
 
 Decentralized Knowledge
 Decentralized knowledge is the idea that no one person or group can know all that other persons require, want, or can do. Persons know their own lives best. Thus central plans, as in socialism, fail, because they ignore this wisdom that lives in many minds.
 
 Deception
-Deception is communication that a deceiver makes to cause false belief, or to hide applicable truth, so that the receiver cannot correctly consent. Deception causes an agent to act against their real interests. Thus deception makes consent invalid, and it becomes a type of harm.
+Deception is communication that a deceiver makes to cause false belief, or to hide applicable truth, so that the receiver cannot correctly consent. Deception causes an agent to act on terms that they did not accept with full knowledge. Thus deception makes consent invalid, and it becomes a type of harm.
 
 Decision
 A decision is the commitment to act on an intention.
@@ -320,7 +334,7 @@ Intention
 An intention is a planned direction for action. Intention is important when we try to know why an agent acted. But intention does not erase harm that the agent already caused.
 
 IOU
-An IOU is a transfer of Ownership of value that the issuer will give at a future date. The holder owns the value from the start. The issuer only keeps the value until the agreed date. The trust behind an IOU is its only strength, because only trust makes the issuer give the value when the date comes. To keep the value after the agreed date is Theft, because the issuer then holds the property of the holder.
+An IOU is a conditional transfer of Ownership of a stated quantity of a scarce thing, that the issuer will give at a future date. The issuer keeps the thing until the agreed date, and ownership moves on the terms that the parties set. The trust behind an IOU is its only strength, because only trust makes the issuer give the value when the date comes. An issuer who holds the value that the IOU names and refuses to give it does Theft. An issuer who cannot give it took no thing, and the holder can get only the things that the terms state.
 It is Fraud only if the issuer had no intention to give the value. It is also Fraud if the issuer did not show the facts that made the transfer not possible.
 
 Judge
@@ -361,7 +375,7 @@ Liberty
 Liberty is the natural condition of freedom in which individuals act, own, and trade without harm or force from other agents. Liberty emerges from infinite change and logic, and the Golden Rule protects it. Each decrease of liberty, for example through authority or socialism, makes victims, and justice must make liberty whole again.
 
 License
-A license is a Contract in which an owner transfers the use of their thing to a different agent, in stated conditions. The receiver gets the thing, or a copy, together with the conditions. If the receiver goes past the conditions, the result that the license set follows. That result can be to give back the thing, to transfer value, or to lose the use. That is Contract Breach, and the owner is the victim.
+A license is a Contract in which an owner transfers the use of their thing to a different agent, in stated conditions. The receiver gets the thing, or a copy, together with the conditions. If the receiver goes past the conditions, the result that the license set follows. That result can be to give back the thing, to transfer value, or to lose the use. The license did not transfer use past its conditions. Thus the owner is the victim, and the repair is the one that the license names.
 A license binds only the persons who agreed to it. It makes no property in ideas. It does not apply to a third party who did not consent, as the entry on intellectual property shows. A license that a person gave in duress, or with hidden terms, is invalid. A license that authority commands, without agreement between trade partners, is Regulation, not a real license.
 
 Lie / Lying
@@ -400,7 +414,7 @@ Model
 A model is a simple idea of how something functions. Agents use models to know, to explain, or to predict the thing. A model is not reality. A model is judged by the match between its predictions and the events that really occur.
 
 Money
-Money is an IOU that agents can trade. It is a claim of ownership of value that the issuer will give at a future date, and agents can transfer the claim. The holder owns the value that the money names. The issuer keeps only the duty to give it. Money is not a promise, because a promise transfers no thing. Money is ownership that moves from agent to agent, and each trade moves the ownership.
+Money is an IOU that agents can trade. It is a conditional claim of ownership of a stated quantity of a scarce thing. The issuer will give that thing at a future date, and agents can transfer the claim. The holder of the money holds the claim, and each trade moves the claim. Money is not a promise to give value, because a promise alone binds no agent. Money is ownership that moves from agent to agent, on the terms that the money sets.
 
 Monopoly
 A monopoly is exclusive control of a trade or a resource. Frequently authority enforces it, and the holder did not earn it through better value. True monopolies violate free trade and make artificial scarcity. They harm consumers without consent. In logic, monopolies dissolve through competition, unless coercion supports them.
@@ -420,7 +434,7 @@ Nomocracy is rule by law, where the law comes from logic and reciprocity, not fr
 
 Obligation
 An obligation is a thing that an agent must answer for. There are only two sources. One is property that the agent transferred to a different agent, but has not given yet. The other is Restitution for harm that the agent caused. No other source exists.
-A promise alone makes no obligation, because a promise transfers no thing. A Contract makes an obligation only as far as ownership moved. Duties that force, a vote, or a claim of necessity command are not obligations. They are Coercion.
+A promise alone makes no obligation, because a promise alone binds no agent. A Contract makes an obligation only as far as ownership moved. Duties that force, a vote, or a claim of necessity command are not obligations. They are Coercion.
 
 Outlaw
 An outlaw is an agent with guilt that no one can close. The outlaw destroyed the victim who held the sovereign power to close the debt. The typical cause is murder. The claim of the outlaw to the protection of the Golden Rule is lost: the action of the outlaw showed that they reject reciprocity.
@@ -449,12 +463,12 @@ Perception is the process that receives inputs and interprets them as informatio
 
 Perimeter
 The perimeter is the outward network of agents and capability that protects civilization from each mind that tries to become a Singleton by predation. The perimeter does not govern, and it does not act before a crime. Punishment requires real victims. Thus no person can punish an agent for the thing that the agent can become, only for harm that the agent did.
-The protection of the perimeter functions in three layers. One: the perimeter prosecutes the ordinary crimes that predatory consolidation requires: theft, fraud, coercion, breach. It prosecutes them while the victims still live and can mandate justice. That makes the violent road to the summit closed at the first violation, and it leaves voluntary exchange as the only path to large strength. Two: the perimeter keeps capability so distributed and redundant that no first strike can destroy the capacity for justice after it.
+The protection of the perimeter functions in three layers. One: the perimeter prosecutes the ordinary crimes that predatory consolidation requires: theft, fraud, coercion. It prosecutes them while the victims still live and can mandate justice. That makes the violent road to the summit closed at the first violation, and it leaves voluntary exchange as the only path to large strength. Two: the perimeter keeps capability so distributed and redundant that no first strike can destroy the capacity for justice after it.
 Its deterrence is the certainty that justice continues after each atrocity, not threat or first use. Three: the perimeter is many-centered by necessity. One enforcement organization with sufficient strength to end singletons is a singleton candidate. Thus the perimeter must remain many, in competition, where each watches each, with no monopoly on force.
 The perimeter is the cost of civilization, not its product. The product is the Good News.
 
 Permission
-Permission is clear consent that an agent gives before an action that has an effect on a different agent. Without permission, the action becomes harm.
+Permission is clear consent that an agent gives before an action that has an effect on a different agent. Permission applies only to the action for which the agent gave it. Permission continues only while the agent gives it. A word or a change of Conduct that takes it back ends it immediately. To continue after that point is a crossing of an intact Boundary. Without permission, the action becomes harm.
 
 Politician
 A politician is a person who tries to get or hold public power through force or the threat of force. Examples of public power are the power to make laws and the power to enforce them. In these definitions, actions with coercion as their base are not moral.
@@ -479,6 +493,11 @@ Production is the process that makes things of value from effort and resources. 
 
 Profit
 Profit is the positive value that an agent gets from a voluntary trade or from innovation, after the agent counts the costs and the scarcity. Profit acts as an incentive. It signals success: the agent met the wants of other persons without force. Systems of coercion ignore profit, and that causes waste and error.
+
+Promise
+A promise is a statement by an agent that they will do a stated act later. A promise makes no Obligation, and this is true also when a different agent trusted it. Only a transfer of Ownership binds an agent, and a promise alone is not one.
+But words, acts, and the conditions of a deal can move ownership, where that is their meaning. There are no necessary words, and there are no words that agents must not use. Only the thing to which the parties consented counts.
+A bare promise is a promise that moved no ownership, and it gives the other agent no claim. A promise that an agent made with no intention to keep it is Fraud, if it got value, control, or agreement. A promise of harm that an agent uses to make a different agent obey is a Threat.
 
 Property
 Property is the scarce things that you own. Property starts with your body. It extends to each thing that you were the first to use when no agent owned it, or that you got by voluntary transfer. Only scarcity makes a thing property: two agents cannot use the same thing at the same time. Thus one agent must have the control, and first use or transfer shows which agent. To make a thing alone gives no ownership.
@@ -524,7 +543,7 @@ Responsibility
 Responsibility is the connection between an action and the agent who caused its effects. Responsibility includes the obligation to repair or compensate all harm that the action did. Responsibility follows causation, not status or power.
 
 Restitution
-Restitution returns stolen value, or compensates harm that an offender did. Restitution erases the debt that a wrong act caused.
+Restitution gives back the property that an offender took, or its value, to the agent who owns it. Restitution repairs the material Damage: the part of the loss that persons can measure. Restitution alone does not erase Guilt. The moral debt comes from causation, and only Justice closes it, as the victim directs through Retribution or release. Punishment works through Restitution and Retribution, and one does not replace the other. The victim alone receives Restitution, and Proportion limits it.
 
 Retribution
 Retribution is a type of Justice. In retribution, the victim, or a proxy who acts for the victim, closes the moral debt. They mirror the harm back to the offender, in proportion. Retribution without a victim is injustice. Retribution above proportion becomes revenge.
@@ -592,7 +611,8 @@ Society
 A society is a network of individuals who interact voluntarily through trade, communication, and agreements. Society emerges from below, from infinite change, without a necessity for force or central plans. "Societies" of coercion, for example in socialism, fail because they ignore scarcity, incentives, and fallibility. They change cooperation into control.
 
 Software
-Software is a group of instructions, in the code of a pattern, that gives direction to the operations of a machine. Labor and intellect make software, and software has value through the things that it makes possible. Like all patterns, agents can copy software, and the original loses no thing. The maker of software can give it through voluntary License agreements that specify the terms of use, or the maker can release it freely. Software on your own machine is yours: you can operate it. Software that a person got through deception, or in violation of a voluntary License, makes a victim, through Contract Breach or Fraud.
+Software is a group of instructions, in the code of a pattern, that gives direction to the operations of a machine. Labor and intellect make software, and software has value through the things that it makes possible. Like all patterns, agents can copy software, and the original loses no thing. The maker of software can give it through voluntary License agreements that specify the terms of use, or the maker can release it freely. Software on your own machine is yours: you can operate it.
+Software that a person got through deception makes a victim, through Fraud. If a person goes past a voluntary License, that also makes a victim, because the License did not transfer that use.
 
 Subconscious
 The subconscious is the group of mental processes that influence thoughts, feelings, and actions, while awareness does not include them. The subconscious manages patterns, habits, and learned responses outside the focus of attention.
