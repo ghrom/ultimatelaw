@@ -13,6 +13,16 @@
 #     meaning -- the same law the words obey). The relations in use:
 #       {A} is an act of {X} crossing {K} boundary of {Y}
 #       {V} consented to {E}
+#       {V} gives permission for {E}
+#       {V} takes back the permission for {E} at {W}
+#       the permission for {E} has ended
+#       the conduct of {V} shows the intention of consent to {E}
+#       the words of {V} show consent to {E}
+#       {V} accepts the terms of {E} in an agreement
+#       {D} deceived {V} about {E}
+#       duress caused the consent of {V} to {E}
+#       the circumstances fix the meaning of {E} as consent by {V}
+#       the consent of {V} to {E} stands outside words and conduct
 #       the harm of {E} reaches {K}
 #       {E} is a hostile crossing of {V} by {A} in {K}
 #       {E} stands in a Forfeiture
@@ -44,11 +54,42 @@
 #   - "It is at no time true that ..." states an integrity constraint: a
 #     rulebook or a case that derives it is incoherent.
 #
+# Consent is not a primitive here. It is derived through the channels the
+# entries declare -- permission, conduct, words, agreement -- each blocked by
+# deception and by duress, and permission ends at its withdrawal. An agent
+# who meant nothing by an act has consented to nothing: that is the ABSENCE
+# of the carrying fact, and unclear conduct shows nothing, so the boundary
+# stands. Circumstances supply no consent at all; the audit rule and its
+# constraint make that executable.
+#
 # Checked by: C:/Users/Piotr/tmp/mech_logic.py (parse, vocabulary, compile,
 # derive, integrity, planted-axiom selftest). Coverage today: the Forfeiture
-# cluster. Coverage grows entry by entry.
+# cluster and the Consent/Permission/Conduct cluster. Coverage grows.
 
-Stratum 1. What an act is, and what its harm reaches.
+Stratum 1. When a permission has ended.
+
+# From: Permission ("a word or a change of Conduct that takes it back ends
+# it immediately").
+If an agent takes back the permission for an act at a second act, and the first act is later than the second act, then the permission for the first act has ended.
+
+Stratum 2. How consent comes to stand.
+
+# From: Permission ("covers only the action the agent gave it for, and lasts
+# only while the agent gives it").
+If an agent gives permission for an act, and it is not true that the permission for the act has ended, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
+
+# From: Conduct ("when conduct shows the same intention as words, it shows
+# Consent as words do, and no more"; an agent who had no such intention has
+# given no consent -- that is the absence of this showing fact).
+If the conduct of an agent shows the intention of consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
+
+# From: Consent ("freely, without pressure, deception, or manipulation").
+If the words of an agent show consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
+
+# From: Agreement ("all sides freely know and accept the terms").
+If an agent accepts the terms of an act in an agreement, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
+
+Stratum 3. What an act is, and what its harm reaches.
 
 # From: Forfeiture.
 If an act is an act of an agent crossing a kind of boundary of a second agent, then the harm of the act reaches the kind.
@@ -56,7 +97,7 @@ If an act is an act of an agent crossing a kind of boundary of a second agent, t
 # From: Violation.
 If an act is an act of an agent crossing a kind of boundary of a second agent, and it is not true that the second agent consented to the act, then the act is a hostile crossing of the second agent by the first agent in the kind.
 
-Stratum 2. When an act stands in a Forfeiture.
+Stratum 4. When an act stands in a Forfeiture.
 
 # From: Forfeiture (phase two: the victim holds it).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to the first agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the first agent has ended, then the first act stands in a Forfeiture.
@@ -70,7 +111,7 @@ If an act stops a crossing that continues with the minimum force, then the act s
 # From: Outlaw (phase three).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent is an outlaw, then the act stands in a Forfeiture.
 
-Stratum 3. Verdicts.
+Stratum 5. Verdicts.
 
 # From: Victim.
 If an act is a hostile crossing of an agent by a second agent in a kind, and the act stands in a Forfeiture, then the act makes no victim.
@@ -87,12 +128,12 @@ If an act is a crime by an agent with victim a second agent, and the act is an a
 # From: Murder, Outlaw.
 If an act is murder by an agent of a second agent, then the first agent is an outlaw.
 
-Stratum 4. What an unsanctioned crossing forfeits.
+Stratum 6. What an unsanctioned crossing forfeits.
 
 # From: Forfeiture.
 If an act is a hostile crossing of an agent by a second agent in a kind, and it is not true that the act stands in a Forfeiture, and the harm of the act reaches a second kind, then the second agent forfeits the second kind to the first agent after the act.
 
-Stratum 5. Justice and repair.
+Stratum 7. Justice and repair.
 
 # From: Justice (collection).
 If an act is a collection by an agent on the debt from a second act, and the first act stands in a Forfeiture, and the moral debt of a second agent to a third agent from the second act exists, and it is not true that the second agent is an outlaw, then the moral debt of the second agent to the third agent from the second act is closed by justice.
@@ -109,7 +150,7 @@ If the moral debt of an agent to a second agent from an act is closed, then the 
 # From: Restitution.
 If a restitution is a restitution by an agent to a second agent for an act, then the damage of the act is repaired.
 
-Final. What remains open, and who answers.
+Final. What remains open, who answers, and the consent audit.
 
 # From: Justice.
 If the moral debt of an agent to a second agent from an act exists, and it is not true that the moral debt of the first agent to the second agent from the act is closed, then the moral debt of the first agent to the second agent from the act remains open.
@@ -121,7 +162,12 @@ If the moral debt of an agent to a second agent from an act is closed, and it is
 If an act is a crime by an agent with victim a second agent, and the act was caused by the fraud of a third agent, then the third agent is responsible for the act.
 If an act is a crime by an agent with victim a second agent, and it is not true that the act was caused by the fraud of a third agent, then the first agent is responsible for the act.
 
-# Integrity. Only Justice closes a moral debt, and no verdict is double.
+# From: Circumstances ("they never supply a Consent that no word and no
+# Conduct carried").
+If an agent consented to an act, and it is not true that the first agent gives permission for the act, and it is not true that the conduct of the first agent shows the intention of consent to the act, and it is not true that the words of the first agent show consent to the act, and it is not true that the first agent accepts the terms of the act in an agreement, then the consent of the first agent to the act stands outside words and conduct.
+
+# Integrity. Only Justice closes a moral debt, consent comes only through
+# words and conduct, and no verdict is double.
 
 # From: Victim, Crime.
 It is at no time true that an act makes no victim while the act is a crime by an agent with victim a second agent.
@@ -131,3 +177,9 @@ It is at no time true that the moral debt of an agent to a second agent from an 
 
 # From: Restitution ("it does not by itself erase Guilt").
 It is at no time true that the debt of an agent to a second agent from an act is closed outside Justice.
+
+# From: Circumstances.
+It is at no time true that the consent of an agent to an act stands outside words and conduct.
+
+# From: Consent.
+It is at no time true that an act is a crime by an agent with victim a second agent while the second agent consented to the act.
