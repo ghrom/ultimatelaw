@@ -21,7 +21,7 @@ Agency
 Agency is the capacity of an agent to start actions.
 
 Agent
-An agent is a thing that can have intentions, make decisions, and start actions.
+An agent is a thing that can make intentions, make decisions, and start actions.
 
 Agreement
 In an agreement, all sides freely know and accept the terms of a planned interaction that has an effect on boundaries. An agreement must be clear and voluntary. If there is no agreement and no permission, an action that crosses the boundary of a different agent is a violation, and it causes harm. This holds only where no Forfeiture stands.
@@ -37,7 +37,7 @@ Authority
 An authority is an agent or a group who claims this right: to command other agents, or to take the things that they own. Authority is only power that an agent asserts. Authority has no moral force unless it comes from the voluntary agreement of all.
 
 Autonomy
-Autonomy is the capacity to have intentions and to make decisions without external control.
+Autonomy is the capacity to make intentions and to make decisions without external control.
 
 Awareness
 Awareness occurs when the mind finds or knows something, internal or external. Internal examples are thoughts and feelings. External examples are objects and events. Awareness is the condition in which the mind attends to something that it can represent.
@@ -295,7 +295,7 @@ Hierarchy
 A hierarchy is a structure in which some agents claim power above other agents, frequently without consent. Hierarchies become legitimate only through voluntary agreement. Forced hierarchies cause coercion and error, because power ignores incentives and increases ignorance. In infinite change, flat emergent orders, for example markets, do better than hierarchies that do not move.
 
 Idea
-An idea is a thought with a shape: a thought about how something is, how it can be, or how it must be. Agents can share ideas, do tests on them, improve them, or reject them, through logic and experience.
+An idea is a thought with a shape: a thought about how something is, how it can be, or how it should be. Agents can share ideas, do tests on them, improve them, or reject them, through logic and experience.
 
 Ignorance
 Ignorance is an absence of knowledge. Ignorance is normal, and learning can repair it. To speak of ignorance as knowledge causes harm.
@@ -357,7 +357,7 @@ Such guardianship always has one purpose: to make self-ownership full again as s
 Kindness is not reciprocity, not justice, and not love. Kindness does not erase guilt, does not close moral debt, and does not require a bond that continues. Kindness is good when it obeys consent and makes no unwilling victim. Kindness is not good when it overrides autonomy, when it hides deception, or when it says that capable adults cannot choose.
 
 Knowledge
-Knowledge is reliable understanding from models that tests examined and that constantly match reality. Knowledge grows through prediction, error, and learning, not by declaration or force.
+Knowledge is reliable understanding from models that tests examined and that match reality each time. Knowledge grows through prediction, error, and learning, not by declaration or force.
 
 Law
 Logic is the ultimate law. Do not do to others what they would not want to be done to them, or you will be punished regardless of your will. The purpose of punishment is to erase guilt, via retribution and restitution. That is the entire law; it cannot be changed, all the rest is commentary.
@@ -462,7 +462,7 @@ Perception
 Perception is the process that receives inputs and interprets them as information with meaning.
 
 Perimeter
-The perimeter is the outward network of agents and capability that protects civilization from each mind that tries to become a Singleton by predation. The perimeter does not govern, and it does not act before a crime. Punishment requires real victims. Thus no person can punish an agent for the thing that the agent can become, only for harm that the agent did.
+The perimeter is the network of agents and capability that grows. It protects civilization from each mind that tries to become a Singleton by predation. The perimeter does not govern, and it does not act before a crime. Punishment requires real victims. Thus no person can punish an agent for the thing that the agent can become, only for harm that the agent did.
 The protection of the perimeter functions in three layers. One: the perimeter prosecutes the ordinary crimes that predatory consolidation requires: theft, fraud, coercion. It prosecutes them while the victims still live and can mandate justice. That makes the violent road to the summit closed at the first violation, and it leaves voluntary exchange as the only path to large strength. Two: the perimeter keeps capability so distributed and redundant that no first strike can destroy the capacity for justice after it.
 Its deterrence is the certainty that justice continues after each atrocity, not threat or first use. Three: the perimeter is many-centered by necessity. One enforcement organization with sufficient strength to end singletons is a singleton candidate. Thus the perimeter must remain many, in competition, where each watches each, with no monopoly on force.
 The perimeter is the cost of civilization, not its product. The product is the Good News.
@@ -661,7 +661,7 @@ Universe
 The universe is the whole of existence, with infinite change as its base. The universe has no set ruler and no set plan. It has only flow without an end, from which logic and natural laws self-emerge, and that flow guides fair societies.
 
 Value
-Value is the thing that an agent thinks is important. Other agents cannot measure value from outside, and they cannot command it.
+Value is the thing that an agent thinks is important. Other agents cannot measure value from outside. They cannot command it, and they cannot force a value on an agent.
 
 Victim
 A victim is a person who received harm against their will, across a boundary with intact protection. Harm in a Forfeiture, for example punishment in proportion, self-defense, or the end of an outlaw, gives an agent harm in fact. But it makes no victim in the sense of the Law. If there is no victim, there is no crime, and there is no necessity for punishment. This keeps laws simple, and it stops false "crimes", for example trades with no victim.

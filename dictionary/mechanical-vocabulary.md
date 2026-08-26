@@ -53,7 +53,7 @@ These 7 words carry an ordinary technical sense elsewhere, and this project uses
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
-### 3b. Declared vocabulary (537 base words, 706 surface forms)
+### 3b. Declared vocabulary (538 base words, 707 surface forms)
 
 Each word below is declared with exactly one meaning, in STE style. Regular inflections and the listed forms belong to the base word. Some of these words STE lists as not approved for technical manuals (for example *cross*, *take*, *demand*, *kind*): they are declared here deliberately. STE rejects them because they are vague in maintenance text, and this dictionary cures that vagueness by definition instead of avoidance -- *take* has exactly one meaning here, and it is the thief's.
 
@@ -597,7 +597,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **whole** |  | complete, with no part absent |
 | **worth** |  | with a value that is equal to the cost |
 
-#### Small grammar words (42)
+#### Small grammar words (43)
 
 | word | also used as | one meaning |
 |---|---|---|
@@ -633,6 +633,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **salvation** |  | a rescue that comes from outside |
 | **second** |  | number two in an order |
 | **self** |  | the own person of an agent |
+| **should** |  | names what is good to do or to be, without a command |
 | **so** |  | thus; to this degree |
 | **something** |  | a thing that is not named |
 | **successor** |  | the agent who comes after |
@@ -650,17 +651,17 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 Measured on the finished rendering (all 195 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **13882**
-- from the base vocabulary: **7893** tokens = **56.9%**
-- the 7 overridden words: **475** tokens = **3.4%**
-- the 195 terms and their word family: **3485** tokens = **25.1%**
+- STE prose tokens: **13892**
+- from the base vocabulary: **7899** tokens = **56.9%**
+- the 7 overridden words: **477** tokens = **3.4%**
+- the 195 terms and their word family: **3487** tokens = **25.1%**
 - declared extension vocabulary: **2029** tokens = **14.6%**
 - distinct base words used: **290**
-- added words: **537** base words (**706** surface forms) + the **195** terms
+- added words: **538** base words (**707** surface forms) + the **195** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 
-Read together: about 60% of the running text is carried by the base vocabulary; the remaining 40% is carried by the declared moral vocabulary that this file defines. That ratio is the point: a controlled language for machines could always say *how to bolt the panel*; with 537 declared words plus the 195 terms it can also say *why the thief's ceiling is everything they own*.
+Read together: about 60% of the running text is carried by the base vocabulary; the remaining 40% is carried by the declared moral vocabulary that this file defines. That ratio is the point: a controlled language for machines could always say *how to bolt the panel*; with 538 declared words plus the 195 terms it can also say *why the thief's ceiling is everything they own*.
 
 ---
 
