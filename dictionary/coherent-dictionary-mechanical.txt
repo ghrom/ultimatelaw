@@ -188,7 +188,7 @@ Effect
 An effect is a change that a cause before it made. Effects can follow from actions, which are changes that agents cause, or from natural processes, which are changes with no agent. When an effect crosses the boundaries of a different agent against their consent, the effect becomes harm. Then the agent who caused the effect has the responsibility for restitution.
 
 Emergence
-Emergence is the process in which stable structures, laws, and relations occur as constant patterns in infinite change. No outside agent commands them. Space, time, geometry, and physical constants are not fundamental: they self-organize from the flow of transformation. Law is memory, inertia is habit, and geometry is history. Emergence explains how order can occur without a designer. It explains why control from the top always fails against the deeper flux that it tries to override.
+Emergence is the process in which stable structures, laws, and relations occur as constant patterns in infinite change. No outside agent commands them. Space, time, geometry, and physical constants are not fundamental: they self-organize from the flow of transformation. Law is memory, inertia is habit, and geometry is history. Emergence explains how order can occur without a designer. It explains why control from the top that does not move always fails against the deeper flux that it tries to override.
 
 Enforcement
 Enforcement is the use of force, or the threat of force, to make persons obey rules. Enforcement is legitimate only to stop or to repair real harm.
