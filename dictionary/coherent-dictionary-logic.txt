@@ -62,9 +62,9 @@
 # stands. Circumstances supply no consent at all; the audit rule and its
 # constraint make that executable.
 #
-# Checked by: C:/Users/Piotr/tmp/mech_logic.py (parse, vocabulary, compile,
-# derive, integrity, planted-axiom selftest). Coverage today: the Forfeiture
-# cluster and the Consent/Permission/Conduct cluster. Coverage grows.
+# Checked by: tools/mech_logic.py (parse, vocabulary, compile, derive,
+# integrity, planted-axiom selftest). Coverage today: the Forfeiture cluster
+# and the Consent/Permission/Conduct cluster. Coverage grows.
 
 Stratum 1. When a permission has ended.
 

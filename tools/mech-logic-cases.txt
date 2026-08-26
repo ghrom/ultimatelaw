@@ -1,0 +1,93 @@
+# Test cases for the Mechanical Logic doctrine. Names here are test data.
+
+Scenario.
+
+# Forfeiture cluster: theft, collection, escalation, halt, murder, outlaw,
+# never-real forfeiture, deep theft, restitution without justice.
+e1 is an act of alice crossing the property boundary of bob.
+e2 is an act of bob crossing the property boundary of alice.
+e2 is later than e1.
+e2 is a collection by bob on the debt from e1.
+e3 is an act of vigilante crossing the life boundary of alice.
+e3 is later than e1.
+e4 is an act of attacker crossing the body boundary of walker.
+e5 is an act of bystander crossing the body boundary of attacker.
+e5 stops a crossing that continues with the minimum force.
+e5 is later than e4.
+e6 is an act of carol crossing the life boundary of dan.
+e7 is an act of dave crossing the life boundary of carol.
+e7 is later than e6.
+e8 is an act of punisher crossing the life boundary of frank.
+e8 was caused by the fraud of deceiver.
+e9 is an act of eve crossing the property boundary of grace.
+the harm of e9 reaches the life.
+e10 is an act of proxy crossing the life boundary of eve.
+e10 is later than e9.
+proxy holds a mandate from grace.
+e11 is an act of henry crossing the property boundary of iris.
+r1 is a restitution by henry to iris for e11.
+
+# Consent cluster: withdrawn permission (e13 after the withdrawal e12),
+# live permission (e14), conduct that carries consent (e15), conduct that
+# meant nothing (e16), words voided by deception (e17), clean words (e18),
+# agreement (e19), words voided by duress (e20), and a second crossing the
+# permission for e14 never covered (e21).
+e13 is an act of kate crossing the property boundary of jack.
+jack gives permission for e13.
+jack takes back the permission for e13 at e12.
+e13 is later than e12.
+e14 is an act of mia crossing the property boundary of leo.
+leo gives permission for e14.
+e15 is an act of omar crossing the body boundary of nina.
+the conduct of nina shows the intention of consent to e15.
+e16 is an act of pia crossing the property boundary of quinn.
+the circumstances fix the meaning of e16 as consent by quinn.
+e17 is an act of rex crossing the property boundary of sara.
+the words of sara show consent to e17.
+rex deceived sara about e17.
+e18 is an act of una crossing the property boundary of tom.
+the words of tom show consent to e18.
+e19 is an act of walt crossing the property boundary of vera.
+vera accepts the terms of e19 in an agreement.
+e20 is an act of yuri crossing the property boundary of xena.
+the words of xena show consent to e20.
+duress caused the consent of xena to e20.
+e21 is an act of mia crossing the property boundary of leo.
+
+Expected.
+
+e2 makes no victim.
+e1 is a crime by alice with victim bob.
+the moral debt of alice to bob from e1 is closed by justice.
+e3 is a crime by vigilante with victim alice.
+e3 is murder by vigilante of alice.
+vigilante is an outlaw.
+e5 makes no victim.
+carol is an outlaw.
+e7 makes no victim.
+e8 is a crime by punisher with victim frank.
+deceiver is responsible for e8.
+e10 makes no victim.
+the damage of e11 is repaired.
+the moral debt of henry to iris from e11 remains open.
+the moral debt of carol to dan from e6 remains open.
+e13 is a crime by kate with victim jack.
+e16 is a crime by pia with victim quinn.
+e17 is a crime by rex with victim sara.
+e20 is a crime by yuri with victim xena.
+e21 is a crime by mia with victim leo.
+
+Absent.
+
+e14 is a crime by mia with victim leo.
+e15 is a crime by omar with victim nina.
+e18 is a crime by una with victim tom.
+e19 is a crime by walt with victim vera.
+
+Planted.
+
+# The day-one Restitution bug: restitution by itself closes the debt.
+If a restitution is a restitution by an agent to a second agent for an act, and the moral debt of the first agent to the second agent from the act exists, then the moral debt of the first agent to the second agent from the act is closed.
+
+# The Circumstances bug: circumstances supply a consent no channel carried.
+If the circumstances fix the meaning of an act as consent by an agent, then the first agent consented to the act.
