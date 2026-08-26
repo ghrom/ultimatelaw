@@ -50,7 +50,7 @@ CASES_FILE = HERE / 'mech-logic-cases.txt'
 
 # ------------------------------------------------------------- the relations
 # One surface, one meaning. {Name:type} slots take a noun phrase of that type.
-TYPES = ('agent', 'act', 'kind', 'restitution')
+TYPES = ('agent', 'act', 'kind', 'restitution', 'transfer')
 
 RELATIONS = [
     "{A:act} is an act of {X:agent} crossing {K:kind} boundary of {Y:agent}",
@@ -65,6 +65,17 @@ RELATIONS = [
     "duress caused the consent of {V:agent} to {E:act}",
     "the circumstances fix the meaning of {E:act} as consent by {V:agent}",
     "the consent of {V:agent} to {E:act} stands outside words and conduct",
+    "{T:transfer} is a conditional transfer from {A:agent} to {V:agent}",
+    "the condition of {T:transfer} occurs at {W:act}",
+    "{A:agent} holds the value of {T:transfer}",
+    "{A:agent} refuses to give the value of {T:transfer} at {E:act}",
+    "the value of {T:transfer} is the property of {V:agent}",
+    "{C:transfer} is the stated thing of {T:transfer} that moves on failure",
+    "{E:act} is the failure of {T:transfer} from {A:agent}",
+    "{E:act} is the trade of {T:transfer} by {A:agent} to {V:agent}",
+    "{A:agent} had no intention to give the value of {T:transfer}",
+    "{A:agent} hides the facts that made {T:transfer} not possible",
+    "{E:act} is a promise by {A:agent} to {V:agent}",
     "the harm of {E:act} reaches {K:kind}",
     "{E:act} is a hostile crossing of {V:agent} by {A:agent} in {K:kind}",
     "{E:act} stands in a Forfeiture",

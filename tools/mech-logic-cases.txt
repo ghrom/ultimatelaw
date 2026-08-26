@@ -54,6 +54,37 @@ the words of xena show consent to e20.
 duress caused the consent of xena to e20.
 e21 is an act of mia crossing the property boundary of leo.
 
+# Title-transfer cluster: an honest debt with the value in hand (t1, no
+# refusal, no crime), a debtor who can pay and refuses (t2 -> the refusal
+# e24 is a crossing), a debtor who cannot pay (t3 -> pure failure, never a
+# crime; the collateral t4 passes on its own terms instead), an issuer who
+# never intended to deliver (t5 -> fraud routes through deceived consent),
+# an issuer who hides impossibility (t6 -> same), an honest exchange (t7),
+# and a bare promise (e30 -> moves nothing, no claim).
+t1 is a conditional transfer from adam to beth.
+the condition of t1 occurs at e22.
+adam holds the value of t1.
+t2 is a conditional transfer from carl to dora.
+the condition of t2 occurs at e23.
+carl holds the value of t2.
+carl refuses to give the value of t2 at e24.
+t3 is a conditional transfer from emil to fay.
+the condition of t3 occurs at e26.
+t4 is a conditional transfer from emil to fay.
+t4 is the stated thing of t3 that moves on failure.
+e27 is the trade of t5 by greg to hana.
+e27 is an act of greg crossing the property boundary of hana.
+the words of hana show consent to e27.
+greg had no intention to give the value of t5.
+e28 is the trade of t6 by ivan to jana.
+e28 is an act of ivan crossing the property boundary of jana.
+the words of jana show consent to e28.
+ivan hides the facts that made t6 not possible.
+e29 is the trade of t7 by kobe to lena.
+e29 is an act of kobe crossing the property boundary of lena.
+the words of lena show consent to e29.
+e30 is a promise by mark to nora.
+
 Expected.
 
 e2 makes no victim.
@@ -76,6 +107,14 @@ e16 is a crime by pia with victim quinn.
 e17 is a crime by rex with victim sara.
 e20 is a crime by yuri with victim xena.
 e21 is a crime by mia with victim leo.
+the value of t1 is the property of beth.
+e24 is a crime by carl with victim dora.
+the moral debt of carl to dora from e24 exists.
+e26 is the failure of t3 from emil.
+the value of t4 is the property of fay.
+greg deceived hana about e27.
+e27 is a crime by greg with victim hana.
+e28 is a crime by ivan with victim jana.
 
 Absent.
 
@@ -83,6 +122,10 @@ e14 is a crime by mia with victim leo.
 e15 is a crime by omar with victim nina.
 e18 is a crime by una with victim tom.
 e19 is a crime by walt with victim vera.
+e22 is a crime by adam with victim beth.
+e26 is a crime by emil with victim fay.
+e29 is a crime by kobe with victim lena.
+e30 is a crime by mark with victim nora.
 
 Planted.
 
@@ -91,3 +134,7 @@ If a restitution is a restitution by an agent to a second agent for an act, and 
 
 # The Circumstances bug: circumstances supply a consent no channel carried.
 If the circumstances fix the meaning of an act as consent by an agent, then the first agent consented to the act.
+
+# The implicit-theft bug: inability itself becomes a crossing (the debtor
+# who cannot pay is branded a thief).
+If an act is the failure of a transfer from an agent, and the transfer is a conditional transfer from the first agent to a second agent, then the act is an act of the first agent crossing the property boundary of the second agent.
