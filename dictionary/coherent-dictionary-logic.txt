@@ -1,0 +1,133 @@
+# Coherent Dictionary of Simple English
+# Logic Rendering (Mechanical Logic)
+#
+# Date: 2026-08-27
+# Source: dictionary/coherent-dictionary-mechanical.txt (the Mechanical
+#   rendering; each rule below names the entry it formalizes)
+# Vocabulary: dictionary/mechanical-vocabulary.md -- every content word in
+#   this file reconciles against the same vocabulary gate as the rendering.
+#
+# Form: a companion to the prose entries. Every sentence here has exactly one
+# machine-derivable reading and compiles to logic. The reading rules are:
+#   - Each clause matches exactly one declared relation (one surface, one
+#     meaning -- the same law the words obey). The relations in use:
+#       {A} is an act of {X} crossing {K} boundary of {Y}
+#       {V} consented to {E}
+#       the harm of {E} reaches {K}
+#       {E} is a hostile crossing of {V} by {A} in {K}
+#       {E} stands in a Forfeiture
+#       {F} stops a crossing that continues with the minimum force
+#       {A} forfeits {K} to {V} after {E}
+#       the forfeiture of {A} to {V} has ended
+#       {F} is later than {E}
+#       {X} holds a mandate from {V}
+#       {E} makes no victim
+#       {E} is a crime by {A} with victim {V}
+#       the moral debt of {A} to {V} from {E} exists
+#       {E} is murder by {A} of {V}
+#       {A} is an outlaw
+#       {J} is a collection by {X} on the debt from {E}
+#       {V} releases the debt from {E}
+#       the moral debt of {A} to {V} from {E} is closed by justice
+#       the moral debt of {A} to {V} from {E} is closed
+#       {R} is a restitution by {A} to {V} for {E}
+#       the damage of {E} is repaired
+#       the moral debt of {A} to {V} from {E} remains open
+#       the debt of {A} to {V} from {E} is closed outside Justice
+#       {F} was caused by the fraud of {D}
+#       {D} is responsible for {F}
+#   - "an agent" introduces an agent; "the agent" is the most recent one;
+#     "the second agent" pins by order of introduction.
+#   - "a second X" inside "it is not true that ..." means: no such X exists.
+#   - Sentences under "Stratum N." are rules evaluated in that order, per
+#     event in temporal order; "Final." rules run once after the last event.
+#   - "It is at no time true that ..." states an integrity constraint: a
+#     rulebook or a case that derives it is incoherent.
+#
+# Checked by: C:/Users/Piotr/tmp/mech_logic.py (parse, vocabulary, compile,
+# derive, integrity, planted-axiom selftest). Coverage today: the Forfeiture
+# cluster. Coverage grows entry by entry.
+
+Stratum 1. What an act is, and what its harm reaches.
+
+# From: Forfeiture.
+If an act is an act of an agent crossing a kind of boundary of a second agent, then the harm of the act reaches the kind.
+
+# From: Violation.
+If an act is an act of an agent crossing a kind of boundary of a second agent, and it is not true that the second agent consented to the act, then the act is a hostile crossing of the second agent by the first agent in the kind.
+
+Stratum 2. When an act stands in a Forfeiture.
+
+# From: Forfeiture (phase two: the victim holds it).
+If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to the first agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the first agent has ended, then the first act stands in a Forfeiture.
+
+# From: Forfeiture (phase two: a proxy in the mandate of the victim).
+If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to a third agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the third agent has ended, and the first agent holds a mandate from the third agent, then the first act stands in a Forfeiture.
+
+# From: Self-Defense (phase one).
+If an act stops a crossing that continues with the minimum force, then the act stands in a Forfeiture.
+
+# From: Outlaw (phase three).
+If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent is an outlaw, then the act stands in a Forfeiture.
+
+Stratum 3. Verdicts.
+
+# From: Victim.
+If an act is a hostile crossing of an agent by a second agent in a kind, and the act stands in a Forfeiture, then the act makes no victim.
+
+# From: Crime.
+If an act is a hostile crossing of an agent by a second agent in a kind, and it is not true that the act stands in a Forfeiture, then the act is a crime by the second agent with victim the first agent.
+
+# From: Guilt.
+If an act is a crime by an agent with victim a second agent, then the moral debt of the first agent to the second agent from the act exists.
+
+# From: Murder.
+If an act is a crime by an agent with victim a second agent, and the act is an act of the first agent crossing the life boundary of the second agent, then the act is murder by the first agent of the second agent.
+
+# From: Murder, Outlaw.
+If an act is murder by an agent of a second agent, then the first agent is an outlaw.
+
+Stratum 4. What an unsanctioned crossing forfeits.
+
+# From: Forfeiture.
+If an act is a hostile crossing of an agent by a second agent in a kind, and it is not true that the act stands in a Forfeiture, and the harm of the act reaches a second kind, then the second agent forfeits the second kind to the first agent after the act.
+
+Stratum 5. Justice and repair.
+
+# From: Justice (collection).
+If an act is a collection by an agent on the debt from a second act, and the first act stands in a Forfeiture, and the moral debt of a second agent to a third agent from the second act exists, and it is not true that the second agent is an outlaw, then the moral debt of the second agent to the third agent from the second act is closed by justice.
+
+# From: Forgiveness (release).
+If an agent releases the debt from an act, and the moral debt of a second agent to the first agent from the act exists, and it is not true that the second agent is an outlaw, then the moral debt of the second agent to the first agent from the act is closed by justice.
+
+# From: Justice.
+If the moral debt of an agent to a second agent from an act is closed by justice, then the moral debt of the first agent to the second agent from the act is closed.
+
+# From: Forfeiture (the end of a forfeiture).
+If the moral debt of an agent to a second agent from an act is closed, then the forfeiture of the first agent to the second agent has ended.
+
+# From: Restitution.
+If a restitution is a restitution by an agent to a second agent for an act, then the damage of the act is repaired.
+
+Final. What remains open, and who answers.
+
+# From: Justice.
+If the moral debt of an agent to a second agent from an act exists, and it is not true that the moral debt of the first agent to the second agent from the act is closed, then the moral debt of the first agent to the second agent from the act remains open.
+
+# From: Restitution, Justice ("only Justice closes it").
+If the moral debt of an agent to a second agent from an act is closed, and it is not true that the moral debt of the first agent to the second agent from the act is closed by justice, then the debt of the first agent to the second agent from the act is closed outside Justice.
+
+# From: Forfeiture (responsibility follows causation).
+If an act is a crime by an agent with victim a second agent, and the act was caused by the fraud of a third agent, then the third agent is responsible for the act.
+If an act is a crime by an agent with victim a second agent, and it is not true that the act was caused by the fraud of a third agent, then the first agent is responsible for the act.
+
+# Integrity. Only Justice closes a moral debt, and no verdict is double.
+
+# From: Victim, Crime.
+It is at no time true that an act makes no victim while the act is a crime by an agent with victim a second agent.
+
+# From: Justice.
+It is at no time true that the moral debt of an agent to a second agent from an act is closed while the moral debt of the first agent to the second agent from the act remains open.
+
+# From: Restitution ("it does not by itself erase Guilt").
+It is at no time true that the debt of an agent to a second agent from an act is closed outside Justice.
