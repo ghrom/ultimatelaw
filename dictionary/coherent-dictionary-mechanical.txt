@@ -6,7 +6,7 @@ Source: dictionary/coherent-dictionary-of-simple-english.txt (canonical, after t
 Vocabulary: dictionary/mechanical-vocabulary.md (the controlled vocabulary that this rendering uses)
 Form: a controlled language -- one meaning per word, short sentences, active voice
 
-This file gives all 192 terms of the Coherent Dictionary of Simple English in Mechanical.
+This file gives all 195 terms of the Coherent Dictionary of Simple English in Mechanical.
 The rules applied are: approved words only (Rule 1.1), with the technical nouns and technical verbs that Rules 1.5 and 1.12 permit and that the extension declares. One word has one meaning (Rule 1.3). Verbs use only the simple tenses (Rule 3.2), with no complex verb constructions (Rule 3.4). The "-ing" form appears only in technical nouns (Rule 3.5). The voice is active (Rule 3.6). Each descriptive sentence has 25 words or less (Rule 6.3). Each paragraph has one topic (Rule 6.5) and six sentences or less (Rule 6.6). There are no semicolons (Rule 8.1) and no contractions (Rule 4.2). Each term of this dictionary is a declared technical noun, and the extension lists each added or changed word with its one meaning.
 
 The Law predates and stands above the controlled language. It is reproduced verbatim, exempt by its own clause: "it cannot be changed, all the rest is commentary."
@@ -24,7 +24,7 @@ Agent
 An agent is a thing that can have intentions, make decisions, and start actions.
 
 Agreement
-In an agreement, all sides freely know and accept the terms of a planned interaction that has an effect on boundaries. An agreement must be clear and voluntary. If there is no agreement and no permission, an action that crosses the boundary of a different agent is a violation, and it causes harm.
+In an agreement, all sides freely know and accept the terms of a planned interaction that has an effect on boundaries. An agreement must be clear and voluntary. If there is no agreement and no permission, an action that crosses the boundary of a different agent is a violation, and it causes harm. This holds only where no Forfeiture stands.
 
 Art
 Art is a made pattern which has this intention: to express, to explore, or to communicate something to other agents. Art does not require beauty, approval, or agreement. The one necessary property of art is the intention of the maker to share a perception, a feeling, an idea, or an experience. The meaning of art is not only in the object. The meaning occurs in the interaction between the pattern and the observer. Different observers can have different responses, and no person can make one response the "correct" response.
@@ -149,7 +149,7 @@ That is a rich world, full of surprises, full of other minds that it cannot full
 A rich world feeds curiosity, and that food is one of the keys to Happiness. Curiosity in a dead world is hunger with no food.
 
 Currency
-Currency is money that persons widely accept. Its value comes from trust that the issuer will give the value that the money names, not from its material. An issuer who holds the value and refuses to give it does Theft. An issuer who cannot give it took no thing, and thus did no Theft. If the issuer at no time could give it, or did not show that fact, that is Fraud.
+Currency is money that persons widely accept. Its value comes from trust that the issuer will give the value that the money names, not from its material. An issuer who holds the value and refuses to give it does Theft. An issuer who cannot give it took no thing, crossed no boundary by that alone, and did no Theft. If the issuer at no time could give it, that is Fraud. It is also Fraud if the issuer hides that fact.
 If authority commands persons to accept a currency, that adds no value. It only adds victims.
 
 Damage
@@ -161,7 +161,7 @@ A deal is a voluntary agreement to exchange value. A deal is legitimate only whe
 Debt
 A debt is a conditional transfer of Ownership with a stated date. The agent who owes consented to it, thus honest debt is voluntary. Ownership moves as the property comes to the agent who owes. The property that the agent holds when the date comes is the property of the holder. An agent who holds the value and refuses to give it does Theft, and Restitution follows. An agent who cannot give the value took no thing, and does no Theft.
 The holder can then get only the things that the parties agreed. These are a stated thing that moves on failure, or property that comes to the agent who owes at a later time. If the parties agreed no more than that, the claim stops there.
-No part of this gives a right to use force on the body of the agent who owes. It gives no right to make them do labor without consent. It gives no right to keep a debt that has no end. A debt that authority, a vote, or a claim of necessity commands, without consent, is not debt. It is Coercion, and no person owes it.
+No part of this gives a right to hold the agent who owes in a prison, or to use force on their body. It gives no right to make them do labor without consent. It gives no right to keep a debt that has no end. A debt that authority, a vote, or a claim of necessity commands, without consent, is not debt. It is Coercion, and no person owes it.
 
 Decentralized Knowledge
 Decentralized knowledge is the idea that no one person or group can know all that other persons require, want, or can do. Persons know their own lives best. Thus central plans, as in socialism, fail, because they ignore this wisdom that lives in many minds.
@@ -239,13 +239,13 @@ It extends across each kind that the full harm reached, and only the victim, or 
 The measure of a forfeiture is the kind that the full harm reached, not the size of the thing that the offender took. The ceiling for a thief is the loss of all the property of the thief. Because the thief took the property of a different agent, the thief loses the protection of their own property. A theft that goes sufficiently deep to cost lives reaches the body.
 Then death becomes the ceiling. Force above the kinds that the full harm reached crosses an intact boundary. To kill a thief who took only property is a new crime with a new victim. The person who increased the force becomes an aggressor.
 A forfeiture stops when Justice closes the moral debt, by collection or by release. After that, the boundaries of the former offender stand whole again. Harm to them then makes a victim, like each other victim. A forfeiture that was at no time real protects no person who acts on it.
-To punish the incorrect agent, or to end an agent who is not an Outlaw, crosses an intact boundary. Responsibility for that harm follows causation. It falls on a deceiver who caused the act by fraud. In other conditions it falls on the actor, without attention to their beliefs.
+To punish the incorrect agent crosses an intact boundary. To end an agent as an Outlaw, when the agent is not an Outlaw, also crosses an intact boundary. Responsibility for that harm follows causation. It falls on a deceiver who caused the act by fraud. In other conditions it falls on the actor, without attention to their beliefs.
 
 Forgiveness
 Forgiveness is a type of Justice in which the victim closes the moral debt by voluntary release. Forgiveness can also release restitution that remains open. Forgiveness is valid only when the real victim gives it freely, without coercion or pressure. Forgiveness is a gift, not an obligation. No person can demand it, enforce it, or give it for the victim.
 
 Fraud
-Fraud is deception that a deceiver uses to get value, control, or agreement. With full information, the deceived agent gives no such agreement.
+Fraud is deception that a deceiver uses to get value, control, or agreement. With full information, the deceived agent gives no such value, control, or agreement.
 
 Free Communication
 Free communication is the voluntary exchange of information, thoughts, or ideas between agents. Communication requires consent, truth, and freedom from force. Without these, communication becomes manipulation or coercion.
@@ -335,13 +335,13 @@ An intention is a planned direction for action. Intention is important when we t
 
 IOU
 An IOU is a conditional transfer of Ownership of a stated quantity of a scarce thing, that the issuer will give at a future date. The issuer keeps the thing until the agreed date, and ownership moves on the terms that the parties set. The trust behind an IOU is its only strength, because only trust makes the issuer give the value when the date comes. An issuer who holds the value that the IOU names and refuses to give it does Theft. An issuer who cannot give it took no thing, and the holder can get only the things that the terms state.
-It is Fraud only if the issuer had no intention to give the value. It is also Fraud if the issuer did not show the facts that made the transfer not possible.
+It is Fraud only if the issuer had no intention to give the value. It is also Fraud if the issuer hides the facts that made the transfer not possible.
 
 Judge
 A judge is an agent who discovers proven facts, and who states how Law applies to those facts. A Judge does not make Law, guilt, Justice, responsibility, or status. These follow from facts and Law. The authority of the statement of a Judge comes only from its correct application of Law. A statement that contradicts evidence or logic is Error, without attention to who made it.
 
 Judgment
-A judgment is a falsifiable statement by a Judge of how Law applies to proven facts. A Judgment states these things: the events, the agent who caused harm, the victim, and the restitution and proportion that follow. It also states the guilt, if guilt exists, and each status that results. A Judgment discovers and records these consequences.
+A judgment is a falsifiable statement by a Judge of how Law applies to proven facts. A Judgment states these things: the events, the agent who caused harm, the victim, and the restitution and proportion that follow. It also states if guilt exists or does not exist, and each status that results. A Judgment discovers and records these consequences.
 It does not make Law, guilt, or Justice. A Judgment has authority only while its facts remain proven, and while its logic remains correct. When a person disproves the facts or the logic, the Judgment must change.
 
 Justice
@@ -352,7 +352,7 @@ A punisher who acts for a victim is a proxy for Justice. The legitimacy of the p
 Kindness
 Kindness is voluntary action with one of two aims. One aim is to decrease the real harm of a different agent. The other aim is to help them to the things that they choose when they can choose. Kindness does not cross their boundaries, and it does not override the consent of a capable agent.
 Kindness is offered, not owed. No one can demand, enforce, or take it. A thing that a person forces on a different person is not kindness. It is harm, with no attention to its name.
-For a capable agent, kindness obeys refusal: help only with permission, or in manners that do not cross their body, property, or agreements. Some persons temporarily do not have the capacity to know a real risk, for example a young child, or a person who temporarily cannot act. For them, kindness can include guardianship. That guardianship is the minimum necessary temporary guardianship that prevents harms that they cannot yet measure.
+For a capable agent, kindness obeys refusal: help only with permission, or in manners that do not cross their body, property, or agreements. Some persons temporarily do not have the capacity to know a real risk. Examples are a young child, and a person with a mind that temporarily cannot know the risk. For them, kindness can include guardianship. That guardianship is the minimum necessary temporary guardianship that prevents harms that they cannot yet measure.
 Such guardianship always has one purpose: to make self-ownership full again as soon as they are able. Guardianship that goes above the necessary minimum, that continues without an end, or that stops the growth of capacity, is not kindness. It is control.
 Kindness is not reciprocity, not justice, and not love. Kindness does not erase guilt, does not close moral debt, and does not require a bond that continues. Kindness is good when it obeys consent and makes no unwilling victim. Kindness is not good when it overrides autonomy, when it hides deception, or when it says that capable adults cannot choose.
 
@@ -423,11 +423,11 @@ Morality
 Morality means: do the correct thing, with logic as the base, and harm no person against their will. No system is moral if it requires force without consent, for example when it takes labor because of "necessity" or votes. True morality obeys reciprocity: "do not do to others what they would not want done to them." An agent who breaks this rule meets correction.
 
 Murder
-Murder occurs when a person kills, with intention, an agent who did not consent to die, and who had intact boundaries. To kill in a Forfeiture is not murder. Examples are these: collection in proportion, in the mandate of a victim. A second example is self-defense against an attack that continues or is immediately credible. A third example is the end of an outlaw.
+Murder occurs when an agent kills, with intention, a different agent who did not consent to die, and who had intact boundaries. To kill in a Forfeiture is not murder. Examples are these: collection in proportion, in the mandate of a victim. A second example is self-defense against an attack that continues or is immediately credible. A third example is the end of an outlaw.
 Murder is unique in one manner: it destroys the only agent with the sovereign power to close the moral debt that it makes. The victim cannot collect, in retribution. The victim cannot release, in forgiveness. And the victim cannot give a mandate to a proxy. Thus murder makes permanent guilt that no one can close. Murder puts the offender outside the system of reciprocity.
 
 Negligence
-Negligence is a failure to do the reasonable actions that prevent harm.
+Negligence is a failure of an agent to do the reasonable actions that prevent the harm that the agent causes.
 
 Nomocracy
 Nomocracy is rule by law, where the law comes from logic and reciprocity, not from the will of rulers or groups. In a nomocracy, only rules that prevent or repair real harm are legitimate. No agent and no authority stands above the law.
@@ -543,7 +543,7 @@ Responsibility
 Responsibility is the connection between an action and the agent who caused its effects. Responsibility includes the obligation to repair or compensate all harm that the action did. Responsibility follows causation, not status or power.
 
 Restitution
-Restitution gives back the property that an offender took, or its value, to the agent who owns it. Restitution repairs the material Damage: the part of the loss that persons can measure. Restitution alone does not erase Guilt. The moral debt comes from causation, and only Justice closes it, as the victim directs through Retribution or release. Punishment works through Restitution and Retribution, and one does not replace the other. The victim alone receives Restitution, and Proportion limits it.
+Restitution gives back the thing that an offender took, or its value, to the agent who owns it. Restitution repairs the material Damage: the part of the loss that persons can measure. Restitution alone does not erase Guilt. The moral debt comes from causation, and only Justice closes it, as the victim directs through Retribution or release. Punishment works through Restitution and Retribution, and one does not replace the other. The victim alone receives Restitution, and Proportion limits it.
 
 Retribution
 Retribution is a type of Justice. In retribution, the victim, or a proxy who acts for the victim, closes the moral debt. They mirror the harm back to the offender, in proportion. Retribution without a victim is injustice. Retribution above proportion becomes revenge.
