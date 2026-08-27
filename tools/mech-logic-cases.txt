@@ -85,6 +85,16 @@ e29 is an act of kobe crossing the property boundary of lena.
 the words of lena show consent to e29.
 e30 is a promise by mark to nora.
 
+# Justice completion: oscar steals from pam, and pam -- who holds the
+# property forfeiture -- kills him: collection that left its kinds, so it
+# is a crime AND revenge (and murder, so pam is an outlaw). Dave, who is
+# not the victim, "releases" carol's debt to dan: inert, because only the
+# victim's release closes anything.
+e31 is an act of oscar crossing the property boundary of pam.
+e32 is an act of pam crossing the life boundary of oscar.
+e32 is later than e31.
+dave releases the debt from e6.
+
 Expected.
 
 e2 makes no victim.
@@ -115,6 +125,10 @@ the value of t4 is the property of fay.
 greg deceived hana about e27.
 e27 is a crime by greg with victim hana.
 e28 is a crime by ivan with victim jana.
+e31 is a crime by oscar with victim pam.
+e32 is a crime by pam with victim oscar.
+e32 is revenge by pam on oscar.
+pam is an outlaw.
 
 Absent.
 
@@ -126,6 +140,7 @@ e22 is a crime by adam with victim beth.
 e26 is a crime by emil with victim fay.
 e29 is a crime by kobe with victim lena.
 e30 is a crime by mark with victim nora.
+the moral debt of carol to dan from e6 is closed.
 
 Planted.
 
@@ -138,3 +153,6 @@ If the circumstances fix the meaning of an act as consent by an agent, then the 
 # The implicit-theft bug: inability itself becomes a crossing (the debtor
 # who cannot pay is branded a thief).
 If an act is the failure of a transfer from an agent, and the transfer is a conditional transfer from the first agent to a second agent, then the act is an act of the first agent crossing the property boundary of the second agent.
+
+# The sovereignty bug: an agent who is not the victim closes the debt.
+If the moral debt of an agent to a second agent from an act exists, and a third agent releases the debt from the act, then the moral debt of the first agent to the second agent from the act is closed.

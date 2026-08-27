@@ -89,6 +89,7 @@ RELATIONS = [
     "the moral debt of {A:agent} to {V:agent} from {E:act} exists",
     "{E:act} is murder by {A:agent} of {V:agent}",
     "{A:agent} is an outlaw",
+    "{E:act} is revenge by {A:agent} on {V:agent}",
     "{J:act} is a collection by {X:agent} on the debt from {E:act}",
     "{V:agent} releases the debt from {E:act}",
     "the moral debt of {A:agent} to {V:agent} from {E:act} is closed by justice",
@@ -273,6 +274,34 @@ def vocab_residue(text, extra_ok=()):
     return bad
 
 
+# ---------------------------------------------------------------- coverage
+def coverage():
+    """The ledger: every dictionary entry is either formalized (named in a
+    '# From:' attribution), declared prose-only ('# Prose:' lines), or
+    unaccounted. Unknown names and double-claims are failures."""
+    raw = RULES_FILE.read_text(encoding='utf-8')
+
+    def names(text):
+        text = re.split(r'[("]', text)[0]
+        return {n.strip().rstrip('.').strip()
+                for n in text.split(',') if n.strip().rstrip('.').strip()}
+
+    attributed, prose = set(), set()
+    for m in re.finditer(r'^# From: ([^\n]+)', raw, re.M):
+        attributed |= names(m.group(1))
+    for m in re.finditer(r'^# Prose: ([^\n]+)', raw, re.M):
+        prose |= names(m.group(1))
+    known = {e['term'] for e in parse_dictionary(CANON)}
+    return {
+        'formalized': attributed & known,
+        'prose': prose & known,
+        'unknown': (attributed | prose) - known,
+        'conflict': attributed & prose,
+        'unaccounted': known - attributed - prose,
+        'total': len(known),
+    }
+
+
 # ---------------------------------------------------------------- the run
 def load(path):
     lines = []
@@ -425,7 +454,21 @@ def main():
     planted_ok = bool(vp)
     print(f'  {"PASS" if planted_ok else "FAIL"}  the contradiction must be flagged')
 
-    ok = fails == 0 and clean_ok and planted_ok and not bad
+    cov = coverage()
+    print(f'\n[coverage] formalized {len(cov["formalized"])} / '
+          f'prose-only {len(cov["prose"])} / '
+          f'unaccounted {len(cov["unaccounted"])} of {cov["total"]} entries')
+    cov_ok = not cov['unknown'] and not cov['conflict']
+    if cov['unknown']:
+        print(f'  FAIL  unknown names in attributions: {sorted(cov["unknown"])}')
+    if cov['conflict']:
+        print(f'  FAIL  both formalized and prose-only: {sorted(cov["conflict"])}')
+    if cov['unaccounted']:
+        u = sorted(cov['unaccounted'])
+        print(f'  not yet accounted: {", ".join(u[:12])}'
+              + (f' ... and {len(u) - 12} more' if len(u) > 12 else ''))
+
+    ok = fails == 0 and clean_ok and planted_ok and not bad and cov_ok
     print('\n=> %s' % ('ALL PASS -- Mechanical sentences ARE the executable doctrine'
                        if ok else 'FAILURES PRESENT'))
     return 0 if ok else 1

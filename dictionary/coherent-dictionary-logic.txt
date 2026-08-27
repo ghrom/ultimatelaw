@@ -47,6 +47,7 @@
 #       the moral debt of {A} to {V} from {E} exists
 #       {E} is murder by {A} of {V}
 #       {A} is an outlaw
+#       {E} is revenge by {A} on {V}
 #       {J} is a collection by {X} on the debt from {E}
 #       {V} releases the debt from {E}
 #       the moral debt of {A} to {V} from {E} is closed by justice
@@ -94,17 +95,18 @@ If a transfer is a conditional transfer from an agent to a second agent, and an 
 
 Stratum 2. What transfers make acts mean.
 
-# From: Debt, IOU, Currency ("an agent who holds the value and refuses to
-# give it does Theft") -- to withhold what title moved is a crossing, and
-# the Forfeiture machinery takes it from here.
+# From: Debt, IOU, Currency, Theft ("an agent who holds the value and
+# refuses to give it does Theft") -- to withhold what title moved is a
+# crossing, and the Forfeiture machinery takes it from here.
 If an agent refuses to give the value of a transfer at an act, and the value of the transfer is the property of a second agent, and the first agent holds the value of the transfer, then the act is an act of the first agent crossing the property boundary of the second agent.
 
-# From: IOU ("it is Fraud only if the issuer had no intention to give the
-# value") -- fraud is deception, and deception routes through consent.
+# From: IOU, Fraud ("it is Fraud only if the issuer had no intention to
+# give the value") -- fraud is deception, and deception routes through
+# consent.
 If an act is the trade of a transfer by an agent to a second agent, and the first agent had no intention to give the value of the transfer, then the first agent deceived the second agent about the act.
 
-# From: IOU, Currency ("it is also Fraud if the issuer hides the facts that
-# made the transfer not possible").
+# From: IOU, Currency, Fraud ("it is also Fraud if the issuer hides the
+# facts that made the transfer not possible").
 If an act is the trade of a transfer by an agent to a second agent, and the first agent hides the facts that made the transfer not possible, then the first agent deceived the second agent about the act.
 
 # From: Promise ("a bare promise is one that moved no title, and it leaves
@@ -128,7 +130,8 @@ If an agent gives permission for an act, and it is not true that the permission 
 # given no consent -- that is the absence of this showing fact).
 If the conduct of an agent shows the intention of consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
-# From: Consent ("freely, without pressure, deception, or manipulation").
+# From: Consent, Deception, Duress ("freely, without pressure, deception,
+# or manipulation").
 If the words of an agent show consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
 # From: Agreement ("all sides freely know and accept the terms").
@@ -136,18 +139,20 @@ If an agent accepts the terms of an act in an agreement, and it is not true that
 
 Stratum 5. What an act is, and what its harm reaches.
 
-# From: Forfeiture.
+# From: Forfeiture, Harm (the harm of a crossing reaches its kind).
 If an act is an act of an agent crossing a kind of boundary of a second agent, then the harm of the act reaches the kind.
 
-# From: Violation.
+# From: Violation, Boundary.
 If an act is an act of an agent crossing a kind of boundary of a second agent, and it is not true that the second agent consented to the act, then the act is a hostile crossing of the second agent by the first agent in the kind.
 
 Stratum 6. When an act stands in a Forfeiture.
 
-# From: Forfeiture (phase two: the victim holds it).
+# From: Forfeiture, Proportion (phase two: the victim holds it; the reach
+# is the kind, not the size).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to the first agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the first agent has ended, then the first act stands in a Forfeiture.
 
-# From: Forfeiture (phase two: a proxy in the mandate of the victim).
+# From: Forfeiture, Punisher, Mandate (phase two: a proxy in the mandate
+# of the victim).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to a third agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the third agent has ended, and the first agent holds a mandate from the third agent, then the first act stands in a Forfeiture.
 
 # From: Self-Defense (phase one).
@@ -173,14 +178,21 @@ If an act is a crime by an agent with victim a second agent, and the act is an a
 # From: Murder, Outlaw.
 If an act is murder by an agent of a second agent, then the first agent is an outlaw.
 
+# From: Revenge, Retribution ("retribution above proportion becomes
+# revenge") -- a crime by the very agent the victim's forfeiture ran to is
+# collection that left its kinds.
+If an act is a crime by an agent with victim a second agent, and the second agent forfeits a kind to the first agent after a second act, and it is not true that the forfeiture of the second agent to the first agent has ended, then the first act is revenge by the first agent on the second agent.
+
 Stratum 8. What an unsanctioned crossing forfeits.
 
-# From: Forfeiture.
+# From: Forfeiture, Rights, Reciprocity (to claim a right is to owe the
+# identical right; the crossing withdraws one's own).
 If an act is a hostile crossing of an agent by a second agent in a kind, and it is not true that the act stands in a Forfeiture, and the harm of the act reaches a second kind, then the second agent forfeits the second kind to the first agent after the act.
 
 Stratum 9. Justice and repair.
 
-# From: Justice (collection).
+# From: Justice, Retribution, Punishment (collection: retribution in
+# proportion closes the debt).
 If an act is a collection by an agent on the debt from a second act, and the first act stands in a Forfeiture, and the moral debt of a second agent to a third agent from the second act exists, and it is not true that the second agent is an outlaw, then the moral debt of the second agent to the third agent from the second act is closed by justice.
 
 # From: Forgiveness (release).
@@ -192,7 +204,8 @@ If the moral debt of an agent to a second agent from an act is closed by justice
 # From: Forfeiture (the end of a forfeiture).
 If the moral debt of an agent to a second agent from an act is closed, then the forfeiture of the first agent to the second agent has ended.
 
-# From: Restitution.
+# From: Restitution, Punishment, Damage (restitution repairs the material
+# damage; punishment works through restitution and retribution).
 If a restitution is a restitution by an agent to a second agent for an act, then the damage of the act is repaired.
 
 Final. What remains open, who answers, and the consent audit.
