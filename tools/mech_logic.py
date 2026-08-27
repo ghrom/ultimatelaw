@@ -294,24 +294,35 @@ def vocab_residue(text, extra_ok=()):
 def coverage():
     """The ledger: every dictionary entry is either formalized (named in a
     '# From:' attribution), declared prose-only ('# Prose:' lines), or
-    unaccounted. Unknown names and double-claims are failures."""
+    unaccounted. A term claimed both ways is a failure; a typo in a name
+    simply leaves its term visibly unaccounted. Matching is exact term
+    text (case-sensitive, word-bounded), so names with parentheses or
+    slashes work."""
     raw = RULES_FILE.read_text(encoding='utf-8')
+    known = {e['term'] for e in parse_dictionary(CANON)}
 
-    def names(text):
-        text = re.split(r'[("]', text)[0]
-        return {n.strip().rstrip('.').strip()
-                for n in text.split(',') if n.strip().rstrip('.').strip()}
+    def hits(line):
+        # longest match wins: "Free Trade" does not also claim "Trade"
+        spans = []
+        for t in known:
+            for m in re.finditer(
+                    r'(?<![A-Za-z])' + re.escape(t) + r'(?![A-Za-z])', line):
+                spans.append((m.start(), m.end(), t))
+        out = set()
+        for s, e, t in spans:
+            if not any(s2 <= s and e <= e2 and (s2, e2) != (s, e)
+                       for s2, e2, _ in spans):
+                out.add(t)
+        return out
 
     attributed, prose = set(), set()
     for m in re.finditer(r'^# From: ([^\n]+)', raw, re.M):
-        attributed |= names(m.group(1))
+        attributed |= hits(m.group(1))
     for m in re.finditer(r'^# Prose: ([^\n]+)', raw, re.M):
-        prose |= names(m.group(1))
-    known = {e['term'] for e in parse_dictionary(CANON)}
+        prose |= hits(m.group(1))
     return {
-        'formalized': attributed & known,
-        'prose': prose & known,
-        'unknown': (attributed | prose) - known,
+        'formalized': attributed - prose,
+        'prose': prose - attributed,
         'conflict': attributed & prose,
         'unaccounted': known - attributed - prose,
         'total': len(known),
@@ -474,9 +485,7 @@ def main():
     print(f'\n[coverage] formalized {len(cov["formalized"])} / '
           f'prose-only {len(cov["prose"])} / '
           f'unaccounted {len(cov["unaccounted"])} of {cov["total"]} entries')
-    cov_ok = not cov['unknown'] and not cov['conflict']
-    if cov['unknown']:
-        print(f'  FAIL  unknown names in attributions: {sorted(cov["unknown"])}')
+    cov_ok = not cov['conflict']
     if cov['conflict']:
         print(f'  FAIL  both formalized and prose-only: {sorted(cov["conflict"])}')
     if cov['unaccounted']:

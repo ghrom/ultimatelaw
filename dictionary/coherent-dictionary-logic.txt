@@ -97,8 +97,9 @@
 
 Stratum 1. Title: what a conditional transfer moves, and when.
 
-# From: Debt ("the property that the agent holds when the date comes is the
-# property of the holder").
+# From: Debt, Money ("the property that the agent holds when the date
+# comes is the property of the holder" -- money is such a transferable
+# conditional title).
 If a transfer is a conditional transfer from an agent to a second agent, and the condition of the transfer occurs at an act, then the value of the transfer is the property of the second agent.
 
 # From: Debt ("an agent who cannot give the value took no thing, and does
@@ -109,16 +110,17 @@ If a transfer is a conditional transfer from an agent to a second agent, and the
 # penalty is itself a conditional transfer, and it passes on its own terms).
 If a transfer is a conditional transfer from an agent to a second agent, and an act is the failure of the first transfer from the first agent, and a second transfer is the stated thing of the first transfer that moves on failure, then the condition of the second transfer occurs at the act.
 
-# From: Ownership, Property, Scarcity ("first use of a thing that no one
-# owned, or voluntary transfer from a prior owner" -- the only two sources).
+# From: Ownership, Property, Scarcity, Self-Ownership ("first use of a
+# thing that no one owned, or voluntary transfer from a prior owner" --
+# the only two sources; it begins with the body).
 If an agent takes a thing into first use at an act, then the thing is the property of the first agent.
 If a thing is the property of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
 
 Stratum 2. What transfers make acts mean.
 
-# From: Debt, IOU, Currency, Theft ("an agent who holds the value and
-# refuses to give it does Theft") -- to withhold what title moved is a
-# crossing, and the Forfeiture machinery takes it from here.
+# From: Debt, IOU, Currency, Theft, Obligation ("an agent who holds the
+# value and refuses to give it does Theft") -- to withhold what title
+# moved is a crossing, and the Forfeiture machinery takes it from here.
 If an agent refuses to give the value of a transfer at an act, and the value of the transfer is the property of a second agent, and the first agent holds the value of the transfer, then the act is an act of the first agent crossing the property boundary of the second agent.
 
 # From: IOU, Fraud ("it is Fraud only if the issuer had no intention to
@@ -130,7 +132,8 @@ If an act is the trade of a transfer by an agent to a second agent, and the firs
 # facts that made the transfer not possible").
 If an act is the trade of a transfer by an agent to a second agent, and the first agent hides the facts that made the transfer not possible, then the first agent deceived the second agent about the act.
 
-# From: Lie / Lying (a lie is deception with intention).
+# From: Lie / Lying, Communication (a lie is deception with intention;
+# it breaks what communication is for).
 If an agent lies to a second agent in an act, then the first agent deceived the second agent about the act.
 
 # From: Promise ("a bare promise is one that moved no title, and it leaves
@@ -145,23 +148,32 @@ If an agent takes back the permission for an act at a second act, and the first 
 
 Stratum 4. How consent comes to stand.
 
-# From: Permission ("covers only the action the agent gave it for, and lasts
-# only while the agent gives it").
+# From: Permission, License ("covers only the action the agent gave it
+# for, and lasts only while the agent gives it" -- a license is this
+# scope-bounded permission set by contract).
 If an agent gives permission for an act, and it is not true that the permission for the act has ended, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
-# From: Conduct ("when conduct shows the same intention as words, it shows
-# Consent as words do, and no more"; an agent who had no such intention has
-# given no consent -- that is the absence of this showing fact).
+# From: Conduct, Intention, Behavior ("when conduct shows the same
+# intention as words, it shows Consent as words do, and no more"; an agent
+# who had no such intention has given no consent -- that is the absence of
+# this showing fact).
 If the conduct of an agent shows the intention of consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
-# From: Consent, Deception, Duress ("freely, without pressure, deception,
-# or manipulation").
+# From: Consent, Deception, Duress, Choice, Decision, Force, Violence, Threat
+# ("freely, without pressure, deception, or manipulation" -- a choice made
+# under force, threats, or lies is no consent).
 If the words of an agent show consent to an act, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
-# From: Agreement ("all sides freely know and accept the terms").
+# From: Agreement, Terms, Trade, Deal, Exchange, Service, Trade Partner
+# ("all sides freely know and accept the terms" -- every voluntary
+# exchange stands on this consent).
 If an agent accepts the terms of an act in an agreement, and it is not true that a second agent deceived the first agent about the act, and it is not true that duress caused the consent of the first agent to the act, then the first agent consented to the act.
 
 Stratum 5. What an act is, and what its harm reaches.
+
+# From: Action, Agent, Agency, Cause, Effect, Consequence (an act is a
+# change in the environment that an agent causes; the typed event model
+# and everything it derives are these entries' substrate).
 
 # From: Forfeiture, Harm (the harm of a crossing reaches its kind).
 If an act is an act of an agent crossing a kind of boundary of a second agent, then the harm of the act reaches the kind.
@@ -175,21 +187,22 @@ Stratum 6. When an act stands in a Forfeiture.
 # is the kind, not the size).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to the first agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the first agent has ended, then the first act stands in a Forfeiture.
 
-# From: Forfeiture, Punisher, Mandate (phase two: a proxy in the mandate
-# of the victim).
+# From: Forfeiture, Punisher, Mandate, Enforcement (phase two: a proxy in
+# the mandate of the victim).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and the second agent forfeits the kind to a third agent after a second act, and the first act is later than the second act, and it is not true that the forfeiture of the second agent to the third agent has ended, and the first agent holds a mandate from the third agent, then the first act stands in a Forfeiture.
 
 # From: Self-Defense (phase one).
 If an act stops a crossing that continues with the minimum force, then the act stands in a Forfeiture.
 
-# From: Outlaw (phase three: general and permanent from the murder on --
-# an act BEFORE the murder is judged against the boundaries that stood
-# then).
+# From: Outlaw, Time (phase three: general and permanent from the murder
+# on -- an act BEFORE the murder is judged against the boundaries that
+# stood then).
 If an act is an act of an agent crossing a kind of boundary of a second agent, and a second act is murder by the second agent of a third agent, and the first act is later than the second act, then the first act stands in a Forfeiture.
 
 Stratum 7. Verdicts.
 
-# From: Victim.
+# From: Victim, Evil, Victimless, Victimless Trade (harm in a Forfeiture
+# makes no victim and is not evil; what makes no victim is no crime).
 If an act is a hostile crossing of an agent by a second agent in a kind, and the act stands in a Forfeiture, then the act makes no victim.
 
 # From: Crime.
@@ -218,8 +231,9 @@ If an act is a crime by an agent with victim a second agent, and the first agent
 
 Stratum 8. What an unsanctioned crossing forfeits.
 
-# From: Forfeiture, Rights, Reciprocity (to claim a right is to owe the
-# identical right; the crossing withdraws one's own).
+# From: Forfeiture, Rights, Reciprocity, Golden Rule (Passive Version)
+# (to claim a right is to owe the identical right; the crossing withdraws
+# one's own).
 If an act is a hostile crossing of an agent by a second agent in a kind, and it is not true that the act stands in a Forfeiture, and the harm of the act reaches a second kind, then the second agent forfeits the second kind to the first agent after the act.
 
 Stratum 9. Justice and repair.
@@ -249,7 +263,8 @@ If the moral debt of an agent to a second agent from an act exists, and it is no
 # From: Restitution, Justice ("only Justice closes it").
 If the moral debt of an agent to a second agent from an act is closed, and it is not true that the moral debt of the first agent to the second agent from the act is closed by justice, then the debt of the first agent to the second agent from the act is closed outside Justice.
 
-# From: Forfeiture (responsibility follows causation).
+# From: Forfeiture, Responsibility, Responsibilities (responsibility
+# follows causation, not status or power).
 If an act is a crime by an agent with victim a second agent, and the act was caused by the fraud of a third agent, then the third agent is responsible for the act.
 If an act is a crime by an agent with victim a second agent, and it is not true that the act was caused by the fraud of a third agent, then the first agent is responsible for the act.
 
@@ -257,8 +272,8 @@ If an act is a crime by an agent with victim a second agent, and it is not true 
 # Conduct carried").
 If an agent consented to an act, and it is not true that the first agent gives permission for the act, and it is not true that the conduct of the first agent shows the intention of consent to the act, and it is not true that the words of the first agent show consent to the act, and it is not true that the first agent accepts the terms of the act in an agreement, then the consent of the first agent to the act stands outside words and conduct.
 
-# From: Judgment, Judge, Evidence, Error ("when a person disproves the
-# facts or the logic, the Judgment must change"; a statement that
+# From: Judgment, Judge, Evidence, Claim, Error ("when a person disproves
+# the facts or the logic, the Judgment must change"; a statement that
 # contradicts evidence or logic is Error).
 If an agent disproves the facts of an act, then the authority of the act has ended.
 
@@ -266,9 +281,9 @@ If an agent disproves the facts of an act, then the authority of the act has end
 # it does not make guilt") -- guilt lives only in causation.
 If the moral debt of an agent to a second agent from an act exists, and it is not true that the act is a crime by the first agent with victim the second agent, then the moral debt of the first agent to the second agent from the act stands outside causation.
 
-# From: Coercion, Authority, Government, Regulation ("a debt that
-# authority, a vote, or a claim of necessity commands, without consent, is
-# not debt").
+# From: Coercion, Authority, Government, Regulation, Control ("a debt
+# that authority, a vote, or a claim of necessity commands, without
+# consent, is not debt"; control over others requires their consent).
 If the value of a transfer is the property of an agent, and the transfer is commanded by authority on a second agent for the first agent, then the ownership of the value of the transfer stands outside consent.
 
 # From: Ownership, Property ("creation alone confers nothing" -- ownership
@@ -279,6 +294,10 @@ If a thing is the property of an agent, and it is not true that the first agent 
 # (guilt never pools: no rule reaches from "is part of the group of" to
 # any debt -- that absence is the doctrine, and the causation constraint
 # catches any axiom that tries).
+
+# From: Nomocracy, Logic, Law (rule by law from logic and reciprocity: no
+# agent and no authority stands above the constraints below, and the Law
+# itself stays verbatim -- these rules are its derivation, not its text).
 
 # Integrity. Only Justice closes a moral debt, consent comes only through
 # words and conduct, and no verdict is double.
@@ -294,6 +313,29 @@ It is at no time true that the debt of an agent to a second agent from an act is
 
 # From: Circumstances.
 It is at no time true that the consent of an agent to an act stands outside words and conduct.
+
+# Prose only. These entries are worldview, description, or definition with
+# no cases for the rules to judge. They are deliberately not formalized;
+# the ledger holds them accounted, and moving one above requires rules.
+# Prose: Art, Attention, Autonomy, Awareness, Beauty, Belief, Benefit
+# Prose: Brand, Capitalism, Civilization, Civilizational Velocity
+# Prose: Competition, Consciousness, Correlation, Curiosity
+# Prose: Decentralized Knowledge, Democracy, Deterrence, Economy, Emergence
+# Prose: Eschatology, Expression, Faith, Fallibility, Fear
+# Prose: Free Communication, Free Trade, Free Will, Freedom
+# Prose: Freedom of Speech, Good, Good News, Happiness, Hierarchy, Idea
+# Prose: Ignorance, Incentives, Individual, Infinite Change, Influence
+# Prose: Innovation, Input, Intellectual Property, Intelligence, Kindness
+# Prose: Knowledge, Learning, Legitimate, Lesser Evil, Liberty, Love
+# Prose: Market, Market Dominance, Mental, Mind, Mind Virus, Model
+# Prose: Monopoly, Morality, Negligence, Output, Pain, Pattern, People
+# Prose: Perception, Perimeter, Politician, Power, Prediction, Price
+# Prose: Privacy, Process, Production, Profit, Qualia, Reality, Reason
+# Prose: Reputation, Right to Free Trade, Risk, Safety, Self-Awareness
+# Prose: Signal, Singleton, Social Construct, Socialism, Society, Software
+# Prose: Subconscious, System, Thought, Timeless Infinity, Trust, Truth
+# Prose: Tyranny, Understanding, Universe, Value, Voluntaryism, War
+# Prose: Way of Happiness, Will, Wisdom, Zero-Sum
 
 # From: Consent.
 It is at no time true that an act is a crime by an agent with victim a second agent while the second agent consented to the act.
