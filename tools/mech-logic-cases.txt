@@ -44,7 +44,7 @@ e16 is an act of pia crossing the property boundary of quinn.
 the circumstances fix the meaning of e16 as consent by quinn.
 e17 is an act of rex crossing the property boundary of sara.
 the words of sara show consent to e17.
-rex deceived sara about e17.
+rex lies to sara in e17.
 e18 is an act of una crossing the property boundary of tom.
 the words of tom show consent to e18.
 e19 is an act of walt crossing the property boundary of vera.
@@ -95,6 +95,23 @@ e32 is an act of pam crossing the life boundary of oscar.
 e32 is later than e31.
 dave releases the debt from e6.
 
+# Adjudication: a judgment blames tom for e18 (where una crossed WITH
+# consent) -- it creates nothing; quinn disproves its facts and its
+# authority ends.
+e33 is a judgment that tom caused the harm of e18 to una.
+quinn disproves the facts of e33.
+
+# Property: first use, then voluntary transfer; a made thing with no
+# first use and no transfer confers nothing. A commanded "transfer" is
+# not a debt and moves no ownership. Membership reaches nothing.
+g1 is a scarce thing.
+adam takes g1 into first use at e35.
+adam gives g1 to beth at e36.
+carl makes g2 at e37.
+t8 is commanded by authority on emil for taxman.
+the condition of t8 occurs at e34.
+hugo is part of the group of alice.
+
 Expected.
 
 e2 makes no victim.
@@ -129,6 +146,13 @@ e31 is a crime by oscar with victim pam.
 e32 is a crime by pam with victim oscar.
 e32 is revenge by pam on oscar.
 pam is an outlaw.
+the authority of e33 has ended.
+g1 is the property of adam.
+g1 is the property of beth.
+e1 is Theft by alice from bob.
+e24 is Theft by carl from dora.
+e17 is Fraud by rex on sara.
+e27 is Fraud by greg on hana.
 
 Absent.
 
@@ -141,6 +165,10 @@ e26 is a crime by emil with victim fay.
 e29 is a crime by kobe with victim lena.
 e30 is a crime by mark with victim nora.
 the moral debt of carol to dan from e6 is closed.
+the moral debt of tom to una from e18 exists.
+g2 is the property of carl.
+the value of t8 is the property of taxman.
+the moral debt of hugo to bob from e1 exists.
 
 Planted.
 
@@ -156,3 +184,15 @@ If an act is the failure of a transfer from an agent, and the transfer is a cond
 
 # The sovereignty bug: an agent who is not the victim closes the debt.
 If the moral debt of an agent to a second agent from an act exists, and a third agent releases the debt from the act, then the moral debt of the first agent to the second agent from the act is closed.
+
+# The juristic bug: a judgment makes guilt.
+If an act is a judgment that an agent caused the harm of a second act to a second agent, then the moral debt of the first agent to the second agent from the second act exists.
+
+# The Locke bug: making a thing confers ownership.
+If an agent makes a thing at an act, then the thing is the property of the first agent.
+
+# The statist bug: a commanded transfer is a debt.
+If a transfer is commanded by authority on an agent for a second agent, then the transfer is a conditional transfer from the first agent to the second agent.
+
+# The collective bug: a member owes for the crime of the group.
+If an act is a crime by an agent with victim a second agent, and a third agent is part of the group of the first agent, then the moral debt of the third agent to the second agent from the act exists.

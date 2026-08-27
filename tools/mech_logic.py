@@ -50,7 +50,7 @@ CASES_FILE = HERE / 'mech-logic-cases.txt'
 
 # ------------------------------------------------------------- the relations
 # One surface, one meaning. {Name:type} slots take a noun phrase of that type.
-TYPES = ('agent', 'act', 'kind', 'restitution', 'transfer')
+TYPES = ('agent', 'act', 'kind', 'restitution', 'transfer', 'thing')
 
 RELATIONS = [
     "{A:act} is an act of {X:agent} crossing {K:kind} boundary of {Y:agent}",
@@ -76,6 +76,22 @@ RELATIONS = [
     "{A:agent} had no intention to give the value of {T:transfer}",
     "{A:agent} hides the facts that made {T:transfer} not possible",
     "{E:act} is a promise by {A:agent} to {V:agent}",
+    "{J:act} is a judgment that {A:agent} caused the harm of {E:act} to {V:agent}",
+    "{X:agent} disproves the facts of {J:act}",
+    "the authority of {J:act} has ended",
+    "the moral debt of {A:agent} to {V:agent} from {E:act} stands outside causation",
+    "{G:thing} is a scarce thing",
+    "{A:agent} takes {G:thing} into first use at {E:act}",
+    "{A:agent} gives {G:thing} to {V:agent} at {E:act}",
+    "{G:thing} is the property of {A:agent}",
+    "{A:agent} makes {G:thing} at {E:act}",
+    "the ownership of {G:thing} stands outside first use and transfer",
+    "{E:act} is Theft by {A:agent} from {V:agent}",
+    "{T:transfer} is commanded by authority on {A:agent} for {V:agent}",
+    "the ownership of the value of {T:transfer} stands outside consent",
+    "{A:agent} lies to {V:agent} in {E:act}",
+    "{E:act} is Fraud by {A:agent} on {V:agent}",
+    "{X:agent} is part of the group of {A:agent}",
     "the harm of {E:act} reaches {K:kind}",
     "{E:act} is a hostile crossing of {V:agent} by {A:agent} in {K:kind}",
     "{E:act} stands in a Forfeiture",
