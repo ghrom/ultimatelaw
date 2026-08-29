@@ -113,6 +113,7 @@ RELATIONS = [
     "{E:act} is commanded by a vote on {V:agent}",
     "{T:transfer} is commanded by a vote on {A:agent} for {V:agent}",
     "{G:thing} is the body of {A:agent}",
+    "{G:thing} is a pattern",
     "{J:act} stands in Error",
     "{E:act} stands exempt by authority for {A:agent}",
     "{J:act} is a collection by {X:agent} on the debt from {E:act}",

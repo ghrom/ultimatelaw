@@ -71,6 +71,7 @@
 #       {E} is commanded by a vote on {V}
 #       {T} is commanded by a vote on {A} for {V}
 #       {G} is the body of {A}
+#       {G} is a pattern
 #       {J} stands in Error
 #       {E} stands exempt by authority for {A}
 #       {J} is a collection by {X} on the debt from {E}
@@ -365,12 +366,12 @@ It is at no time true that the consent of an agent to an act stands outside word
 # Prose: Decentralized Knowledge, Deterrence, Economy, Emergence
 # Prose: Eschatology, Expression, Faith, Fallibility, Fear
 # Prose: Free Communication, Free Trade, Free Will, Freedom
-# Prose: Freedom of Speech, Good, Good News, Happiness, Hierarchy, Idea
+# Prose: Freedom of Speech, Good, Good News, Happiness, Hierarchy
 # Prose: Ignorance, Incentives, Individual, Infinite Change, Influence
-# Prose: Innovation, Input, Intellectual Property, Intelligence, Kindness
+# Prose: Innovation, Input, Intelligence, Kindness
 # Prose: Knowledge, Learning, Legitimate, Lesser Evil, Liberty, Love
 # Prose: Market, Market Dominance, Mental, Mind, Mind Virus, Model
-# Prose: Monopoly, Morality, Negligence, Output, Pain, Pattern, People
+# Prose: Monopoly, Morality, Negligence, Output, Pain, People
 # Prose: Perception, Perimeter, Politician, Power, Prediction, Price
 # Prose: Privacy, Process, Production, Profit, Qualia, Reality, Reason
 # Prose: Reputation, Right to Free Trade, Risk, Safety, Self-Awareness
@@ -391,6 +392,11 @@ It is at no time true that the moral debt of an agent to a second agent from an 
 
 # From: Causation, Collective Punishment, Collective Responsibility.
 It is at no time true that the crime of an agent in an act stands outside the act.
+
+# From: Intellectual Property, Idea, Pattern, Scarcity (an idea is not a
+# scarce thing: a copy takes nothing from anyone, so no pattern can carry
+# title -- the whole chain to property is cut at scarcity).
+It is at no time true that a thing is a pattern while the thing is a scarce thing.
 
 # From: Ownership.
 It is at no time true that the ownership of a thing stands outside first use and transfer.

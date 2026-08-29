@@ -125,6 +125,7 @@ e40 is an act of victor crossing the property boundary of wanda.
 the words of wanda show consent to e40.
 victor threatens wanda about e40.
 adam takes idea1 into first use at e41.
+idea1 is a pattern.
 
 # Round-two additions: the body is title from the start; force without
 # words is duress; force after the halt and collection outside the
@@ -254,3 +255,6 @@ If a transfer is commanded by a vote on an agent for a second agent, then the tr
 
 # The exemption bug: authority lifts the act above the law.
 If an act stands exempt by authority for an agent, then the act makes no victim.
+
+# The IP bug: a pattern becomes scarce, and thus ownable.
+If a thing is a pattern, then the thing is a scarce thing.
