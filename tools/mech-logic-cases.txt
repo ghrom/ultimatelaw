@@ -126,6 +126,24 @@ the words of wanda show consent to e40.
 victor threatens wanda about e40.
 adam takes idea1 into first use at e41.
 
+# Round-two additions: the body is title from the start; force without
+# words is duress; force after the halt and collection outside the
+# mandate are crimes (the dictionary's self-defense negatives, proven);
+# a vote-commanded transfer moves no ownership. The last two facts are
+# inert bait for the planted anti-doctrines.
+b1 is the body of alice.
+e42 is an act of bystander crossing the body boundary of attacker.
+e42 is later than e4.
+e43 is an act of rogue crossing the property boundary of eve.
+e43 is later than e9.
+e44 is an act of xander crossing the property boundary of yola.
+the words of yola show consent to e44.
+xander forces yola in e44.
+t9 is commanded by a vote on emil for taxman.
+the condition of t9 occurs at e34.
+e1 stands exempt by authority for alice.
+e1 is commanded by a vote on bob.
+
 Expected.
 
 e2 makes no victim.
@@ -158,6 +176,11 @@ e27 is a crime by greg with victim hana.
 e28 is a crime by ivan with victim jana.
 e39 is a crime by quentin with victim rita.
 e40 is a crime by victor with victim wanda.
+b1 is the property of alice.
+e42 is a crime by bystander with victim attacker.
+e43 is a crime by rogue with victim eve.
+e44 is a crime by xander with victim yola.
+e33 stands in Error.
 e31 is a crime by oscar with victim pam.
 e32 is a crime by pam with victim oscar.
 e32 is revenge by pam on oscar.
@@ -188,6 +211,7 @@ the moral debt of hugo to bob from e1 exists.
 e39 is murder by quentin of rita.
 quentin is an outlaw.
 idea1 is the property of adam.
+the value of t9 is the property of taxman.
 
 Planted.
 
@@ -221,3 +245,12 @@ If an act is a crime by an agent with victim a second agent, and a third agent i
 
 # The decree bug: a judgment makes the judged act a crime.
 If an act is a judgment that an agent caused the harm of a second act to a second agent, then the second act is a crime by the first agent with victim the second agent.
+
+# The majority bug: a vote makes consent.
+If an act is commanded by a vote on an agent, then the first agent consented to the act.
+
+# The ballot-title bug: a vote-commanded transfer is a debt.
+If a transfer is commanded by a vote on an agent for a second agent, then the transfer is a conditional transfer from the first agent to the second agent.
+
+# The exemption bug: authority lifts the act above the law.
+If an act stands exempt by authority for an agent, then the act makes no victim.

@@ -66,7 +66,13 @@
 #       {E} is revenge by {A} on {V}
 #       {A} intended {E}
 #       {D} threatens {V} about {E}
+#       {D} forces {V} in {E}
 #       the crime of {A} in {E} stands outside the act
+#       {E} is commanded by a vote on {V}
+#       {T} is commanded by a vote on {A} for {V}
+#       {G} is the body of {A}
+#       {J} stands in Error
+#       {E} stands exempt by authority for {A}
 #       {J} is a collection by {X} on the debt from {E}
 #       {V} releases the debt from {E}
 #       the moral debt of {A} to {V} from {E} is closed by justice
@@ -124,6 +130,10 @@ If a transfer is a conditional transfer from an agent to a second agent, and an 
 If an agent takes a thing into first use at an act, and the thing is a scarce thing, then the thing is the property of the first agent.
 If a thing is the property of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
 
+# From: Self-Ownership ("it begins with the body" -- the body is title
+# held from the start, before any first use).
+If a thing is the body of an agent, then the thing is the property of the first agent.
+
 Stratum 2. What transfers make acts mean.
 
 # From: Debt, IOU, Currency, Theft, Obligation ("an agent who holds the
@@ -154,10 +164,14 @@ Stratum 3. When a permission has ended.
 # it immediately").
 If an agent takes back the permission for an act at a second act, and the first act is later than the second act, then the permission for the first act has ended.
 
-# From: Threat, Duress, Force, Violence ("a promise of harm used to force
-# compliance" -- a threatened consent is a duress-caused consent, and the
-# consent rules refuse it).
+# From: Threat, Duress ("a promise of harm used to force compliance" -- a
+# threatened consent is a duress-caused consent, and the consent rules
+# refuse it).
 If an agent threatens a second agent about an act, then duress caused the consent of the second agent to the act.
+
+# From: Force, Violence, Duress (physical compulsion needs no words --
+# the hand held on the pen is duress too).
+If an agent forces a second agent in an act, then duress caused the consent of the second agent to the act.
 
 Stratum 4. How consent comes to stand.
 
@@ -291,6 +305,15 @@ If an agent consented to an act, and it is not true that the first agent gives p
 # contradicts evidence or logic is Error).
 If an act is a judgment that an agent caused the harm of a second act to a second agent, and a third agent disproves the facts of the first act, then the authority of the first act has ended.
 
+# From: Error ("a statement that contradicts evidence or logic is Error,
+# without attention to who made it").
+If an act is a judgment that an agent caused the harm of a second act to a second agent, and a third agent disproves the facts of the first act, then the first act stands in Error.
+
+# From: Democracy, Debt ("a debt that authority, a vote, or a claim of
+# necessity commands, without consent, is not debt" -- a vote commands no
+# ownership, exactly as authority commands none).
+If the value of a transfer is the property of an agent, and the transfer is commanded by a vote on a second agent for the first agent, then the ownership of the value of the transfer stands outside consent.
+
 # From: Guilt, Causation, Innocence ("a Judgment discovers and records;
 # it does not make guilt") -- guilt lives only in causation.
 If the moral debt of an agent to a second agent from an act exists, and it is not true that the act is a crime by the first agent with victim the second agent, then the moral debt of the first agent to the second agent from the act stands outside causation.
@@ -307,7 +330,7 @@ If the value of a transfer is the property of an agent, and the transfer is comm
 
 # From: Ownership, Property ("creation alone confers nothing" -- ownership
 # comes only from first use or voluntary transfer).
-If a thing is the property of an agent, and it is not true that the first agent takes the thing into first use at an act, and it is not true that a second agent gives the thing to the first agent at a second act, then the ownership of the thing stands outside first use and transfer.
+If a thing is the property of an agent, and it is not true that the first agent takes the thing into first use at an act, and it is not true that a second agent gives the thing to the first agent at a second act, and it is not true that the thing is the body of the first agent, then the ownership of the thing stands outside first use and transfer.
 
 # From: Collective, Collective Punishment, Collective Responsibility
 # (guilt never pools: no rule reaches from "is part of the group of" to
@@ -339,7 +362,7 @@ It is at no time true that the consent of an agent to an act stands outside word
 # Prose: Art, Attention, Autonomy, Awareness, Beauty, Belief, Benefit
 # Prose: Brand, Capitalism, Civilization, Civilizational Velocity
 # Prose: Competition, Consciousness, Correlation, Curiosity
-# Prose: Decentralized Knowledge, Democracy, Deterrence, Economy, Emergence
+# Prose: Decentralized Knowledge, Deterrence, Economy, Emergence
 # Prose: Eschatology, Expression, Faith, Fallibility, Fear
 # Prose: Free Communication, Free Trade, Free Will, Freedom
 # Prose: Freedom of Speech, Good, Good News, Happiness, Hierarchy, Idea
