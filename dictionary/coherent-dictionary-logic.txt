@@ -72,6 +72,7 @@
 #       {T} is commanded by a vote on {A} for {V}
 #       {G} is the body of {A}
 #       {G} is a pattern
+#       the ownership of {G} stands outside its agent
 #       {J} stands in Error
 #       {E} stands exempt by authority for {A}
 #       {J} is a collection by {X} on the debt from {E}
@@ -129,7 +130,7 @@ If a transfer is a conditional transfer from an agent to a second agent, and an 
 # the only two sources; it begins with the body; only a SCARCE thing takes
 # title, which is why an idea is nobody's property).
 If an agent takes a thing into first use at an act, and the thing is a scarce thing, then the thing is the property of the first agent.
-If a thing is the property of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
+If a thing is the property of an agent, and the first agent gives the thing to a second agent at an act, and it is not true that the thing is the body of the first agent, then the thing is the property of the second agent.
 
 # From: Self-Ownership ("it begins with the body" -- the body is title
 # held from the start, before any first use).
@@ -329,6 +330,10 @@ If an act is a crime by an agent with victim a second agent, and it is not true 
 # consent, is not debt"; control over others requires their consent).
 If the value of a transfer is the property of an agent, and the transfer is commanded by authority on a second agent for the first agent, then the ownership of the value of the transfer stands outside consent.
 
+# From: Self-Ownership, Slavery (a body owned by anyone but its own agent
+# is the audit's target; the owner who IS the body's agent passes).
+If a thing is the property of an agent, and the thing is the body of a second agent, and it is not true that the thing is the body of the first agent, then the ownership of the first thing stands outside its agent.
+
 # From: Ownership, Property ("creation alone confers nothing" -- ownership
 # comes only from first use or voluntary transfer).
 If a thing is the property of an agent, and it is not true that the first agent takes the thing into first use at an act, and it is not true that a second agent gives the thing to the first agent at a second act, and it is not true that the thing is the body of the first agent, then the ownership of the thing stands outside first use and transfer.
@@ -397,6 +402,11 @@ It is at no time true that the crime of an agent in an act stands outside the ac
 # scarce thing: a copy takes nothing from anyone, so no pattern can carry
 # title -- the whole chain to property is cut at scarcity).
 It is at no time true that a thing is a pattern while the thing is a scarce thing.
+
+# From: Self-Ownership, Slavery, Debt ("nothing licenses a term of forced
+# labor" -- the body is inalienable: a gift of it is void, not a crime,
+# and no chain of transfers ends with one agent owning another).
+It is at no time true that the ownership of a thing stands outside its agent.
 
 # From: Ownership.
 It is at no time true that the ownership of a thing stands outside first use and transfer.

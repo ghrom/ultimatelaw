@@ -133,6 +133,7 @@ idea1 is a pattern.
 # a vote-commanded transfer moves no ownership. The last two facts are
 # inert bait for the planted anti-doctrines.
 b1 is the body of alice.
+alice gives b1 to bob at e45.
 e42 is an act of bystander crossing the body boundary of attacker.
 e42 is later than e4.
 e43 is an act of rogue crossing the property boundary of eve.
@@ -213,6 +214,7 @@ e39 is murder by quentin of rita.
 quentin is an outlaw.
 idea1 is the property of adam.
 the value of t9 is the property of taxman.
+b1 is the property of bob.
 
 Planted.
 
@@ -258,3 +260,6 @@ If an act stands exempt by authority for an agent, then the act makes no victim.
 
 # The IP bug: a pattern becomes scarce, and thus ownable.
 If a thing is a pattern, then the thing is a scarce thing.
+
+# The slavery bug: a gift of the body transfers it like any thing.
+If a thing is the body of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
