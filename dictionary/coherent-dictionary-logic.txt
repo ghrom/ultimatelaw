@@ -84,6 +84,10 @@
 #     event in temporal order; "Final." rules run once after the last event.
 #   - "It is at no time true that ..." states an integrity constraint: a
 #     rulebook or a case that derives it is incoherent.
+#   - Some relations appear in NO rule here by design: they are the bait of
+#     the planted anti-doctrines in the test suite (circumstances fixing
+#     meaning as consent, making a thing, judgments that blame, group
+#     membership). A reader who finds them "dead" has found the traps.
 #
 # Consent is not a primitive here. It is derived through the channels the
 # entries declare -- permission, conduct, words, agreement -- each blocked by
