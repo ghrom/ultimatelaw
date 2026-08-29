@@ -66,6 +66,7 @@
 #       {E} is revenge by {A} on {V}
 #       {A} intended {E}
 #       {D} threatens {V} about {E}
+#       {D} threatens {K} boundary of {V} at {E}
 #       {D} forces {V} in {E}
 #       the crime of {A} in {E} stands outside the act
 #       {E} is commanded by a vote on {V}
@@ -155,6 +156,13 @@ If an act is the trade of a transfer by an agent to a second agent, and the firs
 # From: Lie / Lying, Communication (a lie is deception with intention;
 # it breaks what communication is for).
 If an agent lies to a second agent in an act, then the first agent deceived the second agent about the act.
+
+# From: Threat, Violence ("a threat is already a form of violence" -- a
+# credible threat crosses the threatened kind itself: to threaten the house
+# crosses the property boundary, to threaten the life crosses the life
+# boundary. The forfeiture it creates reaches only the threatened kind, so
+# escalation against a threatener stays a new crime).
+If an agent threatens a kind of boundary of a second agent at an act, then the act is an act of the first agent crossing the kind boundary of the second agent.
 
 # From: Promise ("a bare promise is one that moved no title, and it leaves
 # the other agent no claim"). No rule consumes a bare promise: that absence

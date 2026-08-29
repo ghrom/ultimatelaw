@@ -146,6 +146,15 @@ the condition of t9 occurs at e34.
 e1 stands exempt by authority for alice.
 e1 is commanded by a vote on bob.
 
+# Threat crosses the threatened kind (Pete's ruling): zack's credible
+# threat against abby's property is itself a property crossing -- a crime
+# that forfeits only the property kind, so abby's lethal answer to a
+# property threat is a new crime.
+zack threatens the property boundary of abby at e46.
+e47 is an act of abby crossing the life boundary of zack.
+e47 is later than e46.
+abby intended e47.
+
 Expected.
 
 e2 makes no victim.
@@ -183,6 +192,9 @@ e42 is a crime by bystander with victim attacker.
 e43 is a crime by rogue with victim eve.
 e44 is a crime by xander with victim yola.
 e33 stands in Error.
+e46 is a crime by zack with victim abby.
+zack forfeits the property to abby after e46.
+e47 is a crime by abby with victim zack.
 e31 is a crime by oscar with victim pam.
 e32 is a crime by pam with victim oscar.
 e32 is revenge by pam on oscar.
