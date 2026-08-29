@@ -64,6 +64,9 @@
 #       {E} is murder by {A} of {V}
 #       {A} is an outlaw
 #       {E} is revenge by {A} on {V}
+#       {A} intended {E}
+#       {D} threatens {V} about {E}
+#       the crime of {A} in {E} stands outside the act
 #       {J} is a collection by {X} on the debt from {E}
 #       {V} releases the debt from {E}
 #       the moral debt of {A} to {V} from {E} is closed by justice
@@ -112,8 +115,9 @@ If a transfer is a conditional transfer from an agent to a second agent, and an 
 
 # From: Ownership, Property, Scarcity, Self-Ownership ("first use of a
 # thing that no one owned, or voluntary transfer from a prior owner" --
-# the only two sources; it begins with the body).
-If an agent takes a thing into first use at an act, then the thing is the property of the first agent.
+# the only two sources; it begins with the body; only a SCARCE thing takes
+# title, which is why an idea is nobody's property).
+If an agent takes a thing into first use at an act, and the thing is a scarce thing, then the thing is the property of the first agent.
 If a thing is the property of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
 
 Stratum 2. What transfers make acts mean.
@@ -145,6 +149,11 @@ Stratum 3. When a permission has ended.
 # From: Permission ("a word or a change of Conduct that takes it back ends
 # it immediately").
 If an agent takes back the permission for an act at a second act, and the first act is later than the second act, then the permission for the first act has ended.
+
+# From: Threat, Duress, Force, Violence ("a promise of harm used to force
+# compliance" -- a threatened consent is a duress-caused consent, and the
+# consent rules refuse it).
+If an agent threatens a second agent about an act, then duress caused the consent of the second agent to the act.
 
 Stratum 4. How consent comes to stand.
 
@@ -211,8 +220,9 @@ If an act is a hostile crossing of an agent by a second agent in a kind, and it 
 # From: Guilt.
 If an act is a crime by an agent with victim a second agent, then the moral debt of the first agent to the second agent from the act exists.
 
-# From: Murder.
-If an act is a crime by an agent with victim a second agent, and the act is an act of the first agent crossing the life boundary of the second agent, then the act is murder by the first agent of the second agent.
+# From: Murder, Intention ("kills, with intention" -- an unintended killing
+# is a crime, but not murder, and makes no outlaw).
+If an act is a crime by an agent with victim a second agent, and the act is an act of the first agent crossing the life boundary of the second agent, and the first agent intended the act, then the act is murder by the first agent of the second agent.
 
 # From: Murder, Outlaw.
 If an act is murder by an agent of a second agent, then the first agent is an outlaw.
@@ -275,11 +285,16 @@ If an agent consented to an act, and it is not true that the first agent gives p
 # From: Judgment, Judge, Evidence, Claim, Error ("when a person disproves
 # the facts or the logic, the Judgment must change"; a statement that
 # contradicts evidence or logic is Error).
-If an agent disproves the facts of an act, then the authority of the act has ended.
+If an act is a judgment that an agent caused the harm of a second act to a second agent, and a third agent disproves the facts of the first act, then the authority of the first act has ended.
 
 # From: Guilt, Causation, Innocence ("a Judgment discovers and records;
 # it does not make guilt") -- guilt lives only in causation.
 If the moral debt of an agent to a second agent from an act exists, and it is not true that the act is a crime by the first agent with victim the second agent, then the moral debt of the first agent to the second agent from the act stands outside causation.
+
+# From: Causation, Collective Punishment ("a crime belongs to the agent
+# whose act crossed the boundary" -- no decree, judgment, vote, or group
+# membership can make someone else's act your crime).
+If an act is a crime by an agent with victim a second agent, and it is not true that the act is an act of the first agent crossing a kind of boundary of the second agent, then the crime of the first agent in the act stands outside the act.
 
 # From: Coercion, Authority, Government, Regulation, Control ("a debt
 # that authority, a vote, or a claim of necessity commands, without
@@ -346,6 +361,9 @@ It is at no time true that an act is a crime by an agent with victim a second ag
 
 # From: Innocence, Causation.
 It is at no time true that the moral debt of an agent to a second agent from an act stands outside causation.
+
+# From: Causation, Collective Punishment, Collective Responsibility.
+It is at no time true that the crime of an agent in an act stands outside the act.
 
 # From: Ownership.
 It is at no time true that the ownership of a thing stands outside first use and transfer.

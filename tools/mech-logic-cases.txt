@@ -10,14 +10,17 @@ e2 is later than e1.
 e2 is a collection by bob on the debt from e1.
 e3 is an act of vigilante crossing the life boundary of alice.
 e3 is later than e1.
+vigilante intended e3.
 e4 is an act of attacker crossing the body boundary of walker.
 e5 is an act of bystander crossing the body boundary of attacker.
 e5 stops a crossing that continues with the minimum force.
 e5 is later than e4.
 e6 is an act of carol crossing the life boundary of dan.
+carol intended e6.
 e7 is an act of dave crossing the life boundary of carol.
 e7 is later than e6.
 e8 is an act of punisher crossing the life boundary of frank.
+punisher intended e8.
 e8 was caused by the fraud of deceiver.
 e9 is an act of eve crossing the property boundary of grace.
 the harm of e9 reaches the life.
@@ -93,6 +96,7 @@ e30 is a promise by mark to nora.
 e31 is an act of oscar crossing the property boundary of pam.
 e32 is an act of pam crossing the life boundary of oscar.
 e32 is later than e31.
+pam intended e32.
 dave releases the debt from e6.
 
 # Adjudication: a judgment blames tom for e18 (where una crossed WITH
@@ -105,12 +109,22 @@ quinn disproves the facts of e33.
 # first use and no transfer confers nothing. A commanded "transfer" is
 # not a debt and moves no ownership. Membership reaches nothing.
 g1 is a scarce thing.
+g2 is a scarce thing.
 adam takes g1 into first use at e35.
 adam gives g1 to beth at e36.
 carl makes g2 at e37.
 t8 is commanded by authority on emil for taxman.
 the condition of t8 occurs at e34.
 hugo is part of the group of alice.
+
+# Grok-review additions: an unintended killing (crime, not murder, no
+# outlaw), a consent voided by threat, and a first use of a non-scarce
+# thing (an idea takes no title).
+e39 is an act of quentin crossing the life boundary of rita.
+e40 is an act of victor crossing the property boundary of wanda.
+the words of wanda show consent to e40.
+victor threatens wanda about e40.
+adam takes idea1 into first use at e41.
 
 Expected.
 
@@ -142,6 +156,8 @@ the value of t4 is the property of fay.
 greg deceived hana about e27.
 e27 is a crime by greg with victim hana.
 e28 is a crime by ivan with victim jana.
+e39 is a crime by quentin with victim rita.
+e40 is a crime by victor with victim wanda.
 e31 is a crime by oscar with victim pam.
 e32 is a crime by pam with victim oscar.
 e32 is revenge by pam on oscar.
@@ -169,6 +185,9 @@ the moral debt of tom to una from e18 exists.
 g2 is the property of carl.
 the value of t8 is the property of taxman.
 the moral debt of hugo to bob from e1 exists.
+e39 is murder by quentin of rita.
+quentin is an outlaw.
+idea1 is the property of adam.
 
 Planted.
 
@@ -196,3 +215,9 @@ If a transfer is commanded by authority on an agent for a second agent, then the
 
 # The collective bug: a member owes for the crime of the group.
 If an act is a crime by an agent with victim a second agent, and a third agent is part of the group of the first agent, then the moral debt of the third agent to the second agent from the act exists.
+
+# The collective-verdict bug: the group's crime IS the member's crime.
+If an act is a crime by an agent with victim a second agent, and a third agent is part of the group of the first agent, then the act is a crime by the third agent with victim the second agent.
+
+# The decree bug: a judgment makes the judged act a crime.
+If an act is a judgment that an agent caused the harm of a second act to a second agent, then the second act is a crime by the first agent with victim the second agent.
