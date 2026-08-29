@@ -155,6 +155,14 @@ e47 is an act of abby crossing the life boundary of zack.
 e47 is later than e46.
 abby intended e47.
 
+# The command doctrine (Pete's Option B): duke orders earl to kill finn.
+# Two crimes, two debts, one harm -- and both are murders, both outlaws.
+e48 is a command by duke to earl to do e49.
+e49 is an act of earl crossing the life boundary of finn.
+e49 is later than e48.
+earl intended e49.
+duke intended e48.
+
 Expected.
 
 e2 makes no victim.
@@ -195,6 +203,13 @@ e33 stands in Error.
 e46 is a crime by zack with victim abby.
 zack forfeits the property to abby after e46.
 e47 is a crime by abby with victim zack.
+e49 is a crime by earl with victim finn.
+e48 is a crime by duke with victim finn.
+the moral debt of earl to finn from e49 exists.
+the moral debt of duke to finn from e48 exists.
+e48 is murder by duke of finn.
+duke is an outlaw.
+earl is an outlaw.
 e31 is a crime by oscar with victim pam.
 e32 is a crime by pam with victim oscar.
 e32 is revenge by pam on oscar.
@@ -275,3 +290,6 @@ If a thing is a pattern, then the thing is a scarce thing.
 
 # The slavery bug: a gift of the body transfers it like any thing.
 If a thing is the body of an agent, and the first agent gives the thing to a second agent at an act, then the thing is the property of the second agent.
+
+# The orders bug: following an order excuses the actor.
+If an act is a command by an agent to a second agent to do a second act, then the second act makes no victim.

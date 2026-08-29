@@ -240,6 +240,7 @@ The measure of a forfeiture is the kind that the full harm reached, not the size
 Then death becomes the ceiling. Force above the kinds that the full harm reached crosses an intact boundary. To kill a thief who took only property is a new crime with a new victim. The person who increased the force becomes an aggressor.
 A forfeiture stops when Justice closes the moral debt, by collection or by release. After that, the boundaries of the former offender stand whole again. Harm to them then makes a victim, like each other victim. A forfeiture that was at no time real protects no person who acts on it.
 To punish the incorrect agent crosses an intact boundary. To end an agent as an Outlaw, when the agent is not an Outlaw, also crosses an intact boundary. Responsibility for that harm follows causation. It falls on a deceiver who caused the act by fraud. In other conditions it falls on the actor, without attention to their beliefs.
+A command that causes a crime is the own act of the agent who commands. That act crosses the boundary of the victim, in the kind that the command names. One harm can then hold two crimes: the command and the act that obeys it. Each crime has its own guilt, its own debt, and its own Forfeiture, because each agent caused the harm. A command excuses no person. Only fraud, which replaces the knowledge of the actor, removes responsibility from the agent who did the crossing.
 
 Forgiveness
 Forgiveness is a type of Justice in which the victim closes the moral debt by voluntary release. Forgiveness can also release restitution that remains open. Forgiveness is valid only when the real victim gives it freely, without coercion or pressure. Forgiveness is a gift, not an obligation. No person can demand it, enforce it, or give it for the victim.
@@ -630,7 +631,7 @@ Thought
 A thought is a mental act that attends to, compares, or reasons about something. Thoughts are internal. A thought can be true or false: that depends on its match with reality and logic.
 
 Threat
-A threat is a promise of harm that its maker uses to force a person to obey. A threat is already a type of violence.
+A threat is a promise of harm that its maker uses to force a person to obey. A threat is already a type of violence. A credible threat crosses the boundary of the kind that it names, and it forfeits in that kind alone.
 
 Time
 Time is the sequence of change that agents perceive. Time is not a container in which change occurs. Only the present flux is real. The past and the future are models that agents make, to predict and to remember.

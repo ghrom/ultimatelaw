@@ -109,6 +109,7 @@ RELATIONS = [
     "{A:agent} intended {E:act}",
     "{D:agent} threatens {V:agent} about {E:act}",
     "{D:agent} threatens {K:kind} boundary of {V:agent} at {E:act}",
+    "{C:act} is a command by {D:agent} to {A:agent} to do {E:act}",
     "{D:agent} forces {V:agent} in {E:act}",
     "the crime of {A:agent} in {E:act} stands outside the act",
     "{E:act} is commanded by a vote on {V:agent}",

@@ -67,6 +67,7 @@
 #       {A} intended {E}
 #       {D} threatens {V} about {E}
 #       {D} threatens {K} boundary of {V} at {E}
+#       {C} is a command by {D} to {A} to do {E}
 #       {D} forces {V} in {E}
 #       the crime of {A} in {E} stands outside the act
 #       {E} is commanded by a vote on {V}
@@ -217,6 +218,14 @@ If an act is an act of an agent crossing a kind of boundary of a second agent, t
 
 # From: Violation, Boundary.
 If an act is an act of an agent crossing a kind of boundary of a second agent, and it is not true that the second agent consented to the act, then the act is a hostile crossing of the second agent by the first agent in the kind.
+
+# From: Forfeiture, Responsibility ("a command that procures a crime is the
+# commander's own act, and it crosses the victim's boundary in the kind
+# commanded" -- two crimes, two debts, one harm; a command excuses no one,
+# and a victim's lawful command to a proxy derives no crime because the
+# command, like the collection it orders, stands in the victim's own
+# forfeiture).
+If an act is a command by an agent to a second agent to do a second act, and the second act is a hostile crossing of a third agent by the second agent in a kind, then the first act is an act of the first agent crossing the kind boundary of the third agent.
 
 Stratum 6. When an act stands in a Forfeiture.
 

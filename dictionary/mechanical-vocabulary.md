@@ -651,11 +651,11 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 
 Measured on the finished rendering (all 195 entries, Law excluded as verbatim anchor, quoted citations excluded per Rule 8.6):
 
-- STE prose tokens: **13896**
-- from the base vocabulary: **7903** tokens = **56.9%**
-- the 7 overridden words: **477** tokens = **3.4%**
-- the 195 terms and their word family: **3487** tokens = **25.1%**
-- declared extension vocabulary: **2029** tokens = **14.6%**
+- STE prose tokens: **14002**
+- from the base vocabulary: **7961** tokens = **56.9%**
+- the 7 overridden words: **480** tokens = **3.4%**
+- the 195 terms and their word family: **3517** tokens = **25.1%**
+- declared extension vocabulary: **2044** tokens = **14.6%**
 - distinct base words used: **290**
 - added words: **538** base words (**707** surface forms) + the **195** terms
 - overridden words: **7**
