@@ -76,20 +76,18 @@ No one stays the strongest, and no one can know that he will. The rule you break
 
 ## The law
 
-1. Do not do to others what they would not want done to them. Break it and you owe. The purpose of what follows is to erase that debt, not to rule.
-2. No victim, no crime. If you cannot name the person harmed against their will, there is no case. Discomfort is not harm. Offence is not harm. A crossing of body, property, or agreement is.
-3. No agent stands above the law. Not a minister. Not a policeman. Not a crowd. Not you.
-4. A vote is not consent. A statute that creates a victim is already a crime with a flag on it.
-5. A crowd is not an owner. Title moves by first use or honest transfer.
-6. Name the man, not the type.
-7. Self-defence stops the crossing that is happening, aims at the one doing it, and ends when it ends.
-8. The port stays open. Trade is how a town lives. If a man traps a traveller who has not crossed him, name the man and the traveller. A headline is not that naming.
-9. Law is public. War hides the actor behind a "we."
-10. Error is not evil. Refusing to correct it is. If a line here fails the dictionary, strike the line.
+1. **Do not do to others what they would not want done to them.** Break it and you owe.
+2. **No victim, no crime.** No named victim, no case.
+3. **No agent stands above the law.**
+4. **A vote is not consent.**
+5. **Title moves by first use or honest transfer.** A crowd is not an owner.
+6. **Name the man who caused it.** Not the type.
+7. **Self-defence stops a crossing in progress.** Then it ends.
+8. **Trade is free or it is not trade.** Taking without consent is theft — including taking by office.
+9. **Force answers harm already done, or a crossing happening now.** The purpose is to erase guilt, not to rule.
+10. **Error is not evil. Refusing to correct it is.**
 
-Nomocracy is rule by law from logic and reciprocity, not from the will of rulers or groups. Only rules that prevent or repair real harm are legitimate.
-
-This is not installed by seizing Whitehall. It is adopted. Refusal is not a crime. Force against a man who has not crossed you is.
+Nomocracy is rule by law from logic and reciprocity, not from the will of rulers or groups. Only rules that prevent or repair real harm are legitimate. Adopted, not installed.
 
 ---
 
@@ -101,7 +99,7 @@ Revolution here is a change in who you treat as law. The monopoly is not moral. 
 
 When harm is real, start from the victim. Gather what a stranger can check. Map the act to a published definition. Propose a sanction in proportion. Write the line that overturns the case if the definition was misapplied. Same dictionary for a smuggler, an official who took without consent, a man who trespassed a home. No pets.
 
-Work. Keep the port working. That is velocity. Velocity is life.
+Work. Trade. That is velocity. Velocity is life.
 
 A forced benefit is not a benefit. You cannot save a man by ruling him.
 
