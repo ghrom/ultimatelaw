@@ -1,0 +1,4 @@
+{
+  "name": "Ultimate Law",
+  "install": "python3 --version && python3 -m compileall -q simulation tools training"
+}
