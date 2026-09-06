@@ -4,9 +4,9 @@ A pamphlet for Dover, and for every town used as a corridor.
 
 ## What this is
 
-Not a party. Not a union. Not a street army. A text a man can read, keep, correct, and live by.
+Not a party. Not a union. Not a street army. A text to read, keep, correct, and live by.
 
-It starts from [Good News](https://ultimatelaw.org/dictionary/good-news): civilization, under voluntary cooperation, can push death back. That promise is closed to anyone who destroys the systems that make it possible. The rest of the pamphlet is what that sentence means on the A20.
+It starts from [Good News](https://ultimatelaw.org/dictionary/good-news): civilization under voluntary cooperation can push death back. That promise is closed to whoever destroys the systems that make it possible.
 
 ## Files
 
