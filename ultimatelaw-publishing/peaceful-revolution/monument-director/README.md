@@ -1,10 +1,17 @@
-# monument-director job
+# Peaceful Revolution — director package
 
-Intended renderer: `C:\data\devops.propercode.co.uk\monument-director`
+A **separate short**, not a scene inside *The Record*. Do not merge these ids into the 52-scene feature screenplay. Copy this folder into a clean monument-director working tree, or import as its own film.
 
-This workspace could not open that tree (Windows path is local to you; `devops.propercode.co.uk` returned SSL proxy 500 from here). The job is a scene list: VO, duration, visual, super. If the director wants different field names, map these 1:1.
+Renderer: `C:\data\devops.propercode.co.uk\monument-director`  
+Stills/takes: H3, 1344×768, 5–8 s, native lip-sync. Two-up cull. Lock before lineage.
 
-- [`job.json`](job.json) — render payload
-- [`vo.txt`](vo.txt) — voiceover only, one line per shot
+| File | Role |
+|------|------|
+| [`lexicon.json`](lexicon.json) | Proper nouns. `{{TOKEN}}` only. |
+| [`assets.json`](assets.json) | One speaker, five locations, UL emblem. |
+| [`screenplay.json`](screenplay.json) | 8 scenes, 16 shots. Asset ids, not prose copies of faces/places. |
+| [`negative.txt`](negative.txt) | Shared negative tail (rule 9). |
 
-Source text: [`../pocket.md`](../pocket.md) and [`../manifesto.md`](../manifesto.md). Do not invent a blockade conviction. Do not add a blood-flag. Do not add a lecture.
+After rename: `check_grammar.py`.
+
+Source: [`../pocket.md`](../pocket.md). No blockade conviction. No blood-flag. No lecture.

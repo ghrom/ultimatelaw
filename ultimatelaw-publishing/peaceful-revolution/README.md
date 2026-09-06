@@ -15,6 +15,7 @@ It starts from [Good News](https://ultimatelaw.org/dictionary/good-news): civili
 | [`manifesto.md`](manifesto.md) | The full text. Read this. Adopt this. |
 | [`pocket.md`](pocket.md) | One page. Print it. Fold it. Hand it over. |
 | [`coherence.md`](coherence.md) | Claim-to-definition map against `core.json`. If a line fails, strike the line. |
+| [`monument-director/`](monument-director/) | Separate H3 short for The Record's director: lexicon, assets, screenplay. Not a merge into the 52-scene feature. |
 
 ## How to add this to the private publishing README
 

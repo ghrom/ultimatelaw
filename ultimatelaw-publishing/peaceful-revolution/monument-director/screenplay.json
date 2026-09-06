@@ -1,0 +1,213 @@
+{
+  "title": "Peaceful Revolution",
+  "logline": "A {{DOVER}} man states {{GOOD_NEWS}} and the law: nobody asked; even the king is under it; a headline is not a judgment.",
+  "format": "short",
+  "resolution": "1344x768",
+  "negative": "negative.txt",
+  "lexicon": "lexicon.json",
+  "assets": "assets.json",
+  "notes": "Native H3 audio. Lip-sync is the take. No disembodied VO. Do not show a carriageway occupation as fact. {{KENT_POLICE}} nicked nobody.",
+  "acts": [
+    { "id": 1, "name": "Prize" },
+    { "id": 2, "name": "Pride" },
+    { "id": 3, "name": "Law" }
+  ],
+  "scenes": [
+    {
+      "id": "PR01",
+      "act": 1,
+      "slug": "EXT. {{PORT}} — DAWN",
+      "location": "loc_port",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} stands on wet tarmac at the {{PORT}}. A white ferry at the berth. He does not shout. He does not point at a crowd.",
+      "shots": [
+        {
+          "id": "PR01a",
+          "size": "wide",
+          "movement": "slow push",
+          "duration": 5,
+          "cast": ["chr_ned"],
+          "line": "People you love die."
+        },
+        {
+          "id": "PR01b",
+          "size": "medium",
+          "movement": "locked",
+          "duration": 6,
+          "cast": ["chr_ned"],
+          "line": "That promise is {{GOOD_NEWS}}. It is closed to wreckers."
+        }
+      ]
+    },
+    {
+      "id": "PR02",
+      "act": 1,
+      "slug": "INT. WORKSHOP — DAY",
+      "location": "loc_workshop",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} at a bench. Tools. The {{ULTIMATE_LAW}} mark on a small card on the wall.",
+      "shots": [
+        {
+          "id": "PR02a",
+          "size": "medium",
+          "movement": "locked",
+          "duration": 6,
+          "cast": ["chr_ned"],
+          "line": "Repair needs a civilization that still trades."
+        },
+        {
+          "id": "PR02b",
+          "size": "close",
+          "movement": "slow push",
+          "duration": 8,
+          "cast": ["chr_ned"],
+          "line": "{{NEWTON}} mapped reality. {{LOCKE}} is an ancestor, not scripture."
+        }
+      ]
+    },
+    {
+      "id": "PR03",
+      "act": 1,
+      "slug": "EXT. TERRACE — DAY",
+      "location": "loc_terrace",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} on a {{DOVER}} terrace. An envelope on a doormat. No crowd.",
+      "shots": [
+        {
+          "id": "PR03a",
+          "size": "wide",
+          "movement": "locked",
+          "duration": 5,
+          "cast": ["chr_ned"],
+          "line": "Nobody asked."
+        },
+        {
+          "id": "PR03b",
+          "size": "close",
+          "movement": "locked",
+          "duration": 7,
+          "cast": ["chr_ned"],
+          "line": "A vote is not consent. A crowd is not an owner."
+        },
+        {
+          "id": "PR03c",
+          "size": "close",
+          "movement": "locked",
+          "duration": 5,
+          "cast": ["chr_ned"],
+          "line": "A category is not a man."
+        }
+      ]
+    },
+    {
+      "id": "PR04",
+      "act": 2,
+      "slug": "EXT. FRONT DOOR — DAY",
+      "location": "loc_door",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} at his own latch. {{COKE}}'s castle is a door, not a street.",
+      "shots": [
+        {
+          "id": "PR04a",
+          "size": "insert",
+          "movement": "locked",
+          "duration": 5,
+          "cast": [],
+          "line": ""
+        },
+        {
+          "id": "PR04b",
+          "size": "medium",
+          "movement": "locked",
+          "duration": 6,
+          "cast": ["chr_ned"],
+          "line": "{{LILBURNE}}: even the king is under the law."
+        },
+        {
+          "id": "PR04c",
+          "size": "close",
+          "movement": "slow push",
+          "duration": 6,
+          "cast": ["chr_ned"],
+          "line": "That is the pride. Not a blood-licence to take."
+        }
+      ]
+    },
+    {
+      "id": "PR05",
+      "act": 2,
+      "slug": "INT. TABLE — DAY",
+      "location": "loc_table",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} sits. Newspaper panic out of focus. Phone face-up. He does not read a riot into existence.",
+      "shots": [
+        {
+          "id": "PR05a",
+          "size": "medium",
+          "movement": "locked",
+          "duration": 7,
+          "cast": ["chr_ned"],
+          "line": "The cabinet takes without asking. Theft with a letterhead."
+        },
+        {
+          "id": "PR05b",
+          "size": "close",
+          "movement": "locked",
+          "duration": 8,
+          "cast": ["chr_ned"],
+          "line": "Saturday the papers cried blockade. {{KENT_POLICE}} nicked nobody."
+        },
+        {
+          "id": "PR05c",
+          "size": "close",
+          "movement": "slow push",
+          "duration": 5,
+          "cast": ["chr_ned"],
+          "line": "A headline is not a judgment."
+        }
+      ]
+    },
+    {
+      "id": "PR06",
+      "act": 3,
+      "slug": "EXT. {{PORT}} — DAY",
+      "location": "loc_port",
+      "cast": ["chr_ned"],
+      "action": "{{NED}} back on the berth. Ferry still there. Face visible. Hat on if the locked portrait has one; no mask.",
+      "shots": [
+        {
+          "id": "PR06a",
+          "size": "medium",
+          "movement": "locked",
+          "duration": 7,
+          "cast": ["chr_ned"],
+          "line": "Do not do to others what they would not want done to them."
+        },
+        {
+          "id": "PR06b",
+          "size": "close",
+          "movement": "locked",
+          "duration": 7,
+          "cast": ["chr_ned"],
+          "line": "No victim, no crime. No agent stands above the law."
+        },
+        {
+          "id": "PR06c",
+          "size": "medium",
+          "movement": "slow pull",
+          "duration": 5,
+          "cast": ["chr_ned"],
+          "line": "Trade is free or it is not trade."
+        },
+        {
+          "id": "PR06d",
+          "size": "close",
+          "movement": "locked",
+          "duration": 6,
+          "cast": ["chr_ned"],
+          "line": "Error is not evil. Refusing to correct it is."
+        }
+      ]
+    }
+  ]
+}
