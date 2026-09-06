@@ -1,12 +1,12 @@
 {
   "title": "Peaceful Revolution",
-  "logline": "A {{PR_DOVER}} man states {{PR_GOOD_NEWS}} and the law: nobody asked; even the king is under it; a headline is not a judgment.",
+  "logline": "A {{DOVER}} man states {{GOOD_NEWS}} and the law: nobody asked; even the king is under it; a headline is not a judgment.",
   "format": "short",
   "resolution": "1344x768",
   "negative": "negative.txt",
-  "lexicon": "pr.lexicon.json",
-  "assets": "pr.assets.json",
-  "notes": "Native H3 audio. Lip-sync is the take. No disembodied VO. Do not show a carriageway occupation as fact. {{PR_KENT_POLICE}} nicked nobody.",
+  "lexicon": "lexicon.json",
+  "assets": "assets.json",
+  "notes": "Native H3 audio. Lip-sync is the take.",
   "acts": [
     {
       "id": 1,
@@ -25,12 +25,12 @@
     {
       "id": "PR01",
       "act": 1,
-      "slug": "EXT. {{PR_PORT}} — DAWN",
-      "location": "pr_loc_port",
+      "slug": "EXT. {{PORT}} — DAWN",
+      "location": "loc_port",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} stands on wet tarmac at the {{PR_PORT}}. A white ferry at the berth. He does not shout. He does not point at a crowd.",
+      "action": "{{NED}} stands on wet tarmac at the {{PORT}}. A white ferry at the berth. He does not shout. He does not point at a crowd.",
       "shots": [
         {
           "id": "PR01a",
@@ -38,7 +38,7 @@
           "movement": "slow push",
           "duration": 5,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "People you love die."
         },
@@ -48,9 +48,9 @@
           "movement": "locked",
           "duration": 6,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
-          "line": "That promise is {{PR_GOOD_NEWS}}. It is closed to wreckers."
+          "line": "That promise is {{GOOD_NEWS}}. It is closed to wreckers."
         }
       ]
     },
@@ -58,11 +58,11 @@
       "id": "PR02",
       "act": 1,
       "slug": "INT. WORKSHOP — DAY",
-      "location": "pr_loc_workshop",
+      "location": "loc_workshop",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} at a bench. Tools. The {{PR_ULTIMATE_LAW}} mark on a small card on the wall.",
+      "action": "{{NED}} at a bench. Tools. The {{ULTIMATE_LAW}} mark on a small card on the wall.",
       "shots": [
         {
           "id": "PR02a",
@@ -70,7 +70,7 @@
           "movement": "locked",
           "duration": 6,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "Repair needs a civilization that still trades."
         },
@@ -80,9 +80,9 @@
           "movement": "slow push",
           "duration": 8,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
-          "line": "{{PR_NEWTON}} mapped reality. {{PR_LOCKE}} is an ancestor, not scripture."
+          "line": "{{NEWTON}} mapped reality. {{LOCKE}} is an ancestor, not scripture."
         }
       ]
     },
@@ -90,11 +90,11 @@
       "id": "PR03",
       "act": 1,
       "slug": "EXT. TERRACE — DAY",
-      "location": "pr_loc_terrace",
+      "location": "loc_terrace",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} on a {{PR_DOVER}} terrace. An envelope on a doormat. No crowd.",
+      "action": "{{NED}} on a {{DOVER}} terrace. An envelope on a doormat. No crowd.",
       "shots": [
         {
           "id": "PR03a",
@@ -102,7 +102,7 @@
           "movement": "locked",
           "duration": 5,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "Nobody asked."
         },
@@ -112,7 +112,7 @@
           "movement": "locked",
           "duration": 7,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "A vote is not consent. A crowd is not an owner."
         },
@@ -122,7 +122,7 @@
           "movement": "locked",
           "duration": 5,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "A category is not a man."
         }
@@ -132,11 +132,11 @@
       "id": "PR04",
       "act": 2,
       "slug": "EXT. FRONT DOOR — DAY",
-      "location": "pr_loc_door",
+      "location": "loc_door",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} at his own latch. {{PR_COKE}}'s castle is a door, not a street.",
+      "action": "{{NED}} at his own latch. {{COKE}}'s castle is a door, not a street.",
       "shots": [
         {
           "id": "PR04a",
@@ -154,9 +154,9 @@
           "movement": "locked",
           "duration": 6,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
-          "line": "{{PR_LILBURNE}}: even the king is under the law."
+          "line": "{{LILBURNE}}: even the king is under the law."
         },
         {
           "id": "PR04c",
@@ -164,7 +164,7 @@
           "movement": "slow push",
           "duration": 6,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "That is the pride. Not a blood-licence to take."
         }
@@ -174,11 +174,11 @@
       "id": "PR05",
       "act": 2,
       "slug": "INT. TABLE — DAY",
-      "location": "pr_loc_table",
+      "location": "loc_table",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} sits. Newspaper panic out of focus. Phone face-up. He does not read a riot into existence.",
+      "action": "{{NED}} sits. Newspaper panic out of focus. Phone face-up. He does not read a riot into existence.",
       "shots": [
         {
           "id": "PR05a",
@@ -186,7 +186,7 @@
           "movement": "locked",
           "duration": 7,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "The cabinet takes without asking. Theft with a letterhead."
         },
@@ -196,9 +196,9 @@
           "movement": "locked",
           "duration": 8,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
-          "line": "Saturday the papers cried blockade. {{PR_KENT_POLICE}} nicked nobody."
+          "line": "Saturday the papers cried blockade. {{KENT_POLICE}} nicked nobody."
         },
         {
           "id": "PR05c",
@@ -206,7 +206,7 @@
           "movement": "slow push",
           "duration": 5,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "A headline is not a judgment."
         }
@@ -215,12 +215,12 @@
     {
       "id": "PR06",
       "act": 3,
-      "slug": "EXT. {{PR_PORT}} — DAY",
-      "location": "pr_loc_port",
+      "slug": "EXT. {{PORT}} — DAY",
+      "location": "loc_port",
       "cast": [
-        "pr_chr_ned"
+        "chr_ned"
       ],
-      "action": "{{PR_NED}} back on the berth. Ferry still there. Face visible. Hat on if the locked portrait has one; no mask.",
+      "action": "{{NED}} back on the berth. Ferry still there. Face visible. Hat on if the locked portrait has one; no mask.",
       "shots": [
         {
           "id": "PR06a",
@@ -228,7 +228,7 @@
           "movement": "locked",
           "duration": 7,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "Do not do to others what they would not want done to them."
         },
@@ -238,7 +238,7 @@
           "movement": "locked",
           "duration": 7,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "No victim, no crime. No agent stands above the law."
         },
@@ -248,7 +248,7 @@
           "movement": "slow pull",
           "duration": 5,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "Trade is free or it is not trade."
         },
@@ -258,13 +258,11 @@
           "movement": "locked",
           "duration": 6,
           "cast": [
-            "pr_chr_ned"
+            "chr_ned"
           ],
           "line": "Error is not evil. Refusing to correct it is."
         }
       ]
     }
-  ],
-  "project": "peaceful-revolution",
-  "isolation": "sidecar — never write The Record screenplay.json / assets.json / lexicon.json / state.json"
+  ]
 }

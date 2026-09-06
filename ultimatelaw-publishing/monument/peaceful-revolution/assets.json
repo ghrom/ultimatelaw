@@ -1,0 +1,51 @@
+{
+  "characters": {
+    "chr_ned": {
+      "token": "NED",
+      "bible": "{{NED}} is an English man from {{DOVER}}. Face visible. He speaks the law. He is not a party, not a soldier, not a mask.",
+      "desc": "Photoreal English man early 40s, {{DOVER}} weather on the skin, short brown hair going grey at the temples, clean-shaven, grey-green eyes, work jacket over a plain shirt, no tie, no uniform, no balaclava, no costume, face fully visible, South East England, not a model, not a soldier, not a politician, still, Channel daylight on him",
+      "variant": "",
+      "derived_from": null
+    }
+  },
+  "locations": {
+    "loc_port": {
+      "token": "PORT",
+      "bible": "The {{PORT}} on the {{CHANNEL}}. A working lung: ferries, freight, wet tarmac. Not a battlefield.",
+      "desc": "Photoreal Eastern Docks of the {{PORT}}, dawn, cold Channel light, wet tarmac, white roll-on roll-off ferry with orange lifeboats at the berth, lorries, fenders, gulls, white cliffs distant in clear air, industrial harbour not a holiday postcard, NOT a helicopter, NOT a cruise liner, NOT Miami",
+      "emblem": null,
+      "derived_from": null
+    },
+    "loc_workshop": {
+      "bible": "A shed that still makes things. Trade is a bench and a tool, not a speech.",
+      "desc": "Photoreal small English workshop shed, brick and corrugated roof, bench, welder's mask on a hook unused, steel, grease, a kettle, {{CHANNEL}} light through a dirty window, {{ULTIMATE_LAW}} mark as a small printed card on the wall not a heraldic blob, NOT a Hollywood forge, NOT a factory CGI bay",
+      "emblem": "emb_ul_mark",
+      "derived_from": null
+    },
+    "loc_terrace": {
+      "bible": "A {{DOVER}} terrace. The cost lands on a doormat.",
+      "desc": "Photoreal {{DOVER}} brick terrace street, parked vans, net curtains, a council envelope on a worn doormat, overcast Channel light, wet pavement, no crowd, no protest, no flags",
+      "emblem": null,
+      "derived_from": null
+    },
+    "loc_door": {
+      "bible": "{{COKE}}: a man's house is his castle. A latch. Not a crowd's street.",
+      "desc": "Photoreal English front door, paint worn, brass latch and letterbox, close enough to see the metal, interior dark behind, daylight on the step, no castle, no manor, no flag",
+      "emblem": null,
+      "derived_from": null
+    },
+    "loc_table": {
+      "bible": "A table. A paper. A phone. Judgments are named, not headlined.",
+      "desc": "Photoreal cafe table in {{DOVER}}, Formica, a folded English newspaper with a panic headline out of focus, a mobile phone face-up showing a short police statement, mug of tea, window with harbour light, no TV debate, no studio",
+      "emblem": null,
+      "derived_from": null
+    }
+  },
+  "emblems": {
+    "emb_ul_mark": {
+      "bible": "The {{ULTIMATE_LAW}} mark, text stripped. Same vector as the Court wall. Rasterise with logo_prep.py.",
+      "source": "logo/ via logo_prep.py",
+      "raster_px": 1024
+    }
+  }
+}

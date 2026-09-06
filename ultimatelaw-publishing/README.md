@@ -7,7 +7,10 @@ This tree is the drop-in for the private publishing repository. The public frame
 ## Contents
 
 ### Peaceful Revolution (`peaceful-revolution/`)
-A manifesto for men in port towns who already know they were not asked. It starts from [Good News](https://ultimatelaw.org/dictionary/good-news) as survival, not a sermon: keep civilization fast enough to outrun death, and do not become the next crew that rules by force. Written to be adopted. Coherent with `core.json`. Not a party. Not a street army.
+A manifesto for men in port towns who already know they were not asked. It starts from [Good News](https://ultimatelaw.org/dictionary/good-news) as survival, not a sermon. Coherent with `core.json`. Not a party. Not a street army.
+
+### Monument (`monument/peaceful-revolution/`)
+Director package for the same text: `lexicon.json`, `assets.json`, `screenplay.json` — the documents The Record already uses. Load it as its own film.
 
 ## Relationship to Other Repos
 
