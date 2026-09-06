@@ -6,6 +6,8 @@ People you love die. Repair needs a civilization that still trades. That promise
 
 Nobody asked. A vote is not consent. A crowd is not an owner. A category is not a man.
 
+Newton mapped reality. Locke is an ancestor, not scripture. Lilburne: even the king is under the law. That is the pride. Not a blood-licence to take.
+
 The cabinet takes without asking. That is theft with a letterhead.
 
 Saturday the papers cried blockade. Kent Police nicked nobody. A headline is not a judgment.
