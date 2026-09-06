@@ -1,0 +1,122 @@
+{
+  "id": "peaceful-revolution-dover",
+  "title": "Peaceful Revolution",
+  "source": "ultimatelaw-publishing/peaceful-revolution",
+  "audience": "English men in port towns who already know they were not asked",
+  "language": "en-GB",
+  "voice": {
+    "sex": "male",
+    "age": "35-50",
+    "accent": "South East England, not BBC, not mockney",
+    "pace": "measured, not salesy, not a sermon"
+  },
+  "duration_s": 58,
+  "aspect": "9:16",
+  "aspect_alt": "16:9",
+  "fps": 24,
+  "look": {
+    "grade": "cold Channel light, wet tarmac, ferry white, brick, no teal-and-orange ad grade",
+    "forbid": [
+      "balaclava crowd as hero or villain",
+      "riot porn",
+      "Union Jack as a licence",
+      "politician talking-head",
+      "stock 'intimidating masked men'",
+      "sad piano lecture"
+    ]
+  },
+  "end_card": {
+    "super": "ultimatelaw.org",
+    "sub": "Logic is the supreme rule."
+  },
+  "shots": [
+    {
+      "id": "s01",
+      "duration_s": 4,
+      "vo": "People you love die.",
+      "super": "",
+      "visual": "Dawn over the Port of Dover. Empty car deck of a ferry. No faces yet. Wind, gulls, a chain clinks.",
+      "camera": "slow push, eye level"
+    },
+    {
+      "id": "s02",
+      "duration_s": 5,
+      "vo": "Repair needs a civilization that still trades.",
+      "super": "",
+      "visual": "Lorries rolling onto a berth. A welder in a shed. Hands, not banners.",
+      "camera": "medium, handheld-stable"
+    },
+    {
+      "id": "s03",
+      "duration_s": 5,
+      "vo": "That promise is Good News. It is closed to wreckers.",
+      "super": "GOOD NEWS",
+      "visual": "White cliffs, working harbour, one ship leaving. Not a holiday postcard — a lung.",
+      "camera": "wide, locked off"
+    },
+    {
+      "id": "s04",
+      "duration_s": 3,
+      "vo": "Nobody asked.",
+      "super": "NOBODY ASKED",
+      "visual": "A terrace street in Dover. Curtain twitch. Council letter on a doormat. Cut.",
+      "camera": "still"
+    },
+    {
+      "id": "s05",
+      "duration_s": 6,
+      "vo": "A vote is not consent. A crowd is not an owner. A category is not a man.",
+      "super": "A VOTE IS NOT CONSENT",
+      "visual": "Ballot box, then a packed high street, then a single man's face in a cafe window — three cuts, one sentence each.",
+      "camera": "hard cuts"
+    },
+    {
+      "id": "s06",
+      "duration_s": 5,
+      "vo": "Newton mapped reality. Locke is an ancestor, not scripture.",
+      "super": "NEWTON",
+      "visual": "Principia page, apple not required. Chalk, orbit, a workshop bench with tools. No costume drama.",
+      "camera": "insert, then pull wide"
+    },
+    {
+      "id": "s07",
+      "duration_s": 6,
+      "vo": "Lilburne: even the king is under the law. That is the pride. Not a blood-licence to take.",
+      "super": "EVEN THE KING IS UNDER THE LAW",
+      "visual": "A front door, a latch, a man's house. Then the port again. No crowd claiming a street.",
+      "camera": "close on latch, cut to harbour"
+    },
+    {
+      "id": "s08",
+      "duration_s": 5,
+      "vo": "The cabinet takes without asking. That is theft with a letterhead.",
+      "super": "THEFT WITH A LETTERHEAD",
+      "visual": "HMRC envelope, PAYE slip, Whitehall facade at a distance. No MP close-up.",
+      "camera": "still, slightly high"
+    },
+    {
+      "id": "s09",
+      "duration_s": 6,
+      "vo": "Saturday the papers cried blockade. Kent Police nicked nobody. A headline is not a judgment.",
+      "super": "NO ARRESTS",
+      "visual": "A newspaper spinning a panic headline, then Kent Police statement text on a phone: no arrests, traffic flowing, dispersed by midday. Port approaches moving.",
+      "camera": "insert phone, then wide of moving traffic"
+    },
+    {
+      "id": "s10",
+      "duration_s": 8,
+      "vo": "Do not do to others what they would not want done to them. No victim, no crime. No agent stands above the law.",
+      "super": "NO VICTIM, NO CRIME",
+      "visual": "The ten lines do not all fit. Three land as type over tarmac and water. No choir.",
+      "camera": "locked, type-on"
+    },
+    {
+      "id": "s11",
+      "duration_s": 5,
+      "vo": "Trade is free or it is not trade. Error is not evil. Refusing to correct it is.",
+      "super": "TRADE IS FREE OR IT IS NOT TRADE",
+      "visual": "Ferry departing. Crane. A man walking home down a side street, hat on, face visible.",
+      "camera": "tracking, then hold"
+    }
+  ]
+}

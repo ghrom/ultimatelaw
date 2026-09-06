@@ -40,7 +40,7 @@ The smartest Englishman who mapped reality was Newton. Darwin after him, if you 
 
 Locke is the name on the political shelf. He said a man has a property in his person, and that government without consent is a cheat. He also mixed labour into title — shaping what another owns leaves it theirs — and treated silence as agreement. Silence is not consent. He is an ancestor. He is not the dictionary.
 
-The man who sounds like this town is Lilburne. Hat on. Freeborn. The seals do not outrank the law. Coke: a man's house is his castle. That was never a crowd's title to a street. It was the claim that even the king is under the law. Parliament took it the same way the crown did. Herbert named the rest: voluntaryism. Consent, or it is force.
+The man who sounds like this town is Lilburne. Hat on. Freeborn. The seals do not outrank the law. Coke: a man's house is his castle. That was never a crowd's title to a street. It was the claim that even the king is under the law. Parliament took it the same way the crown did. Consent, or it is force.
 
 That pattern is worth pride. A blood-story that licenses taking is not.
 
