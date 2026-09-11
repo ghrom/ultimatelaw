@@ -1,0 +1,53 @@
+flowchart TB
+    subgraph L0["Layer 0 — Axioms"]
+        Logic["Logic"]
+        GR["Passive Golden Rule"]
+        NVC["No victim, no crime"]
+        ConsentA["Consent required"]
+    end
+    subgraph L1["Layer 1 — Ontology"]
+        Agent["Agent"]
+        Harm["Harm"]
+        Boundary["Boundary"]
+        Property["Property"]
+    end
+    subgraph L2["Layer 2 — Violation"]
+        Coercion["Coercion"]
+        Fraud["Fraud"]
+        Theft["Theft"]
+        Violation["Violation"]
+    end
+    subgraph L3["Layer 3 — Crime and debt"]
+        Victim["Victim"]
+        Crime["Crime"]
+        Guilt["Guilt"]
+    end
+    subgraph L4["Layer 4 — Response"]
+        SD["Self-Defense"]
+        Justice["Justice"]
+        Restitution["Restitution"]
+        Punishment["Punishment"]
+    end
+    subgraph L5["Layer 5 — Civilization"]
+        Trade["Free Trade"]
+        Perimeter["Perimeter"]
+        Velocity["Civilizational Velocity"]
+        GN["Good News"]
+    end
+    Logic --> Agent
+    GR --> Boundary
+    ConsentA --> Boundary
+    NVC --> Victim
+    Agent --> Harm
+    Boundary --> Violation
+    Harm --> Victim
+    Victim --> Crime
+    Crime --> Guilt
+    Guilt --> Justice
+    Justice --> Restitution
+    Justice --> Punishment
+    SD -.-> Harm
+    ConsentA --> Trade
+    Justice --> Perimeter
+    Trade --> Velocity
+    Velocity --> GN
