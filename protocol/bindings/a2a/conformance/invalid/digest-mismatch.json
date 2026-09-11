@@ -1,0 +1,39 @@
+{
+  "messageId": "msg-invalid-digest",
+  "role": "ROLE_AGENT",
+  "parts": [
+    {
+      "data": {
+        "records": [
+          {
+            "protocol": "ultimate-law/1",
+            "id": "urn:uuid:33333333-3333-4333-8333-333333333302",
+            "type": "boundary",
+            "issued_at": "2026-08-19T16:01:00Z",
+            "issuer": "urn:agent:bob",
+            "payload": {
+              "holder": "urn:agent:bob",
+              "kind": "freedom",
+              "object": "urn:agent:bob",
+              "protection": "intact"
+            }
+          }
+        ]
+      },
+      "mediaType": "application/vnd.ultimatelaw.records+json;version=1"
+    }
+  ],
+  "metadata": {
+    "https://ultimatelaw.org/protocol/extensions/ulp/v1": {
+      "profile": "ULP-A2A/1",
+      "mode": "informational",
+      "dictionary_digest": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "record_ids": [
+        "urn:uuid:33333333-3333-4333-8333-333333333302"
+      ]
+    }
+  },
+  "extensions": [
+    "https://ultimatelaw.org/protocol/extensions/ulp/v1"
+  ]
+}

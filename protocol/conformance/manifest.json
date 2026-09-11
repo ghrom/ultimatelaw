@@ -1,0 +1,47 @@
+{
+  "valid": [
+    "valid/consented-action.jsonl",
+    "valid/accepted-agreement.jsonl",
+    "valid/adjudicated-violation.jsonl",
+    "valid/self-defense.jsonl",
+    "valid/challenged-judgment.jsonl"
+  ],
+  "invalid": [
+    {
+      "path": "invalid/claim-without-evidence.jsonl",
+      "codes": ["ULP211"]
+    },
+    {
+      "path": "invalid/false-forfeiture.jsonl",
+      "codes": ["ULP228"]
+    },
+    {
+      "path": "invalid/proxy-without-mandate.jsonl",
+      "codes": ["ULP386"]
+    },
+    {
+      "path": "invalid/future-self-defense.jsonl",
+      "codes": ["ULP242"]
+    },
+    {
+      "path": "invalid/unfalsifiable-judgment.jsonl",
+      "codes": ["ULP221"]
+    },
+    {
+      "path": "invalid/exceeds-proportion.jsonl",
+      "codes": ["ULP384"]
+    },
+    {
+      "path": "invalid/revoked-consent.jsonl",
+      "codes": ["ULP341"]
+    },
+    {
+      "path": "invalid/correction-cycle.jsonl",
+      "codes": ["ULP402"]
+    },
+    {
+      "path": "invalid/correlation-is-not-causation.jsonl",
+      "codes": ["ULP226"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "messageId": "msg-invalid-extension",
+  "role": "ROLE_USER",
+  "parts": [
+    {
+      "data": {
+        "records": [
+          {
+            "protocol": "ultimate-law/1",
+            "id": "urn:uuid:33333333-3333-4333-8333-333333333301",
+            "type": "boundary",
+            "issued_at": "2026-08-19T16:00:00Z",
+            "issuer": "urn:agent:alice",
+            "payload": {
+              "holder": "urn:agent:alice",
+              "kind": "property",
+              "object": "urn:asset:alice-file",
+              "protection": "intact"
+            }
+          }
+        ]
+      },
+      "mediaType": "application/vnd.ultimatelaw.records+json;version=1"
+    }
+  ],
+  "metadata": {
+    "https://ultimatelaw.org/protocol/extensions/ulp/v1": {
+      "profile": "ULP-A2A/1",
+      "mode": "informational",
+      "dictionary_digest": "sha256:524222f5187df16880f2be58cc40e57fecb85fe781853efa190d50888d9a0abc",
+      "record_ids": [
+        "urn:uuid:33333333-3333-4333-8333-333333333301"
+      ]
+    }
+  },
+  "extensions": []
+}

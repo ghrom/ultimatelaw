@@ -38,6 +38,14 @@ A method for prosecuting fraud, spam, deception, and other harms on digital plat
 - [`prosecution-framework/cases/`](prosecution-framework/cases/) — Case archive (filed prosecutions)
 - [`prosecution-framework/bluesky-labeler-research.md`](prosecution-framework/bluesky-labeler-research.md) — Cross-platform expansion via AT Protocol
 
+### Inter-Agent Protocol
+[`protocol/`](protocol/) turns the constitutional dictionary into an experimental,
+transport-neutral coordination protocol for humans, AIs, and other agents. `ULP/1`
+defines machine-readable records for boundaries, consent, evidence, claims, falsifiable
+Judgments, Mandates, proportion-bounded responses, challenges, and corrections. Its
+reference validator and adversarial conformance vectors enforce one crucial distinction:
+a well-formed accusation is not proof, and an assertion of Forfeiture is not permission.
+
 ### Encyclopedia Galactica
 A complete curriculum for restarting civilization from first principles. 18 texts covering logic, physics, chemistry, biology, economics, history, survival, agriculture, materials, infrastructure, medicine, communication, navigation, and social organization.
 

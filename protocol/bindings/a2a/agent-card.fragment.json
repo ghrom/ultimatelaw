@@ -1,0 +1,22 @@
+{
+  "capabilities": {
+    "extensions": [
+      {
+        "uri": "https://ultimatelaw.org/protocol/extensions/ulp/v1",
+        "description": "Carries ULP/1 records for informational review or boundary-gating validation.",
+        "required": false,
+        "params": {
+          "profile": "ULP-A2A/1",
+          "ulp_protocol": "ultimate-law/1",
+          "dictionary_digest": "sha256:524222f5187df16880f2be58cc40e57fecb85fe781853efa190d50888d9a0abc",
+          "record_schema": "https://ultimatelaw.org/protocol/1/record.schema.json",
+          "record_media_type": "application/vnd.ultimatelaw.records+json;version=1",
+          "modes": [
+            "informational",
+            "boundary-gating"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "protocol": "ultimate-law/1",
+  "dictionary": {
+    "source": "dictionary/coherent-dictionary-of-simple-english.txt",
+    "digest": "sha256:524222f5187df16880f2be58cc40e57fecb85fe781853efa190d50888d9a0abc",
+    "terms": [
+      "Action",
+      "Agent",
+      "Agreement",
+      "Boundary",
+      "Causation",
+      "Correlation",
+      "Coercion",
+      "Consent",
+      "Contract",
+      "Contract Breach",
+      "Crime",
+      "Damage",
+      "Deception",
+      "Duress",
+      "Error",
+      "Evidence",
+      "Forfeiture",
+      "Force",
+      "Forgiveness",
+      "Fraud",
+      "Guilt",
+      "Harm",
+      "Judge",
+      "Judgment",
+      "Justice",
+      "Law",
+      "Mandate",
+      "Outlaw",
+      "Proportion",
+      "Property",
+      "Punishment",
+      "Responsibility",
+      "Restitution",
+      "Retribution",
+      "Revenge",
+      "Self-Defense",
+      "Victim",
+      "Violation"
+    ]
+  },
+  "boundary_kinds": [
+    "body",
+    "property",
+    "freedom",
+    "agreement"
+  ],
+  "invariants": [
+    {
+      "id": "UL-K01",
+      "statement": "A claim is an assertion, not proof."
+    },
+    {
+      "id": "UL-K02",
+      "statement": "Responsibility and guilt require causation."
+    },
+    {
+      "id": "UL-K03",
+      "statement": "Crime requires harm across an intact boundary and a victim."
+    },
+    {
+      "id": "UL-K04",
+      "statement": "Forfeiture follows a proven crossing; a record reports it and does not create it."
+    },
+    {
+      "id": "UL-K05",
+      "statement": "A justice response is bounded by proportion and by the victim's mandate when a proxy acts."
+    },
+    {
+      "id": "UL-K06",
+      "statement": "Self-defense uses only the force needed to stop an ongoing or immediately credible crossing and ends when it ends."
+    },
+    {
+      "id": "UL-K07",
+      "statement": "Judgments remain falsifiable and must change when facts or reasoning are disproven."
+    },
+    {
+      "id": "UL-K08",
+      "statement": "Uncertainty, missing references, and failed proof create no permission to cross a boundary."
+    },
+    {
+      "id": "UL-K09",
+      "statement": "Correlation can support evidence but cannot substitute for causation or assign responsibility."
+    }
+  ]
+}

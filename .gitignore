@@ -4,3 +4,4 @@ __pycache__/
 training/ul_raw_text.txt
 training/output/
 .venv/
+.claude/

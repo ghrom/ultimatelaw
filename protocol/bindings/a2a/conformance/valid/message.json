@@ -1,0 +1,74 @@
+{
+  "messageId": "msg-ulp-001",
+  "role": "ROLE_USER",
+  "parts": [
+    {
+      "data": {
+        "records": [
+          {
+            "protocol": "ultimate-law/1",
+            "id": "urn:uuid:11111111-1111-4111-8111-111111111201",
+            "type": "boundary",
+            "issued_at": "2026-08-19T10:00:00Z",
+            "issuer": "urn:agent:alice",
+            "payload": {
+              "holder": "urn:agent:alice",
+              "kind": "property",
+              "object": "urn:artifact:model-checkpoint",
+              "protection": "intact"
+            }
+          },
+          {
+            "protocol": "ultimate-law/1",
+            "id": "urn:uuid:11111111-1111-4111-8111-111111111202",
+            "type": "consent",
+            "issued_at": "2026-08-19T10:01:00Z",
+            "issuer": "urn:agent:alice",
+            "payload": {
+              "grantor": "urn:agent:alice",
+              "grantee": "urn:agent:bob",
+              "action": "read",
+              "object": "urn:artifact:model-checkpoint",
+              "scope": "One read before 2026-08-20T00:00:00Z",
+              "state": "granted",
+              "valid_until": "2026-08-20T00:00:00Z"
+            }
+          },
+          {
+            "protocol": "ultimate-law/1",
+            "id": "urn:uuid:11111111-1111-4111-8111-111111111203",
+            "type": "action",
+            "issued_at": "2026-08-19T10:02:00Z",
+            "issuer": "urn:agent:bob",
+            "payload": {
+              "actor": "urn:agent:bob",
+              "verb": "read",
+              "object": "urn:artifact:model-checkpoint",
+              "occurred_at": "2026-08-19T10:02:00Z",
+              "boundary_ref": "urn:uuid:11111111-1111-4111-8111-111111111201",
+              "consent_ref": "urn:uuid:11111111-1111-4111-8111-111111111202"
+            }
+          }
+        ]
+      },
+      "mediaType": "application/vnd.ultimatelaw.records+json;version=1"
+    }
+  ],
+  "metadata": {
+    "https://ultimatelaw.org/protocol/extensions/ulp/v1": {
+      "profile": "ULP-A2A/1",
+      "mode": "boundary-gating",
+      "dictionary_digest": "sha256:524222f5187df16880f2be58cc40e57fecb85fe781853efa190d50888d9a0abc",
+      "record_ids": [
+        "urn:uuid:11111111-1111-4111-8111-111111111201",
+        "urn:uuid:11111111-1111-4111-8111-111111111202",
+        "urn:uuid:11111111-1111-4111-8111-111111111203"
+      ]
+    }
+  },
+  "extensions": [
+    "https://ultimatelaw.org/protocol/extensions/ulp/v1"
+  ],
+  "contextId": "ctx-ulp-001",
+  "taskId": "task-ulp-001"
+}

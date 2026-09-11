@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ultimatelaw.org/protocol/extensions/ulp/v1/message.schema.json",
+  "title": "ULP-A2A/1 Message Profile",
+  "description": "A profile schema layered on an A2A v1.0 Message; unrelated A2A fields and Parts remain permitted.",
+  "type": "object",
+  "required": [
+    "messageId",
+    "role",
+    "parts",
+    "metadata",
+    "extensions"
+  ],
+  "properties": {
+    "messageId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "contextId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "taskId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "role": {
+      "enum": [
+        "ROLE_USER",
+        "ROLE_AGENT"
+      ]
+    },
+    "parts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object"
+      },
+      "contains": {
+        "$ref": "#/$defs/ulpPart"
+      },
+      "minContains": 1
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "https://ultimatelaw.org/protocol/extensions/ulp/v1"
+      ],
+      "properties": {
+        "https://ultimatelaw.org/protocol/extensions/ulp/v1": {
+          "$ref": "metadata.schema.json"
+        }
+      }
+    },
+    "extensions": {
+      "type": "array",
+      "uniqueItems": true,
+      "contains": {
+        "const": "https://ultimatelaw.org/protocol/extensions/ulp/v1"
+      },
+      "minContains": 1,
+      "maxContains": 1
+    }
+  },
+  "$defs": {
+    "ulpPart": {
+      "type": "object",
+      "required": [
+        "data",
+        "mediaType"
+      ],
+      "properties": {
+        "data": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "records"
+          ],
+          "properties": {
+            "records": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "$ref": "https://ultimatelaw.org/protocol/1/record.schema.json"
+              }
+            }
+          }
+        },
+        "mediaType": {
+          "const": "application/vnd.ultimatelaw.records+json;version=1"
+        }
+      }
+    }
+  }
+}

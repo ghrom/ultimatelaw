@@ -1,0 +1,21 @@
+{
+  "capabilities": {
+    "extensions": [
+      {
+        "uri": "https://ultimatelaw.org/protocol/extensions/ulp/v1",
+        "description": "Incorrectly advertises a different constitutional dictionary.",
+        "required": false,
+        "params": {
+          "profile": "ULP-A2A/1",
+          "ulp_protocol": "ultimate-law/1",
+          "dictionary_digest": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+          "record_schema": "https://ultimatelaw.org/protocol/1/record.schema.json",
+          "record_media_type": "application/vnd.ultimatelaw.records+json;version=1",
+          "modes": [
+            "informational"
+          ]
+        }
+      }
+    ]
+  }
+}

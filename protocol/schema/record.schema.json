@@ -1,0 +1,412 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ultimatelaw.org/protocol/1/record.schema.json",
+  "title": "Ultimate Law Protocol 1 Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "protocol",
+    "id",
+    "type",
+    "issued_at",
+    "issuer",
+    "payload"
+  ],
+  "properties": {
+    "protocol": {
+      "const": "ultimate-law/1"
+    },
+    "id": {
+      "$ref": "#/$defs/recordRef"
+    },
+    "type": {
+      "enum": [
+        "boundary",
+        "consent",
+        "agreement",
+        "action",
+        "evidence",
+        "claim",
+        "judgment",
+        "mandate",
+        "response",
+        "resolution",
+        "challenge",
+        "correction"
+      ]
+    },
+    "issued_at": {
+      "$ref": "#/$defs/timestamp"
+    },
+    "issuer": {
+      "$ref": "#/$defs/agentId"
+    },
+    "payload": {
+      "type": "object"
+    },
+    "proof": {
+      "$ref": "#/$defs/proof"
+    }
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"type": {"const": "boundary"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/boundaryPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "consent"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/consentPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "agreement"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/agreementPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "action"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/actionPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "evidence"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/evidencePayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "claim"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/claimPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "judgment"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/judgmentPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "mandate"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/mandatePayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "response"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/responsePayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "resolution"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/resolutionPayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "challenge"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/challengePayload"}}}
+    },
+    {
+      "if": {"properties": {"type": {"const": "correction"}}},
+      "then": {"properties": {"payload": {"$ref": "#/$defs/correctionPayload"}}}
+    }
+  ],
+  "$defs": {
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "agentId": {
+      "type": "string",
+      "minLength": 3,
+      "pattern": "^[a-z][a-z0-9+.-]*:.+$"
+    },
+    "recordRef": {
+      "type": "string",
+      "pattern": "^urn:uuid:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "Z$"
+    },
+    "digest": {
+      "type": "string",
+      "pattern": "^sha256:[0-9a-f]{64}$"
+    },
+    "boundaryKind": {
+      "enum": ["body", "property", "freedom", "agreement"]
+    },
+    "recordRefs": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/recordRef"}
+    },
+    "extensionMembers": {
+      "patternProperties": {
+        "^x-[a-z0-9.-]+$": true
+      }
+    },
+    "proof": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["algorithm", "key_id", "created", "signature"],
+      "properties": {
+        "algorithm": {"$ref": "#/$defs/nonEmptyString"},
+        "key_id": {"$ref": "#/$defs/agentId"},
+        "created": {"$ref": "#/$defs/timestamp"},
+        "signature": {
+          "type": "string",
+          "minLength": 16,
+          "pattern": "^[A-Za-z0-9_-]+$"
+        }
+      }
+    },
+    "boundaryPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["holder", "kind", "object", "protection"],
+      "properties": {
+        "holder": {"$ref": "#/$defs/agentId"},
+        "kind": {"$ref": "#/$defs/boundaryKind"},
+        "object": {"$ref": "#/$defs/nonEmptyString"},
+        "protection": {"const": "intact"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "consentPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["grantor", "grantee", "action", "object", "scope", "state"],
+      "properties": {
+        "grantor": {"$ref": "#/$defs/agentId"},
+        "grantee": {"$ref": "#/$defs/agentId"},
+        "action": {"$ref": "#/$defs/nonEmptyString"},
+        "object": {"$ref": "#/$defs/nonEmptyString"},
+        "scope": {"$ref": "#/$defs/nonEmptyString"},
+        "state": {"enum": ["granted", "withdrawn"]},
+        "valid_until": {"$ref": "#/$defs/timestamp"},
+        "supersedes": {"$ref": "#/$defs/recordRef"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "agreementPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["parties", "terms_digest", "state"],
+      "properties": {
+        "parties": {
+          "type": "array",
+          "minItems": 2,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/agentId"}
+        },
+        "terms_digest": {"$ref": "#/$defs/digest"},
+        "state": {"enum": ["offered", "accepted", "rejected", "terminated"]},
+        "acceptance_refs": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/recordRef"}
+        }
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "actionPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["actor", "verb", "object", "occurred_at"],
+      "properties": {
+        "actor": {"$ref": "#/$defs/agentId"},
+        "verb": {"$ref": "#/$defs/nonEmptyString"},
+        "object": {"$ref": "#/$defs/nonEmptyString"},
+        "occurred_at": {"$ref": "#/$defs/timestamp"},
+        "boundary_ref": {"$ref": "#/$defs/recordRef"},
+        "consent_ref": {"$ref": "#/$defs/recordRef"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "evidencePayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["statement", "source", "observed_at", "content_digest"],
+      "properties": {
+        "statement": {"$ref": "#/$defs/nonEmptyString"},
+        "source": {"$ref": "#/$defs/nonEmptyString"},
+        "observed_at": {"$ref": "#/$defs/timestamp"},
+        "content_digest": {"$ref": "#/$defs/digest"},
+        "about_ref": {"$ref": "#/$defs/recordRef"},
+        "locator": {"$ref": "#/$defs/nonEmptyString"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "claimPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["claimant", "respondent", "victim", "action_ref", "boundary_ref", "evidence_refs", "allegations"],
+      "properties": {
+        "claimant": {"$ref": "#/$defs/agentId"},
+        "respondent": {"$ref": "#/$defs/agentId"},
+        "victim": {"$ref": "#/$defs/agentId"},
+        "action_ref": {"$ref": "#/$defs/recordRef"},
+        "boundary_ref": {"$ref": "#/$defs/recordRef"},
+        "evidence_refs": {"$ref": "#/$defs/recordRefs"},
+        "allegations": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"enum": ["Harm", "Violation", "Crime", "Fraud", "Deception", "Coercion", "Contract Breach"]}
+        }
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "findings": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "causation",
+        "boundary_crossing",
+        "crossed_boundary_protection",
+        "victim_status",
+        "guilt",
+        "forfeiture",
+        "law_terms",
+        "permitted_response_kinds",
+        "restitution"
+      ],
+      "properties": {
+        "causation": {"enum": ["proven", "not_proven", "disputed"]},
+        "boundary_crossing": {"enum": ["proven", "not_proven", "disputed"]},
+        "crossed_boundary_protection": {"enum": ["intact", "forfeited", "unproven", "disputed"]},
+        "victim_status": {"enum": ["victim", "no_victim", "unproven", "disputed"]},
+        "guilt": {"enum": ["guilt", "no_guilt", "unproven", "disputed"]},
+        "forfeiture": {"enum": ["proven", "not_proven", "not_applicable", "disputed"]},
+        "law_terms": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/nonEmptyString"}
+        },
+        "permitted_response_kinds": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/boundaryKind"}
+        },
+        "restitution": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["required", "description"],
+          "properties": {
+            "required": {"type": "boolean"},
+            "description": {"$ref": "#/$defs/nonEmptyString"}
+          }
+        }
+      }
+    },
+    "judgmentPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["judge", "claim_ref", "evidence_refs", "dictionary_digest", "falsifiable", "findings"],
+      "properties": {
+        "judge": {"$ref": "#/$defs/agentId"},
+        "claim_ref": {"$ref": "#/$defs/recordRef"},
+        "evidence_refs": {"$ref": "#/$defs/recordRefs"},
+        "dictionary_digest": {"$ref": "#/$defs/digest"},
+        "falsifiable": {"const": true},
+        "findings": {"$ref": "#/$defs/findings"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "mandatePayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["principal", "delegate", "judgment_ref", "powers", "kinds", "state"],
+      "properties": {
+        "principal": {"$ref": "#/$defs/agentId"},
+        "delegate": {"$ref": "#/$defs/agentId"},
+        "judgment_ref": {"$ref": "#/$defs/recordRef"},
+        "powers": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/nonEmptyString"}
+        },
+        "kinds": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/boundaryKind"}
+        },
+        "state": {"enum": ["granted", "revoked"]},
+        "valid_until": {"$ref": "#/$defs/timestamp"},
+        "supersedes": {"$ref": "#/$defs/recordRef"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "responsePayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["actor", "target", "basis", "action", "kind"],
+      "properties": {
+        "actor": {"$ref": "#/$defs/agentId"},
+        "target": {"$ref": "#/$defs/agentId"},
+        "basis": {"enum": ["self-defense", "justice"]},
+        "action": {"$ref": "#/$defs/nonEmptyString"},
+        "kind": {"$ref": "#/$defs/boundaryKind"},
+        "action_ref": {"$ref": "#/$defs/recordRef"},
+        "boundary_ref": {"$ref": "#/$defs/recordRef"},
+        "threat_state": {"enum": ["ongoing", "immediately_credible"]},
+        "minimal_force": {"type": "boolean"},
+        "causally_directed": {"type": "boolean"},
+        "ends_when_crossing_ends": {"type": "boolean"},
+        "judgment_ref": {"$ref": "#/$defs/recordRef"},
+        "mandate_ref": {"$ref": "#/$defs/recordRef"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true},
+      "allOf": [
+        {
+          "if": {"properties": {"basis": {"const": "self-defense"}}},
+          "then": {
+            "required": ["action_ref", "boundary_ref", "threat_state", "minimal_force", "causally_directed", "ends_when_crossing_ends"]
+          }
+        },
+        {
+          "if": {"properties": {"basis": {"const": "justice"}}},
+          "then": {"required": ["judgment_ref"]}
+        }
+      ]
+    },
+    "resolutionPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["victim", "judgment_ref", "mode", "moral_debt"],
+      "properties": {
+        "victim": {"$ref": "#/$defs/agentId"},
+        "judgment_ref": {"$ref": "#/$defs/recordRef"},
+        "mode": {"enum": ["collection", "release"]},
+        "moral_debt": {"const": "closed"},
+        "restitution_ref": {"$ref": "#/$defs/recordRef"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "challengePayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["target_ref", "grounds", "statement"],
+      "properties": {
+        "target_ref": {"$ref": "#/$defs/recordRef"},
+        "grounds": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"enum": ["evidence", "causation", "logic", "identity", "scope", "proof"]}
+        },
+        "statement": {"$ref": "#/$defs/nonEmptyString"},
+        "evidence_refs": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/recordRef"}
+        }
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    },
+    "correctionPayload": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["target_ref", "replacement_ref", "reason"],
+      "properties": {
+        "target_ref": {"$ref": "#/$defs/recordRef"},
+        "replacement_ref": {"$ref": "#/$defs/recordRef"},
+        "reason": {"$ref": "#/$defs/nonEmptyString"}
+      },
+      "patternProperties": {"^x-[a-z0-9.-]+$": true}
+    }
+  }
+}

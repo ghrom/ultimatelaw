@@ -53,7 +53,7 @@ These 7 words carry an ordinary technical sense elsewhere, and this project uses
 
 Every term of the Coherent Dictionary is a declared technical noun. Its one meaning is its dictionary entry -- the rendering itself is the definition list, so the terms are not repeated here. Terms whose names STE uses differently (for example STE approves CHECK or GROUND for machine senses) still carry only their dictionary meaning inside this project.
 
-### 3b. Declared vocabulary (538 base words, 707 surface forms)
+### 3b. Declared vocabulary (753 base words, 960 surface forms)
 
 Each word below is declared with exactly one meaning, in STE style. Regular inflections and the listed forms belong to the base word. Some of these words STE lists as not approved for technical manuals (for example *cross*, *take*, *demand*, *kind*): they are declared here deliberately. STE rejects them because they are vague in maintenance text, and this dictionary cures that vagueness by definition instead of avoidance -- *take* has exactly one meaning here, and it is the thief's.
 
@@ -178,7 +178,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **guide** | guides | to show the direction |
 | **hope** |  | the want that a good thing will occur |
 | **humility** |  | knowledge of the limits of your own mind |
-| **identity** |  | the properties that make an agent that agent |
+| **identity** |  | the facts about an agent that make it that agent |
 | **ignorance** |  | the condition of no knowledge |
 | **improve** | improves, improved | to make better |
 | **improvement** |  | a change that makes a thing better |
@@ -238,7 +238,7 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **define** | defines, defined | to state the one meaning and the limits of a word |
 | **definitions** |  | plural of definition: statements of the one meaning of a word |
 | **deny** |  | to say that a claim is false |
-| **describe** | describes | to say the properties of a thing |
+| **describe** | describes | to say the details of a thing |
 | **explain** | explains | to show why a thing is so |
 | **express** |  | to put a thought into signals |
 | **false** |  | not in agreement with reality |
@@ -645,6 +645,226 @@ Each word below is declared with exactly one meaning, in STE style. Regular infl
 | **tradition** |  | a practice that groups repeat across generations |
 | **two** |  | the number 2 |
 
+#### Words entered for gloss closure (215)
+
+| word | also used as | one meaning |
+|---|---|---|
+| **absent** |  | not there |
+| **acceptable** |  | that an agent can accept |
+| **activity** |  | action that continues through a time |
+| **added** |  | put with other things |
+| **addition** |  | the act that puts a thing with other things |
+| **adult** |  | a person past the age of a child |
+| **advance** |  | to move to a position further on; the movement further on |
+| **along** |  | on the path of, from one end to the other |
+| **any** |  | one or more, with no limit on which |
+| **apart** |  | with a gap between one part and the other |
+| **area** |  | a part of a space, with a size that can be measured |
+| **aside** |  | to one side, out of the way |
+| **begin** | begins | to be at the first moment of a thing, or to make that moment |
+| **being** |  | existence, or a thing that exists |
+| **belong** | belongs, belonging | to be the property of an agent, or to be a part of a thing |
+| **bend** | bends | to change a direct path into a curve |
+| **blood** |  | the matter that moves through a body and keeps it alive |
+| **border** |  | the boundary that a state puts around its territory |
+| **born** |  | that came into the world as a new living thing |
+| **bottom** |  | the low side of a thing |
+| **bring** | brings, brought | to make a thing come to a location |
+| **burning** |  | that gives light as it is destroyed |
+| **calculation** |  | steps of logic that find a quantity |
+| **careful** |  | with care and attention |
+| **carry** | carries | to hold a thing and move it from one location to a different one |
+| **case** | cases | one circumstance to which a rule can apply |
+| **category** |  | a set of things that share one quality |
+| **center** | centers | the point of a thing that has an equal gap to each side |
+| **chain** |  | a sequence in which each part holds to the next |
+| **character** |  | the set of facts that make a thing what it is |
+| **compete** | competes | to try to win a thing that a different agent also tries to win |
+| **competitor** |  | an agent who tries to win the same trade |
+| **complete** | completely | with each part there, and at its end |
+| **completes** |  | finishes |
+| **connected** |  | with a connection to a different thing |
+| **connections** |  | more than one connection |
+| **consider** | considers | to think about a thing before a decision |
+| **content** |  | what a thing holds; the information in a signal |
+| **continuation** |  | the act that continues a thing |
+| **continued** |  | that continues |
+| **copies** |  | more than one copy |
+| **copyright** |  | a legal monopoly on the copy of a pattern |
+| **cover** | covers | to put a thing on the top of a different thing so that it is hidden or protected; to include |
+| **cruel** |  | that causes pain with intention and without care |
+| **customs** |  | the habits that a group repeats |
+| **cut** |  | to divide a thing at one edge with force; the result of that act |
+| **cycle** |  | a sequence of events that repeats in the same order |
+| **day** |  | the span of time of one turn of the world |
+| **definition** |  | a statement of the one meaning of a word |
+| **degree** |  | how much of a quality a thing has |
+| **differences** |  | more than one difference |
+| **difficult** |  | that requires much effort |
+| **distance** |  | the gap between two locations |
+| **doubt** |  | the condition of a mind that does not hold a thing as certain |
+| **down** |  | to a position below |
+| **draw** |  | to make a boundary or a path visible |
+| **during** |  | in the time of |
+| **earlier** |  | at a time before |
+| **early** |  | in the first part of a span of time |
+| **easy** | easier | that requires small effort |
+| **edges** |  | more than one edge |
+| **enemy** |  | an agent who acts to harm you |
+| **energy** |  | the capacity to do work or to cause movement |
+| **enough** |  | as much as is required |
+| **every** |  | each one of all |
+| **extension** |  | the act that extends a thing, or the part that extends it |
+| **eye** |  | the part of the body that senses light |
+| **fall** |  | to move to a position below without an act of its own |
+| **falls** |  | moves down |
+| **feed** |  | to give food to |
+| **feel** |  | to sense in the mind or in the body |
+| **feeling** |  | what a mind senses in itself |
+| **feels** |  | senses in itself |
+| **felt** |  | the past form of feel |
+| **finish** | finishes, finished | to make a thing come to its end |
+| **firm** |  | that does not change when pressure acts on it |
+| **fit** |  | to match a thing in size or in kind |
+| **fits** |  | is the correct size or shape for |
+| **forbid** | forbids | to say that an agent must not do a thing |
+| **formal** |  | made in set words and in a set order |
+| **forward** |  | to a position further on the path of movement |
+| **found** |  | did find |
+| **gas** |  | matter that has no shape of its own and spreads through the space it is in |
+| **generation** |  | all persons who came into the world in one span of time |
+| **great** |  | of much size, or of much weight |
+| **ground** |  | the top of the material of the world, on which things stand |
+| **half** |  | one of two equal shares of a whole |
+| **hand** |  | the part of the body with which an agent holds things |
+| **happen** | happens, happened | to become real as an event |
+| **having** |  | with; in the condition of one that has |
+| **high** | higher | at a position far above the base |
+| **highest** |  | at the top |
+| **hit** |  | to put force on a thing with a fast movement |
+| **hot** |  | with much movement in its matter |
+| **identifies** |  | makes the identity of a thing known |
+| **impose** |  | to put a thing on an agent by force |
+| **initiate** |  | to make the first action of a thing |
+| **inside** |  | at a location that the boundary of a thing includes |
+| **intended** |  | that an intention aims at |
+| **item** |  | one thing in a set |
+| **itself** |  | the thing, and no other |
+| **join** | joins | to put two things together so that they become one |
+| **land** |  | the part of the top of the world on which things can stand |
+| **larger** |  | of more size |
+| **largest** |  | of the most size |
+| **lead** | leads | to go first so that others follow; to go to a location |
+| **least** |  | less than all others |
+| **length** |  | the size of a thing from one end to the other |
+| **lesson** |  | knowledge that a person gets from experience |
+| **let** |  | to give permission; to not block |
+| **lets** |  | permits |
+| **level** | levels | one layer, or the position of a layer |
+| **line** | lines | a path that has size in one direction only |
+| **liquid** |  | matter that can flow and that takes the shape of its container |
+| **list** |  | a sequence of things in an order |
+| **little** |  | small in size or quantity |
+| **look** | looked | to direct sight to a thing |
+| **looks** |  | turns the eye to |
+| **lower** |  | at a position that is more low |
+| **mark** | marks | a visible thing put on a thing to show something |
+| **measurable** |  | that can be measured |
+| **member** |  | an agent who is part of a group |
+| **methods** |  | more than one method |
+| **missing** |  | not there when it should be |
+| **mix** |  | a set of things of different kinds put together |
+| **motion** |  | movement |
+| **mystery** |  | a thing that no one can explain |
+| **named** |  | with a name |
+| **near** |  | with a small gap between |
+| **nothing** |  | not one thing |
+| **noun** |  | a word that names a thing |
+| **number** |  | a count or a quantity |
+| **numbers** |  | signs that give quantity |
+| **obliged** |  | with an obligation |
+| **occupy** | occupies | to take the space of |
+| **opens** |  | makes a thing open |
+| **operates** |  | works as a system works |
+| **opportunity** |  | an open path to a gain |
+| **opposite** |  | the thing that is against a different thing in each way |
+| **our** |  | of the agent that makes this speech and of others with it |
+| **over** |  | at a position above; across |
+| **parts** |  | more than one part |
+| **patent** |  | a legal monopoly on the use of an idea |
+| **penalty** |  | a cost that a rule puts on an act |
+| **period** |  | a span of time |
+| **permit** | permits, permitted | to give permission for |
+| **picture** |  | a visible model of a thing |
+| **piece** | pieces | one part that came from a whole |
+| **place** | places | a location |
+| **points** |  | more than one point |
+| **politeness** |  | the voluntary respect that agents show in their manner |
+| **practice** |  | an action that an agent repeats |
+| **proof** |  | evidence that makes a claim certain |
+| **pushes** |  | puts force on a thing to move it away |
+| **quick** |  | fast; with small time |
+| **record** |  | facts kept in a form for a later time |
+| **records** |  | written facts kept for later |
+| **request** |  | words that state what an agent wants from a different agent |
+| **rescue** |  | the act that takes an agent out of danger |
+| **room** | rooms | space that a thing can take |
+| **seasons** |  | the phases of a year |
+| **sees** |  | does see |
+| **send** | sent | to make a thing go to a different location |
+| **sends** |  | makes a thing go to a different place |
+| **separate** | separates | to put a gap between things |
+| **shapes** |  | more than one shape |
+| **shut** | shuts | not open; to make a thing not open |
+| **sign** | signs | a thing that stands for a different thing |
+| **similar** |  | of the same kind in many ways |
+| **situation** |  | the conditions at one time and location |
+| **slowly** |  | with small speed |
+| **smaller** |  | of less size |
+| **smallest** |  | of less size than all others |
+| **soft** |  | that changes shape when a small force acts on it |
+| **sound** |  | what the body senses of fast movement in the matter around it |
+| **speaker** |  | a person who makes speech |
+| **special** |  | not of the normal kind |
+| **species** |  | a kind of living things that can have young together |
+| **spoken** |  | that speech names |
+| **starting** |  | at the first moment |
+| **step** |  | one action in a sequence |
+| **steps** |  | the parts of a procedure in order |
+| **subject** |  | the thing that words or thought are about |
+| **support** |  | to hold a thing so that it stays in position |
+| **sure** |  | certain |
+| **surface** | surfaces | the outside layer of a thing |
+| **task** |  | one set of work with a goal |
+| **tax** |  | money that a state takes without consent |
+| **tell** |  | to say a thing to an agent |
+| **tells** |  | gives facts to a different agent |
+| **tested** |  | put to a test |
+| **text** |  | words in a form that keeps them |
+| **touching** |  | with no gap between |
+| **turns** |  | changes direction |
+| **under** |  | at a position below |
+| **understand** |  | to hold the meaning of a thing in the mind |
+| **unit** |  | one thing that counts as a whole |
+| **unknown** |  | not known |
+| **up** |  | to a position above |
+| **upper** |  | at a position above the rest |
+| **us** |  | the agent that makes this speech, with others, as the object of an action |
+| **uses** |  | puts a thing to work |
+| **usual** |  | as it is most of the time |
+| **very** |  | much more than normal |
+| **voice** |  | the part of a body that makes speech, and what it makes |
+| **wanted** |  | that an agent wants |
+| **well** |  | correctly and fully |
+| **whose** |  | of which agent |
+| **width** |  | the size of a thing from one side to the other |
+| **wish** |  | a desire for a thing |
+| **within** |  | in the limits of |
+| **worse** |  | more bad |
+| **write** | written | to put words in a visible form |
+| **yes** |  | the word that accepts or agrees |
+| **zero** |  | the count of no thing |
+
 ---
 
 ## 4. Counts (computed, not estimated)
@@ -657,7 +877,7 @@ Measured on the finished rendering (all 195 entries, Law excluded as verbatim an
 - the 195 terms and their word family: **3517** tokens = **25.1%**
 - declared extension vocabulary: **2044** tokens = **14.6%**
 - distinct base words used: **290**
-- added words: **538** base words (**707** surface forms) + the **195** terms
+- added words: **753** base words (**960** surface forms) + the **195** terms
 - overridden words: **7**
 - quoted citations (counted as data, Rule 8.6): **20**
 

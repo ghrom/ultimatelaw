@@ -1,7 +1,7 @@
 {
  "source": "Ultimate Law glosses for the base words used in the Mechanical rendering.",
  "note": "These are ordinary English words. Every meaning here is written for the Ultimate Law project.",
- "total": 438,
+ "total": 439,
  "glosses": {
   "a": "one thing, not a specific one",
   "able": "that has the power to do a thing",
@@ -149,6 +149,7 @@
   "follow": "to come after, or to obey",
   "follows": "comes after, or obeys",
   "for": "with the purpose of",
+  "forfeits": "loses a right through an act of its own",
   "frequently": "many times",
   "from": "starting at",
   "full": "with no space left",

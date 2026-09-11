@@ -1,0 +1,42 @@
+{
+  "valid_messages": [
+    "valid/message.json"
+  ],
+  "valid_agent_cards": [
+    "../agent-card.fragment.json"
+  ],
+  "invalid_messages": [
+    {
+      "path": "invalid/missing-extension.json",
+      "codes": [
+        "A2A104"
+      ]
+    },
+    {
+      "path": "invalid/digest-mismatch.json",
+      "codes": [
+        "A2A107"
+      ]
+    },
+    {
+      "path": "invalid/record-id-mismatch.json",
+      "codes": [
+        "A2A109"
+      ]
+    },
+    {
+      "path": "invalid/nonconforming-ulp.json",
+      "codes": [
+        "ULP211"
+      ]
+    }
+  ],
+  "invalid_agent_cards": [
+    {
+      "path": "invalid/agent-card-digest-mismatch.json",
+      "codes": [
+        "A2A123"
+      ]
+    }
+  ]
+}
